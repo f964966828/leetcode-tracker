@@ -1,0 +1,19 @@
+{
+  "id": "4",
+  "title": "Median of Two Sorted Arrays",
+  "titleSlug": "median-of-two-sorted-arrays",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "66 ms",
+  "memory": "90.2 MB",
+  "runtimePercentile": "5.81%",
+  "memoryPercentile": "99.98%",
+  "submittedAt": "2023-02-15T15:57:49.000Z",
+  "submissionId": "898577068"
+}
