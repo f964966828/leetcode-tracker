@@ -1,0 +1,18 @@
+{
+  "id": "724",
+  "title": "Find Pivot Index",
+  "titleSlug": "find-pivot-index",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "24 ms",
+  "memory": "32.8 MB",
+  "runtimePercentile": "8.85%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-15T14:54:46.000Z",
+  "submissionId": "898542500"
+}
