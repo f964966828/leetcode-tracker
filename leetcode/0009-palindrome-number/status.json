@@ -1,0 +1,17 @@
+{
+  "id": "9",
+  "title": "Palindrome Number",
+  "titleSlug": "palindrome-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "19 ms",
+  "memory": "6 MB",
+  "runtimePercentile": "5.13%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-15T16:12:41.000Z",
+  "submissionId": "898585935"
+}
