@@ -1,0 +1,18 @@
+{
+  "id": "989",
+  "title": "Add to Array-Form of Integer",
+  "titleSlug": "add-to-array-form-of-integer",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "41 ms",
+  "memory": "28.7 MB",
+  "runtimePercentile": "6.45%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-15T16:21:37.000Z",
+  "submissionId": "898591298"
+}
