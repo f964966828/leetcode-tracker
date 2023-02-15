@@ -1,0 +1,19 @@
+{
+  "id": "69",
+  "title": "Sqrt(x)",
+  "titleSlug": "sqrtx",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Binary Search",
+    "Newton's Method"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "6.1 MB",
+  "runtimePercentile": "20.09%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-15T16:49:25.000Z",
+  "submissionId": "898608571"
+}
