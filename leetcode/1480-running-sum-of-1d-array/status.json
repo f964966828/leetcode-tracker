@@ -1,0 +1,18 @@
+{
+  "id": "1480",
+  "title": "Running Sum of 1d Array",
+  "titleSlug": "running-sum-of-1d-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "8 ms",
+  "memory": "8.5 MB",
+  "runtimePercentile": "0.42%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-15T14:42:11.000Z",
+  "submissionId": "898535677"
+}
