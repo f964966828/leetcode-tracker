@@ -1,0 +1,17 @@
+{
+  "id": "184",
+  "title": "Department Highest Salary",
+  "titleSlug": "department-highest-salary",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "1233 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "12.08%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-16T14:38:27.000Z",
+  "submissionId": "899176867"
+}
