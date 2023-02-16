@@ -1,0 +1,17 @@
+{
+  "id": "176",
+  "title": "Second Highest Salary",
+  "titleSlug": "second-highest-salary",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "348 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "20.46%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-16T05:26:53.000Z",
+  "submissionId": "898930025"
+}
