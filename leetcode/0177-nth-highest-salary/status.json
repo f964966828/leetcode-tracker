@@ -1,0 +1,17 @@
+{
+  "id": "177",
+  "title": "Nth Highest Salary",
+  "titleSlug": "nth-highest-salary",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "1189 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-16T14:09:30.000Z",
+  "submissionId": "899161867"
+}
