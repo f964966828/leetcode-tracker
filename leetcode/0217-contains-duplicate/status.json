@@ -1,0 +1,19 @@
+{
+  "id": "217",
+  "title": "Contains Duplicate",
+  "titleSlug": "contains-duplicate",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "184 ms",
+  "memory": "70.9 MB",
+  "runtimePercentile": "5.30%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-16T08:32:24.000Z",
+  "submissionId": "899019620"
+}
