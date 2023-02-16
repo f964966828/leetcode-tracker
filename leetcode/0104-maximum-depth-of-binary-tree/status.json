@@ -1,0 +1,20 @@
+{
+  "id": "104",
+  "title": "Maximum Depth of Binary Tree",
+  "titleSlug": "maximum-depth-of-binary-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "14 ms",
+  "memory": "18.9 MB",
+  "runtimePercentile": "1.01%",
+  "memoryPercentile": "99.94%",
+  "submittedAt": "2023-02-16T04:49:50.000Z",
+  "submissionId": "898913637"
+}
