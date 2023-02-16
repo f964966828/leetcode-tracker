@@ -1,0 +1,19 @@
+{
+  "id": "54",
+  "title": "Spiral Matrix",
+  "titleSlug": "spiral-matrix",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "7 MB",
+  "runtimePercentile": "0.12%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-16T05:47:18.000Z",
+  "submissionId": "898939853"
+}
