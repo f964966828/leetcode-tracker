@@ -1,0 +1,18 @@
+{
+  "id": "50",
+  "title": "Pow(x, n)",
+  "titleSlug": "powx-n",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Recursion"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "26 ms",
+  "memory": "13.9 MB",
+  "runtimePercentile": "0.77%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-16T06:45:30.000Z",
+  "submissionId": "898970239"
+}
