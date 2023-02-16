@@ -1,0 +1,18 @@
+{
+  "id": "152",
+  "title": "Maximum Product Subarray",
+  "titleSlug": "maximum-product-subarray",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "13.8 MB",
+  "runtimePercentile": "9.86%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-16T09:18:25.000Z",
+  "submissionId": "899039156"
+}
