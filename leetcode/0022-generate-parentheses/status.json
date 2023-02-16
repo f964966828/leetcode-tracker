@@ -1,0 +1,20 @@
+{
+  "id": "22",
+  "title": "Generate Parentheses",
+  "titleSlug": "generate-parentheses",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Backtracking",
+    "Bracket Sequences"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "14 ms",
+  "memory": "13 MB",
+  "runtimePercentile": "6.05%",
+  "memoryPercentile": "82.22%",
+  "submittedAt": "2023-02-16T06:42:11.000Z",
+  "submissionId": "898968476"
+}
