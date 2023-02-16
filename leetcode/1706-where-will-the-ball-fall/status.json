@@ -1,0 +1,19 @@
+{
+  "id": "1706",
+  "title": "Where Will the Ball Fall",
+  "titleSlug": "where-will-the-ball-fall",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "29 ms",
+  "memory": "13.3 MB",
+  "runtimePercentile": "3.20%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-16T05:57:32.000Z",
+  "submissionId": "898945264"
+}
