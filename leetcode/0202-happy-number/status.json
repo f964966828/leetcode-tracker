@@ -1,0 +1,20 @@
+{
+  "id": "202",
+  "title": "Happy Number",
+  "titleSlug": "happy-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "Two Pointers",
+    "Floyd's Cycle Finding Algorithm"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "6 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-16T05:36:38.000Z",
+  "submissionId": "898934606"
+}
