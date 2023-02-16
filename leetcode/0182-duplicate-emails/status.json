@@ -1,0 +1,17 @@
+{
+  "id": "182",
+  "title": "Duplicate Emails",
+  "titleSlug": "duplicate-emails",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "702 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.09%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-16T14:23:50.000Z",
+  "submissionId": "899169353"
+}
