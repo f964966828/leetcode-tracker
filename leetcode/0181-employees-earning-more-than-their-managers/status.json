@@ -1,0 +1,17 @@
+{
+  "id": "181",
+  "title": "Employees Earning More Than Their Managers",
+  "titleSlug": "employees-earning-more-than-their-managers",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "682 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "11.60%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-16T14:22:34.000Z",
+  "submissionId": "899168666"
+}
