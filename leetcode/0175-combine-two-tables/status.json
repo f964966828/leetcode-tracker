@@ -1,0 +1,17 @@
+{
+  "id": "175",
+  "title": "Combine Two Tables",
+  "titleSlug": "combine-two-tables",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "661 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "7.18%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-16T05:18:43.000Z",
+  "submissionId": "898926520"
+}
