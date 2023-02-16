@@ -1,0 +1,17 @@
+{
+  "id": "7",
+  "title": "Reverse Integer",
+  "titleSlug": "reverse-integer",
+  "difficulty": "Medium",
+  "topics": [
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "42 ms",
+  "memory": "13.9 MB",
+  "runtimePercentile": "79.32%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-16T06:50:55.000Z",
+  "submissionId": "898973124"
+}
