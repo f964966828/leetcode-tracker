@@ -1,0 +1,20 @@
+{
+  "id": "965",
+  "title": "Univalued Binary Tree",
+  "titleSlug": "univalued-binary-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "9.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-16T08:21:06.000Z",
+  "submissionId": "899014857"
+}
