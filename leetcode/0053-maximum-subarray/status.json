@@ -1,0 +1,19 @@
+{
+  "id": "53",
+  "title": "Maximum Subarray",
+  "titleSlug": "maximum-subarray",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Dynamic Programming"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "146 ms",
+  "memory": "73.1 MB",
+  "runtimePercentile": "4.53%",
+  "memoryPercentile": "14.90%",
+  "submittedAt": "2023-02-16T08:43:53.000Z",
+  "submissionId": "899024462"
+}
