@@ -1,0 +1,18 @@
+{
+  "id": "238",
+  "title": "Product of Array Except Self",
+  "titleSlug": "product-of-array-except-self",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "28 ms",
+  "memory": "24.9 MB",
+  "runtimePercentile": "5.17%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-16T08:38:53.000Z",
+  "submissionId": "899022355"
+}
