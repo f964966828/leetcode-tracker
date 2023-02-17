@@ -1,0 +1,18 @@
+{
+  "id": "33",
+  "title": "Search in Rotated Sorted Array",
+  "titleSlug": "search-in-rotated-sorted-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "11.1 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-17T03:57:04.000Z",
+  "submissionId": "899515531"
+}
