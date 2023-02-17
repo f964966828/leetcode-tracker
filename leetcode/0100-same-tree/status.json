@@ -1,0 +1,20 @@
+{
+  "id": "100",
+  "title": "Same Tree",
+  "titleSlug": "same-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "10 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-17T08:48:06.000Z",
+  "submissionId": "899652107"
+}
