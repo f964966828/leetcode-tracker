@@ -1,0 +1,19 @@
+{
+  "id": "2545",
+  "title": "Sort the Students by Their Kth Score",
+  "titleSlug": "sort-the-students-by-their-kth-score",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "80 ms",
+  "memory": "55.9 MB",
+  "runtimePercentile": "5.17%",
+  "memoryPercentile": "5.27%",
+  "submittedAt": "2023-02-17T09:39:54.000Z",
+  "submissionId": "899674372"
+}
