@@ -1,0 +1,18 @@
+{
+  "id": "206",
+  "title": "Reverse Linked List",
+  "titleSlug": "reverse-linked-list",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List",
+    "Recursion"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "8.3 MB",
+  "runtimePercentile": "0.70%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-17T07:36:30.000Z",
+  "submissionId": "899622498"
+}
