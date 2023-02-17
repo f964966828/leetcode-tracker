@@ -1,0 +1,20 @@
+{
+  "id": "49",
+  "title": "Group Anagrams",
+  "titleSlug": "group-anagrams",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "123 ms",
+  "memory": "19.3 MB",
+  "runtimePercentile": "5.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-17T08:44:52.000Z",
+  "submissionId": "899650701"
+}
