@@ -1,0 +1,20 @@
+{
+  "id": "883",
+  "title": "Projection Area of 3D Shapes",
+  "titleSlug": "projection-area-of-3d-shapes",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Geometry",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "10 ms",
+  "memory": "9.4 MB",
+  "runtimePercentile": "0.58%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-17T09:49:34.000Z",
+  "submissionId": "899678315"
+}
