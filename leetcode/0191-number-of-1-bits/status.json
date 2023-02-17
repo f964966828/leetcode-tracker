@@ -1,0 +1,18 @@
+{
+  "id": "191",
+  "title": "Number of 1 Bits",
+  "titleSlug": "number-of-1-bits",
+  "difficulty": "Easy",
+  "topics": [
+    "Divide and Conquer",
+    "Bit Manipulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "6.1 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-17T04:07:58.000Z",
+  "submissionId": "899520110"
+}
