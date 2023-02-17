@@ -1,0 +1,21 @@
+{
+  "id": "23",
+  "title": "Merge k Sorted Lists",
+  "titleSlug": "merge-k-sorted-lists",
+  "difficulty": "Hard",
+  "topics": [
+    "Linked List",
+    "Divide and Conquer",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Tournament Sort"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "25 ms",
+  "memory": "14 MB",
+  "runtimePercentile": "15.60%",
+  "memoryPercentile": "99.99%",
+  "submittedAt": "2023-02-17T08:11:39.000Z",
+  "submissionId": "899637268"
+}
