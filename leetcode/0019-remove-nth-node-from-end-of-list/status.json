@@ -1,0 +1,18 @@
+{
+  "id": "19",
+  "title": "Remove Nth Node From End of List",
+  "titleSlug": "remove-nth-node-from-end-of-list",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "10.9 MB",
+  "runtimePercentile": "1.53%",
+  "memoryPercentile": "99.98%",
+  "submittedAt": "2023-02-17T08:27:48.000Z",
+  "submissionId": "899643769"
+}
