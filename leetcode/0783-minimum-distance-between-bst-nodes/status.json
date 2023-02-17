@@ -1,0 +1,21 @@
+{
+  "id": "783",
+  "title": "Minimum Distance Between BST Nodes",
+  "titleSlug": "minimum-distance-between-bst-nodes",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "8 ms",
+  "memory": "9.7 MB",
+  "runtimePercentile": "0.25%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-17T03:41:26.000Z",
+  "submissionId": "899509068"
+}
