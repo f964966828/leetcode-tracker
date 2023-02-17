@@ -1,0 +1,21 @@
+{
+  "id": "322",
+  "title": "Coin Change",
+  "titleSlug": "coin-change",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Breadth-First Search",
+    "Knapsack Problem",
+    "Complete Knapsack"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "27 ms",
+  "memory": "10.1 MB",
+  "runtimePercentile": "63.28%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-17T06:14:51.000Z",
+  "submissionId": "899581518"
+}
