@@ -1,0 +1,18 @@
+{
+  "id": "52",
+  "title": "N-Queens II",
+  "titleSlug": "n-queens-ii",
+  "difficulty": "Hard",
+  "topics": [
+    "Backtracking",
+    "Algorithm X"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "6.1 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-17T09:34:39.000Z",
+  "submissionId": "899672260"
+}
