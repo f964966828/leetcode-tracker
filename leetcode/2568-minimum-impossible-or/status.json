@@ -1,0 +1,19 @@
+{
+  "id": "2568",
+  "title": "Minimum Impossible OR",
+  "titleSlug": "minimum-impossible-or",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Bit Manipulation",
+    "Brainteaser"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "105 ms",
+  "memory": "47.7 MB",
+  "runtimePercentile": "9.84%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-18T15:34:16.000Z",
+  "submissionId": "900413588"
+}
