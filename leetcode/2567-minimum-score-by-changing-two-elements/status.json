@@ -1,0 +1,19 @@
+{
+  "id": "2567",
+  "title": "Minimum Score by Changing Two Elements",
+  "titleSlug": "minimum-score-by-changing-two-elements",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "104 ms",
+  "memory": "34.2 MB",
+  "runtimePercentile": "7.44%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-18T15:46:49.000Z",
+  "submissionId": "900425060"
+}
