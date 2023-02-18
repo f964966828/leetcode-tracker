@@ -1,0 +1,18 @@
+{
+  "id": "2566",
+  "title": "Maximum Difference by Remapping a Digit",
+  "titleSlug": "maximum-difference-by-remapping-a-digit",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "6 MB",
+  "runtimePercentile": "0.37%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-18T15:18:38.000Z",
+  "submissionId": "900398029"
+}
