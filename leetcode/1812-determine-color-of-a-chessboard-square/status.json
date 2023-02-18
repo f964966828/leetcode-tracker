@@ -1,0 +1,18 @@
+{
+  "id": "1812",
+  "title": "Determine Color of a Chessboard Square",
+  "titleSlug": "determine-color-of-a-chessboard-square",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "6 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-18T14:57:53.000Z",
+  "submissionId": "900376392"
+}
