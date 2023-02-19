@@ -1,0 +1,19 @@
+{
+  "id": "103",
+  "title": "Binary Tree Zigzag Level Order Traversal",
+  "titleSlug": "binary-tree-zigzag-level-order-traversal",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "12 MB",
+  "runtimePercentile": "8.01%",
+  "memoryPercentile": "99.95%",
+  "submittedAt": "2023-02-19T05:52:16.000Z",
+  "submissionId": "900782198"
+}
