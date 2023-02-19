@@ -1,0 +1,19 @@
+{
+  "id": "14",
+  "title": "Longest Common Prefix",
+  "titleSlug": "longest-common-prefix",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "10 ms",
+  "memory": "15.4 MB",
+  "runtimePercentile": "3.73%",
+  "memoryPercentile": "5.08%",
+  "submittedAt": "2023-02-19T09:36:33.000Z",
+  "submissionId": "900879271"
+}
