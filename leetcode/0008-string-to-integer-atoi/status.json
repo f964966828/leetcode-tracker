@@ -1,0 +1,17 @@
+{
+  "id": "8",
+  "title": "String to Integer (atoi)",
+  "titleSlug": "string-to-integer-atoi",
+  "difficulty": "Medium",
+  "topics": [
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "31 ms",
+  "memory": "13.8 MB",
+  "runtimePercentile": "5.60%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-19T07:59:00.000Z",
+  "submissionId": "900840817"
+}
