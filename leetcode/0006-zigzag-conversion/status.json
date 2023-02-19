@@ -1,0 +1,17 @@
+{
+  "id": "6",
+  "title": "Zigzag Conversion",
+  "titleSlug": "zigzag-conversion",
+  "difficulty": "Medium",
+  "topics": [
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "35 ms",
+  "memory": "16.6 MB",
+  "runtimePercentile": "7.55%",
+  "memoryPercentile": "16.72%",
+  "submittedAt": "2023-02-19T07:48:02.000Z",
+  "submissionId": "900836176"
+}
