@@ -1,0 +1,19 @@
+{
+  "id": "13",
+  "title": "Roman to Integer",
+  "titleSlug": "roman-to-integer",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "52 ms",
+  "memory": "13.9 MB",
+  "runtimePercentile": "5.25%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-19T09:31:45.000Z",
+  "submissionId": "900877413"
+}
