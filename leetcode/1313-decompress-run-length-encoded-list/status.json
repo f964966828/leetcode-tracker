@@ -1,0 +1,17 @@
+{
+  "id": "1313",
+  "title": "Decompress Run-Length Encoded List",
+  "titleSlug": "decompress-run-length-encoded-list",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "10 MB",
+  "runtimePercentile": "6.11%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-19T08:40:57.000Z",
+  "submissionId": "900857382"
+}
