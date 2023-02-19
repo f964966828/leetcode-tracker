@@ -1,0 +1,19 @@
+{
+  "id": "1282",
+  "title": "Group the People Given the Group Size They Belong To",
+  "titleSlug": "group-the-people-given-the-group-size-they-belong-to",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "13.3 MB",
+  "runtimePercentile": "51.29%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-19T08:38:22.000Z",
+  "submissionId": "900856360"
+}
