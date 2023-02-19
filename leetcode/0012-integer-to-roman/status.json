@@ -1,0 +1,19 @@
+{
+  "id": "12",
+  "title": "Integer to Roman",
+  "titleSlug": "integer-to-roman",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "6 ms",
+  "memory": "6 MB",
+  "runtimePercentile": "33.57%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-19T09:28:13.000Z",
+  "submissionId": "900876046"
+}
