@@ -1,0 +1,19 @@
+{
+  "id": "1347",
+  "title": "Minimum Number of Steps to Make Two Strings Anagram",
+  "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "54 ms",
+  "memory": "16.7 MB",
+  "runtimePercentile": "6.25%",
+  "memoryPercentile": "99.93%",
+  "submittedAt": "2023-02-20T14:02:13.000Z",
+  "submissionId": "901586539"
+}
