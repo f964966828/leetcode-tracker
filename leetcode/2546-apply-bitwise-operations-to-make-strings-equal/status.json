@@ -1,0 +1,18 @@
+{
+  "id": "2546",
+  "title": "Apply Bitwise Operations to Make Strings Equal",
+  "titleSlug": "apply-bitwise-operations-to-make-strings-equal",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Bit Manipulation"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "37 ms",
+  "memory": "15 MB",
+  "runtimePercentile": "10.53%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-20T04:35:21.000Z",
+  "submissionId": "901328109"
+}
