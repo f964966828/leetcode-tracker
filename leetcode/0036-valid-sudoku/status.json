@@ -1,0 +1,19 @@
+{
+  "id": "36",
+  "title": "Valid Sudoku",
+  "titleSlug": "valid-sudoku",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "18 ms",
+  "memory": "18 MB",
+  "runtimePercentile": "5.46%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-20T14:12:57.000Z",
+  "submissionId": "901592602"
+}
