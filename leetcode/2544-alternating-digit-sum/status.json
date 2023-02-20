@@ -1,0 +1,17 @@
+{
+  "id": "2544",
+  "title": "Alternating Digit Sum",
+  "titleSlug": "alternating-digit-sum",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "5.9 MB",
+  "runtimePercentile": "0.07%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-20T04:17:17.000Z",
+  "submissionId": "901319872"
+}
