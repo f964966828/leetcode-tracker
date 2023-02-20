@@ -1,0 +1,19 @@
+{
+  "id": "2404",
+  "title": "Most Frequent Even Element",
+  "titleSlug": "most-frequent-even-element",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "61 ms",
+  "memory": "30.6 MB",
+  "runtimePercentile": "7.86%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-20T04:50:54.000Z",
+  "submissionId": "901335716"
+}
