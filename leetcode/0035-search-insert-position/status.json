@@ -1,0 +1,18 @@
+{
+  "id": "35",
+  "title": "Search Insert Position",
+  "titleSlug": "search-insert-position",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "9.8 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-20T04:06:49.000Z",
+  "submissionId": "901315472"
+}
