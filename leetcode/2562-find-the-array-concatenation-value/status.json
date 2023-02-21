@@ -1,0 +1,19 @@
+{
+  "id": "2562",
+  "title": "Find the Array Concatenation Value",
+  "titleSlug": "find-the-array-concatenation-value",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "9 ms",
+  "memory": "9.2 MB",
+  "runtimePercentile": "5.02%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-21T05:53:54.000Z",
+  "submissionId": "902048254"
+}
