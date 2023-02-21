@@ -1,0 +1,20 @@
+{
+  "id": "2563",
+  "title": "Count the Number of Fair Pairs",
+  "titleSlug": "count-the-number-of-fair-pairs",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "299 ms",
+  "memory": "56.6 MB",
+  "runtimePercentile": "5.04%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-21T06:16:16.000Z",
+  "submissionId": "902060356"
+}
