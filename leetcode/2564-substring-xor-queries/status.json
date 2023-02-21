@@ -1,0 +1,20 @@
+{
+  "id": "2564",
+  "title": "Substring XOR Queries",
+  "titleSlug": "substring-xor-queries",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Bit Manipulation"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "2986 ms",
+  "memory": "148.4 MB",
+  "runtimePercentile": "5.68%",
+  "memoryPercentile": "6.82%",
+  "submittedAt": "2023-02-21T06:52:18.000Z",
+  "submissionId": "902080030"
+}
