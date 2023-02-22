@@ -1,0 +1,19 @@
+{
+  "id": "17",
+  "title": "Letter Combinations of a Phone Number",
+  "titleSlug": "letter-combinations-of-a-phone-number",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Backtracking"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "38 ms",
+  "memory": "13.9 MB",
+  "runtimePercentile": "0.08%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-22T08:53:33.000Z",
+  "submissionId": "902801591"
+}
