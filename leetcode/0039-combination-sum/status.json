@@ -1,0 +1,18 @@
+{
+  "id": "39",
+  "title": "Combination Sum",
+  "titleSlug": "combination-sum",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Backtracking"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "37 ms",
+  "memory": "15.4 MB",
+  "runtimePercentile": "12.78%",
+  "memoryPercentile": "30.14%",
+  "submittedAt": "2023-02-22T09:20:46.000Z",
+  "submissionId": "902813087"
+}
