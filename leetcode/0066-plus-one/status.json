@@ -1,0 +1,18 @@
+{
+  "id": "66",
+  "title": "Plus One",
+  "titleSlug": "plus-one",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "8.7 MB",
+  "runtimePercentile": "5.66%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-23T19:25:41.000Z",
+  "submissionId": "903741200"
+}
