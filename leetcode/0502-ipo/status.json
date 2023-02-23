@@ -1,0 +1,20 @@
+{
+  "id": "502",
+  "title": "IPO",
+  "titleSlug": "ipo",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "232 ms",
+  "memory": "78.1 MB",
+  "runtimePercentile": "5.04%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-23T12:01:30.000Z",
+  "submissionId": "903498274"
+}
