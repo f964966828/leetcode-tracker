@@ -1,0 +1,22 @@
+{
+  "id": "239",
+  "title": "Sliding Window Maximum",
+  "titleSlug": "sliding-window-maximum",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Queue",
+    "Sliding Window",
+    "Heap (Priority Queue)",
+    "Monotonic Queue",
+    "Range Minimum/Maximum Query"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "998 ms",
+  "memory": "191.6 MB",
+  "runtimePercentile": "5.17%",
+  "memoryPercentile": "5.71%",
+  "submittedAt": "2023-02-23T12:30:59.000Z",
+  "submissionId": "903511700"
+}
