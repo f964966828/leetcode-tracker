@@ -1,0 +1,17 @@
+{
+  "id": "58",
+  "title": "Length of Last Word",
+  "titleSlug": "length-of-last-word",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "34 ms",
+  "memory": "13.8 MB",
+  "runtimePercentile": "0.22%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-23T19:10:09.000Z",
+  "submissionId": "903733011"
+}
