@@ -1,0 +1,17 @@
+{
+  "id": "1523",
+  "title": "Count Odd Numbers in an Interval Range",
+  "titleSlug": "count-odd-numbers-in-an-interval-range",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "6 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-24T03:56:57.000Z",
+  "submissionId": "903913580"
+}
