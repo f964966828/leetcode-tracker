@@ -1,0 +1,20 @@
+{
+  "id": "1675",
+  "title": "Minimize Deviation in Array",
+  "titleSlug": "minimize-deviation-in-array",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Heap (Priority Queue)",
+    "Ordered Set"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "561 ms",
+  "memory": "56.8 MB",
+  "runtimePercentile": "5.36%",
+  "memoryPercentile": "99.49%",
+  "submittedAt": "2023-02-24T03:51:39.000Z",
+  "submissionId": "903911618"
+}
