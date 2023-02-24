@@ -1,0 +1,18 @@
+{
+  "id": "1920",
+  "title": "Build Array from Permutation",
+  "titleSlug": "build-array-from-permutation",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "16.3 MB",
+  "runtimePercentile": "4.34%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-24T05:07:51.000Z",
+  "submissionId": "903942874"
+}
