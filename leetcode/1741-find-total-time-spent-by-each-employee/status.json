@@ -1,0 +1,17 @@
+{
+  "id": "1741",
+  "title": "Find Total Time Spent by Each Employee",
+  "titleSlug": "find-total-time-spent-by-each-employee",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "937 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.68%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-24T09:09:10.000Z",
+  "submissionId": "904045464"
+}
