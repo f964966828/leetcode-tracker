@@ -1,0 +1,18 @@
+{
+  "id": "2574",
+  "title": "Left and Right Sum Differences",
+  "titleSlug": "left-and-right-sum-differences",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "11.2 MB",
+  "runtimePercentile": "10.80%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-26T02:34:47.000Z",
+  "submissionId": "904999717"
+}
