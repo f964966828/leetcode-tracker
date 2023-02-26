@@ -1,0 +1,21 @@
+{
+  "id": "2576",
+  "title": "Find the Maximum Number of Marked Indices",
+  "titleSlug": "find-the-maximum-number-of-marked-indices",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "374 ms",
+  "memory": "100.2 MB",
+  "runtimePercentile": "5.81%",
+  "memoryPercentile": "5.16%",
+  "submittedAt": "2023-02-26T03:48:16.000Z",
+  "submissionId": "905071758"
+}
