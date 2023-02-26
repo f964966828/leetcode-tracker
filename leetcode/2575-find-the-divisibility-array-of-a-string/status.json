@@ -1,0 +1,19 @@
+{
+  "id": "2575",
+  "title": "Find the Divisibility Array of a String",
+  "titleSlug": "find-the-divisibility-array-of-a-string",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "59 ms",
+  "memory": "26.4 MB",
+  "runtimePercentile": "5.93%",
+  "memoryPercentile": "46.36%",
+  "submittedAt": "2023-02-26T02:41:28.000Z",
+  "submissionId": "905008550"
+}
