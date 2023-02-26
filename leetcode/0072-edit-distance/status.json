@@ -1,0 +1,18 @@
+{
+  "id": "72",
+  "title": "Edit Distance",
+  "titleSlug": "edit-distance",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "25 ms",
+  "memory": "9.1 MB",
+  "runtimePercentile": "14.40%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-26T04:17:15.000Z",
+  "submissionId": "905092332"
+}
