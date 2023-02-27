@@ -1,0 +1,19 @@
+{
+  "id": "848",
+  "title": "Shifting Letters",
+  "titleSlug": "shifting-letters",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "148 ms",
+  "memory": "67.8 MB",
+  "runtimePercentile": "5.24%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-27T08:13:19.000Z",
+  "submissionId": "905773764"
+}
