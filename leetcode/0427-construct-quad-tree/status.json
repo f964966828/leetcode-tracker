@@ -1,0 +1,20 @@
+{
+  "id": "427",
+  "title": "Construct Quad Tree",
+  "titleSlug": "construct-quad-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Tree",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "31 ms",
+  "memory": "23.5 MB",
+  "runtimePercentile": "5.31%",
+  "memoryPercentile": "15.71%",
+  "submittedAt": "2023-02-27T07:59:51.000Z",
+  "submissionId": "905768942"
+}
