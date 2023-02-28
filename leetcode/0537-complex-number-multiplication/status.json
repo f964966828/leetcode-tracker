@@ -1,0 +1,19 @@
+{
+  "id": "537",
+  "title": "Complex Number Multiplication",
+  "titleSlug": "complex-number-multiplication",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "String",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "32 ms",
+  "memory": "13.9 MB",
+  "runtimePercentile": "0.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-02-28T10:03:43.000Z",
+  "submissionId": "906420501"
+}
