@@ -1,0 +1,20 @@
+{
+  "id": "652",
+  "title": "Find Duplicate Subtrees",
+  "titleSlug": "find-duplicate-subtrees",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "40 ms",
+  "memory": "56 MB",
+  "runtimePercentile": "5.04%",
+  "memoryPercentile": "22.85%",
+  "submittedAt": "2023-02-28T09:34:27.000Z",
+  "submissionId": "906408824"
+}
