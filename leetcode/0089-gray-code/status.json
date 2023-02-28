@@ -1,0 +1,19 @@
+{
+  "id": "89",
+  "title": "Gray Code",
+  "titleSlug": "gray-code",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "15 ms",
+  "memory": "13.6 MB",
+  "runtimePercentile": "5.23%",
+  "memoryPercentile": "99.98%",
+  "submittedAt": "2023-02-28T09:50:28.000Z",
+  "submissionId": "906415342"
+}
