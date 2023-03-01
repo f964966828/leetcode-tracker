@@ -16,11 +16,11 @@ public:
         
         ListNode* node;
         if(!list1)
-            node = new ListNode(list2->val, mergeTwoLists(list1, list2 -> next));
+            node = new ListNode(list2->val, mergeTwoLists(list1, list2->next));
         else if(!list2)
             node = new ListNode(list1->val, mergeTwoLists(list1->next, list2));
         else if(list1->val > list2->val)
-            node = new ListNode(list2->val, mergeTwoLists(list1, list2 -> next));
+            node = new ListNode(list2->val, mergeTwoLists(list1, list2->next));
         else
             node = new ListNode(list1->val, mergeTwoLists(list1->next, list2));
 
