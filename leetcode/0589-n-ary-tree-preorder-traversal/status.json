@@ -1,0 +1,19 @@
+{
+  "id": "589",
+  "title": "N-ary Tree Preorder Traversal",
+  "titleSlug": "n-ary-tree-preorder-traversal",
+  "difficulty": "Easy",
+  "topics": [
+    "Stack",
+    "Tree",
+    "Depth-First Search"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "34 ms",
+  "memory": "16.2 MB",
+  "runtimePercentile": "5.08%",
+  "memoryPercentile": "12.12%",
+  "submittedAt": "2023-03-01T08:50:37.000Z",
+  "submissionId": "907012217"
+}
