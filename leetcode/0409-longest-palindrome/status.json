@@ -1,0 +1,19 @@
+{
+  "id": "409",
+  "title": "Longest Palindrome",
+  "titleSlug": "longest-palindrome",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "8 ms",
+  "memory": "6.7 MB",
+  "runtimePercentile": "2.03%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-01T08:47:12.000Z",
+  "submissionId": "907010769"
+}
