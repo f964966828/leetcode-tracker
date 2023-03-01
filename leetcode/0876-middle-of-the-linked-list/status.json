@@ -1,0 +1,18 @@
+{
+  "id": "876",
+  "title": "Middle of the Linked List",
+  "titleSlug": "middle-of-the-linked-list",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "7.1 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-01T08:36:56.000Z",
+  "submissionId": "907006525"
+}
