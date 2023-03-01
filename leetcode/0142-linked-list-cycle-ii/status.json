@@ -1,0 +1,20 @@
+{
+  "id": "142",
+  "title": "Linked List Cycle II",
+  "titleSlug": "linked-list-cycle-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers",
+    "Floyd's Cycle Finding Algorithm"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "7.7 MB",
+  "runtimePercentile": "65.67%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-01T08:41:07.000Z",
+  "submissionId": "907008179"
+}
