@@ -1,0 +1,18 @@
+{
+  "id": "443",
+  "title": "String Compression",
+  "titleSlug": "string-compression",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "6 ms",
+  "memory": "9.2 MB",
+  "runtimePercentile": "2.07%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-02T02:41:05.000Z",
+  "submissionId": "907466995"
+}
