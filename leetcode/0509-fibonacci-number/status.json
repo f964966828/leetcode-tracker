@@ -1,0 +1,20 @@
+{
+  "id": "509",
+  "title": "Fibonacci Number",
+  "titleSlug": "fibonacci-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Memoization"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "6.2 MB",
+  "runtimePercentile": "64.18%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-02T07:26:56.000Z",
+  "submissionId": "907590398"
+}
