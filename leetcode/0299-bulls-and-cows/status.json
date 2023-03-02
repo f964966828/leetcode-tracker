@@ -1,0 +1,19 @@
+{
+  "id": "299",
+  "title": "Bulls and Cows",
+  "titleSlug": "bulls-and-cows",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "6.6 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-02T07:41:52.000Z",
+  "submissionId": "907596642"
+}
