@@ -1,0 +1,19 @@
+{
+  "id": "1314",
+  "title": "Matrix Block Sum",
+  "titleSlug": "matrix-block-sum",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "15 ms",
+  "memory": "9.6 MB",
+  "runtimePercentile": "21.90%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-03T06:42:25.000Z",
+  "submissionId": "908172911"
+}
