@@ -1,0 +1,19 @@
+{
+  "id": "2089",
+  "title": "Find Target Indices After Sorting Array",
+  "titleSlug": "find-target-indices-after-sorting-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "11.5 MB",
+  "runtimePercentile": "9.91%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-03T06:22:38.000Z",
+  "submissionId": "908162675"
+}
