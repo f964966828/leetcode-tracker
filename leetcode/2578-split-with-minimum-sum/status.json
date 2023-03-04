@@ -1,0 +1,19 @@
+{
+  "id": "2578",
+  "title": "Split With Minimum Sum",
+  "titleSlug": "split-with-minimum-sum",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Greedy",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "5.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-04T14:38:58.000Z",
+  "submissionId": "908902561"
+}
