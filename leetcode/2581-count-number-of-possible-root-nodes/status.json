@@ -1,0 +1,21 @@
+{
+  "id": "2581",
+  "title": "Count Number of Possible Root Nodes",
+  "titleSlug": "count-number-of-possible-root-nodes",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Dynamic Programming",
+    "Tree",
+    "Depth-First Search"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "701 ms",
+  "memory": "247.9 MB",
+  "runtimePercentile": "18.68%",
+  "memoryPercentile": "22.18%",
+  "submittedAt": "2023-03-04T15:46:11.000Z",
+  "submissionId": "908974767"
+}
