@@ -1,0 +1,18 @@
+{
+  "id": "2580",
+  "title": "Count Ways to Group Overlapping Ranges",
+  "titleSlug": "count-ways-to-group-overlapping-ranges",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "339 ms",
+  "memory": "72.7 MB",
+  "runtimePercentile": "5.32%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-04T14:48:34.000Z",
+  "submissionId": "908915292"
+}
