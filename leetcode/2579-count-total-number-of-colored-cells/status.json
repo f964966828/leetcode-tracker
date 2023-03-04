@@ -1,0 +1,17 @@
+{
+  "id": "2579",
+  "title": "Count Total Number of Colored Cells",
+  "titleSlug": "count-total-number-of-colored-cells",
+  "difficulty": "Medium",
+  "topics": [
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "6 MB",
+  "runtimePercentile": "3.04%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-04T14:35:59.000Z",
+  "submissionId": "908898990"
+}
