@@ -1,0 +1,20 @@
+{
+  "id": "2444",
+  "title": "Count Subarrays With Fixed Bounds",
+  "titleSlug": "count-subarrays-with-fixed-bounds",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Queue",
+    "Sliding Window",
+    "Monotonic Queue"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "112 ms",
+  "memory": "70.4 MB",
+  "runtimePercentile": "5.31%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-04T04:48:15.000Z",
+  "submissionId": "908680436"
+}
