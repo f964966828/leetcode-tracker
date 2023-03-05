@@ -1,0 +1,17 @@
+{
+  "id": "595",
+  "title": "Big Countries",
+  "titleSlug": "big-countries",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "557 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.02%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-05T18:01:34.000Z",
+  "submissionId": "909693916"
+}
