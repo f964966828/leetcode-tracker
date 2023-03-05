@@ -1,0 +1,20 @@
+{
+  "id": "2583",
+  "title": "Kth Largest Sum in a Binary Tree",
+  "titleSlug": "kth-largest-sum-in-a-binary-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Breadth-First Search",
+    "Sorting",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "226 ms",
+  "memory": "107.7 MB",
+  "runtimePercentile": "5.10%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-05T03:23:24.000Z",
+  "submissionId": "909277618"
+}
