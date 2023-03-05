@@ -1,0 +1,20 @@
+{
+  "id": "2585",
+  "title": "Number of Ways to Earn Points",
+  "titleSlug": "number-of-ways-to-earn-points",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Knapsack Problem",
+    "Multiple Knapsack"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "280 ms",
+  "memory": "17 MB",
+  "runtimePercentile": "5.27%",
+  "memoryPercentile": "63.85%",
+  "submittedAt": "2023-03-05T03:59:23.000Z",
+  "submissionId": "909308836"
+}
