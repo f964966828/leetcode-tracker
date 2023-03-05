@@ -1,0 +1,19 @@
+{
+  "id": "1345",
+  "title": "Jump Game IV",
+  "titleSlug": "jump-game-iv",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Breadth-First Search"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "467 ms",
+  "memory": "137.8 MB",
+  "runtimePercentile": "5.02%",
+  "memoryPercentile": "19.25%",
+  "submittedAt": "2023-03-05T04:34:26.000Z",
+  "submissionId": "909326772"
+}
