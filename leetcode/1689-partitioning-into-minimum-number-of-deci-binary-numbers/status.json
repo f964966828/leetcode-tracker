@@ -1,0 +1,18 @@
+{
+  "id": "1689",
+  "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+  "titleSlug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "29 ms",
+  "memory": "13.6 MB",
+  "runtimePercentile": "7.02%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-06T12:31:28.000Z",
+  "submissionId": "910144163"
+}
