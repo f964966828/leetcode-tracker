@@ -1,0 +1,18 @@
+{
+  "id": "29",
+  "title": "Divide Two Integers",
+  "titleSlug": "divide-two-integers",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "211 ms",
+  "memory": "31.8 MB",
+  "runtimePercentile": "2.00%",
+  "memoryPercentile": "6.12%",
+  "submittedAt": "2023-03-06T12:52:40.000Z",
+  "submissionId": "910154095"
+}
