@@ -1,0 +1,18 @@
+{
+  "id": "1539",
+  "title": "Kth Missing Positive Number",
+  "titleSlug": "kth-missing-positive-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "5 ms",
+  "memory": "9.5 MB",
+  "runtimePercentile": "4.63%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-06T09:10:06.000Z",
+  "submissionId": "910056700"
+}
