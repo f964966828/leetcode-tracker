@@ -1,0 +1,17 @@
+{
+  "id": "1484",
+  "title": "Group Sold Products By The Date",
+  "titleSlug": "group-sold-products-by-the-date",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "801 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.42%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-08T19:20:43.000Z",
+  "submissionId": "911653978"
+}
