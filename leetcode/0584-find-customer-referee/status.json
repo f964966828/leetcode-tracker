@@ -1,0 +1,17 @@
+{
+  "id": "584",
+  "title": "Find Customer Referee",
+  "titleSlug": "find-customer-referee",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "926 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-08T19:05:51.000Z",
+  "submissionId": "911646833"
+}
