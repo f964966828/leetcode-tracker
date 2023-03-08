@@ -1,0 +1,18 @@
+{
+  "id": "2429",
+  "title": "Minimize XOR",
+  "titleSlug": "minimize-xor",
+  "difficulty": "Medium",
+  "topics": [
+    "Greedy",
+    "Bit Manipulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "6.3 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-08T13:50:41.000Z",
+  "submissionId": "911480152"
+}
