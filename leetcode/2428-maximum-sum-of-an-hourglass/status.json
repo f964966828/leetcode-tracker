@@ -1,0 +1,19 @@
+{
+  "id": "2428",
+  "title": "Maximum Sum of an Hourglass",
+  "titleSlug": "maximum-sum-of-an-hourglass",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "42 ms",
+  "memory": "13.2 MB",
+  "runtimePercentile": "5.12%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-08T13:22:42.000Z",
+  "submissionId": "911467143"
+}
