@@ -1,0 +1,17 @@
+{
+  "id": "627",
+  "title": "Swap Sex of Employees",
+  "titleSlug": "swap-sex-of-employees",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "418 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "7.48%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-08T19:12:10.000Z",
+  "submissionId": "911649903"
+}
