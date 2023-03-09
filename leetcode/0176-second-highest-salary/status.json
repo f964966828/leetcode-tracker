@@ -8,10 +8,10 @@
   ],
   "status": "Accepted",
   "lang": "mysql",
-  "runtime": "348 ms",
+  "runtime": "448 ms",
   "memory": "0.0B",
-  "runtimePercentile": "20.46%",
+  "runtimePercentile": "8.16%",
   "memoryPercentile": "100.00%",
-  "submittedAt": "2023-02-16T05:26:53.000Z",
-  "submissionId": "898930025"
+  "submittedAt": "2023-03-09T07:19:25.000Z",
+  "submissionId": "911931367"
 }
