@@ -1,0 +1,17 @@
+{
+  "id": "1795",
+  "title": "Rearrange Products Table",
+  "titleSlug": "rearrange-products-table",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "1320 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.02%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T07:09:59.000Z",
+  "submissionId": "911924978"
+}
