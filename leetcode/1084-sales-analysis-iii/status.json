@@ -1,0 +1,17 @@
+{
+  "id": "1084",
+  "title": "Sales Analysis III",
+  "titleSlug": "sales-analysis-iii",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "2837 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.01%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T08:32:49.000Z",
+  "submissionId": "911965889"
+}
