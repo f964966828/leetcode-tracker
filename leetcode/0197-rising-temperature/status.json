@@ -1,0 +1,17 @@
+{
+  "id": "197",
+  "title": "Rising Temperature",
+  "titleSlug": "rising-temperature",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "685 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "11.20%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T07:31:14.000Z",
+  "submissionId": "911937582"
+}
