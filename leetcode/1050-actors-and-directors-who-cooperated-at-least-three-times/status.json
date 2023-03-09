@@ -1,0 +1,17 @@
+{
+  "id": "1050",
+  "title": "Actors and Directors Who Cooperated At Least Three Times",
+  "titleSlug": "actors-and-directors-who-cooperated-at-least-three-times",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "673 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.01%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T08:47:33.000Z",
+  "submissionId": "911972436"
+}
