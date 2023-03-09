@@ -1,0 +1,17 @@
+{
+  "id": "1407",
+  "title": "Top Travellers",
+  "titleSlug": "top-travellers",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "1771 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.02%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T08:59:38.000Z",
+  "submissionId": "911978000"
+}
