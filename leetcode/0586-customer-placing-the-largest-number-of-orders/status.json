@@ -1,0 +1,17 @@
+{
+  "id": "586",
+  "title": "Customer Placing the Largest Number of Orders",
+  "titleSlug": "customer-placing-the-largest-number-of-orders",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "875 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.01%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T08:46:37.000Z",
+  "submissionId": "911971988"
+}
