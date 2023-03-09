@@ -1,0 +1,17 @@
+{
+  "id": "608",
+  "title": "Tree Node",
+  "titleSlug": "tree-node",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "983 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.01%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T07:19:08.000Z",
+  "submissionId": "911931188"
+}
