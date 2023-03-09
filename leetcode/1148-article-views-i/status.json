@@ -1,0 +1,17 @@
+{
+  "id": "1148",
+  "title": "Article Views I",
+  "titleSlug": "article-views-i",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "947 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.02%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T07:25:38.000Z",
+  "submissionId": "911934764"
+}
