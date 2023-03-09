@@ -1,0 +1,17 @@
+{
+  "id": "1729",
+  "title": "Find Followers Count",
+  "titleSlug": "find-followers-count",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "1076 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.01%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T08:40:57.000Z",
+  "submissionId": "911969420"
+}
