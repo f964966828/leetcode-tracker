@@ -1,0 +1,22 @@
+{
+  "id": "976",
+  "title": "Largest Perimeter Triangle",
+  "titleSlug": "largest-perimeter-triangle",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Greedy",
+    "Sorting",
+    "Quicksort",
+    "Polygons"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "58 ms",
+  "memory": "21.9 MB",
+  "runtimePercentile": "5.86%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T17:32:22.000Z",
+  "submissionId": "912217937"
+}
