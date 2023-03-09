@@ -1,0 +1,17 @@
+{
+  "id": "1158",
+  "title": "Market Analysis I",
+  "titleSlug": "market-analysis-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "2378 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.01%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T08:54:09.000Z",
+  "submissionId": "911975559"
+}
