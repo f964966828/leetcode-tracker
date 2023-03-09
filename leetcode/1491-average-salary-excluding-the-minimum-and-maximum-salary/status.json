@@ -1,0 +1,18 @@
+{
+  "id": "1491",
+  "title": "Average Salary Excluding the Minimum and Maximum Salary",
+  "titleSlug": "average-salary-excluding-the-minimum-and-maximum-salary",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "7.1 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T17:27:23.000Z",
+  "submissionId": "912214989"
+}
