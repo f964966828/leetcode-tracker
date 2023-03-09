@@ -1,0 +1,17 @@
+{
+  "id": "1587",
+  "title": "Bank Account Summary II",
+  "titleSlug": "bank-account-summary-ii",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "2064 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.01%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T08:37:22.000Z",
+  "submissionId": "911967881"
+}
