@@ -1,0 +1,17 @@
+{
+  "id": "1281",
+  "title": "Subtract the Product and Sum of Digits of an Integer",
+  "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "5.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T17:28:52.000Z",
+  "submissionId": "912215891"
+}
