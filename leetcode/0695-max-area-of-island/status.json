@@ -1,0 +1,21 @@
+{
+  "id": "695",
+  "title": "Max Area of Island",
+  "titleSlug": "max-area-of-island",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "25 ms",
+  "memory": "24.1 MB",
+  "runtimePercentile": "5.15%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T17:45:09.000Z",
+  "submissionId": "912225705"
+}
