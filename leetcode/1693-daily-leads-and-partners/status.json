@@ -1,0 +1,17 @@
+{
+  "id": "1693",
+  "title": "Daily Leads and Partners",
+  "titleSlug": "daily-leads-and-partners",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "1347 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T08:25:34.000Z",
+  "submissionId": "911962636"
+}
