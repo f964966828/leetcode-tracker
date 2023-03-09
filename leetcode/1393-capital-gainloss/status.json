@@ -1,0 +1,17 @@
+{
+  "id": "1393",
+  "title": "Capital Gain/Loss",
+  "titleSlug": "capital-gainloss",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "mysql",
+  "runtime": "1187 ms",
+  "memory": "0.0B",
+  "runtimePercentile": "5.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-09T09:03:16.000Z",
+  "submissionId": "911979634"
+}
