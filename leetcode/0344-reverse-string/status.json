@@ -1,0 +1,18 @@
+{
+  "id": "344",
+  "title": "Reverse String",
+  "titleSlug": "reverse-string",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "22 ms",
+  "memory": "23.1 MB",
+  "runtimePercentile": "2.07%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-10T18:33:49.000Z",
+  "submissionId": "912840588"
+}
