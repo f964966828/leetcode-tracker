@@ -1,0 +1,18 @@
+{
+  "id": "374",
+  "title": "Guess Number Higher or Lower",
+  "titleSlug": "guess-number-higher-or-lower",
+  "difficulty": "Easy",
+  "topics": [
+    "Binary Search",
+    "Interactive"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "6 MB",
+  "runtimePercentile": "16.85%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-10T15:17:23.000Z",
+  "submissionId": "912737141"
+}
