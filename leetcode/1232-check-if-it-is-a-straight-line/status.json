@@ -1,0 +1,19 @@
+{
+  "id": "1232",
+  "title": "Check If It Is a Straight Line",
+  "titleSlug": "check-if-it-is-a-straight-line",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Geometry"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "17 ms",
+  "memory": "11.2 MB",
+  "runtimePercentile": "1.31%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-10T07:21:58.000Z",
+  "submissionId": "912544180"
+}
