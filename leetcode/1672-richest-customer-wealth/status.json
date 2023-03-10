@@ -1,0 +1,18 @@
+{
+  "id": "1672",
+  "title": "Richest Customer Wealth",
+  "titleSlug": "richest-customer-wealth",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "12 ms",
+  "memory": "8.1 MB",
+  "runtimePercentile": "0.07%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-10T07:47:29.000Z",
+  "submissionId": "912556155"
+}
