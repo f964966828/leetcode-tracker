@@ -1,0 +1,19 @@
+{
+  "id": "953",
+  "title": "Verifying an Alien Dictionary",
+  "titleSlug": "verifying-an-alien-dictionary",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "5 ms",
+  "memory": "9.6 MB",
+  "runtimePercentile": "3.61%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-10T14:27:30.000Z",
+  "submissionId": "912713950"
+}
