@@ -1,0 +1,20 @@
+{
+  "id": "389",
+  "title": "Find the Difference",
+  "titleSlug": "find-the-difference",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "6.7 MB",
+  "runtimePercentile": "3.98%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-10T08:24:12.000Z",
+  "submissionId": "912572598"
+}
