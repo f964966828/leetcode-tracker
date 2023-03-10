@@ -1,0 +1,18 @@
+{
+  "id": "1822",
+  "title": "Sign of the Product of an Array",
+  "titleSlug": "sign-of-the-product-of-an-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "10.2 MB",
+  "runtimePercentile": "0.08%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-10T06:56:17.000Z",
+  "submissionId": "912530769"
+}
