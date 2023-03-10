@@ -1,0 +1,17 @@
+{
+  "id": "1678",
+  "title": "Goal Parser Interpretation",
+  "titleSlug": "goal-parser-interpretation",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "30 ms",
+  "memory": "13.9 MB",
+  "runtimePercentile": "99.06%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-10T08:25:38.000Z",
+  "submissionId": "912573226"
+}
