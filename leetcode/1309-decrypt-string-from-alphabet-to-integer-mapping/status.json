@@ -1,0 +1,17 @@
+{
+  "id": "1309",
+  "title": "Decrypt String from Alphabet to Integer Mapping",
+  "titleSlug": "decrypt-string-from-alphabet-to-integer-mapping",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "27 ms",
+  "memory": "13.7 MB",
+  "runtimePercentile": "0.47%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-10T11:01:05.000Z",
+  "submissionId": "912633684"
+}
