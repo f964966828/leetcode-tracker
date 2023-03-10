@@ -1,0 +1,18 @@
+{
+  "id": "1572",
+  "title": "Matrix Diagonal Sum",
+  "titleSlug": "matrix-diagonal-sum",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "26 ms",
+  "memory": "11.4 MB",
+  "runtimePercentile": "0.43%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-10T07:50:13.000Z",
+  "submissionId": "912557350"
+}
