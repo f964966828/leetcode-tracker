@@ -1,0 +1,18 @@
+{
+  "id": "1502",
+  "title": "Can Make Arithmetic Progression From Sequence",
+  "titleSlug": "can-make-arithmetic-progression-from-sequence",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "6 ms",
+  "memory": "9.1 MB",
+  "runtimePercentile": "1.83%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-10T06:57:39.000Z",
+  "submissionId": "912531454"
+}
