@@ -1,0 +1,17 @@
+{
+  "id": "709",
+  "title": "To Lower Case",
+  "titleSlug": "to-lower-case",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "38 ms",
+  "memory": "13.9 MB",
+  "runtimePercentile": "0.05%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-10T08:26:19.000Z",
+  "submissionId": "912573497"
+}
