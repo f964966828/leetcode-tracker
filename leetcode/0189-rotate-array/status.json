@@ -1,0 +1,19 @@
+{
+  "id": "189",
+  "title": "Rotate Array",
+  "titleSlug": "rotate-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Two Pointers"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "28 ms",
+  "memory": "25 MB",
+  "runtimePercentile": "5.20%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-10T18:31:17.000Z",
+  "submissionId": "912839366"
+}
