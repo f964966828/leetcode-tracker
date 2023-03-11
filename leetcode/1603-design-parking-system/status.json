@@ -1,0 +1,19 @@
+{
+  "id": "1603",
+  "title": "Design Parking System",
+  "titleSlug": "design-parking-system",
+  "difficulty": "Easy",
+  "topics": [
+    "Design",
+    "Simulation",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "61 ms",
+  "memory": "33.2 MB",
+  "runtimePercentile": "5.59%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-11T04:13:58.000Z",
+  "submissionId": "913011040"
+}
