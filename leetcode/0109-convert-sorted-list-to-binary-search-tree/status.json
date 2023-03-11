@@ -1,0 +1,21 @@
+{
+  "id": "109",
+  "title": "Convert Sorted List to Binary Search Tree",
+  "titleSlug": "convert-sorted-list-to-binary-search-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Divide and Conquer",
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "435 ms",
+  "memory": "345.2 MB",
+  "runtimePercentile": "5.92%",
+  "memoryPercentile": "5.43%",
+  "submittedAt": "2023-03-11T04:31:56.000Z",
+  "submissionId": "913017541"
+}
