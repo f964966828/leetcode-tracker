@@ -1,0 +1,19 @@
+{
+  "id": "303",
+  "title": "Range Sum Query - Immutable",
+  "titleSlug": "range-sum-query-immutable",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Design",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "29 ms",
+  "memory": "17.1 MB",
+  "runtimePercentile": "14.62%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-11T04:14:05.000Z",
+  "submissionId": "913011088"
+}
