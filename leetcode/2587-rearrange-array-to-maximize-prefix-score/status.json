@@ -1,0 +1,20 @@
+{
+  "id": "2587",
+  "title": "Rearrange Array to Maximize Prefix Score",
+  "titleSlug": "rearrange-array-to-maximize-prefix-score",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "158 ms",
+  "memory": "90.1 MB",
+  "runtimePercentile": "5.18%",
+  "memoryPercentile": "47.79%",
+  "submittedAt": "2023-03-12T02:42:08.000Z",
+  "submissionId": "913519996"
+}
