@@ -1,0 +1,19 @@
+{
+  "id": "2586",
+  "title": "Count the Number of Vowel Strings in Range",
+  "titleSlug": "count-the-number-of-vowel-strings-in-range",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "18 ms",
+  "memory": "31.6 MB",
+  "runtimePercentile": "4.36%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-12T02:33:47.000Z",
+  "submissionId": "913505773"
+}
