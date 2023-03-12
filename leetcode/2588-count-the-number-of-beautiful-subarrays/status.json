@@ -1,0 +1,20 @@
+{
+  "id": "2588",
+  "title": "Count the Number of Beautiful Subarrays",
+  "titleSlug": "count-the-number-of-beautiful-subarrays",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "509 ms",
+  "memory": "132.3 MB",
+  "runtimePercentile": "5.14%",
+  "memoryPercentile": "9.00%",
+  "submittedAt": "2023-03-12T03:34:36.000Z",
+  "submissionId": "913568551"
+}
