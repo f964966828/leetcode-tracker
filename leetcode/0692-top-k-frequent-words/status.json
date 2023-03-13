@@ -1,0 +1,24 @@
+{
+  "id": "692",
+  "title": "Top K Frequent Words",
+  "titleSlug": "top-k-frequent-words",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Trie",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "10 ms",
+  "memory": "12.8 MB",
+  "runtimePercentile": "5.43%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-13T18:13:10.000Z",
+  "submissionId": "914552915"
+}
