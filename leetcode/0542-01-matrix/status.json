@@ -1,0 +1,20 @@
+{
+  "id": "542",
+  "title": "01 Matrix",
+  "titleSlug": "01-matrix",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "69 ms",
+  "memory": "31.2 MB",
+  "runtimePercentile": "7.79%",
+  "memoryPercentile": "99.98%",
+  "submittedAt": "2023-03-13T13:26:13.000Z",
+  "submissionId": "914378562"
+}
