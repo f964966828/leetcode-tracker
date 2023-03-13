@@ -1,0 +1,19 @@
+{
+  "id": "994",
+  "title": "Rotting Oranges",
+  "titleSlug": "rotting-oranges",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "8 ms",
+  "memory": "13.4 MB",
+  "runtimePercentile": "5.91%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-13T13:18:48.000Z",
+  "submissionId": "914375027"
+}
