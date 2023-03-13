@@ -1,0 +1,18 @@
+{
+  "id": "136",
+  "title": "Single Number",
+  "titleSlug": "single-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "19 ms",
+  "memory": "17 MB",
+  "runtimePercentile": "6.94%",
+  "memoryPercentile": "99.95%",
+  "submittedAt": "2023-03-13T12:23:11.000Z",
+  "submissionId": "914351040"
+}
