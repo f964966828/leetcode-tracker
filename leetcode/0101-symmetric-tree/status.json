@@ -1,0 +1,20 @@
+{
+  "id": "101",
+  "title": "Symmetric Tree",
+  "titleSlug": "symmetric-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "10 ms",
+  "memory": "19.1 MB",
+  "runtimePercentile": "0.52%",
+  "memoryPercentile": "6.22%",
+  "submittedAt": "2023-03-13T10:00:22.000Z",
+  "submissionId": "914296674"
+}
