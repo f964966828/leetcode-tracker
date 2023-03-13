@@ -1,0 +1,17 @@
+{
+  "id": "896",
+  "title": "Monotonic Array",
+  "titleSlug": "monotonic-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "179 ms",
+  "memory": "96.5 MB",
+  "runtimePercentile": "6.45%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-13T17:39:19.000Z",
+  "submissionId": "914529832"
+}
