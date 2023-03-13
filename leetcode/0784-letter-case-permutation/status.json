@@ -1,0 +1,19 @@
+{
+  "id": "784",
+  "title": "Letter Case Permutation",
+  "titleSlug": "letter-case-permutation",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "9 ms",
+  "memory": "10.5 MB",
+  "runtimePercentile": "5.58%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-13T12:59:30.000Z",
+  "submissionId": "914366466"
+}
