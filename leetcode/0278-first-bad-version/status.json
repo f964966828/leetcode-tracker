@@ -9,10 +9,10 @@
   ],
   "status": "Accepted",
   "lang": "cpp",
-  "runtime": "3 ms",
-  "memory": "5.8 MB",
-  "runtimePercentile": "16.92%",
+  "runtime": "0 ms",
+  "memory": "6 MB",
+  "runtimePercentile": "100.00%",
   "memoryPercentile": "100.00%",
-  "submittedAt": "2023-03-01T08:55:50.000Z",
-  "submissionId": "907014439"
+  "submittedAt": "2023-03-13T17:42:26.000Z",
+  "submissionId": "914532058"
 }
