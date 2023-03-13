@@ -1,0 +1,20 @@
+{
+  "id": "567",
+  "title": "Permutation in String",
+  "titleSlug": "permutation-in-string",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Sliding Window"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "42 ms",
+  "memory": "30 MB",
+  "runtimePercentile": "25.26%",
+  "memoryPercentile": "10.40%",
+  "submittedAt": "2023-03-13T13:03:22.000Z",
+  "submissionId": "914368165"
+}
