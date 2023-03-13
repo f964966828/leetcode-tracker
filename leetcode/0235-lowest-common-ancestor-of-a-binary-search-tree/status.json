@@ -1,0 +1,22 @@
+{
+  "id": "235",
+  "title": "Lowest Common Ancestor of a Binary Search Tree",
+  "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree",
+    "Binary Lifting",
+    "Lowest Common Ancestor"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "34 ms",
+  "memory": "23.3 MB",
+  "runtimePercentile": "7.26%",
+  "memoryPercentile": "91.31%",
+  "submittedAt": "2023-03-13T18:00:56.000Z",
+  "submissionId": "914545481"
+}
