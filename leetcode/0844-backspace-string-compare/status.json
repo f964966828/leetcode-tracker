@@ -1,0 +1,20 @@
+{
+  "id": "844",
+  "title": "Backspace String Compare",
+  "titleSlug": "backspace-string-compare",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Stack",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "6.4 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-13T18:19:03.000Z",
+  "submissionId": "914556481"
+}
