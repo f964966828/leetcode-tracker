@@ -1,0 +1,19 @@
+{
+  "id": "62",
+  "title": "Unique Paths",
+  "titleSlug": "unique-paths",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Combinatorics"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "6.3 MB",
+  "runtimePercentile": "0.69%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-13T17:54:15.000Z",
+  "submissionId": "914540988"
+}
