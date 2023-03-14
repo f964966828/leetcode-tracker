@@ -1,0 +1,18 @@
+{
+  "id": "1046",
+  "title": "Last Stone Weight",
+  "titleSlug": "last-stone-weight",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Heap (Priority Queue)"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "7.7 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-14T16:51:39.000Z",
+  "submissionId": "915135401"
+}
