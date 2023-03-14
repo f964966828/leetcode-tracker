@@ -1,0 +1,19 @@
+{
+  "id": "129",
+  "title": "Sum Root to Leaf Numbers",
+  "titleSlug": "sum-root-to-leaf-numbers",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "9.1 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-14T04:47:39.000Z",
+  "submissionId": "914792313"
+}
