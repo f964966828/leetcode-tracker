@@ -1,0 +1,19 @@
+{
+  "id": "150",
+  "title": "Evaluate Reverse Polish Notation",
+  "titleSlug": "evaluate-reverse-polish-notation",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Stack"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "21 ms",
+  "memory": "12.9 MB",
+  "runtimePercentile": "6.33%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-15T02:44:15.000Z",
+  "submissionId": "915375152"
+}
