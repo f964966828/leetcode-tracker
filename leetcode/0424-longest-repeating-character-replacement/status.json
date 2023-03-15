@@ -1,0 +1,19 @@
+{
+  "id": "424",
+  "title": "Longest Repeating Character Replacement",
+  "titleSlug": "longest-repeating-character-replacement",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "13 ms",
+  "memory": "7.1 MB",
+  "runtimePercentile": "20.45%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-15T16:03:30.000Z",
+  "submissionId": "915741252"
+}
