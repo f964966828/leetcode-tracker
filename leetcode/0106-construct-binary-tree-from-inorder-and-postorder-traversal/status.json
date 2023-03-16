@@ -1,0 +1,21 @@
+{
+  "id": "106",
+  "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+  "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Tree",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "38 ms",
+  "memory": "26 MB",
+  "runtimePercentile": "5.14%",
+  "memoryPercentile": "99.95%",
+  "submittedAt": "2023-03-16T09:36:43.000Z",
+  "submissionId": "916173550"
+}
