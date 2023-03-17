@@ -1,0 +1,19 @@
+{
+  "id": "43",
+  "title": "Multiply Strings",
+  "titleSlug": "multiply-strings",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "String",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "36 ms",
+  "memory": "13.8 MB",
+  "runtimePercentile": "64.41%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-17T14:18:59.000Z",
+  "submissionId": "916899631"
+}
