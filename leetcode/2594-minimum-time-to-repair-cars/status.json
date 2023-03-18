@@ -1,0 +1,18 @@
+{
+  "id": "2594",
+  "title": "Minimum Time to Repair Cars",
+  "titleSlug": "minimum-time-to-repair-cars",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "121 ms",
+  "memory": "53.9 MB",
+  "runtimePercentile": "7.04%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-18T15:03:21.000Z",
+  "submissionId": "917491218"
+}
