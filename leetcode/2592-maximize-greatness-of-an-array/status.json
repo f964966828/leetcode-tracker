@@ -1,0 +1,20 @@
+{
+  "id": "2592",
+  "title": "Maximize Greatness of an Array",
+  "titleSlug": "maximize-greatness-of-an-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "244 ms",
+  "memory": "96.7 MB",
+  "runtimePercentile": "5.29%",
+  "memoryPercentile": "16.04%",
+  "submittedAt": "2023-03-18T14:47:54.000Z",
+  "submissionId": "917466483"
+}
