@@ -1,0 +1,21 @@
+{
+  "id": "2593",
+  "title": "Find Score of an Array After Marking All Elements",
+  "titleSlug": "find-score-of-an-array-after-marking-all-elements",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "379 ms",
+  "memory": "102.9 MB",
+  "runtimePercentile": "7.82%",
+  "memoryPercentile": "87.24%",
+  "submittedAt": "2023-03-18T14:55:23.000Z",
+  "submissionId": "917478930"
+}
