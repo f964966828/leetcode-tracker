@@ -1,0 +1,23 @@
+{
+  "id": "2597",
+  "title": "The Number of Beautiful Subsets",
+  "titleSlug": "the-number-of-beautiful-subsets",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Dynamic Programming",
+    "Backtracking",
+    "Sorting",
+    "Combinatorics"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "801 ms",
+  "memory": "34 MB",
+  "runtimePercentile": "28.10%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-19T03:09:56.000Z",
+  "submissionId": "917829895"
+}
