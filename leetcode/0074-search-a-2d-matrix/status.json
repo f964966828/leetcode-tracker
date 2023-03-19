@@ -1,0 +1,19 @@
+{
+  "id": "74",
+  "title": "Search a 2D Matrix",
+  "titleSlug": "search-a-2d-matrix",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "5 ms",
+  "memory": "9.3 MB",
+  "runtimePercentile": "0.15%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-19T17:45:39.000Z",
+  "submissionId": "918258622"
+}
