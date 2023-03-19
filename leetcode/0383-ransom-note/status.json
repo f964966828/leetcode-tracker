@@ -1,0 +1,19 @@
+{
+  "id": "383",
+  "title": "Ransom Note",
+  "titleSlug": "ransom-note",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "16 ms",
+  "memory": "8.8 MB",
+  "runtimePercentile": "5.24%",
+  "memoryPercentile": "99.99%",
+  "submittedAt": "2023-03-19T18:11:17.000Z",
+  "submissionId": "918272159"
+}
