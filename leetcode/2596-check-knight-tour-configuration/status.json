@@ -1,0 +1,21 @@
+{
+  "id": "2596",
+  "title": "Check Knight Tour Configuration",
+  "titleSlug": "check-knight-tour-configuration",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Matrix",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "15 ms",
+  "memory": "28.1 MB",
+  "runtimePercentile": "2.96%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-19T02:42:34.000Z",
+  "submissionId": "917804078"
+}
