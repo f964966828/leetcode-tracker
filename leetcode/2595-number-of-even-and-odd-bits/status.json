@@ -1,0 +1,17 @@
+{
+  "id": "2595",
+  "title": "Number of Even and Odd Bits",
+  "titleSlug": "number-of-even-and-odd-bits",
+  "difficulty": "Easy",
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "7.2 MB",
+  "runtimePercentile": "2.85%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-19T02:33:54.000Z",
+  "submissionId": "917794281"
+}
