@@ -1,0 +1,20 @@
+{
+  "id": "211",
+  "title": "Design Add and Search Words Data Structure",
+  "titleSlug": "design-add-and-search-words-data-structure",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Depth-First Search",
+    "Design",
+    "Trie"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "1831 ms",
+  "memory": "628.4 MB",
+  "runtimePercentile": "5.01%",
+  "memoryPercentile": "27.78%",
+  "submittedAt": "2023-03-19T03:55:24.000Z",
+  "submissionId": "917869172"
+}
