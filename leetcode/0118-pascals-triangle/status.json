@@ -1,0 +1,18 @@
+{
+  "id": "118",
+  "title": "Pascal's Triangle",
+  "titleSlug": "pascals-triangle",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "2 ms",
+  "memory": "6.9 MB",
+  "runtimePercentile": "15.08%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-19T17:34:53.000Z",
+  "submissionId": "918252292"
+}
