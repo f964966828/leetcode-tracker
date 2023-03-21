@@ -1,0 +1,21 @@
+{
+  "id": "349",
+  "title": "Intersection of Two Arrays",
+  "titleSlug": "intersection-of-two-arrays",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "11.2 MB",
+  "runtimePercentile": "38.14%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-21T07:29:14.000Z",
+  "submissionId": "919325321"
+}
