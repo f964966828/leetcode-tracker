@@ -1,0 +1,18 @@
+{
+  "id": "2348",
+  "title": "Number of Zero-Filled Subarrays",
+  "titleSlug": "number-of-zero-filled-subarrays",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "169 ms",
+  "memory": "107.5 MB",
+  "runtimePercentile": "5.21%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-21T03:58:21.000Z",
+  "submissionId": "919222560"
+}
