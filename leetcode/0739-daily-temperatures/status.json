@@ -1,0 +1,19 @@
+{
+  "id": "739",
+  "title": "Daily Temperatures",
+  "titleSlug": "daily-temperatures",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "1683 ms",
+  "memory": "148.2 MB",
+  "runtimePercentile": "5.12%",
+  "memoryPercentile": "6.25%",
+  "submittedAt": "2023-03-21T14:06:16.000Z",
+  "submissionId": "919517696"
+}
