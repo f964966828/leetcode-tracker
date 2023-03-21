@@ -1,0 +1,18 @@
+{
+  "id": "203",
+  "title": "Remove Linked List Elements",
+  "titleSlug": "remove-linked-list-elements",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List",
+    "Recursion"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "11 ms",
+  "memory": "15.7 MB",
+  "runtimePercentile": "1.56%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-21T06:06:57.000Z",
+  "submissionId": "919285220"
+}
