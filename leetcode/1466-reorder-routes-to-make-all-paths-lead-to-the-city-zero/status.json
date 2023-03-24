@@ -1,0 +1,19 @@
+{
+  "id": "1466",
+  "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+  "titleSlug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "392 ms",
+  "memory": "118.5 MB",
+  "runtimePercentile": "5.02%",
+  "memoryPercentile": "31.31%",
+  "submittedAt": "2023-03-24T07:38:50.000Z",
+  "submissionId": "921172050"
+}
