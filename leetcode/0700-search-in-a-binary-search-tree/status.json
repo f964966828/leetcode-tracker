@@ -1,0 +1,19 @@
+{
+  "id": "700",
+  "title": "Search in a Binary Search Tree",
+  "titleSlug": "search-in-a-binary-search-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "51 ms",
+  "memory": "34.8 MB",
+  "runtimePercentile": "0.04%",
+  "memoryPercentile": "99.75%",
+  "submittedAt": "2023-03-25T08:58:41.000Z",
+  "submissionId": "921749481"
+}
