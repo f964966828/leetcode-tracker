@@ -1,0 +1,20 @@
+{
+  "id": "547",
+  "title": "Number of Provinces",
+  "titleSlug": "number-of-provinces",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "19 ms",
+  "memory": "13.7 MB",
+  "runtimePercentile": "5.12%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-25T09:33:40.000Z",
+  "submissionId": "921764062"
+}
