@@ -1,0 +1,20 @@
+{
+  "id": "2316",
+  "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+  "titleSlug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "647 ms",
+  "memory": "207.1 MB",
+  "runtimePercentile": "5.00%",
+  "memoryPercentile": "14.30%",
+  "submittedAt": "2023-03-25T08:01:10.000Z",
+  "submissionId": "921725712"
+}
