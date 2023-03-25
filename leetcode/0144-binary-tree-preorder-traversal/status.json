@@ -1,0 +1,20 @@
+{
+  "id": "144",
+  "title": "Binary Tree Preorder Traversal",
+  "titleSlug": "binary-tree-preorder-traversal",
+  "difficulty": "Easy",
+  "topics": [
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "6 ms",
+  "memory": "8.3 MB",
+  "runtimePercentile": "0.03%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-25T08:03:49.000Z",
+  "submissionId": "921726863"
+}
