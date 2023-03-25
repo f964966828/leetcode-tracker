@@ -1,0 +1,19 @@
+{
+  "id": "701",
+  "title": "Insert into a Binary Search Tree",
+  "titleSlug": "insert-into-a-binary-search-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "107 ms",
+  "memory": "56.9 MB",
+  "runtimePercentile": "0.20%",
+  "memoryPercentile": "99.77%",
+  "submittedAt": "2023-03-25T08:53:54.000Z",
+  "submissionId": "921747580"
+}
