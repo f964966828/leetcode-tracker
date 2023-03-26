@@ -1,0 +1,21 @@
+{
+  "id": "2601",
+  "title": "Prime Subtraction Operation",
+  "titleSlug": "prime-subtraction-operation",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Binary Search",
+    "Greedy",
+    "Number Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "835 ms",
+  "memory": "25.6 MB",
+  "runtimePercentile": "5.28%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-26T03:48:00.000Z",
+  "submissionId": "922187749"
+}
