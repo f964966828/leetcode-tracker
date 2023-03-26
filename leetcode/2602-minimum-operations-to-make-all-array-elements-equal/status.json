@@ -1,0 +1,20 @@
+{
+  "id": "2602",
+  "title": "Minimum Operations to Make All Array Elements Equal",
+  "titleSlug": "minimum-operations-to-make-all-array-elements-equal",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sorting",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "270 ms",
+  "memory": "84.5 MB",
+  "runtimePercentile": "5.04%",
+  "memoryPercentile": "78.02%",
+  "submittedAt": "2023-03-26T03:36:42.000Z",
+  "submissionId": "922179104"
+}
