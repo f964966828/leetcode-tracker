@@ -1,0 +1,19 @@
+{
+  "id": "64",
+  "title": "Minimum Path Sum",
+  "titleSlug": "minimum-path-sum",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "8 ms",
+  "memory": "10.2 MB",
+  "runtimePercentile": "5.26%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-27T12:26:19.000Z",
+  "submissionId": "922992603"
+}
