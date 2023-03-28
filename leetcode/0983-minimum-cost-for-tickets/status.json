@@ -1,0 +1,18 @@
+{
+  "id": "983",
+  "title": "Minimum Cost For Tickets",
+  "titleSlug": "minimum-cost-for-tickets",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "9.7 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-03-28T07:30:49.000Z",
+  "submissionId": "923484078"
+}
