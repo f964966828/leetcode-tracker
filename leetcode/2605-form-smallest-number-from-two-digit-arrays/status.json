@@ -1,0 +1,19 @@
+{
+  "id": "2605",
+  "title": "Form Smallest Number From Two Digit Arrays",
+  "titleSlug": "form-smallest-number-from-two-digit-arrays",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Enumeration"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "9 ms",
+  "memory": "21.8 MB",
+  "runtimePercentile": "0.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-04-01T14:34:29.000Z",
+  "submissionId": "925943756"
+}
