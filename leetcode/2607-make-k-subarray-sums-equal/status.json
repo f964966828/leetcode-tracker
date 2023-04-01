@@ -1,0 +1,21 @@
+{
+  "id": "2607",
+  "title": "Make K-Subarray Sums Equal",
+  "titleSlug": "make-k-subarray-sums-equal",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Greedy",
+    "Sorting",
+    "Number Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "203 ms",
+  "memory": "112.6 MB",
+  "runtimePercentile": "5.81%",
+  "memoryPercentile": "90.70%",
+  "submittedAt": "2023-04-01T15:31:05.000Z",
+  "submissionId": "926013717"
+}
