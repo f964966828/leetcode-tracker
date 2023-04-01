@@ -1,0 +1,18 @@
+{
+  "id": "2608",
+  "title": "Shortest Cycle in a Graph",
+  "titleSlug": "shortest-cycle-in-a-graph",
+  "difficulty": "Hard",
+  "topics": [
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "510 ms",
+  "memory": "107.9 MB",
+  "runtimePercentile": "5.11%",
+  "memoryPercentile": "90.12%",
+  "submittedAt": "2023-04-01T15:54:12.000Z",
+  "submissionId": "926035548"
+}
