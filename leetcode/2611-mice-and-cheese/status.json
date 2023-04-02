@@ -1,0 +1,20 @@
+{
+  "id": "2611",
+  "title": "Mice and Cheese",
+  "titleSlug": "mice-and-cheese",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "217 ms",
+  "memory": "110.2 MB",
+  "runtimePercentile": "5.13%",
+  "memoryPercentile": "81.62%",
+  "submittedAt": "2023-04-02T02:53:23.000Z",
+  "submissionId": "926296115"
+}
