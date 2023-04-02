@@ -1,0 +1,20 @@
+{
+  "id": "2300",
+  "title": "Successful Pairs of Spells and Potions",
+  "titleSlug": "successful-pairs-of-spells-and-potions",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "255 ms",
+  "memory": "107.8 MB",
+  "runtimePercentile": "5.74%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-04-02T04:45:24.000Z",
+  "submissionId": "926378404"
+}
