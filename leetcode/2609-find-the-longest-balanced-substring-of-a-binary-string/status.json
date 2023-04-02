@@ -1,0 +1,17 @@
+{
+  "id": "2609",
+  "title": "Find the Longest Balanced Substring of a Binary String",
+  "titleSlug": "find-the-longest-balanced-substring-of-a-binary-string",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "7 MB",
+  "runtimePercentile": "8.41%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-04-02T02:44:59.000Z",
+  "submissionId": "926286884"
+}
