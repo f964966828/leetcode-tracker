@@ -1,0 +1,19 @@
+{
+  "id": "2405",
+  "title": "Optimal Partition of String",
+  "titleSlug": "optimal-partition-of-string",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "248 ms",
+  "memory": "72.1 MB",
+  "runtimePercentile": "5.08%",
+  "memoryPercentile": "11.02%",
+  "submittedAt": "2023-04-04T06:42:56.000Z",
+  "submissionId": "927685822"
+}
