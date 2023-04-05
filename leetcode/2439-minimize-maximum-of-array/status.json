@@ -1,0 +1,21 @@
+{
+  "id": "2439",
+  "title": "Minimize Maximum of Array",
+  "titleSlug": "minimize-maximum-of-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Greedy",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "143 ms",
+  "memory": "71.3 MB",
+  "runtimePercentile": "5.03%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-04-05T12:38:02.000Z",
+  "submissionId": "928447924"
+}
