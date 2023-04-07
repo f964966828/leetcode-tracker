@@ -1,0 +1,21 @@
+{
+  "id": "1020",
+  "title": "Number of Enclaves",
+  "titleSlug": "number-of-enclaves",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "87 ms",
+  "memory": "27.7 MB",
+  "runtimePercentile": "6.98%",
+  "memoryPercentile": "99.98%",
+  "submittedAt": "2023-04-07T07:27:35.000Z",
+  "submissionId": "929477361"
+}
