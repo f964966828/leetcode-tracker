@@ -1,0 +1,20 @@
+{
+  "id": "133",
+  "title": "Clone Graph",
+  "titleSlug": "clone-graph",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "8.9 MB",
+  "runtimePercentile": "68.22%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-04-08T05:57:15.000Z",
+  "submissionId": "929974339"
+}
