@@ -1,0 +1,21 @@
+{
+  "id": "2616",
+  "title": "Minimize the Maximum Difference of Pairs",
+  "titleSlug": "minimize-the-maximum-difference-of-pairs",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Greedy",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "202 ms",
+  "memory": "81.2 MB",
+  "runtimePercentile": "5.44%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-04-09T03:59:34.000Z",
+  "submissionId": "930505646"
+}
