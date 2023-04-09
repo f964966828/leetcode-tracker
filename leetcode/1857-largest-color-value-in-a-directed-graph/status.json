@@ -1,0 +1,24 @@
+{
+  "id": "1857",
+  "title": "Largest Color Value in a Directed Graph",
+  "titleSlug": "largest-color-value-in-a-directed-graph",
+  "difficulty": "Hard",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Dynamic Programming",
+    "Graph Theory",
+    "Topological Sort",
+    "Memoization",
+    "Counting",
+    "Directed Acyclic Graph"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "687 ms",
+  "memory": "184.4 MB",
+  "runtimePercentile": "5.48%",
+  "memoryPercentile": "44.36%",
+  "submittedAt": "2023-04-09T05:26:05.000Z",
+  "submissionId": "930543953"
+}
