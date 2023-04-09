@@ -1,0 +1,19 @@
+{
+  "id": "2615",
+  "title": "Sum of Distances",
+  "titleSlug": "sum-of-distances",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "414 ms",
+  "memory": "139.5 MB",
+  "runtimePercentile": "5.00%",
+  "memoryPercentile": "7.50%",
+  "submittedAt": "2023-04-09T02:50:50.000Z",
+  "submissionId": "930439299"
+}
