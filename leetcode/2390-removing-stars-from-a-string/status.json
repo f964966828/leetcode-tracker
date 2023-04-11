@@ -1,0 +1,19 @@
+{
+  "id": "2390",
+  "title": "Removing Stars From a String",
+  "titleSlug": "removing-stars-from-a-string",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "108 ms",
+  "memory": "27.1 MB",
+  "runtimePercentile": "5.06%",
+  "memoryPercentile": "93.37%",
+  "submittedAt": "2023-04-11T06:30:29.000Z",
+  "submissionId": "931724997"
+}
