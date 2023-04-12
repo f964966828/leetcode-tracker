@@ -1,0 +1,18 @@
+{
+  "id": "71",
+  "title": "Simplify Path",
+  "titleSlug": "simplify-path",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "37 ms",
+  "memory": "13.7 MB",
+  "runtimePercentile": "5.67%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-04-12T04:56:57.000Z",
+  "submissionId": "932289371"
+}
