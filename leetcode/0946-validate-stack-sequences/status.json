@@ -1,0 +1,19 @@
+{
+  "id": "946",
+  "title": "Validate Stack Sequences",
+  "titleSlug": "validate-stack-sequences",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "14 ms",
+  "memory": "15.5 MB",
+  "runtimePercentile": "1.96%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-04-13T05:11:28.000Z",
+  "submissionId": "932879755"
+}
