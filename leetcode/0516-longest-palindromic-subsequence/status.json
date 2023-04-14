@@ -1,0 +1,18 @@
+{
+  "id": "516",
+  "title": "Longest Palindromic Subsequence",
+  "titleSlug": "longest-palindromic-subsequence",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "85 ms",
+  "memory": "72.3 MB",
+  "runtimePercentile": "41.32%",
+  "memoryPercentile": "81.80%",
+  "submittedAt": "2023-04-14T05:11:22.000Z",
+  "submissionId": "933436531"
+}
