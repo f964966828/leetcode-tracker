@@ -1,0 +1,18 @@
+{
+  "id": "2639",
+  "title": "Find the Width of Columns of a Grid",
+  "titleSlug": "find-the-width-of-columns-of-a-grid",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "28 ms",
+  "memory": "10.2 MB",
+  "runtimePercentile": "6.07%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-04-15T14:35:39.000Z",
+  "submissionId": "934154861"
+}
