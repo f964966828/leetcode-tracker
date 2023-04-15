@@ -1,0 +1,18 @@
+{
+  "id": "2640",
+  "title": "Find the Score of All Prefixes of an Array",
+  "titleSlug": "find-the-score-of-all-prefixes-of-an-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "146 ms",
+  "memory": "58.9 MB",
+  "runtimePercentile": "5.37%",
+  "memoryPercentile": "98.88%",
+  "submittedAt": "2023-04-15T14:41:17.000Z",
+  "submissionId": "934163015"
+}
