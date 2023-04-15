@@ -1,0 +1,19 @@
+{
+  "id": "2218",
+  "title": "Maximum Value of K Coins From Piles",
+  "titleSlug": "maximum-value-of-k-coins-from-piles",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "615 ms",
+  "memory": "18 MB",
+  "runtimePercentile": "5.04%",
+  "memoryPercentile": "93.82%",
+  "submittedAt": "2023-04-15T19:45:46.000Z",
+  "submissionId": "934333680"
+}
