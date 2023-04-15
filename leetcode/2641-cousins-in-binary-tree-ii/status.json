@@ -1,0 +1,21 @@
+{
+  "id": "2641",
+  "title": "Cousins in Binary Tree II",
+  "titleSlug": "cousins-in-binary-tree-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "931 ms",
+  "memory": "369.5 MB",
+  "runtimePercentile": "5.15%",
+  "memoryPercentile": "11.70%",
+  "submittedAt": "2023-04-15T14:55:34.000Z",
+  "submissionId": "934179521"
+}
