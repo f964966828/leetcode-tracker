@@ -1,0 +1,20 @@
+{
+  "id": "2642",
+  "title": "Design Graph With Shortest Path Calculator",
+  "titleSlug": "design-graph-with-shortest-path-calculator",
+  "difficulty": "Hard",
+  "topics": [
+    "Graph Theory",
+    "Design",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "220 ms",
+  "memory": "78.1 MB",
+  "runtimePercentile": "11.24%",
+  "memoryPercentile": "73.94%",
+  "submittedAt": "2023-04-15T15:04:09.000Z",
+  "submissionId": "934187667"
+}
