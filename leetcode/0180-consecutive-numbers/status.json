@@ -1,0 +1,17 @@
+{
+  "id": "180",
+  "title": "Consecutive Numbers",
+  "titleSlug": "consecutive-numbers",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "pythondata",
+  "runtime": "897 ms",
+  "memory": "60.6 MB",
+  "runtimePercentile": "5.05%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-09-30T04:52:14.000Z",
+  "submissionId": "1062765328"
+}
