@@ -1,0 +1,15 @@
+{
+  "id": "2629",
+  "title": "Function Composition",
+  "titleSlug": "function-composition",
+  "difficulty": "Easy",
+  "topics": [],
+  "status": "Accepted",
+  "lang": "javascript",
+  "runtime": "63 ms",
+  "memory": "43.6 MB",
+  "runtimePercentile": "16.45%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-10-01T06:11:22.000Z",
+  "submissionId": "1063778106"
+}
