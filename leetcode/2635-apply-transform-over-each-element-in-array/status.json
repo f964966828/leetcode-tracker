@@ -1,0 +1,15 @@
+{
+  "id": "2635",
+  "title": "Apply Transform Over Each Element in Array",
+  "titleSlug": "apply-transform-over-each-element-in-array",
+  "difficulty": "Easy",
+  "topics": [],
+  "status": "Accepted",
+  "lang": "javascript",
+  "runtime": "46 ms",
+  "memory": "42.1 MB",
+  "runtimePercentile": "40.86%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-10-01T05:56:52.000Z",
+  "submissionId": "1063768145"
+}
