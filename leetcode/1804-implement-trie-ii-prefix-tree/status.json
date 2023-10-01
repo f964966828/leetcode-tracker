@@ -1,0 +1,20 @@
+{
+  "id": "1804",
+  "title": "Implement Trie II (Prefix Tree)",
+  "titleSlug": "implement-trie-ii-prefix-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Design",
+    "Trie"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "158 ms",
+  "memory": "60.6 MB",
+  "runtimePercentile": "5.26%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-10-01T05:12:50.000Z",
+  "submissionId": "1063737263"
+}
