@@ -1,0 +1,15 @@
+{
+  "id": "2666",
+  "title": "Allow One Function Call",
+  "titleSlug": "allow-one-function-call",
+  "difficulty": "Easy",
+  "topics": [],
+  "status": "Accepted",
+  "lang": "javascript",
+  "runtime": "53 ms",
+  "memory": "42 MB",
+  "runtimePercentile": "9.76%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-10-01T06:23:15.000Z",
+  "submissionId": "1063786666"
+}
