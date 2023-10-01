@@ -1,0 +1,15 @@
+{
+  "id": "2704",
+  "title": "To Be Or Not To Be",
+  "titleSlug": "to-be-or-not-to-be",
+  "difficulty": "Easy",
+  "topics": [],
+  "status": "Accepted",
+  "lang": "javascript",
+  "runtime": "50 ms",
+  "memory": "42.3 MB",
+  "runtimePercentile": "20.98%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-10-01T05:52:51.000Z",
+  "submissionId": "1063765279"
+}
