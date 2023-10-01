@@ -1,0 +1,15 @@
+{
+  "id": "2703",
+  "title": "Return Length of Arguments Passed",
+  "titleSlug": "return-length-of-arguments-passed",
+  "difficulty": "Easy",
+  "topics": [],
+  "status": "Accepted",
+  "lang": "javascript",
+  "runtime": "55 ms",
+  "memory": "41.8 MB",
+  "runtimePercentile": "5.98%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-10-01T06:20:14.000Z",
+  "submissionId": "1063784458"
+}
