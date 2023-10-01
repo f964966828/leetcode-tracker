@@ -1,0 +1,17 @@
+{
+  "id": "185",
+  "title": "Department Top Three Salaries",
+  "titleSlug": "department-top-three-salaries",
+  "difficulty": "Hard",
+  "topics": [
+    "Database"
+  ],
+  "status": "Accepted",
+  "lang": "pythondata",
+  "runtime": "745 ms",
+  "memory": "62.8 MB",
+  "runtimePercentile": "5.52%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-10-01T05:37:26.000Z",
+  "submissionId": "1063754465"
+}
