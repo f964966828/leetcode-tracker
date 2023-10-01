@@ -1,0 +1,15 @@
+{
+  "id": "2626",
+  "title": "Array Reduce Transformation",
+  "titleSlug": "array-reduce-transformation",
+  "difficulty": "Easy",
+  "topics": [],
+  "status": "Accepted",
+  "lang": "javascript",
+  "runtime": "61 ms",
+  "memory": "41.8 MB",
+  "runtimePercentile": "5.87%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-10-01T06:07:11.000Z",
+  "submissionId": "1063775235"
+}
