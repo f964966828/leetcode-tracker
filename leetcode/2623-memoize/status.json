@@ -1,0 +1,15 @@
+{
+  "id": "2623",
+  "title": "Memoize",
+  "titleSlug": "memoize",
+  "difficulty": "Medium",
+  "topics": [],
+  "status": "Accepted",
+  "lang": "javascript",
+  "runtime": "405 ms",
+  "memory": "106.4 MB",
+  "runtimePercentile": "5.08%",
+  "memoryPercentile": "5.24%",
+  "submittedAt": "2023-10-01T13:17:02.000Z",
+  "submissionId": "1064048043"
+}
