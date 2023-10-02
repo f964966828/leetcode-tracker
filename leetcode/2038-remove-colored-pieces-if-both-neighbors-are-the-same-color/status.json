@@ -1,0 +1,20 @@
+{
+  "id": "2038",
+  "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+  "titleSlug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "String",
+    "Greedy",
+    "Game Theory"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "205 ms",
+  "memory": "19.9 MB",
+  "runtimePercentile": "9.43%",
+  "memoryPercentile": "85.28%",
+  "submittedAt": "2023-10-02T05:59:41.000Z",
+  "submissionId": "1064646129"
+}
