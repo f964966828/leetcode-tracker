@@ -1,0 +1,20 @@
+{
+  "id": "1512",
+  "title": "Number of Good Pairs",
+  "titleSlug": "number-of-good-pairs",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "7.5 MB",
+  "runtimePercentile": "2.39%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-10-03T09:43:28.000Z",
+  "submissionId": "1065751639"
+}
