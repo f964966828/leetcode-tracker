@@ -1,0 +1,21 @@
+{
+  "id": "706",
+  "title": "Design HashMap",
+  "titleSlug": "design-hashmap",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Hash Function"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "113 ms",
+  "memory": "53.5 MB",
+  "runtimePercentile": "7.27%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-10-04T13:46:14.000Z",
+  "submissionId": "1066825553"
+}
