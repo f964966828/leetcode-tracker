@@ -1,0 +1,15 @@
+{
+  "id": "2727",
+  "title": "Is Object Empty",
+  "titleSlug": "is-object-empty",
+  "difficulty": "Easy",
+  "topics": [],
+  "status": "Accepted",
+  "lang": "javascript",
+  "runtime": "39 ms",
+  "memory": "44 MB",
+  "runtimePercentile": "78.61%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-10-04T13:48:55.000Z",
+  "submissionId": "1066827735"
+}
