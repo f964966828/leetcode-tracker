@@ -1,0 +1,21 @@
+{
+  "id": "229",
+  "title": "Majority Element II",
+  "titleSlug": "majority-element-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting",
+    "Boyer–Moore Majority Vote Algorithm"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "8 ms",
+  "memory": "16.3 MB",
+  "runtimePercentile": "29.21%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-10-05T19:22:35.000Z",
+  "submissionId": "1068026569"
+}
