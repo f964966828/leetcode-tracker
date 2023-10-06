@@ -1,0 +1,18 @@
+{
+  "id": "343",
+  "title": "Integer Break",
+  "titleSlug": "integer-break",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "2 ms",
+  "memory": "6.2 MB",
+  "runtimePercentile": "13.60%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-10-06T11:35:25.000Z",
+  "submissionId": "1068542716"
+}
