@@ -1,0 +1,18 @@
+{
+  "id": "1420",
+  "title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+  "titleSlug": "build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+  "difficulty": "Hard",
+  "topics": [
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "8.7 MB",
+  "runtimePercentile": "99.37%",
+  "memoryPercentile": "99.69%",
+  "submittedAt": "2023-10-07T11:38:23.000Z",
+  "submissionId": "1069287754"
+}
