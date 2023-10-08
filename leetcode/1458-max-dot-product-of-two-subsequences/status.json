@@ -1,0 +1,19 @@
+{
+  "id": "1458",
+  "title": "Max Dot Product of Two Subsequences",
+  "titleSlug": "max-dot-product-of-two-subsequences",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Longest Common Subsequence"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "24 ms",
+  "memory": "9.8 MB",
+  "runtimePercentile": "48.36%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2023-10-08T14:44:06.000Z",
+  "submissionId": "1070196947"
+}
