@@ -1,0 +1,20 @@
+{
+  "id": "234",
+  "title": "Palindrome Linked List",
+  "titleSlug": "palindrome-linked-list",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List",
+    "Two Pointers",
+    "Stack",
+    "Recursion"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "173 ms",
+  "memory": "130.7 MB",
+  "runtimePercentile": "5.13%",
+  "memoryPercentile": "18.01%",
+  "submittedAt": "2024-03-22T21:03:04.000Z",
+  "submissionId": "1211186769"
+}
