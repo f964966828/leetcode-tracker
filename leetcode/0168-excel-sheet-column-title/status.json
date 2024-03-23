@@ -1,0 +1,18 @@
+{
+  "id": "168",
+  "title": "Excel Sheet Column Title",
+  "titleSlug": "excel-sheet-column-title",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "7.1 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-03-23T18:58:44.000Z",
+  "submissionId": "1211894000"
+}
