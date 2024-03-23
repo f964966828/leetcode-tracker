@@ -1,0 +1,19 @@
+{
+  "id": "18",
+  "title": "4Sum",
+  "titleSlug": "4sum",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "336 ms",
+  "memory": "81.5 MB",
+  "runtimePercentile": "5.01%",
+  "memoryPercentile": "5.13%",
+  "submittedAt": "2024-03-23T15:32:30.000Z",
+  "submissionId": "1211737441"
+}
