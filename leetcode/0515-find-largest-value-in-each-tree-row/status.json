@@ -1,0 +1,20 @@
+{
+  "id": "515",
+  "title": "Find Largest Value in Each Tree Row",
+  "titleSlug": "find-largest-value-in-each-tree-row",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "12 ms",
+  "memory": "20.9 MB",
+  "runtimePercentile": "1.76%",
+  "memoryPercentile": "99.88%",
+  "submittedAt": "2024-03-23T23:11:36.000Z",
+  "submissionId": "1212025136"
+}
