@@ -1,0 +1,18 @@
+{
+  "id": "151",
+  "title": "Reverse Words in a String",
+  "titleSlug": "reverse-words-in-a-string",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "30 ms",
+  "memory": "16.8 MB",
+  "runtimePercentile": "5.82%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-03-23T19:01:22.000Z",
+  "submissionId": "1211895909"
+}
