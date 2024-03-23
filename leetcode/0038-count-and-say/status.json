@@ -1,0 +1,17 @@
+{
+  "id": "38",
+  "title": "Count and Say",
+  "titleSlug": "count-and-say",
+  "difficulty": "Medium",
+  "topics": [
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "9.5 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "93.01%",
+  "submittedAt": "2024-03-23T18:34:57.000Z",
+  "submissionId": "1211877040"
+}
