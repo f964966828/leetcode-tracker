@@ -1,0 +1,21 @@
+{
+  "id": "148",
+  "title": "Sort List",
+  "titleSlug": "sort-list",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Two Pointers",
+    "Divide and Conquer",
+    "Sorting",
+    "Merge Sort"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "124 ms",
+  "memory": "58.8 MB",
+  "runtimePercentile": "5.01%",
+  "memoryPercentile": "49.20%",
+  "submittedAt": "2024-03-23T19:06:52.000Z",
+  "submissionId": "1211899669"
+}
