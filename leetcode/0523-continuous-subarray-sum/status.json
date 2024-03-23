@@ -1,0 +1,21 @@
+{
+  "id": "523",
+  "title": "Continuous Subarray Sum",
+  "titleSlug": "continuous-subarray-sum",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Prefix Sum",
+    "Pigeonhole Principle"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "268 ms",
+  "memory": "147.1 MB",
+  "runtimePercentile": "5.32%",
+  "memoryPercentile": "17.99%",
+  "submittedAt": "2024-03-23T23:28:22.000Z",
+  "submissionId": "1212031623"
+}
