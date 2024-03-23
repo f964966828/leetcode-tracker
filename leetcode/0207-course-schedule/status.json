@@ -1,0 +1,21 @@
+{
+  "id": "207",
+  "title": "Course Schedule",
+  "titleSlug": "course-schedule",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Topological Sort",
+    "Directed Acyclic Graph"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "18 ms",
+  "memory": "17.5 MB",
+  "runtimePercentile": "7.53%",
+  "memoryPercentile": "99.95%",
+  "submittedAt": "2024-03-23T18:46:22.000Z",
+  "submissionId": "1211885317"
+}
