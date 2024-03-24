@@ -1,0 +1,20 @@
+{
+  "id": "113",
+  "title": "Path Sum II",
+  "titleSlug": "path-sum-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Backtracking",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "8 ms",
+  "memory": "18.8 MB",
+  "runtimePercentile": "27.27%",
+  "memoryPercentile": "99.98%",
+  "submittedAt": "2024-03-24T08:41:16.000Z",
+  "submissionId": "1212431855"
+}
