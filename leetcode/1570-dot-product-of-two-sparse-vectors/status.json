@@ -1,0 +1,21 @@
+{
+  "id": "1570",
+  "title": "Dot Product of Two Sparse Vectors",
+  "titleSlug": "dot-product-of-two-sparse-vectors",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Design",
+    "Linear Algebra"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "162 ms",
+  "memory": "175.2 MB",
+  "runtimePercentile": "9.76%",
+  "memoryPercentile": "21.95%",
+  "submittedAt": "2024-03-24T08:31:33.000Z",
+  "submissionId": "1212426026"
+}
