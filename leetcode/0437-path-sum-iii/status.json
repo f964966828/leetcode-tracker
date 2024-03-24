@@ -1,0 +1,19 @@
+{
+  "id": "437",
+  "title": "Path Sum III",
+  "titleSlug": "path-sum-iii",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "21 ms",
+  "memory": "20.1 MB",
+  "runtimePercentile": "11.54%",
+  "memoryPercentile": "52.19%",
+  "submittedAt": "2024-03-24T09:03:41.000Z",
+  "submissionId": "1212445556"
+}
