@@ -1,0 +1,22 @@
+{
+  "id": "287",
+  "title": "Find the Duplicate Number",
+  "titleSlug": "find-the-duplicate-number",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Bit Manipulation",
+    "Pigeonhole Principle",
+    "Floyd's Cycle Finding Algorithm"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "216 ms",
+  "memory": "88.1 MB",
+  "runtimePercentile": "5.28%",
+  "memoryPercentile": "9.66%",
+  "submittedAt": "2024-03-24T00:13:40.000Z",
+  "submissionId": "1212049535"
+}
