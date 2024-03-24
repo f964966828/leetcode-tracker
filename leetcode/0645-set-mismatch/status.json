@@ -1,0 +1,20 @@
+{
+  "id": "645",
+  "title": "Set Mismatch",
+  "titleSlug": "set-mismatch",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "69 ms",
+  "memory": "35.3 MB",
+  "runtimePercentile": "8.82%",
+  "memoryPercentile": "6.03%",
+  "submittedAt": "2024-03-24T00:22:04.000Z",
+  "submissionId": "1212053185"
+}
