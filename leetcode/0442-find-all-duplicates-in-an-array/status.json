@@ -1,0 +1,19 @@
+{
+  "id": "442",
+  "title": "Find All Duplicates in an Array",
+  "titleSlug": "find-all-duplicates-in-an-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "33 ms",
+  "memory": "36 MB",
+  "runtimePercentile": "32.10%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-03-25T07:56:07.000Z",
+  "submissionId": "1213283286"
+}
