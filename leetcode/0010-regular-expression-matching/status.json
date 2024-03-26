@@ -1,0 +1,19 @@
+{
+  "id": "10",
+  "title": "Regular Expression Matching",
+  "titleSlug": "regular-expression-matching",
+  "difficulty": "Hard",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Recursion"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "39 ms",
+  "memory": "23.9 MB",
+  "runtimePercentile": "10.93%",
+  "memoryPercentile": "5.07%",
+  "submittedAt": "2024-03-26T13:03:53.000Z",
+  "submissionId": "1214429283"
+}
