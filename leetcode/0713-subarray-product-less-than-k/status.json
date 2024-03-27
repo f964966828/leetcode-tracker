@@ -1,0 +1,20 @@
+{
+  "id": "713",
+  "title": "Subarray Product Less Than K",
+  "titleSlug": "subarray-product-less-than-k",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "62 ms",
+  "memory": "63.8 MB",
+  "runtimePercentile": "9.64%",
+  "memoryPercentile": "5.29%",
+  "submittedAt": "2024-03-27T14:34:00.000Z",
+  "submissionId": "1215475944"
+}
