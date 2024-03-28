@@ -1,0 +1,19 @@
+{
+  "id": "2958",
+  "title": "Length of Longest Subarray With at Most K Frequency",
+  "titleSlug": "length-of-longest-subarray-with-at-most-k-frequency",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "361 ms",
+  "memory": "148.6 MB",
+  "runtimePercentile": "5.11%",
+  "memoryPercentile": "99.25%",
+  "submittedAt": "2024-03-28T03:31:50.000Z",
+  "submissionId": "1215977171"
+}
