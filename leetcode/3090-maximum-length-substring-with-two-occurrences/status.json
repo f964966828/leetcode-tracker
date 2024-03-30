@@ -1,0 +1,19 @@
+{
+  "id": "3090",
+  "title": "Maximum Length Substring With Two Occurrences",
+  "titleSlug": "maximum-length-substring-with-two-occurrences",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "52 ms",
+  "memory": "8 MB",
+  "runtimePercentile": "5.17%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-03-30T08:56:07.000Z",
+  "submissionId": "1218008884"
+}
