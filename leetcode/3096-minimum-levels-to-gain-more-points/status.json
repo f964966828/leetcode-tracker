@@ -1,0 +1,18 @@
+{
+  "id": "3096",
+  "title": "Minimum Levels to Gain More Points",
+  "titleSlug": "minimum-levels-to-gain-more-points",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "221 ms",
+  "memory": "291.7 MB",
+  "runtimePercentile": "6.38%",
+  "memoryPercentile": "8.08%",
+  "submittedAt": "2024-03-30T14:57:29.000Z",
+  "submissionId": "1218254271"
+}
