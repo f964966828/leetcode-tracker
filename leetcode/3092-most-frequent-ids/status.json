@@ -1,0 +1,20 @@
+{
+  "id": "3092",
+  "title": "Most Frequent IDs",
+  "titleSlug": "most-frequent-ids",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Heap (Priority Queue)",
+    "Ordered Set"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "474 ms",
+  "memory": "157 MB",
+  "runtimePercentile": "7.78%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-03-30T09:14:01.000Z",
+  "submissionId": "1218018778"
+}
