@@ -1,0 +1,20 @@
+{
+  "id": "992",
+  "title": "Subarrays with K Different Integers",
+  "titleSlug": "subarrays-with-k-different-integers",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "1061 ms",
+  "memory": "46.9 MB",
+  "runtimePercentile": "5.69%",
+  "memoryPercentile": "95.70%",
+  "submittedAt": "2024-03-30T08:49:01.000Z",
+  "submissionId": "1218004893"
+}
