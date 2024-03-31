@@ -1,0 +1,19 @@
+{
+  "id": "340",
+  "title": "Longest Substring with At Most K Distinct Characters",
+  "titleSlug": "longest-substring-with-at-most-k-distinct-characters",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "8.3 MB",
+  "runtimePercentile": "55.68%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-03-31T06:55:14.000Z",
+  "submissionId": "1218968745"
+}
