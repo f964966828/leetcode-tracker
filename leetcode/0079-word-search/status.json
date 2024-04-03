@@ -1,0 +1,21 @@
+{
+  "id": "79",
+  "title": "Word Search",
+  "titleSlug": "word-search",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Backtracking",
+    "Depth-First Search",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "375 ms",
+  "memory": "10.8 MB",
+  "runtimePercentile": "39.57%",
+  "memoryPercentile": "49.28%",
+  "submittedAt": "2024-04-03T21:27:08.000Z",
+  "submissionId": "1222512301"
+}
