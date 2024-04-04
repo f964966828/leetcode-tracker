@@ -1,0 +1,19 @@
+{
+  "id": "1614",
+  "title": "Maximum Nesting Depth of the Parentheses",
+  "titleSlug": "maximum-nesting-depth-of-the-parentheses",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "8.1 MB",
+  "runtimePercentile": "0.11%",
+  "memoryPercentile": "99.14%",
+  "submittedAt": "2024-04-04T18:28:59.000Z",
+  "submissionId": "1223338906"
+}
