@@ -1,0 +1,18 @@
+{
+  "id": "1544",
+  "title": "Make The String Great",
+  "titleSlug": "make-the-string-great",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Stack"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "8 ms",
+  "memory": "11.4 MB",
+  "runtimePercentile": "1.08%",
+  "memoryPercentile": "6.07%",
+  "submittedAt": "2024-04-05T07:53:40.000Z",
+  "submissionId": "1223803483"
+}
