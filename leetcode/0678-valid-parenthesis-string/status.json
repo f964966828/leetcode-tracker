@@ -1,0 +1,21 @@
+{
+  "id": "678",
+  "title": "Valid Parenthesis String",
+  "titleSlug": "valid-parenthesis-string",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "7.2 MB",
+  "runtimePercentile": "9.38%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-04-07T17:57:34.000Z",
+  "submissionId": "1226032845"
+}
