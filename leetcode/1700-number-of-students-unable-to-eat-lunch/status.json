@@ -1,0 +1,20 @@
+{
+  "id": "1700",
+  "title": "Number of Students Unable to Eat Lunch",
+  "titleSlug": "number-of-students-unable-to-eat-lunch",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Stack",
+    "Queue",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "10.8 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-04-08T02:04:20.000Z",
+  "submissionId": "1226293525"
+}
