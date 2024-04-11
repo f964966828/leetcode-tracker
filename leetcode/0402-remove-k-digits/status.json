@@ -1,0 +1,20 @@
+{
+  "id": "402",
+  "title": "Remove K Digits",
+  "titleSlug": "remove-k-digits",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "63 ms",
+  "memory": "18.1 MB",
+  "runtimePercentile": "5.34%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-04-11T13:21:00.000Z",
+  "submissionId": "1229479101"
+}
