@@ -1,0 +1,21 @@
+{
+  "id": "85",
+  "title": "Maximal Rectangle",
+  "titleSlug": "maximal-rectangle",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Stack",
+    "Matrix",
+    "Monotonic Stack"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "1343 ms",
+  "memory": "24.6 MB",
+  "runtimePercentile": "6.67%",
+  "memoryPercentile": "50.77%",
+  "submittedAt": "2024-04-13T19:05:06.000Z",
+  "submissionId": "1231502472"
+}
