@@ -1,0 +1,20 @@
+{
+  "id": "623",
+  "title": "Add One Row to Tree",
+  "titleSlug": "add-one-row-to-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "14 ms",
+  "memory": "24.9 MB",
+  "runtimePercentile": "0.27%",
+  "memoryPercentile": "99.93%",
+  "submittedAt": "2024-04-16T15:24:02.000Z",
+  "submissionId": "1234063446"
+}
