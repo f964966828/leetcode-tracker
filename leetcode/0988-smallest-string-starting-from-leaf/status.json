@@ -1,0 +1,21 @@
+{
+  "id": "988",
+  "title": "Smallest String Starting From Leaf",
+  "titleSlug": "smallest-string-starting-from-leaf",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Backtracking",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "10 ms",
+  "memory": "20.4 MB",
+  "runtimePercentile": "6.63%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-04-17T18:54:40.000Z",
+  "submissionId": "1235151423"
+}
