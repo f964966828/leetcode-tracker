@@ -1,48 +1,39 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    TreeNode* addOneRow(TreeNode* root, int val, int depth) {
-        vector<TreeNode*> bfs;
-
-        while (--depth) {
-            if (bfs.empty()) {
-                bfs.push_back(root);
-            } else {
-                vector<TreeNode*> new_bfs;
-                for (auto node: bfs) {
-                    if (node->left) {
-                        new_bfs.push_back(node->left);
-                    }
-                    if (node->right) {
-                        new_bfs.push_back(node->right);
-                    }
-                }
-                bfs = new_bfs;
-            }
+    TreeNode* helper(TreeNode* root, int val, int depth, int currdepth) {
+        if (depth == 1) {
+            TreeNode* new_root = new TreeNode(val);
+            new_root->left = root;
+            new_root->right = nullptr;
+            return new_root;
         }
 
-        for (auto node: bfs) {
-            TreeNode* left = new TreeNode(val, node->left, nullptr);
-            TreeNode* right = new TreeNode(val, nullptr, node->right);
-            node->left = left;
-            node->right = right;
+        if (!root) {
+            return nullptr;
         }
 
-        if (bfs.empty()) { // depth == 1
-            TreeNode* node = new TreeNode(val, root, nullptr);
-            return node;
-        } else {
+        if (currdepth == depth - 1) {
+            TreeNode* leftman = root->left;
+            TreeNode* rightman = root->right;
+
+            root->left = new TreeNode(val);
+            root->left->left = leftman;
+            root->left->right = nullptr;
+
+            root->right = new TreeNode(val);
+            root->right->left = nullptr;
+            root->right->right = rightman;
+            
             return root;
         }
+
+        root->left = helper(root->left, val, depth, currdepth + 1);
+        root->right = helper(root->right, val, depth, currdepth + 1);
+
+        return root;
+    }
+
+    TreeNode* addOneRow(TreeNode* root, int val, int depth) {
+        return helper(root, val, depth, 1);
     }
 };
