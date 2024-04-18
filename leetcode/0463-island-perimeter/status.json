@@ -1,0 +1,20 @@
+{
+  "id": "463",
+  "title": "Island Perimeter",
+  "titleSlug": "island-perimeter",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "78 ms",
+  "memory": "104.4 MB",
+  "runtimePercentile": "5.13%",
+  "memoryPercentile": "25.27%",
+  "submittedAt": "2024-04-18T11:20:13.000Z",
+  "submissionId": "1235674766"
+}
