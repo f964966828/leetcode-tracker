@@ -1,0 +1,20 @@
+{
+  "id": "1992",
+  "title": "Find All Groups of Farmland",
+  "titleSlug": "find-all-groups-of-farmland",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "510 ms",
+  "memory": "106.4 MB",
+  "runtimePercentile": "7.61%",
+  "memoryPercentile": "31.99%",
+  "submittedAt": "2024-04-20T19:14:48.000Z",
+  "submissionId": "1237588430"
+}
