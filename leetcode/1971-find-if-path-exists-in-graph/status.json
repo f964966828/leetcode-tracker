@@ -1,0 +1,20 @@
+{
+  "id": "1971",
+  "title": "Find if Path Exists in Graph",
+  "titleSlug": "find-if-path-exists-in-graph",
+  "difficulty": "Easy",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "469 ms",
+  "memory": "202.6 MB",
+  "runtimePercentile": "17.31%",
+  "memoryPercentile": "99.88%",
+  "submittedAt": "2024-04-21T07:55:04.000Z",
+  "submissionId": "1238054371"
+}
