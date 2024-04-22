@@ -1,0 +1,21 @@
+{
+  "id": "752",
+  "title": "Open the Lock",
+  "titleSlug": "open-the-lock",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Breadth-First Search",
+    "Bidirectional Search"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "837 ms",
+  "memory": "38.2 MB",
+  "runtimePercentile": "5.02%",
+  "memoryPercentile": "86.83%",
+  "submittedAt": "2024-04-22T03:11:48.000Z",
+  "submissionId": "1238702831"
+}
