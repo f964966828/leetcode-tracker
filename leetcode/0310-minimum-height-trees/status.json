@@ -1,0 +1,20 @@
+{
+  "id": "310",
+  "title": "Minimum Height Trees",
+  "titleSlug": "minimum-height-trees",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Topological Sort"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "1508 ms",
+  "memory": "436.1 MB",
+  "runtimePercentile": "5.02%",
+  "memoryPercentile": "5.04%",
+  "submittedAt": "2024-04-23T15:26:08.000Z",
+  "submissionId": "1239980364"
+}
