@@ -1,0 +1,19 @@
+{
+  "id": "1137",
+  "title": "N-th Tribonacci Number",
+  "titleSlug": "n-th-tribonacci-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Memoization"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "2 ms",
+  "memory": "7 MB",
+  "runtimePercentile": "3.98%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-04-24T14:37:23.000Z",
+  "submissionId": "1240855360"
+}
