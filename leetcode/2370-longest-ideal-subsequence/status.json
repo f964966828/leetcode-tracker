@@ -1,0 +1,19 @@
+{
+  "id": "2370",
+  "title": "Longest Ideal Subsequence",
+  "titleSlug": "longest-ideal-subsequence",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Dynamic Programming"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "28 ms",
+  "memory": "11.5 MB",
+  "runtimePercentile": "57.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-04-25T03:27:13.000Z",
+  "submissionId": "1241312105"
+}
