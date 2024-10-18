@@ -1,0 +1,20 @@
+{
+  "id": "2044",
+  "title": "Count Number of Maximum Bitwise-OR Subsets",
+  "titleSlug": "count-number-of-maximum-bitwise-or-subsets",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation",
+    "Enumeration"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "10.1 MB",
+  "runtimePercentile": "87.67%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-10-18T02:27:04.000Z",
+  "submissionId": "1425965692"
+}
