@@ -1,0 +1,19 @@
+{
+  "id": "1545",
+  "title": "Find Kth Bit in Nth Binary String",
+  "titleSlug": "find-kth-bit-in-nth-binary-string",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Recursion",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "86 ms",
+  "memory": "46.1 MB",
+  "runtimePercentile": "11.17%",
+  "memoryPercentile": "31.53%",
+  "submittedAt": "2024-10-19T10:24:15.000Z",
+  "submissionId": "1427189979"
+}
