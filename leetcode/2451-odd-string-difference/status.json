@@ -1,0 +1,19 @@
+{
+  "id": "2451",
+  "title": "Odd String Difference",
+  "titleSlug": "odd-string-difference",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "10.2 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "55.73%",
+  "submittedAt": "2024-10-19T10:45:13.000Z",
+  "submissionId": "1427203949"
+}
