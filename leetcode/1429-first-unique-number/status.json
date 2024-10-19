@@ -1,0 +1,21 @@
+{
+  "id": "1429",
+  "title": "First Unique Number",
+  "titleSlug": "first-unique-number",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Design",
+    "Queue",
+    "Data Stream"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "307 ms",
+  "memory": "128.4 MB",
+  "runtimePercentile": "13.28%",
+  "memoryPercentile": "80.51%",
+  "submittedAt": "2024-10-19T10:31:01.000Z",
+  "submissionId": "1427194527"
+}
