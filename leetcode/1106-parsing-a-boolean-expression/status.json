@@ -1,0 +1,19 @@
+{
+  "id": "1106",
+  "title": "Parsing A Boolean Expression",
+  "titleSlug": "parsing-a-boolean-expression",
+  "difficulty": "Hard",
+  "topics": [
+    "String",
+    "Stack",
+    "Recursion"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "9 ms",
+  "memory": "13.3 MB",
+  "runtimePercentile": "21.74%",
+  "memoryPercentile": "9.84%",
+  "submittedAt": "2024-10-20T07:34:53.000Z",
+  "submissionId": "1428128329"
+}
