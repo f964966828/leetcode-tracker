@@ -1,0 +1,19 @@
+{
+  "id": "2486",
+  "title": "Append Characters to String to Make Subsequence",
+  "titleSlug": "append-characters-to-string-to-make-subsequence",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "12.2 MB",
+  "runtimePercentile": "21.75%",
+  "memoryPercentile": "99.78%",
+  "submittedAt": "2024-10-20T10:29:35.000Z",
+  "submissionId": "1428244015"
+}
