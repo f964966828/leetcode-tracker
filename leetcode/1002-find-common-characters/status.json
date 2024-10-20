@@ -1,0 +1,19 @@
+{
+  "id": "1002",
+  "title": "Find Common Characters",
+  "titleSlug": "find-common-characters",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "11.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "90.83%",
+  "submittedAt": "2024-10-20T10:40:23.000Z",
+  "submissionId": "1428251364"
+}
