@@ -1,0 +1,20 @@
+{
+  "id": "846",
+  "title": "Hand of Straights",
+  "titleSlug": "hand-of-straights",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "57 ms",
+  "memory": "32.2 MB",
+  "runtimePercentile": "7.27%",
+  "memoryPercentile": "63.49%",
+  "submittedAt": "2024-10-20T10:48:41.000Z",
+  "submissionId": "1428256899"
+}
