@@ -1,0 +1,17 @@
+{
+  "id": "3110",
+  "title": "Score of a String",
+  "titleSlug": "score-of-a-string",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "2 ms",
+  "memory": "8.3 MB",
+  "runtimePercentile": "7.95%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-10-20T10:27:31.000Z",
+  "submissionId": "1428242638"
+}
