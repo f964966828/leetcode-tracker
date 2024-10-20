@@ -1,0 +1,20 @@
+{
+  "id": "648",
+  "title": "Replace Words",
+  "titleSlug": "replace-words",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Trie"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "136 ms",
+  "memory": "26.7 MB",
+  "runtimePercentile": "24.51%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-10-20T10:52:44.000Z",
+  "submissionId": "1428259608"
+}
