@@ -1,0 +1,19 @@
+{
+  "id": "1593",
+  "title": "Split a String Into the Max Number of Unique Substrings",
+  "titleSlug": "split-a-string-into-the-max-number-of-unique-substrings",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Backtracking"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "1706 ms",
+  "memory": "29.9 MB",
+  "runtimePercentile": "5.01%",
+  "memoryPercentile": "8.46%",
+  "submittedAt": "2024-10-21T05:10:17.000Z",
+  "submissionId": "1429004784"
+}
