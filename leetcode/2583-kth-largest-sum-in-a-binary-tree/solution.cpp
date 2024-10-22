@@ -12,24 +12,25 @@
 class Solution {
 public:
     long long kthLargestLevelSum(TreeNode* root, int k) {
-        vector<long long> level_sum;
-        vector<TreeNode*> tree_lists(1, root);
-        while(!tree_lists.empty()){
-            long long sum = 0;
-            vector<TreeNode*> new_lists;
-            for(auto node: tree_lists){
-                if(node->left) new_lists.push_back(node->left);
-                if(node->right) new_lists.push_back(node->right);
-                sum += node->val;
+        vector<long long> level_sums;
+        vector<TreeNode*> bfs(1, root);
+        while (!bfs.empty()) {
+            vector<TreeNode*> new_bfs;
+            long long level_sum = 0;
+            for (auto node : bfs) {
+                if (node->left) new_bfs.push_back(node->left);
+                if (node->right) new_bfs.push_back(node->right);
+                level_sum += node->val;
             }
-            level_sum.push_back(sum);
-            tree_lists = new_lists;
+            level_sums.push_back(level_sum);
+            bfs = new_bfs;
         }
-        sort(level_sum.begin(), level_sum.end());
-        
-        if(k<=level_sum.size())
-            return level_sum[level_sum.size() - k];
-        else
+
+        sort(level_sums.begin(), level_sums.end());
+
+        if (level_sums.size() < k) {
             return -1;
+        }
+        return level_sums[level_sums.size() - k];
     }
 };
