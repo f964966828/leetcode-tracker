@@ -1,0 +1,19 @@
+{
+  "id": "2664",
+  "title": "The Knight’s Tour",
+  "titleSlug": "the-knights-tour",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Backtracking",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "71 ms",
+  "memory": "7.7 MB",
+  "runtimePercentile": "85.71%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-10-22T03:26:56.000Z",
+  "submissionId": "1429967752"
+}
