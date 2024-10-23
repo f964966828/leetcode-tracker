@@ -1,0 +1,20 @@
+{
+  "id": "1004",
+  "title": "Max Consecutive Ones III",
+  "titleSlug": "max-consecutive-ones-iii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "22 ms",
+  "memory": "64.4 MB",
+  "runtimePercentile": "6.07%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-10-23T05:28:09.000Z",
+  "submissionId": "1431128631"
+}
