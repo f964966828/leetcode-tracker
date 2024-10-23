@@ -1,0 +1,19 @@
+{
+  "id": "3084",
+  "title": "Count Substrings Starting and Ending with Given Character",
+  "titleSlug": "count-substrings-starting-and-ending-with-given-character",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "String",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "11.8 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "99.87%",
+  "submittedAt": "2024-10-23T04:59:33.000Z",
+  "submissionId": "1431106696"
+}
