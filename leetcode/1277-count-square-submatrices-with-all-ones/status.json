@@ -1,0 +1,19 @@
+{
+  "id": "1277",
+  "title": "Count Square Submatrices with All Ones",
+  "titleSlug": "count-square-submatrices-with-all-ones",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "1039 ms",
+  "memory": "26.5 MB",
+  "runtimePercentile": "5.05%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-10-27T10:00:01.000Z",
+  "submissionId": "1435108043"
+}
