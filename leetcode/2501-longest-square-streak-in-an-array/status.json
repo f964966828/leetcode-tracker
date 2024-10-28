@@ -1,0 +1,21 @@
+{
+  "id": "2501",
+  "title": "Longest Square Streak in an Array",
+  "titleSlug": "longest-square-streak-in-an-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "115 ms",
+  "memory": "86.3 MB",
+  "runtimePercentile": "34.23%",
+  "memoryPercentile": "98.21%",
+  "submittedAt": "2024-10-28T07:49:46.000Z",
+  "submissionId": "1435992967"
+}
