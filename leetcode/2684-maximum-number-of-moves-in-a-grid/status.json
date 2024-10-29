@@ -1,0 +1,19 @@
+{
+  "id": "2684",
+  "title": "Maximum Number of Moves in a Grid",
+  "titleSlug": "maximum-number-of-moves-in-a-grid",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "15 ms",
+  "memory": "74.4 MB",
+  "runtimePercentile": "58.58%",
+  "memoryPercentile": "74.18%",
+  "submittedAt": "2024-10-29T07:47:09.000Z",
+  "submissionId": "1437037460"
+}
