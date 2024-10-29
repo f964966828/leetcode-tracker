@@ -1,0 +1,18 @@
+{
+  "id": "265",
+  "title": "Paint House II",
+  "titleSlug": "paint-house-ii",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "15.4 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "52.47%",
+  "submittedAt": "2024-10-29T09:52:56.000Z",
+  "submissionId": "1437115395"
+}
