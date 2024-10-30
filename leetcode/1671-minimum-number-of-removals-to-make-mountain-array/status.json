@@ -1,0 +1,20 @@
+{
+  "id": "1671",
+  "title": "Minimum Number of Removals to Make Mountain Array",
+  "titleSlug": "minimum-number-of-removals-to-make-mountain-array",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "5 ms",
+  "memory": "15.1 MB",
+  "runtimePercentile": "89.20%",
+  "memoryPercentile": "99.67%",
+  "submittedAt": "2024-10-30T19:11:08.000Z",
+  "submissionId": "1438482821"
+}
