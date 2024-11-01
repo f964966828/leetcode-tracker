@@ -1,0 +1,17 @@
+{
+  "id": "1957",
+  "title": "Delete Characters to Make Fancy String",
+  "titleSlug": "delete-characters-to-make-fancy-string",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "23 ms",
+  "memory": "42.7 MB",
+  "runtimePercentile": "77.42%",
+  "memoryPercentile": "87.55%",
+  "submittedAt": "2024-11-01T08:03:35.000Z",
+  "submissionId": "1439695420"
+}
