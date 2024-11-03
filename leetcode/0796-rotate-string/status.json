@@ -1,0 +1,18 @@
+{
+  "id": "796",
+  "title": "Rotate String",
+  "titleSlug": "rotate-string",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "String Matching"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "2 ms",
+  "memory": "8.6 MB",
+  "runtimePercentile": "8.59%",
+  "memoryPercentile": "6.12%",
+  "submittedAt": "2024-11-03T10:17:55.000Z",
+  "submissionId": "1441647053"
+}
