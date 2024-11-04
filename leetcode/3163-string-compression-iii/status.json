@@ -1,0 +1,17 @@
+{
+  "id": "3163",
+  "title": "String Compression III",
+  "titleSlug": "string-compression-iii",
+  "difficulty": "Medium",
+  "topics": [
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "26 ms",
+  "memory": "35.5 MB",
+  "runtimePercentile": "65.21%",
+  "memoryPercentile": "5.36%",
+  "submittedAt": "2024-11-04T04:20:08.000Z",
+  "submissionId": "1442360130"
+}
