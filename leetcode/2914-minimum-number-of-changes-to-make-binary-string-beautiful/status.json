@@ -1,0 +1,17 @@
+{
+  "id": "2914",
+  "title": "Minimum Number of Changes to Make Binary String Beautiful",
+  "titleSlug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+  "difficulty": "Medium",
+  "topics": [
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "9 ms",
+  "memory": "16.9 MB",
+  "runtimePercentile": "5.33%",
+  "memoryPercentile": "11.93%",
+  "submittedAt": "2024-11-05T07:25:35.000Z",
+  "submissionId": "1443580370"
+}
