@@ -1,0 +1,19 @@
+{
+  "id": "3011",
+  "title": "Find if Array Can Be Sorted",
+  "titleSlug": "find-if-array-can-be-sorted",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "31.4 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-11-06T14:49:02.000Z",
+  "submissionId": "1444869953"
+}
