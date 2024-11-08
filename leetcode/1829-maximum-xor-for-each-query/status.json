@@ -1,0 +1,19 @@
+{
+  "id": "1829",
+  "title": "Maximum XOR for Each Query",
+  "titleSlug": "maximum-xor-for-each-query",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Bit Manipulation",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "12 ms",
+  "memory": "99.6 MB",
+  "runtimePercentile": "20.47%",
+  "memoryPercentile": "58.04%",
+  "submittedAt": "2024-11-08T13:30:31.000Z",
+  "submissionId": "1446754658"
+}
