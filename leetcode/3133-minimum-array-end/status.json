@@ -1,0 +1,17 @@
+{
+  "id": "3133",
+  "title": "Minimum Array End",
+  "titleSlug": "minimum-array-end",
+  "difficulty": "Medium",
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.5 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-11-09T08:26:40.000Z",
+  "submissionId": "1447424302"
+}
