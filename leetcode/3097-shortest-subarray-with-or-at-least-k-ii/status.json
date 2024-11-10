@@ -1,0 +1,19 @@
+{
+  "id": "3097",
+  "title": "Shortest Subarray With OR at Least K II",
+  "titleSlug": "shortest-subarray-with-or-at-least-k-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Bit Manipulation",
+    "Sliding Window"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "51 ms",
+  "memory": "88.3 MB",
+  "runtimePercentile": "30.41%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-11-10T10:32:49.000Z",
+  "submissionId": "1448573793"
+}
