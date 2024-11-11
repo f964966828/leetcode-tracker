@@ -1,28 +1,30 @@
 class Solution {
 public:
     bool primeSubOperation(vector<int>& nums) {
-        vector<int> primes(1, 0);
-        for(int i=2; i<=1000; i++){
-            bool isPrime = true;
-            for(int k=2; k<i; k++){
-                if(i%k == 0) isPrime = false;
+        vector<int> primes;
+        for (int i = 2; i <= 1000; i++) {
+            bool is_prime = true;
+            for (int j = 2; j * j <= i; j++) {
+                if (i % j == 0) is_prime = false;
             }
-            if(isPrime) primes.push_back(i);
+            if (is_prime) primes.push_back(i);
         }
-        
-        int prev = 0;
-        for(int num: nums){
-            int target = num - prev;
-            if(target <= 0)
-                return false;
-            
-            auto iter = --lower_bound(primes.begin(), primes.end(), target);
-            prev = num - *iter;
-            
-            //cout << prev << " ";
+
+        for (int i = nums.size() - 2; i >= 0; i--) {
+            int diff = nums[i] - nums[i + 1];
+            if (diff >= 0) {
+                auto iter = upper_bound(primes.begin(), primes.end(), diff);
+                if (iter == primes.end()) return false;
+
+                int prime = *iter;
+                if (nums[i] > prime) {
+                    nums[i] -= prime;
+                } else {
+                    return false;
+                }
+            }
         }
-        //cout << endl;
-        
+
         return true;
     }
 };
