@@ -1,0 +1,19 @@
+{
+  "id": "2070",
+  "title": "Most Beautiful Item for Each Query",
+  "titleSlug": "most-beautiful-item-for-each-query",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "35 ms",
+  "memory": "92.3 MB",
+  "runtimePercentile": "96.42%",
+  "memoryPercentile": "86.68%",
+  "submittedAt": "2024-11-12T08:45:10.000Z",
+  "submissionId": "1450413601"
+}
