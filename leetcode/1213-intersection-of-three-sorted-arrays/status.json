@@ -1,0 +1,20 @@
+{
+  "id": "1213",
+  "title": "Intersection of Three Sorted Arrays",
+  "titleSlug": "intersection-of-three-sorted-arrays",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "4 ms",
+  "memory": "16.9 MB",
+  "runtimePercentile": "41.61%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-11-14T08:13:31.000Z",
+  "submissionId": "1452394661"
+}
