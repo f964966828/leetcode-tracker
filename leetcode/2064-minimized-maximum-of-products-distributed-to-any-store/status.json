@@ -1,0 +1,19 @@
+{
+  "id": "2064",
+  "title": "Minimized Maximum of Products Distributed to Any Store",
+  "titleSlug": "minimized-maximum-of-products-distributed-to-any-store",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "34 ms",
+  "memory": "87.4 MB",
+  "runtimePercentile": "46.39%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-11-14T08:23:19.000Z",
+  "submissionId": "1452400724"
+}
