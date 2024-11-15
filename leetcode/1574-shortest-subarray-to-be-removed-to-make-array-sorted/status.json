@@ -1,0 +1,21 @@
+{
+  "id": "1574",
+  "title": "Shortest Subarray to be Removed to Make Array Sorted",
+  "titleSlug": "shortest-subarray-to-be-removed-to-make-array-sorted",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "69.4 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-11-15T13:33:12.000Z",
+  "submissionId": "1453517680"
+}
