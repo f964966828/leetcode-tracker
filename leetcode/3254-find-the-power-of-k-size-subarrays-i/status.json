@@ -1,0 +1,18 @@
+{
+  "id": "3254",
+  "title": "Find the Power of K-Size Subarrays I",
+  "titleSlug": "find-the-power-of-k-size-subarrays-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sliding Window"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "11 ms",
+  "memory": "33.7 MB",
+  "runtimePercentile": "5.84%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2024-11-16T10:00:57.000Z",
+  "submissionId": "1454212762"
+}
