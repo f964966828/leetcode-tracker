@@ -1,0 +1,23 @@
+{
+  "id": "862",
+  "title": "Shortest Subarray with Sum at Least K",
+  "titleSlug": "shortest-subarray-with-sum-at-least-k",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Queue",
+    "Sliding Window",
+    "Heap (Priority Queue)",
+    "Prefix Sum",
+    "Monotonic Queue"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "50 ms",
+  "memory": "112.6 MB",
+  "runtimePercentile": "9.43%",
+  "memoryPercentile": "5.17%",
+  "submittedAt": "2024-11-17T11:14:06.000Z",
+  "submissionId": "1455224328"
+}
