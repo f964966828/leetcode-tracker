@@ -1,0 +1,19 @@
+{
+  "id": "2461",
+  "title": "Maximum Sum of Distinct Subarrays With Length K",
+  "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "212 ms",
+  "memory": "100.9 MB",
+  "runtimePercentile": "8.96%",
+  "memoryPercentile": "13.48%",
+  "submittedAt": "2024-11-19T05:46:02.000Z",
+  "submissionId": "1456930906"
+}
