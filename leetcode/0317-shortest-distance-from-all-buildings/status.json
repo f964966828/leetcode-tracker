@@ -1,0 +1,19 @@
+{
+  "id": "317",
+  "title": "Shortest Distance from All Buildings",
+  "titleSlug": "shortest-distance-from-all-buildings",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "470 ms",
+  "memory": "197.7 MB",
+  "runtimePercentile": "46.48%",
+  "memoryPercentile": "39.44%",
+  "submittedAt": "2025-04-07T15:50:29.000Z",
+  "submissionId": "1599701415"
+}
