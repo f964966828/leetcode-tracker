@@ -1,0 +1,20 @@
+{
+  "id": "416",
+  "title": "Partition Equal Subset Sum",
+  "titleSlug": "partition-equal-subset-sum",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Knapsack Problem",
+    "0-1 Knapsack"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "71 ms",
+  "memory": "15.9 MB",
+  "runtimePercentile": "85.52%",
+  "memoryPercentile": "74.44%",
+  "submittedAt": "2025-04-07T08:18:44.000Z",
+  "submissionId": "1599334640"
+}
