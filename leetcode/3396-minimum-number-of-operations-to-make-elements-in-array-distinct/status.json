@@ -1,0 +1,18 @@
+{
+  "id": "3396",
+  "title": "Minimum Number of Operations to Make Elements in Array Distinct",
+  "titleSlug": "minimum-number-of-operations-to-make-elements-in-array-distinct",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "27.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "40.94%",
+  "submittedAt": "2025-04-08T11:31:31.000Z",
+  "submissionId": "1600555782"
+}
