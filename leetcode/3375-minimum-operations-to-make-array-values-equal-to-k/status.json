@@ -1,0 +1,18 @@
+{
+  "id": "3375",
+  "title": "Minimum Operations to Make Array Values Equal to K",
+  "titleSlug": "minimum-operations-to-make-array-values-equal-to-k",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "6 ms",
+  "memory": "32.2 MB",
+  "runtimePercentile": "89.22%",
+  "memoryPercentile": "71.12%",
+  "submittedAt": "2025-04-09T18:19:04.000Z",
+  "submissionId": "1601976617"
+}
