@@ -1,0 +1,20 @@
+{
+  "id": "323",
+  "title": "Number of Connected Components in an Undirected Graph",
+  "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "18.7 MB",
+  "runtimePercentile": "63.11%",
+  "memoryPercentile": "22.04%",
+  "submittedAt": "2025-04-11T02:25:16.000Z",
+  "submissionId": "1603224601"
+}
