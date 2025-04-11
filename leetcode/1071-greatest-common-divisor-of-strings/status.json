@@ -1,0 +1,20 @@
+{
+  "id": "1071",
+  "title": "Greatest Common Divisor of Strings",
+  "titleSlug": "greatest-common-divisor-of-strings",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String",
+    "Euclidean Algorithm",
+    "Greatest Common Divisor"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "19 ms",
+  "memory": "46.6 MB",
+  "runtimePercentile": "5.25%",
+  "memoryPercentile": "5.11%",
+  "submittedAt": "2025-04-11T02:58:51.000Z",
+  "submissionId": "1603241660"
+}
