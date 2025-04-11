@@ -1,0 +1,17 @@
+{
+  "id": "1431",
+  "title": "Kids With the Greatest Number of Candies",
+  "titleSlug": "kids-with-the-greatest-number-of-candies",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "1 ms",
+  "memory": "12.5 MB",
+  "runtimePercentile": "3.25%",
+  "memoryPercentile": "60.06%",
+  "submittedAt": "2025-04-11T03:07:02.000Z",
+  "submissionId": "1603245922"
+}
