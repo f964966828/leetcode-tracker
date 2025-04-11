@@ -1,0 +1,18 @@
+{
+  "id": "2843",
+  "title": "  Count Symmetric Integers",
+  "titleSlug": "count-symmetric-integers",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Enumeration"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "77 ms",
+  "memory": "10.5 MB",
+  "runtimePercentile": "18.11%",
+  "memoryPercentile": "8.76%",
+  "submittedAt": "2025-04-11T02:20:23.000Z",
+  "submissionId": "1603222183"
+}
