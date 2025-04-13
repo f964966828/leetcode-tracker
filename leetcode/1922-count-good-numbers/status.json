@@ -1,0 +1,18 @@
+{
+  "id": "1922",
+  "title": "Count Good Numbers",
+  "titleSlug": "count-good-numbers",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Recursion"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "2 ms",
+  "memory": "7.8 MB",
+  "runtimePercentile": "2.20%",
+  "memoryPercentile": "97.14%",
+  "submittedAt": "2025-04-13T21:05:53.000Z",
+  "submissionId": "1605997131"
+}
