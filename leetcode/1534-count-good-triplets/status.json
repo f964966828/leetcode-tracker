@@ -1,0 +1,18 @@
+{
+  "id": "1534",
+  "title": "Count Good Triplets",
+  "titleSlug": "count-good-triplets",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Enumeration"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "11.2 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "7.75%",
+  "submittedAt": "2025-04-14T05:25:15.000Z",
+  "submissionId": "1606245531"
+}
