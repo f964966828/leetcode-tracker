@@ -1,0 +1,17 @@
+{
+  "id": "2176",
+  "title": "Count Equal and Divisible Pairs in an Array",
+  "titleSlug": "count-equal-and-divisible-pairs-in-an-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "15.4 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "93.57%",
+  "submittedAt": "2025-04-17T15:39:46.000Z",
+  "submissionId": "1609657111"
+}
