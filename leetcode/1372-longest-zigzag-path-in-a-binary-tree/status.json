@@ -1,0 +1,21 @@
+{
+  "id": "1372",
+  "title": "Longest ZigZag Path in a Binary Tree",
+  "titleSlug": "longest-zigzag-path-in-a-binary-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "DP on Trees"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "94.3 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "99.04%",
+  "submittedAt": "2025-04-19T23:37:58.000Z",
+  "submissionId": "1611928548"
+}
