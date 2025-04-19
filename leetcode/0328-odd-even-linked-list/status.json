@@ -1,0 +1,17 @@
+{
+  "id": "328",
+  "title": "Odd Even Linked List",
+  "titleSlug": "odd-even-linked-list",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "15.6 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "63.59%",
+  "submittedAt": "2025-04-19T21:48:00.000Z",
+  "submissionId": "1611884806"
+}
