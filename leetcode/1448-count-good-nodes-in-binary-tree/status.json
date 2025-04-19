@@ -1,0 +1,20 @@
+{
+  "id": "1448",
+  "title": "Count Good Nodes in Binary Tree",
+  "titleSlug": "count-good-nodes-in-binary-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "104 ms",
+  "memory": "88.1 MB",
+  "runtimePercentile": "32.00%",
+  "memoryPercentile": "97.77%",
+  "submittedAt": "2025-04-19T22:04:44.000Z",
+  "submissionId": "1611892204"
+}
