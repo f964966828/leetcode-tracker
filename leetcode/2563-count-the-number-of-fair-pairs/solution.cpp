@@ -15,7 +15,6 @@ public:
             
             int index_low = iter_low - nums.begin();
             int index_high = min((int)(iter_high - nums.begin()), i - 1);
-            cout << nums[i] << " " << index_low << " " << index_high << endl;
             ans += max((index_high - index_low + 1), 0);
         }
 
