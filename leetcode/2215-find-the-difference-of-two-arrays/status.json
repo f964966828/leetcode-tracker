@@ -1,0 +1,18 @@
+{
+  "id": "2215",
+  "title": "Find the Difference of Two Arrays",
+  "titleSlug": "find-the-difference-of-two-arrays",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "5 ms",
+  "memory": "18 MB",
+  "runtimePercentile": "77.75%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-04-19T20:08:01.000Z",
+  "submissionId": "1611833927"
+}
