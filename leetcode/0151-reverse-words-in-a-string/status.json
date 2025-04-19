@@ -9,10 +9,10 @@
   ],
   "status": "Accepted",
   "lang": "python3",
-  "runtime": "30 ms",
-  "memory": "16.8 MB",
-  "runtimePercentile": "5.82%",
+  "runtime": "3 ms",
+  "memory": "17.8 MB",
+  "runtimePercentile": "30.78%",
   "memoryPercentile": "100.00%",
-  "submittedAt": "2024-03-23T19:01:22.000Z",
-  "submissionId": "1211895909"
+  "submittedAt": "2025-04-19T18:58:28.000Z",
+  "submissionId": "1611786490"
 }
