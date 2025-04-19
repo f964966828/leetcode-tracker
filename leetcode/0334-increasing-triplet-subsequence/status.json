@@ -1,0 +1,19 @@
+{
+  "id": "334",
+  "title": "Increasing Triplet Subsequence",
+  "titleSlug": "increasing-triplet-subsequence",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Longest Increasing Subsequence"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "115.7 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "67.97%",
+  "submittedAt": "2025-04-19T19:04:41.000Z",
+  "submissionId": "1611791119"
+}
