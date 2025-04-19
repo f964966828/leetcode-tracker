@@ -1,0 +1,19 @@
+{
+  "id": "11",
+  "title": "Container With Most Water",
+  "titleSlug": "container-with-most-water",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "1 ms",
+  "memory": "62.9 MB",
+  "runtimePercentile": "44.29%",
+  "memoryPercentile": "79.30%",
+  "submittedAt": "2025-04-19T19:27:03.000Z",
+  "submissionId": "1611807235"
+}
