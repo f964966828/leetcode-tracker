@@ -1,0 +1,19 @@
+{
+  "id": "872",
+  "title": "Leaf-Similar Trees",
+  "titleSlug": "leaf-similar-trees",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "15.1 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "99.71%",
+  "submittedAt": "2025-04-19T21:59:16.000Z",
+  "submissionId": "1611889649"
+}
