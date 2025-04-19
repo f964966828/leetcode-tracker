@@ -1,0 +1,19 @@
+{
+  "id": "1493",
+  "title": "Longest Subarray of 1's After Deleting One Element",
+  "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Sliding Window"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "62.3 MB",
+  "runtimePercentile": "15.22%",
+  "memoryPercentile": "13.21%",
+  "submittedAt": "2025-04-19T19:51:30.000Z",
+  "submissionId": "1611823556"
+}
