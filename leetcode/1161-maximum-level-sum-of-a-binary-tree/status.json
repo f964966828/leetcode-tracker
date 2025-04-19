@@ -1,0 +1,20 @@
+{
+  "id": "1161",
+  "title": "Maximum Level Sum of a Binary Tree",
+  "titleSlug": "maximum-level-sum-of-a-binary-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "8 ms",
+  "memory": "115.7 MB",
+  "runtimePercentile": "21.91%",
+  "memoryPercentile": "5.42%",
+  "submittedAt": "2025-04-19T23:48:57.000Z",
+  "submissionId": "1611932261"
+}
