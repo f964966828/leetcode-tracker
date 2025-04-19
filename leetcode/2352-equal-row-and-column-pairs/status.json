@@ -1,0 +1,20 @@
+{
+  "id": "2352",
+  "title": "Equal Row and Column Pairs",
+  "titleSlug": "equal-row-and-column-pairs",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Matrix",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "51 ms",
+  "memory": "22.1 MB",
+  "runtimePercentile": "32.70%",
+  "memoryPercentile": "99.98%",
+  "submittedAt": "2025-04-19T20:03:39.000Z",
+  "submissionId": "1611831274"
+}
