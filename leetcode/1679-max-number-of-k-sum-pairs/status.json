@@ -1,0 +1,20 @@
+{
+  "id": "1679",
+  "title": "Max Number of K-Sum Pairs",
+  "titleSlug": "max-number-of-k-sum-pairs",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "106 ms",
+  "memory": "72 MB",
+  "runtimePercentile": "31.48%",
+  "memoryPercentile": "23.30%",
+  "submittedAt": "2025-04-19T19:14:01.000Z",
+  "submissionId": "1611797910"
+}
