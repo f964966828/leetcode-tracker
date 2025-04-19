@@ -1,0 +1,19 @@
+{
+  "id": "735",
+  "title": "Asteroid Collision",
+  "titleSlug": "asteroid-collision",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "21.6 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "89.55%",
+  "submittedAt": "2025-04-19T20:48:29.000Z",
+  "submissionId": "1611856509"
+}
