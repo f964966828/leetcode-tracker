@@ -1,0 +1,18 @@
+{
+  "id": "345",
+  "title": "Reverse Vowels of a String",
+  "titleSlug": "reverse-vowels-of-a-string",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "11.6 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "5.33%",
+  "submittedAt": "2025-04-19T18:57:57.000Z",
+  "submissionId": "1611786103"
+}
