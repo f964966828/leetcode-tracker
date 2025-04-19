@@ -1,0 +1,19 @@
+{
+  "id": "933",
+  "title": "Number of Recent Calls",
+  "titleSlug": "number-of-recent-calls",
+  "difficulty": "Easy",
+  "topics": [
+    "Design",
+    "Queue",
+    "Data Stream"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "20 ms",
+  "memory": "64.1 MB",
+  "runtimePercentile": "40.20%",
+  "memoryPercentile": "69.17%",
+  "submittedAt": "2025-04-19T21:31:30.000Z",
+  "submissionId": "1611877555"
+}
