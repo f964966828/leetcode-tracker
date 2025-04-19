@@ -1,0 +1,19 @@
+{
+  "id": "325",
+  "title": "Maximum Size Subarray Sum Equals k",
+  "titleSlug": "maximum-size-subarray-sum-equals-k",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "353 ms",
+  "memory": "122.8 MB",
+  "runtimePercentile": "6.74%",
+  "memoryPercentile": "74.16%",
+  "submittedAt": "2025-04-19T18:52:13.000Z",
+  "submissionId": "1611781883"
+}
