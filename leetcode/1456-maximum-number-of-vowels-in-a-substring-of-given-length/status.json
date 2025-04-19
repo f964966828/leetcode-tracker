@@ -1,0 +1,18 @@
+{
+  "id": "1456",
+  "title": "Maximum Number of Vowels in a Substring of Given Length",
+  "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Sliding Window"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "13 MB",
+  "runtimePercentile": "87.94%",
+  "memoryPercentile": "89.77%",
+  "submittedAt": "2025-04-19T19:37:08.000Z",
+  "submissionId": "1611814126"
+}
