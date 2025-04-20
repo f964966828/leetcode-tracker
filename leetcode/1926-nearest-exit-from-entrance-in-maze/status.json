@@ -1,0 +1,19 @@
+{
+  "id": "1926",
+  "title": "Nearest Exit from Entrance in Maze",
+  "titleSlug": "nearest-exit-from-entrance-in-maze",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "139 ms",
+  "memory": "69.5 MB",
+  "runtimePercentile": "5.55%",
+  "memoryPercentile": "5.01%",
+  "submittedAt": "2025-04-20T23:30:34.000Z",
+  "submissionId": "1612955623"
+}
