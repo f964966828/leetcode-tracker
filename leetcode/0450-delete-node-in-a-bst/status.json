@@ -1,0 +1,19 @@
+{
+  "id": "450",
+  "title": "Delete Node in a BST",
+  "titleSlug": "delete-node-in-a-bst",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "34.3 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "87.09%",
+  "submittedAt": "2025-04-20T00:36:18.000Z",
+  "submissionId": "1611949752"
+}
