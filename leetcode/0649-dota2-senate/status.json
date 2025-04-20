@@ -1,0 +1,19 @@
+{
+  "id": "649",
+  "title": "Dota2 Senate",
+  "titleSlug": "dota2-senate",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Greedy",
+    "Queue"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "12.6 MB",
+  "runtimePercentile": "17.56%",
+  "memoryPercentile": "7.47%",
+  "submittedAt": "2025-04-20T00:54:05.000Z",
+  "submissionId": "1611956321"
+}
