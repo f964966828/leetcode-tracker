@@ -1,0 +1,19 @@
+{
+  "id": "3524",
+  "title": "Find X Value of Array I",
+  "titleSlug": "find-x-value-of-array-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "150 ms",
+  "memory": "151.2 MB",
+  "runtimePercentile": "82.08%",
+  "memoryPercentile": "54.72%",
+  "submittedAt": "2025-04-20T03:31:29.000Z",
+  "submissionId": "1612080936"
+}
