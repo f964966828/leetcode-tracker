@@ -1,0 +1,20 @@
+{
+  "id": "3523",
+  "title": "Make Array Non-decreasing",
+  "titleSlug": "make-array-non-decreasing",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "206.4 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "51.04%",
+  "submittedAt": "2025-04-20T03:01:37.000Z",
+  "submissionId": "1612041542"
+}
