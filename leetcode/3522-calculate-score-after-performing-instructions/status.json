@@ -1,0 +1,20 @@
+{
+  "id": "3522",
+  "title": "Calculate Score After Performing Instructions",
+  "titleSlug": "calculate-score-after-performing-instructions",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "167.2 MB",
+  "runtimePercentile": "64.29%",
+  "memoryPercentile": "74.06%",
+  "submittedAt": "2025-04-20T02:34:37.000Z",
+  "submissionId": "1611996284"
+}
