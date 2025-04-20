@@ -1,0 +1,25 @@
+{
+  "id": "399",
+  "title": "Evaluate Division",
+  "titleSlug": "evaluate-division",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory",
+    "Shortest Path",
+    "Bellman–Ford Algorithm",
+    "Floyd–Warshall Algorithm"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "2 ms",
+  "memory": "12 MB",
+  "runtimePercentile": "22.06%",
+  "memoryPercentile": "60.01%",
+  "submittedAt": "2025-04-20T15:40:08.000Z",
+  "submissionId": "1612645009"
+}
