@@ -1,0 +1,19 @@
+{
+  "id": "841",
+  "title": "Keys and Rooms",
+  "titleSlug": "keys-and-rooms",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "14.7 MB",
+  "runtimePercentile": "14.63%",
+  "memoryPercentile": "37.21%",
+  "submittedAt": "2025-04-20T16:03:19.000Z",
+  "submissionId": "1612663373"
+}
