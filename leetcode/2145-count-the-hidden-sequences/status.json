@@ -1,0 +1,18 @@
+{
+  "id": "2145",
+  "title": "Count the Hidden Sequences",
+  "titleSlug": "count-the-hidden-sequences",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "112.6 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "50.89%",
+  "submittedAt": "2025-04-21T05:44:12.000Z",
+  "submissionId": "1613181806"
+}
