@@ -1,0 +1,22 @@
+{
+  "id": "2338",
+  "title": "Count the Number of Ideal Arrays",
+  "titleSlug": "count-the-number-of-ideal-arrays",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Combinatorics",
+    "Number Theory",
+    "Prime Factorization",
+    "Fermat's Little Theorem"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "10 ms",
+  "memory": "10.3 MB",
+  "runtimePercentile": "75.00%",
+  "memoryPercentile": "76.47%",
+  "submittedAt": "2025-04-22T07:27:30.000Z",
+  "submissionId": "1614368420"
+}
