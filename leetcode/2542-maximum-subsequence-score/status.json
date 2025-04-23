@@ -1,0 +1,20 @@
+{
+  "id": "2542",
+  "title": "Maximum Subsequence Score",
+  "titleSlug": "maximum-subsequence-score",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "75 ms",
+  "memory": "99.3 MB",
+  "runtimePercentile": "30.92%",
+  "memoryPercentile": "27.05%",
+  "submittedAt": "2025-04-23T20:14:37.000Z",
+  "submissionId": "1616025229"
+}
