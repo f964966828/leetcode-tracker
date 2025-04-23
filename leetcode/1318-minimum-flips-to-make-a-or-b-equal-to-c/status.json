@@ -1,0 +1,17 @@
+{
+  "id": "1318",
+  "title": "Minimum Flips to Make a OR b Equal to c",
+  "titleSlug": "minimum-flips-to-make-a-or-b-equal-to-c",
+  "difficulty": "Medium",
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "7.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "4.95%",
+  "submittedAt": "2025-04-23T23:42:10.000Z",
+  "submissionId": "1616111898"
+}
