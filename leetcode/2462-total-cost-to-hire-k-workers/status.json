@@ -1,0 +1,20 @@
+{
+  "id": "2462",
+  "title": "Total Cost to Hire K Workers",
+  "titleSlug": "total-cost-to-hire-k-workers",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Heap (Priority Queue)",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "56 ms",
+  "memory": "79.8 MB",
+  "runtimePercentile": "23.98%",
+  "memoryPercentile": "18.79%",
+  "submittedAt": "2025-04-23T20:38:37.000Z",
+  "submissionId": "1616038438"
+}
