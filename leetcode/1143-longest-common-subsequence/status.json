@@ -1,0 +1,19 @@
+{
+  "id": "1143",
+  "title": "Longest Common Subsequence",
+  "titleSlug": "longest-common-subsequence",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Longest Common Subsequence"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "24 ms",
+  "memory": "27.4 MB",
+  "runtimePercentile": "72.81%",
+  "memoryPercentile": "55.87%",
+  "submittedAt": "2025-04-23T22:52:43.000Z",
+  "submissionId": "1616095062"
+}
