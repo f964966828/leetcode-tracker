@@ -1,0 +1,21 @@
+{
+  "id": "302",
+  "title": "Smallest Rectangle Enclosing Black Pixels",
+  "titleSlug": "smallest-rectangle-enclosing-black-pixels",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "8 ms",
+  "memory": "23.9 MB",
+  "runtimePercentile": "13.11%",
+  "memoryPercentile": "13.11%",
+  "submittedAt": "2025-04-23T18:25:11.000Z",
+  "submissionId": "1615946039"
+}
