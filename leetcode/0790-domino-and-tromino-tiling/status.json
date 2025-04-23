@@ -1,0 +1,17 @@
+{
+  "id": "790",
+  "title": "Domino and Tromino Tiling",
+  "titleSlug": "domino-and-tromino-tiling",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "62.41%",
+  "submittedAt": "2025-04-23T22:39:17.000Z",
+  "submissionId": "1616090297"
+}
