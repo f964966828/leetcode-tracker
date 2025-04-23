@@ -1,0 +1,19 @@
+{
+  "id": "1399",
+  "title": "Count Largest Group",
+  "titleSlug": "count-largest-group",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "7.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "77.49%",
+  "submittedAt": "2025-04-23T07:52:42.000Z",
+  "submissionId": "1615429368"
+}
