@@ -1,0 +1,19 @@
+{
+  "id": "2799",
+  "title": "Count Complete Subarrays in an Array",
+  "titleSlug": "count-complete-subarrays-in-an-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "19 ms",
+  "memory": "40.3 MB",
+  "runtimePercentile": "70.43%",
+  "memoryPercentile": "95.38%",
+  "submittedAt": "2025-04-24T06:31:36.000Z",
+  "submissionId": "1616366064"
+}
