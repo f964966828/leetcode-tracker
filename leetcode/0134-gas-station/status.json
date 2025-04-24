@@ -1,0 +1,18 @@
+{
+  "id": "134",
+  "title": "Gas Station",
+  "titleSlug": "gas-station",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "112.5 MB",
+  "runtimePercentile": "34.61%",
+  "memoryPercentile": "61.27%",
+  "submittedAt": "2025-04-24T05:58:15.000Z",
+  "submissionId": "1616337082"
+}
