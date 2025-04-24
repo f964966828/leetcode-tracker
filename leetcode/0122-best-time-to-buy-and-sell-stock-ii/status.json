@@ -1,0 +1,19 @@
+{
+  "id": "122",
+  "title": "Best Time to Buy and Sell Stock II",
+  "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "17 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-04-24T04:51:23.000Z",
+  "submissionId": "1616281083"
+}
