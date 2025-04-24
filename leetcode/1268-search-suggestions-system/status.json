@@ -1,0 +1,22 @@
+{
+  "id": "1268",
+  "title": "Search Suggestions System",
+  "titleSlug": "search-suggestions-system",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Binary Search",
+    "Trie",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "31 ms",
+  "memory": "44 MB",
+  "runtimePercentile": "64.68%",
+  "memoryPercentile": "62.90%",
+  "submittedAt": "2025-04-24T00:57:38.000Z",
+  "submissionId": "1616139900"
+}
