@@ -1,0 +1,20 @@
+{
+  "id": "901",
+  "title": "Online Stock Span",
+  "titleSlug": "online-stock-span",
+  "difficulty": "Medium",
+  "topics": [
+    "Stack",
+    "Design",
+    "Monotonic Stack",
+    "Data Stream"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "43 ms",
+  "memory": "95.1 MB",
+  "runtimePercentile": "21.61%",
+  "memoryPercentile": "28.25%",
+  "submittedAt": "2025-04-24T03:38:28.000Z",
+  "submissionId": "1616225275"
+}
