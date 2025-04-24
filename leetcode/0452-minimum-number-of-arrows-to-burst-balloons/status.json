@@ -1,0 +1,19 @@
+{
+  "id": "452",
+  "title": "Minimum Number of Arrows to Burst Balloons",
+  "titleSlug": "minimum-number-of-arrows-to-burst-balloons",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "44 ms",
+  "memory": "93.7 MB",
+  "runtimePercentile": "72.58%",
+  "memoryPercentile": "99.85%",
+  "submittedAt": "2025-04-24T03:09:13.000Z",
+  "submissionId": "1616205334"
+}
