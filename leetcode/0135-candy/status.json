@@ -1,0 +1,18 @@
+{
+  "id": "135",
+  "title": "Candy",
+  "titleSlug": "candy",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "23 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "54.88%",
+  "submittedAt": "2025-04-24T06:19:38.000Z",
+  "submissionId": "1616355719"
+}
