@@ -1,18 +1,15 @@
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
-        
         int n = temperatures.size();
         vector<int> ans(n);
-
-        priority_queue<vector<int>> pq;
-        for(int i=0; i<n; i++){
-            int t = temperatures[i];
-            while(!pq.empty() && t > -pq.top()[0]){
-                ans[pq.top()[1]] = i - pq.top()[1];
-                pq.pop();
+        stack<int> stk;
+        for (int i = 0; i < n; i++) {
+            while (!stk.empty() && temperatures[stk.top()] < temperatures[i]) {
+                ans[stk.top()] = i - stk.top();
+                stk.pop();       
             }
-            pq.push({-t, i});
+            stk.push(i);
         }
 
         return ans;
