@@ -1,0 +1,19 @@
+{
+  "id": "274",
+  "title": "H-Index",
+  "titleSlug": "h-index",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "12.3 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "35.12%",
+  "submittedAt": "2025-04-24T05:05:07.000Z",
+  "submissionId": "1616292385"
+}
