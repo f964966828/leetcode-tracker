@@ -1,0 +1,17 @@
+{
+  "id": "1056",
+  "title": "Confusing Number",
+  "titleSlug": "confusing-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "0 ms",
+  "memory": "18 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-04-25T22:12:23.000Z",
+  "submissionId": "1617950058"
+}
