@@ -1,0 +1,18 @@
+{
+  "id": "161",
+  "title": "One Edit Distance",
+  "titleSlug": "one-edit-distance",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "3 ms",
+  "memory": "17.7 MB",
+  "runtimePercentile": "26.80%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-04-25T22:33:04.000Z",
+  "submissionId": "1617956920"
+}
