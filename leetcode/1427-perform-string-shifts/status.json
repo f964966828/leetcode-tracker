@@ -1,0 +1,19 @@
+{
+  "id": "1427",
+  "title": "Perform String Shifts",
+  "titleSlug": "perform-string-shifts",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "0 ms",
+  "memory": "17.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-04-25T22:19:51.000Z",
+  "submissionId": "1617952579"
+}
