@@ -1,0 +1,19 @@
+{
+  "id": "2845",
+  "title": "Count of Interesting Subarrays",
+  "titleSlug": "count-of-interesting-subarrays",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "59 ms",
+  "memory": "127.3 MB",
+  "runtimePercentile": "42.22%",
+  "memoryPercentile": "10.79%",
+  "submittedAt": "2025-04-25T02:03:13.000Z",
+  "submissionId": "1617129321"
+}
