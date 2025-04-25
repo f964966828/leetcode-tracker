@@ -1,0 +1,18 @@
+{
+  "id": "624",
+  "title": "Maximum Distance in Arrays",
+  "titleSlug": "maximum-distance-in-arrays",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "108.2 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "18.53%",
+  "submittedAt": "2025-04-25T21:54:05.000Z",
+  "submissionId": "1617943597"
+}
