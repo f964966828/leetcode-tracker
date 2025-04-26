@@ -1,0 +1,17 @@
+{
+  "id": "1474",
+  "title": "Delete N Nodes After M Nodes of a Linked List",
+  "titleSlug": "delete-n-nodes-after-m-nodes-of-a-linked-list",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "21 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "10.00%",
+  "submittedAt": "2025-04-26T12:25:20.000Z",
+  "submissionId": "1618347707"
+}
