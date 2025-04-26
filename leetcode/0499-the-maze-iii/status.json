@@ -1,0 +1,27 @@
+{
+  "id": "499",
+  "title": "The Maze III",
+  "titleSlug": "the-maze-iii",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "String",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Shortest Path",
+    "Dijkstra's Algorithm",
+    "Heuristic Search",
+    "A* Search"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "17 ms",
+  "memory": "20.2 MB",
+  "runtimePercentile": "6.78%",
+  "memoryPercentile": "5.08%",
+  "submittedAt": "2025-04-26T04:38:17.000Z",
+  "submissionId": "1618074606"
+}
