@@ -1,0 +1,18 @@
+{
+  "id": "760",
+  "title": "Find Anagram Mappings",
+  "titleSlug": "find-anagram-mappings",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "0 ms",
+  "memory": "17.7 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-04-26T12:27:54.000Z",
+  "submissionId": "1618349213"
+}
