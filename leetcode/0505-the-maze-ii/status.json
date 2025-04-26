@@ -1,0 +1,26 @@
+{
+  "id": "505",
+  "title": "The Maze II",
+  "titleSlug": "the-maze-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Shortest Path",
+    "Dijkstra's Algorithm",
+    "Heuristic Search",
+    "A* Search"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "24.3 MB",
+  "runtimePercentile": "85.22%",
+  "memoryPercentile": "63.05%",
+  "submittedAt": "2025-04-26T02:39:45.000Z",
+  "submissionId": "1618028127"
+}
