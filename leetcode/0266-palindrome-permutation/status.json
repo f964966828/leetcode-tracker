@@ -1,0 +1,19 @@
+{
+  "id": "266",
+  "title": "Palindrome Permutation",
+  "titleSlug": "palindrome-permutation",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Bit Manipulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.2 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "88.46%",
+  "submittedAt": "2025-04-26T12:40:06.000Z",
+  "submissionId": "1618356658"
+}
