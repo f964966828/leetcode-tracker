@@ -1,0 +1,19 @@
+{
+  "id": "3528",
+  "title": "Unit Conversion I",
+  "titleSlug": "unit-conversion-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "92 ms",
+  "memory": "232.5 MB",
+  "runtimePercentile": "82.47%",
+  "memoryPercentile": "94.82%",
+  "submittedAt": "2025-04-26T14:46:49.000Z",
+  "submissionId": "1618453354"
+}
