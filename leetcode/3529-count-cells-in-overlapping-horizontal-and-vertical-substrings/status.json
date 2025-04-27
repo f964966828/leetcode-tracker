@@ -1,0 +1,22 @@
+{
+  "id": "3529",
+  "title": "Count Cells in Overlapping Horizontal and Vertical Substrings",
+  "titleSlug": "count-cells-in-overlapping-horizontal-and-vertical-substrings",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Rolling Hash",
+    "String Matching",
+    "Matrix",
+    "Hash Function"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "2256 ms",
+  "memory": "63.1 MB",
+  "runtimePercentile": "5.71%",
+  "memoryPercentile": "95.71%",
+  "submittedAt": "2025-04-27T01:32:44.000Z",
+  "submissionId": "1618845248"
+}
