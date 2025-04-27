@@ -1,0 +1,17 @@
+{
+  "id": "3392",
+  "title": "Count Subarrays of Length Three With a Condition",
+  "titleSlug": "count-subarrays-of-length-three-with-a-condition",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "48.5 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "9.55%",
+  "submittedAt": "2025-04-27T15:02:44.000Z",
+  "submissionId": "1619423704"
+}
