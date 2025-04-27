@@ -1,0 +1,19 @@
+{
+  "id": "3531",
+  "title": "Count Covered Buildings",
+  "titleSlug": "count-covered-buildings",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "894 ms",
+  "memory": "451.1 MB",
+  "runtimePercentile": "10.51%",
+  "memoryPercentile": "10.05%",
+  "submittedAt": "2025-04-27T03:35:17.000Z",
+  "submissionId": "1618939764"
+}
