@@ -1,0 +1,19 @@
+{
+  "id": "734",
+  "title": "Sentence Similarity",
+  "titleSlug": "sentence-similarity",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "2 ms",
+  "memory": "15.7 MB",
+  "runtimePercentile": "52.34%",
+  "memoryPercentile": "70.09%",
+  "submittedAt": "2025-04-28T16:59:45.000Z",
+  "submissionId": "1620391885"
+}
