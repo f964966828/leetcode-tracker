@@ -1,0 +1,20 @@
+{
+  "id": "2302",
+  "title": "Count Subarrays With Score Less Than K",
+  "titleSlug": "count-subarrays-with-score-less-than-k",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "99.1 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "45.78%",
+  "submittedAt": "2025-04-28T16:47:01.000Z",
+  "submissionId": "1620380719"
+}
