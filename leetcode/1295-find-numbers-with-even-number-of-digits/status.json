@@ -1,0 +1,18 @@
+{
+  "id": "1295",
+  "title": "Find Numbers with Even Number of Digits",
+  "titleSlug": "find-numbers-with-even-number-of-digits",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "python",
+  "runtime": "4 ms",
+  "memory": "12.5 MB",
+  "runtimePercentile": "32.34%",
+  "memoryPercentile": "4.41%",
+  "submittedAt": "2025-04-30T00:16:34.000Z",
+  "submissionId": "1621522303"
+}
