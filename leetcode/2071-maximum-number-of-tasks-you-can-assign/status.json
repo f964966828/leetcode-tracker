@@ -1,0 +1,23 @@
+{
+  "id": "2071",
+  "title": "Maximum Number of Tasks You Can Assign",
+  "titleSlug": "maximum-number-of-tasks-you-can-assign",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Queue",
+    "Sorting",
+    "Monotonic Queue"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "714 ms",
+  "memory": "286.3 MB",
+  "runtimePercentile": "60.06%",
+  "memoryPercentile": "39.93%",
+  "submittedAt": "2025-05-01T10:57:16.000Z",
+  "submissionId": "1622714439"
+}
