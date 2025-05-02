@@ -1,0 +1,19 @@
+{
+  "id": "838",
+  "title": "Push Dominoes",
+  "titleSlug": "push-dominoes",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "27 ms",
+  "memory": "27.2 MB",
+  "runtimePercentile": "32.11%",
+  "memoryPercentile": "30.96%",
+  "submittedAt": "2025-05-02T04:34:03.000Z",
+  "submissionId": "1623315050"
+}
