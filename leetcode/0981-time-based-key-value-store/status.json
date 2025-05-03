@@ -1,0 +1,20 @@
+{
+  "id": "981",
+  "title": "Time Based Key-Value Store",
+  "titleSlug": "time-based-key-value-store",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Binary Search",
+    "Design"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "38 ms",
+  "memory": "136.5 MB",
+  "runtimePercentile": "86.73%",
+  "memoryPercentile": "84.35%",
+  "submittedAt": "2025-05-03T03:38:44.000Z",
+  "submissionId": "1624064374"
+}
