@@ -1,0 +1,21 @@
+{
+  "id": "353",
+  "title": "Design Snake Game",
+  "titleSlug": "design-snake-game",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Design",
+    "Queue",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "199 ms",
+  "memory": "582.8 MB",
+  "runtimePercentile": "5.48%",
+  "memoryPercentile": "19.86%",
+  "submittedAt": "2025-05-03T01:22:22.000Z",
+  "submissionId": "1624017102"
+}
