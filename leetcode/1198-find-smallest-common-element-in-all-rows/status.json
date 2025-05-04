@@ -1,0 +1,21 @@
+{
+  "id": "1198",
+  "title": "Find Smallest Common Element in All Rows",
+  "titleSlug": "find-smallest-common-element-in-all-rows",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Matrix",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "12 ms",
+  "memory": "31.3 MB",
+  "runtimePercentile": "33.33%",
+  "memoryPercentile": "25.56%",
+  "submittedAt": "2025-05-04T12:49:22.000Z",
+  "submissionId": "1625262836"
+}
