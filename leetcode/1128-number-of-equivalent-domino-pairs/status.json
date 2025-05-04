@@ -1,0 +1,19 @@
+{
+  "id": "1128",
+  "title": "Number of Equivalent Domino Pairs",
+  "titleSlug": "number-of-equivalent-domino-pairs",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "26.1 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "92.76%",
+  "submittedAt": "2025-05-04T04:14:37.000Z",
+  "submissionId": "1624941044"
+}
