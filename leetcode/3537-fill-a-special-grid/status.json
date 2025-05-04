@@ -1,0 +1,19 @@
+{
+  "id": "3537",
+  "title": "Fill a Special Grid",
+  "titleSlug": "fill-a-special-grid",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "8 ms",
+  "memory": "69.1 MB",
+  "runtimePercentile": "75.76%",
+  "memoryPercentile": "22.22%",
+  "submittedAt": "2025-05-04T02:42:25.000Z",
+  "submissionId": "1624866757"
+}
