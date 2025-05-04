@@ -1,0 +1,18 @@
+{
+  "id": "422",
+  "title": "Valid Word Square",
+  "titleSlug": "valid-word-square",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "18 ms",
+  "memory": "18.4 MB",
+  "runtimePercentile": "65.88%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-05-04T12:55:38.000Z",
+  "submissionId": "1625266908"
+}
