@@ -1,0 +1,18 @@
+{
+  "id": "1426",
+  "title": "Counting Elements",
+  "titleSlug": "counting-elements",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "11.5 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "36.21%",
+  "submittedAt": "2025-05-04T12:47:21.000Z",
+  "submissionId": "1625261547"
+}
