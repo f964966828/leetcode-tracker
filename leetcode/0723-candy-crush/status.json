@@ -1,0 +1,20 @@
+{
+  "id": "723",
+  "title": "Candy Crush",
+  "titleSlug": "candy-crush",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Matrix",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "2 ms",
+  "memory": "14.4 MB",
+  "runtimePercentile": "79.92%",
+  "memoryPercentile": "19.25%",
+  "submittedAt": "2025-05-04T13:28:53.000Z",
+  "submissionId": "1625288034"
+}
