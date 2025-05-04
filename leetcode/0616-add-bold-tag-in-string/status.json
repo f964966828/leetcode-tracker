@@ -1,0 +1,22 @@
+{
+  "id": "616",
+  "title": "Add Bold Tag in String",
+  "titleSlug": "add-bold-tag-in-string",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Trie",
+    "String Matching",
+    "Aho–Corasick Algorithm"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "13.9 MB",
+  "runtimePercentile": "65.58%",
+  "memoryPercentile": "59.74%",
+  "submittedAt": "2025-05-04T14:25:04.000Z",
+  "submissionId": "1625325548"
+}
