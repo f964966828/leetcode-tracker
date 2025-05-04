@@ -1,0 +1,19 @@
+{
+  "id": "1133",
+  "title": "Largest Unique Number",
+  "titleSlug": "largest-unique-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "12.3 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "91.06%",
+  "submittedAt": "2025-05-04T12:45:29.000Z",
+  "submissionId": "1625260408"
+}
