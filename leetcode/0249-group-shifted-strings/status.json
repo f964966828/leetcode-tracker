@@ -1,0 +1,19 @@
+{
+  "id": "249",
+  "title": "Group Shifted Strings",
+  "titleSlug": "group-shifted-strings",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "1 ms",
+  "memory": "10.9 MB",
+  "runtimePercentile": "64.95%",
+  "memoryPercentile": "92.27%",
+  "submittedAt": "2025-05-04T12:42:18.000Z",
+  "submissionId": "1625258360"
+}
