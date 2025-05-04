@@ -1,0 +1,20 @@
+{
+  "id": "1055",
+  "title": "Shortest Way to Form String",
+  "titleSlug": "shortest-way-to-form-string",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Binary Search",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.7 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "96.94%",
+  "submittedAt": "2025-05-04T10:28:38.000Z",
+  "submissionId": "1625176063"
+}
