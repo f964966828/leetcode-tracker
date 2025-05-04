@@ -1,0 +1,18 @@
+{
+  "id": "186",
+  "title": "Reverse Words in a String II",
+  "titleSlug": "reverse-words-in-a-string-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "20.1 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "59.42%",
+  "submittedAt": "2025-05-04T10:16:25.000Z",
+  "submissionId": "1625168429"
+}
