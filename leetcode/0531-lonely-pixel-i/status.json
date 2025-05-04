@@ -1,0 +1,19 @@
+{
+  "id": "531",
+  "title": "Lonely Pixel I",
+  "titleSlug": "lonely-pixel-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "32 ms",
+  "memory": "22.9 MB",
+  "runtimePercentile": "5.66%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-05-04T13:04:01.000Z",
+  "submissionId": "1625272136"
+}
