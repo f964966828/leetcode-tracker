@@ -1,0 +1,19 @@
+{
+  "id": "487",
+  "title": "Max Consecutive Ones II",
+  "titleSlug": "max-consecutive-ones-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Sliding Window"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "39.8 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "87.01%",
+  "submittedAt": "2025-05-04T12:11:59.000Z",
+  "submissionId": "1625239808"
+}
