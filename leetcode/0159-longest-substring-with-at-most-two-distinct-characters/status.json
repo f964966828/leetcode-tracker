@@ -1,0 +1,19 @@
+{
+  "id": "159",
+  "title": "Longest Substring with At Most Two Distinct Characters",
+  "titleSlug": "longest-substring-with-at-most-two-distinct-characters",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "12.1 MB",
+  "runtimePercentile": "93.66%",
+  "memoryPercentile": "88.81%",
+  "submittedAt": "2025-05-04T10:34:23.000Z",
+  "submissionId": "1625179581"
+}
