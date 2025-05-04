@@ -1,0 +1,18 @@
+{
+  "id": "1165",
+  "title": "Single-Row Keyboard",
+  "titleSlug": "single-row-keyboard",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "9.2 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "95.06%",
+  "submittedAt": "2025-05-04T12:23:34.000Z",
+  "submissionId": "1625246799"
+}
