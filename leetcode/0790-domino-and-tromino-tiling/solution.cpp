@@ -2,17 +2,16 @@ class Solution {
 public:
     int mod = 1e9 + 7;
     int numTilings(int n) {
-        vector<int> full(n + 2), part(n + 2);
-        part[1] = 0;
-        part[2] = 1;
-        full[1] = 1;
-        full[2] = 2;
-        
-        for (int i = 3; i <= n; i++) {
-            part[i] = (full[i - 2] + part[i - 1]) % mod;
-            full[i] = ((full[i - 2] + full[i - 1]) % mod + part[i - 1] * 2 % mod) % mod;
+        int full = 1, prevFull = 1, part = 0, prevPart = 0;
+        for (int i = 2; i <= n; i++) {
+            int newPart = ((prevFull * 2) % mod + part) % mod;
+            int newFull = ((prevFull + full) % mod + part) % mod;
+            prevFull = full;
+            prevPart = part;
+            full = newFull;
+            part = newPart;
         }
 
-        return full[n];
+        return full;
     }
 };
