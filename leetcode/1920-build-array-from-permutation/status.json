@@ -8,11 +8,11 @@
     "Simulation"
   ],
   "status": "Accepted",
-  "lang": "cpp",
-  "runtime": "4 ms",
-  "memory": "16.3 MB",
-  "runtimePercentile": "4.34%",
+  "lang": "python3",
+  "runtime": "0 ms",
+  "memory": "18 MB",
+  "runtimePercentile": "100.00%",
   "memoryPercentile": "100.00%",
-  "submittedAt": "2023-02-24T05:07:51.000Z",
-  "submissionId": "903942874"
+  "submittedAt": "2025-05-06T01:15:30.000Z",
+  "submissionId": "1626563706"
 }
