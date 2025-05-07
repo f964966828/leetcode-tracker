@@ -1,0 +1,21 @@
+{
+  "id": "3341",
+  "title": "Find Minimum Time to Reach Last Room I",
+  "titleSlug": "find-minimum-time-to-reach-last-room-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Shortest Path"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "26 ms",
+  "memory": "31.1 MB",
+  "runtimePercentile": "37.76%",
+  "memoryPercentile": "25.92%",
+  "submittedAt": "2025-05-07T08:48:05.000Z",
+  "submissionId": "1627667541"
+}
