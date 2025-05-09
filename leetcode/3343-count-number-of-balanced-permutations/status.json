@@ -1,0 +1,20 @@
+{
+  "id": "3343",
+  "title": "Count Number of Balanced Permutations",
+  "titleSlug": "count-number-of-balanced-permutations",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "String",
+    "Dynamic Programming",
+    "Combinatorics"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "150 ms",
+  "memory": "19.4 MB",
+  "runtimePercentile": "50.60%",
+  "memoryPercentile": "65.06%",
+  "submittedAt": "2025-05-09T12:02:56.000Z",
+  "submissionId": "1629285810"
+}
