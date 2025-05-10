@@ -1,0 +1,18 @@
+{
+  "id": "2918",
+  "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+  "titleSlug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "127 ms",
+  "memory": "135.5 MB",
+  "runtimePercentile": "94.22%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-05-10T06:57:02.000Z",
+  "submissionId": "1629852773"
+}
