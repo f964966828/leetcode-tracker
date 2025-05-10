@@ -1,0 +1,21 @@
+{
+  "id": "3542",
+  "title": "Minimum Operations to Convert All Elements to Zero",
+  "titleSlug": "minimum-operations-to-convert-all-elements-to-zero",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "1960 ms",
+  "memory": "484.1 MB",
+  "runtimePercentile": "5.13%",
+  "memoryPercentile": "5.40%",
+  "submittedAt": "2025-05-10T14:56:51.000Z",
+  "submissionId": "1630173765"
+}
