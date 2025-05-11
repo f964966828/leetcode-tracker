@@ -1,0 +1,17 @@
+{
+  "id": "1272",
+  "title": "Remove Interval",
+  "titleSlug": "remove-interval",
+  "difficulty": "Medium",
+  "topics": [
+    "Array"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "42.6 MB",
+  "runtimePercentile": "78.08%",
+  "memoryPercentile": "73.97%",
+  "submittedAt": "2025-05-11T10:10:20.000Z",
+  "submissionId": "1630933963"
+}
