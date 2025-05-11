@@ -1,0 +1,19 @@
+{
+  "id": "227",
+  "title": "Basic Calculator II",
+  "titleSlug": "basic-calculator-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "String",
+    "Stack"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "38 ms",
+  "memory": "38.6 MB",
+  "runtimePercentile": "5.53%",
+  "memoryPercentile": "5.00%",
+  "submittedAt": "2025-05-11T17:48:00.000Z",
+  "submissionId": "1631253936"
+}
