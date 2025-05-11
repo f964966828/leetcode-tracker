@@ -1,0 +1,20 @@
+{
+  "id": "224",
+  "title": "Basic Calculator",
+  "titleSlug": "basic-calculator",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "String",
+    "Stack",
+    "Recursion"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "19 ms",
+  "memory": "23.2 MB",
+  "runtimePercentile": "7.01%",
+  "memoryPercentile": "5.06%",
+  "submittedAt": "2025-05-11T17:41:30.000Z",
+  "submissionId": "1631248573"
+}
