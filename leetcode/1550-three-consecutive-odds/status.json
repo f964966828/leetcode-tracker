@@ -1,0 +1,17 @@
+{
+  "id": "1550",
+  "title": "Three Consecutive Odds",
+  "titleSlug": "three-consecutive-odds",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "11.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "22.03%",
+  "submittedAt": "2025-05-11T09:42:27.000Z",
+  "submissionId": "1630916160"
+}
