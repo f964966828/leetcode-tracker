@@ -1,0 +1,21 @@
+{
+  "id": "3545",
+  "title": "Minimum Deletions for At Most K Distinct Characters",
+  "titleSlug": "minimum-deletions-for-at-most-k-distinct-characters",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "9 MB",
+  "runtimePercentile": "41.64%",
+  "memoryPercentile": "89.15%",
+  "submittedAt": "2025-05-11T02:34:43.000Z",
+  "submissionId": "1630590181"
+}
