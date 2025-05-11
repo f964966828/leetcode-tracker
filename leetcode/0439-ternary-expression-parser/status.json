@@ -1,0 +1,19 @@
+{
+  "id": "439",
+  "title": "Ternary Expression Parser",
+  "titleSlug": "ternary-expression-parser",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Recursion"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "79.45%",
+  "submittedAt": "2025-05-11T10:41:43.000Z",
+  "submissionId": "1630954473"
+}
