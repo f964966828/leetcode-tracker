@@ -1,0 +1,19 @@
+{
+  "id": "3547",
+  "title": "Maximum Sum of Edge Values in a Graph",
+  "titleSlug": "maximum-sum-of-edge-values-in-a-graph",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "Greedy",
+    "Graph Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "195 ms",
+  "memory": "191.3 MB",
+  "runtimePercentile": "41.78%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-05-11T05:36:23.000Z",
+  "submissionId": "1630747662"
+}
