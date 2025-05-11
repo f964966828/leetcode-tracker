@@ -1,0 +1,21 @@
+{
+  "id": "3548",
+  "title": "Equal Sum Grid Partition II",
+  "titleSlug": "equal-sum-grid-partition-ii",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Matrix",
+    "Enumeration",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "826 ms",
+  "memory": "400.9 MB",
+  "runtimePercentile": "55.46%",
+  "memoryPercentile": "37.86%",
+  "submittedAt": "2025-05-11T03:26:09.000Z",
+  "submissionId": "1630651797"
+}
