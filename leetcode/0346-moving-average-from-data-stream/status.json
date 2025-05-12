@@ -1,0 +1,20 @@
+{
+  "id": "346",
+  "title": "Moving Average from Data Stream",
+  "titleSlug": "moving-average-from-data-stream",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Design",
+    "Queue",
+    "Data Stream"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "20.8 MB",
+  "runtimePercentile": "46.36%",
+  "memoryPercentile": "80.04%",
+  "submittedAt": "2025-05-12T05:46:55.000Z",
+  "submissionId": "1631613473"
+}
