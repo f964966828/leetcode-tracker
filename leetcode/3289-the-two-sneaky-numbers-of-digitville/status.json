@@ -1,0 +1,19 @@
+{
+  "id": "3289",
+  "title": "The Two Sneaky Numbers of Digitville",
+  "titleSlug": "the-two-sneaky-numbers-of-digitville",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "26.5 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "21.86%",
+  "submittedAt": "2025-05-12T06:51:48.000Z",
+  "submissionId": "1631660362"
+}
