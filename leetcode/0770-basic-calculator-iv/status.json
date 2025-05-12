@@ -1,0 +1,21 @@
+{
+  "id": "770",
+  "title": "Basic Calculator IV",
+  "titleSlug": "basic-calculator-iv",
+  "difficulty": "Hard",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "String",
+    "Stack",
+    "Recursion"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "21.8 MB",
+  "runtimePercentile": "85.71%",
+  "memoryPercentile": "99.51%",
+  "submittedAt": "2025-05-12T05:28:20.000Z",
+  "submissionId": "1631600857"
+}
