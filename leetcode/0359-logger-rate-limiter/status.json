@@ -1,0 +1,19 @@
+{
+  "id": "359",
+  "title": "Logger Rate Limiter",
+  "titleSlug": "logger-rate-limiter",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Design",
+    "Data Stream"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "39.2 MB",
+  "runtimePercentile": "86.98%",
+  "memoryPercentile": "89.46%",
+  "submittedAt": "2025-05-12T05:33:14.000Z",
+  "submissionId": "1631604184"
+}
