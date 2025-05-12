@@ -1,0 +1,21 @@
+{
+  "id": "2094",
+  "title": "Finding 3-Digit Even Numbers",
+  "titleSlug": "finding-3-digit-even-numbers",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Recursion",
+    "Sorting",
+    "Enumeration"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "12.5 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "82.00%",
+  "submittedAt": "2025-05-12T04:22:50.000Z",
+  "submissionId": "1631558122"
+}
