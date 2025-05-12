@@ -1,0 +1,17 @@
+{
+  "id": "708",
+  "title": "Insert into a Sorted Circular Linked List",
+  "titleSlug": "insert-into-a-sorted-circular-linked-list",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "11 ms",
+  "memory": "13.1 MB",
+  "runtimePercentile": "8.16%",
+  "memoryPercentile": "96.60%",
+  "submittedAt": "2025-05-12T06:36:12.000Z",
+  "submissionId": "1631649175"
+}
