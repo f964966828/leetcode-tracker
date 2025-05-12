@@ -1,0 +1,17 @@
+{
+  "id": "1134",
+  "title": "Armstrong Number",
+  "titleSlug": "armstrong-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "8 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "38.46%",
+  "submittedAt": "2025-05-12T06:40:04.000Z",
+  "submissionId": "1631651945"
+}
