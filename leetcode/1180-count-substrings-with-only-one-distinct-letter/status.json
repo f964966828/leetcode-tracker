@@ -1,0 +1,18 @@
+{
+  "id": "1180",
+  "title": "Count Substrings with Only One Distinct Letter",
+  "titleSlug": "count-substrings-with-only-one-distinct-letter",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.5 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "29.73%",
+  "submittedAt": "2025-05-12T06:43:36.000Z",
+  "submissionId": "1631654538"
+}
