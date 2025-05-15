@@ -1,0 +1,20 @@
+{
+  "id": "2900",
+  "title": "Longest Unequal Adjacent Groups Subsequence I",
+  "titleSlug": "longest-unequal-adjacent-groups-subsequence-i",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "29.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "88.73%",
+  "submittedAt": "2025-05-15T07:59:34.000Z",
+  "submissionId": "1634465842"
+}
