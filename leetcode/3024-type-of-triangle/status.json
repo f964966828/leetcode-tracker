@@ -1,0 +1,20 @@
+{
+  "id": "3024",
+  "title": "Type of Triangle",
+  "titleSlug": "type-of-triangle",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Sorting",
+    "Polygons"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "22.8 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "92.33%",
+  "submittedAt": "2025-05-19T01:40:14.000Z",
+  "submissionId": "1637754140"
+}
