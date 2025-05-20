@@ -1,0 +1,18 @@
+{
+  "id": "3355",
+  "title": "Zero Array Transformation I",
+  "titleSlug": "zero-array-transformation-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "220 ms",
+  "memory": "298.2 MB",
+  "runtimePercentile": "5.01%",
+  "memoryPercentile": "30.88%",
+  "submittedAt": "2025-05-20T05:18:05.000Z",
+  "submissionId": "1638947572"
+}
