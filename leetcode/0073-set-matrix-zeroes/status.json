@@ -1,0 +1,19 @@
+{
+  "id": "73",
+  "title": "Set Matrix Zeroes",
+  "titleSlug": "set-matrix-zeroes",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "18.7 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "99.98%",
+  "submittedAt": "2025-05-21T08:36:58.000Z",
+  "submissionId": "1640118074"
+}
