@@ -1,0 +1,22 @@
+{
+  "id": "3362",
+  "title": "Zero Array Transformation III",
+  "titleSlug": "zero-array-transformation-iii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "128 ms",
+  "memory": "224.5 MB",
+  "runtimePercentile": "50.88%",
+  "memoryPercentile": "38.16%",
+  "submittedAt": "2025-05-22T09:56:30.000Z",
+  "submissionId": "1641112553"
+}
