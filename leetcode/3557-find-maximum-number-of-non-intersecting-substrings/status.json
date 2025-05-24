@@ -1,0 +1,20 @@
+{
+  "id": "3557",
+  "title": "Find Maximum Number of Non Intersecting Substrings",
+  "titleSlug": "find-maximum-number-of-non-intersecting-substrings",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "20.2 MB",
+  "runtimePercentile": "98.31%",
+  "memoryPercentile": "90.40%",
+  "submittedAt": "2025-05-24T15:00:03.000Z",
+  "submissionId": "1643132551"
+}
