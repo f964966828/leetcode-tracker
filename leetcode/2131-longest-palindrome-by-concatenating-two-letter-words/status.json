@@ -1,0 +1,21 @@
+{
+  "id": "2131",
+  "title": "Longest Palindrome by Concatenating Two Letter Words",
+  "titleSlug": "longest-palindrome-by-concatenating-two-letter-words",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "27 ms",
+  "memory": "171.9 MB",
+  "runtimePercentile": "88.02%",
+  "memoryPercentile": "78.72%",
+  "submittedAt": "2025-05-25T04:07:11.000Z",
+  "submissionId": "1643689408"
+}
