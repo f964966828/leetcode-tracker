@@ -1,0 +1,19 @@
+{
+  "id": "3561",
+  "title": "Resulting String After Adjacent Removals",
+  "titleSlug": "resulting-string-after-adjacent-removals",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "106 ms",
+  "memory": "78.6 MB",
+  "runtimePercentile": "36.98%",
+  "memoryPercentile": "7.40%",
+  "submittedAt": "2025-05-25T02:46:36.000Z",
+  "submissionId": "1643589423"
+}
