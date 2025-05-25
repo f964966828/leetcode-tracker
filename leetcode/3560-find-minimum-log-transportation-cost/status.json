@@ -1,0 +1,17 @@
+{
+  "id": "3560",
+  "title": "Find Minimum Log Transportation Cost",
+  "titleSlug": "find-minimum-log-transportation-cost",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "19.00%",
+  "submittedAt": "2025-05-25T02:37:06.000Z",
+  "submissionId": "1643570994"
+}
