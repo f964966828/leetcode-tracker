@@ -1,0 +1,17 @@
+{
+  "id": "2894",
+  "title": "Divisible and Non-divisible Sums Difference",
+  "titleSlug": "divisible-and-non-divisible-sums-difference",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.3 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "66.09%",
+  "submittedAt": "2025-05-27T10:36:08.000Z",
+  "submissionId": "1645913967"
+}
