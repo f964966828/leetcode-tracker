@@ -1,0 +1,19 @@
+{
+  "id": "3372",
+  "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+  "titleSlug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "181 ms",
+  "memory": "62.9 MB",
+  "runtimePercentile": "69.37%",
+  "memoryPercentile": "70.27%",
+  "submittedAt": "2025-05-28T05:58:38.000Z",
+  "submissionId": "1646697616"
+}
