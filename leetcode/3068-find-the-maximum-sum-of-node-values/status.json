@@ -1,0 +1,22 @@
+{
+  "id": "3068",
+  "title": "Find the Maximum Sum of Node Values",
+  "titleSlug": "find-the-maximum-sum-of-node-values",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy",
+    "Bit Manipulation",
+    "Tree",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "111 ms",
+  "memory": "158 MB",
+  "runtimePercentile": "11.83%",
+  "memoryPercentile": "11.26%",
+  "submittedAt": "2025-05-29T02:27:46.000Z",
+  "submissionId": "1647528753"
+}
