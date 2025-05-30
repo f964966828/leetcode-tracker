@@ -1,0 +1,18 @@
+{
+  "id": "2359",
+  "title": "Find Closest Node to Given Two Nodes",
+  "titleSlug": "find-closest-node-to-given-two-nodes",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Graph Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "162 ms",
+  "memory": "162.6 MB",
+  "runtimePercentile": "13.13%",
+  "memoryPercentile": "10.77%",
+  "submittedAt": "2025-05-30T16:46:14.000Z",
+  "submissionId": "1649066691"
+}
