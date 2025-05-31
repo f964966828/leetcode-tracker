@@ -1,0 +1,19 @@
+{
+  "id": "909",
+  "title": "Snakes and Ladders",
+  "titleSlug": "snakes-and-ladders",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "16.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "67.49%",
+  "submittedAt": "2025-05-31T18:26:07.000Z",
+  "submissionId": "1650000815"
+}
