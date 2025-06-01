@@ -1,0 +1,19 @@
+{
+  "id": "2929",
+  "title": "Distribute Candies Among Children II",
+  "titleSlug": "distribute-candies-among-children-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Combinatorics",
+    "Enumeration"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "14 ms",
+  "memory": "8.9 MB",
+  "runtimePercentile": "49.47%",
+  "memoryPercentile": "83.04%",
+  "submittedAt": "2025-06-01T19:29:33.000Z",
+  "submissionId": "1651037185"
+}
