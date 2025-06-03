@@ -1,0 +1,19 @@
+{
+  "id": "1298",
+  "title": "Maximum Candies You Can Get from Boxes",
+  "titleSlug": "maximum-candies-you-can-get-from-boxes",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "8 ms",
+  "memory": "44.5 MB",
+  "runtimePercentile": "43.38%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-06-03T02:30:45.000Z",
+  "submissionId": "1652247396"
+}
