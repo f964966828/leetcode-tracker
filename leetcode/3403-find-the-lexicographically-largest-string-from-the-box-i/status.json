@@ -1,0 +1,19 @@
+{
+  "id": "3403",
+  "title": "Find the Lexicographically Largest String From the Box I",
+  "titleSlug": "find-the-lexicographically-largest-string-from-the-box-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Enumeration"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "9 ms",
+  "memory": "12.9 MB",
+  "runtimePercentile": "91.91%",
+  "memoryPercentile": "76.28%",
+  "submittedAt": "2025-06-04T19:45:28.000Z",
+  "submissionId": "1654099125"
+}
