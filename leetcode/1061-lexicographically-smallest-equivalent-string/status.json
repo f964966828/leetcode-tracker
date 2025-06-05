@@ -1,0 +1,18 @@
+{
+  "id": "1061",
+  "title": "Lexicographically Smallest Equivalent String",
+  "titleSlug": "lexicographically-smallest-equivalent-string",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Union-Find"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "2 ms",
+  "memory": "9 MB",
+  "runtimePercentile": "46.62%",
+  "memoryPercentile": "53.92%",
+  "submittedAt": "2025-06-05T20:03:14.000Z",
+  "submissionId": "1655088540"
+}
