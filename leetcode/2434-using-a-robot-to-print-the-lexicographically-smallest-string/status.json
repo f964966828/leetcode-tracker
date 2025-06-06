@@ -1,0 +1,20 @@
+{
+  "id": "2434",
+  "title": "Using a Robot to Print the Lexicographically Smallest String",
+  "titleSlug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Stack",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "67 ms",
+  "memory": "51.4 MB",
+  "runtimePercentile": "26.26%",
+  "memoryPercentile": "5.20%",
+  "submittedAt": "2025-06-06T04:30:22.000Z",
+  "submissionId": "1655307773"
+}
