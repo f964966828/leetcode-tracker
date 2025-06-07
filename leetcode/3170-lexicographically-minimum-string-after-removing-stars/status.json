@@ -1,0 +1,21 @@
+{
+  "id": "3170",
+  "title": "Lexicographically Minimum String After Removing Stars",
+  "titleSlug": "lexicographically-minimum-string-after-removing-stars",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Stack",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "54 ms",
+  "memory": "27.2 MB",
+  "runtimePercentile": "80.71%",
+  "memoryPercentile": "42.51%",
+  "submittedAt": "2025-06-07T04:37:17.000Z",
+  "submissionId": "1656209086"
+}
