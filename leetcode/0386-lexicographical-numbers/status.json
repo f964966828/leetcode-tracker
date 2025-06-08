@@ -1,0 +1,18 @@
+{
+  "id": "386",
+  "title": "Lexicographical Numbers",
+  "titleSlug": "lexicographical-numbers",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Trie"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "14.2 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "46.29%",
+  "submittedAt": "2025-06-08T16:43:50.000Z",
+  "submissionId": "1657841125"
+}
