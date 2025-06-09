@@ -1,0 +1,17 @@
+{
+  "id": "440",
+  "title": "K-th Smallest in Lexicographical Order",
+  "titleSlug": "k-th-smallest-in-lexicographical-order",
+  "difficulty": "Hard",
+  "topics": [
+    "Trie"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.1 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "2.40%",
+  "submittedAt": "2025-06-09T05:13:06.000Z",
+  "submissionId": "1658264989"
+}
