@@ -2,7 +2,7 @@ class Solution {
 public:
     int countPairs(vector<int> &nums, int threshold) {
         int count = 0;
-        for(int i=0; i<nums.size()-1; i++) {
+        for (int i = 0; i < nums.size() - 1; i++) {
             if (nums[i+1] - nums[i] <= threshold) {
                 count++;
                 i++;
@@ -16,7 +16,7 @@ public:
         
         int l = 0, r = 1e9, ans;
         while (l <= r) {
-            int mid = (l+r)/2;
+            int mid = (l + r) / 2;
             
             int count = countPairs(nums, mid);
             //cout << mid << "   " << count << endl;
