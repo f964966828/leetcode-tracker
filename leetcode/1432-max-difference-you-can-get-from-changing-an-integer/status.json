@@ -1,0 +1,18 @@
+{
+  "id": "1432",
+  "title": "Max Difference You Can Get From Changing an Integer",
+  "titleSlug": "max-difference-you-can-get-from-changing-an-integer",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "0 ms",
+  "memory": "17.6 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-06-15T10:33:14.000Z",
+  "submissionId": "1664836499"
+}
