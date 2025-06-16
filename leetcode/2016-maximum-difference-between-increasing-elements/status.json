@@ -1,0 +1,17 @@
+{
+  "id": "2016",
+  "title": "Maximum Difference Between Increasing Elements",
+  "titleSlug": "maximum-difference-between-increasing-elements",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "0 ms",
+  "memory": "17.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-06-16T01:57:46.000Z",
+  "submissionId": "1665470442"
+}
