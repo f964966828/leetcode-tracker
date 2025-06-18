@@ -1,0 +1,19 @@
+{
+  "id": "2966",
+  "title": "Divide Array Into Arrays With Max Difference",
+  "titleSlug": "divide-array-into-arrays-with-max-difference",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "115 ms",
+  "memory": "126.1 MB",
+  "runtimePercentile": "13.42%",
+  "memoryPercentile": "18.08%",
+  "submittedAt": "2025-06-18T05:43:49.000Z",
+  "submissionId": "1667900784"
+}
