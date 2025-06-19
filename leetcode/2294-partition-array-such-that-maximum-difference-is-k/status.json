@@ -1,0 +1,19 @@
+{
+  "id": "2294",
+  "title": "Partition Array Such That Maximum Difference Is K",
+  "titleSlug": "partition-array-such-that-maximum-difference-is-k",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "35 ms",
+  "memory": "87 MB",
+  "runtimePercentile": "76.66%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-06-19T10:24:59.000Z",
+  "submissionId": "1669293458"
+}
