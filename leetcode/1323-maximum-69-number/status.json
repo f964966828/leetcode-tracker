@@ -1,0 +1,18 @@
+{
+  "id": "1323",
+  "title": "Maximum 69 Number",
+  "titleSlug": "maximum-69-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "0 ms",
+  "memory": "17.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-08-16T10:53:38.000Z",
+  "submissionId": "1737161375"
+}
