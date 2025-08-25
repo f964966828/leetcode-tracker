@@ -1,0 +1,19 @@
+{
+  "id": "498",
+  "title": "Diagonal Traverse",
+  "titleSlug": "diagonal-traverse",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "22.8 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "70.10%",
+  "submittedAt": "2025-08-25T07:46:11.000Z",
+  "submissionId": "1747469207"
+}
