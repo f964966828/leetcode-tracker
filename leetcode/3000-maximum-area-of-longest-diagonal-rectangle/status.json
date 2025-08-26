@@ -1,0 +1,17 @@
+{
+  "id": "3000",
+  "title": "Maximum Area of Longest Diagonal Rectangle",
+  "titleSlug": "maximum-area-of-longest-diagonal-rectangle",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "1 ms",
+  "memory": "29.8 MB",
+  "runtimePercentile": "15.78%",
+  "memoryPercentile": "13.11%",
+  "submittedAt": "2025-08-26T06:41:18.000Z",
+  "submissionId": "1748657809"
+}
