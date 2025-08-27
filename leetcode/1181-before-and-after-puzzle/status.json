@@ -1,0 +1,20 @@
+{
+  "id": "1181",
+  "title": "Before and After Puzzle",
+  "titleSlug": "before-and-after-puzzle",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "15 ms",
+  "memory": "18.2 MB",
+  "runtimePercentile": "5.56%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-08-27T13:50:27.000Z",
+  "submissionId": "1750216701"
+}
