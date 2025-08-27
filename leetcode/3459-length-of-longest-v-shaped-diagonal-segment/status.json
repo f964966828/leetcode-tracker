@@ -1,0 +1,20 @@
+{
+  "id": "3459",
+  "title": "Length of Longest V-Shaped Diagonal Segment",
+  "titleSlug": "length-of-longest-v-shaped-diagonal-segment",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Memoization",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "231 ms",
+  "memory": "111.8 MB",
+  "runtimePercentile": "91.38%",
+  "memoryPercentile": "52.16%",
+  "submittedAt": "2025-08-27T13:29:46.000Z",
+  "submissionId": "1750195094"
+}
