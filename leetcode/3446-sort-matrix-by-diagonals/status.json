@@ -1,0 +1,19 @@
+{
+  "id": "3446",
+  "title": "Sort Matrix by Diagonals",
+  "titleSlug": "sort-matrix-by-diagonals",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "43.3 MB",
+  "runtimePercentile": "84.97%",
+  "memoryPercentile": "86.76%",
+  "submittedAt": "2025-08-28T01:43:09.000Z",
+  "submissionId": "1750769206"
+}
