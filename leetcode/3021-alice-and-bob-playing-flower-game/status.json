@@ -1,0 +1,17 @@
+{
+  "id": "3021",
+  "title": "Alice and Bob Playing Flower Game",
+  "titleSlug": "alice-and-bob-playing-flower-game",
+  "difficulty": "Medium",
+  "topics": [
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.4 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "89.39%",
+  "submittedAt": "2025-08-29T20:01:39.000Z",
+  "submissionId": "1752854510"
+}
