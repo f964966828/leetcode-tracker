@@ -1,0 +1,22 @@
+{
+  "id": "37",
+  "title": "Sudoku Solver",
+  "titleSlug": "sudoku-solver",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Backtracking",
+    "Matrix",
+    "Algorithm X",
+    "Dancing Links"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "46 ms",
+  "memory": "8.7 MB",
+  "runtimePercentile": "97.76%",
+  "memoryPercentile": "97.42%",
+  "submittedAt": "2025-08-31T07:14:39.000Z",
+  "submissionId": "1754469283"
+}
