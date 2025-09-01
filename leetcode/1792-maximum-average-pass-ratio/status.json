@@ -1,0 +1,19 @@
+{
+  "id": "1792",
+  "title": "Maximum Average Pass Ratio",
+  "titleSlug": "maximum-average-pass-ratio",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "273 ms",
+  "memory": "97.9 MB",
+  "runtimePercentile": "89.50%",
+  "memoryPercentile": "69.41%",
+  "submittedAt": "2025-09-01T03:20:17.000Z",
+  "submissionId": "1755360454"
+}
