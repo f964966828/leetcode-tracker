@@ -1,0 +1,21 @@
+{
+  "id": "3025",
+  "title": "Find the Number of Ways to Place People I",
+  "titleSlug": "find-the-number-of-ways-to-place-people-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Geometry",
+    "Sorting",
+    "Enumeration"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "19 ms",
+  "memory": "32.7 MB",
+  "runtimePercentile": "25.00%",
+  "memoryPercentile": "28.24%",
+  "submittedAt": "2025-09-02T08:27:40.000Z",
+  "submissionId": "1756798435"
+}
