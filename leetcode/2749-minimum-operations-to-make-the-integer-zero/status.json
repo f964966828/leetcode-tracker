@@ -1,0 +1,19 @@
+{
+  "id": "2749",
+  "title": "Minimum Operations to Make the Integer Zero",
+  "titleSlug": "minimum-operations-to-make-the-integer-zero",
+  "difficulty": "Medium",
+  "topics": [
+    "Bit Manipulation",
+    "Brainteaser",
+    "Enumeration"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.2 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "42.26%",
+  "submittedAt": "2025-09-05T08:40:38.000Z",
+  "submissionId": "1760255728"
+}
