@@ -1,0 +1,18 @@
+{
+  "id": "1304",
+  "title": "Find N Unique Integers Sum up to Zero",
+  "titleSlug": "find-n-unique-integers-sum-up-to-zero",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "3 ms",
+  "memory": "17.9 MB",
+  "runtimePercentile": "4.43%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-09-07T08:44:05.000Z",
+  "submissionId": "1762450109"
+}
