@@ -1,0 +1,19 @@
+{
+  "id": "2327",
+  "title": "Number of People Aware of a Secret",
+  "titleSlug": "number-of-people-aware-of-a-secret",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming",
+    "Queue",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "34 ms",
+  "memory": "9.1 MB",
+  "runtimePercentile": "9.11%",
+  "memoryPercentile": "92.86%",
+  "submittedAt": "2025-09-09T06:39:56.000Z",
+  "submissionId": "1764628775"
+}
