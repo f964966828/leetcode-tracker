@@ -1,0 +1,18 @@
+{
+  "id": "2785",
+  "title": "Sort Vowels in a String",
+  "titleSlug": "sort-vowels-in-a-string",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "19 ms",
+  "memory": "20.6 MB",
+  "runtimePercentile": "35.89%",
+  "memoryPercentile": "5.76%",
+  "submittedAt": "2025-09-11T06:45:22.000Z",
+  "submissionId": "1766864509"
+}
