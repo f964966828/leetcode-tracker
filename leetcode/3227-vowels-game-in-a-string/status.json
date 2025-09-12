@@ -1,0 +1,20 @@
+{
+  "id": "3227",
+  "title": "Vowels Game in a String",
+  "titleSlug": "vowels-game-in-a-string",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "String",
+    "Brainteaser",
+    "Game Theory"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "0 ms",
+  "memory": "18.2 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-09-12T07:02:00.000Z",
+  "submissionId": "1767992138"
+}
