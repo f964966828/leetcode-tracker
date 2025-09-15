@@ -1,0 +1,18 @@
+{
+  "id": "1935",
+  "title": "Maximum Number of Words You Can Type",
+  "titleSlug": "maximum-number-of-words-you-can-type",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "3 ms",
+  "memory": "17.9 MB",
+  "runtimePercentile": "33.08%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-09-15T02:18:03.000Z",
+  "submissionId": "1771066740"
+}
