@@ -1,0 +1,18 @@
+{
+  "id": "1150",
+  "title": "Check If a Number Is Majority Element in a Sorted Array",
+  "titleSlug": "check-if-a-number-is-majority-element-in-a-sorted-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "0 ms",
+  "memory": "18 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-09-16T12:53:53.000Z",
+  "submissionId": "1772723874"
+}
