@@ -1,0 +1,22 @@
+{
+  "id": "2197",
+  "title": "Replace Non-Coprime Numbers in Array",
+  "titleSlug": "replace-non-coprime-numbers-in-array",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Stack",
+    "Number Theory",
+    "Least Common Multiple",
+    "Greatest Common Divisor"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "2138 ms",
+  "memory": "306.9 MB",
+  "runtimePercentile": "5.26%",
+  "memoryPercentile": "5.26%",
+  "submittedAt": "2025-09-16T12:46:33.000Z",
+  "submissionId": "1772717663"
+}
