@@ -1,0 +1,22 @@
+{
+  "id": "2353",
+  "title": "Design a Food Rating System",
+  "titleSlug": "design-a-food-rating-system",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Design",
+    "Heap (Priority Queue)",
+    "Ordered Set"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "164 ms",
+  "memory": "162.7 MB",
+  "runtimePercentile": "34.81%",
+  "memoryPercentile": "91.36%",
+  "submittedAt": "2025-09-17T04:56:41.000Z",
+  "submissionId": "1773477816"
+}
