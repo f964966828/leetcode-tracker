@@ -1,0 +1,20 @@
+{
+  "id": "3408",
+  "title": "Design Task Manager",
+  "titleSlug": "design-task-manager",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Design",
+    "Heap (Priority Queue)",
+    "Ordered Set"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "209 ms",
+  "memory": "347.5 MB",
+  "runtimePercentile": "78.45%",
+  "memoryPercentile": "98.90%",
+  "submittedAt": "2025-09-18T17:27:43.000Z",
+  "submissionId": "1775261296"
+}
