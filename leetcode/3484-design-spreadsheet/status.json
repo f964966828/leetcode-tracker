@@ -1,0 +1,21 @@
+{
+  "id": "3484",
+  "title": "Design Spreadsheet",
+  "titleSlug": "design-spreadsheet",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Design",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "57 ms",
+  "memory": "23.5 MB",
+  "runtimePercentile": "96.77%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-09-19T18:16:23.000Z",
+  "submissionId": "1776358808"
+}
