@@ -1,0 +1,22 @@
+{
+  "id": "3508",
+  "title": "Implement Router",
+  "titleSlug": "implement-router",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Design",
+    "Queue",
+    "Ordered Set"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "190 ms",
+  "memory": "415.1 MB",
+  "runtimePercentile": "82.01%",
+  "memoryPercentile": "99.28%",
+  "submittedAt": "2025-09-20T20:38:54.000Z",
+  "submissionId": "1777402804"
+}
