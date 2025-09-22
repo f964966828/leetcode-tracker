@@ -1,0 +1,19 @@
+{
+  "id": "3005",
+  "title": "Count Elements With Maximum Frequency",
+  "titleSlug": "count-elements-with-maximum-frequency",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "23.6 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "8.88%",
+  "submittedAt": "2025-09-22T03:17:50.000Z",
+  "submissionId": "1778628370"
+}
