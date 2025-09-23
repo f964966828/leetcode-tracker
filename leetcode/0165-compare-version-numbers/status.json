@@ -1,0 +1,18 @@
+{
+  "id": "165",
+  "title": "Compare Version Numbers",
+  "titleSlug": "compare-version-numbers",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "0 ms",
+  "memory": "17.7 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-09-23T15:43:46.000Z",
+  "submissionId": "1780328953"
+}
