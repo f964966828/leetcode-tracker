@@ -1,0 +1,20 @@
+{
+  "id": "1152",
+  "title": "Analyze User Website Visit Pattern",
+  "titleSlug": "analyze-user-website-visit-pattern",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "55 ms",
+  "memory": "26.6 MB",
+  "runtimePercentile": "19.05%",
+  "memoryPercentile": "42.86%",
+  "submittedAt": "2025-09-26T13:38:10.000Z",
+  "submissionId": "1783318388"
+}
