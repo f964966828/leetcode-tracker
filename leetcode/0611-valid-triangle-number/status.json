@@ -1,0 +1,21 @@
+{
+  "id": "611",
+  "title": "Valid Triangle Number",
+  "titleSlug": "valid-triangle-number",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "430 ms",
+  "memory": "16.8 MB",
+  "runtimePercentile": "8.62%",
+  "memoryPercentile": "10.43%",
+  "submittedAt": "2025-09-26T11:14:26.000Z",
+  "submissionId": "1783224619"
+}
