@@ -1,0 +1,19 @@
+{
+  "id": "3690",
+  "title": "Split and Merge Array Transformation",
+  "titleSlug": "split-and-merge-array-transformation",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Breadth-First Search"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "1672 ms",
+  "memory": "432.5 MB",
+  "runtimePercentile": "7.57%",
+  "memoryPercentile": "21.01%",
+  "submittedAt": "2025-09-27T08:49:48.000Z",
+  "submissionId": "1784022875"
+}
