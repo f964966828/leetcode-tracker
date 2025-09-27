@@ -1,0 +1,20 @@
+{
+  "id": "3694",
+  "title": "Distinct Points Reachable After Substring Removal",
+  "titleSlug": "distinct-points-reachable-after-substring-removal",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "130 ms",
+  "memory": "53.5 MB",
+  "runtimePercentile": "52.48%",
+  "memoryPercentile": "42.98%",
+  "submittedAt": "2025-09-27T14:50:09.000Z",
+  "submissionId": "1784290415"
+}
