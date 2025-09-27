@@ -1,0 +1,20 @@
+{
+  "id": "812",
+  "title": "Largest Triangle Area",
+  "titleSlug": "largest-triangle-area",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Geometry",
+    "Polygons"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "10.6 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "7.20%",
+  "submittedAt": "2025-09-27T08:26:47.000Z",
+  "submissionId": "1784007543"
+}
