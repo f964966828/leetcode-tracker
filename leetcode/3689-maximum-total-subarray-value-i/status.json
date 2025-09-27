@@ -1,0 +1,18 @@
+{
+  "id": "3689",
+  "title": "Maximum Total Subarray Value I",
+  "titleSlug": "maximum-total-subarray-value-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "5 ms",
+  "memory": "103.6 MB",
+  "runtimePercentile": "15.46%",
+  "memoryPercentile": "97.34%",
+  "submittedAt": "2025-09-27T08:30:21.000Z",
+  "submissionId": "1784009774"
+}
