@@ -1,0 +1,20 @@
+{
+  "id": "3695",
+  "title": "Maximize Alternating Sum Using Swaps",
+  "titleSlug": "maximize-alternating-sum-using-swaps",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Union-Find",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "294 ms",
+  "memory": "341.9 MB",
+  "runtimePercentile": "56.92%",
+  "memoryPercentile": "32.45%",
+  "submittedAt": "2025-09-27T15:03:46.000Z",
+  "submissionId": "1784313243"
+}
