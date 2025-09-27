@@ -1,0 +1,19 @@
+{
+  "id": "3688",
+  "title": "Bitwise OR of Even Numbers in an Array",
+  "titleSlug": "bitwise-or-of-even-numbers-in-an-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Bit Manipulation",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "24.5 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "71.15%",
+  "submittedAt": "2025-09-27T08:28:18.000Z",
+  "submissionId": "1784008517"
+}
