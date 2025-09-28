@@ -1,0 +1,18 @@
+{
+  "id": "3698",
+  "title": "Split Array With Minimum Difference",
+  "titleSlug": "split-array-with-minimum-difference",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "169.6 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "94.85%",
+  "submittedAt": "2025-09-28T02:40:41.000Z",
+  "submissionId": "1784780738"
+}
