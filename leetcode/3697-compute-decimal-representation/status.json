@@ -1,0 +1,18 @@
+{
+  "id": "3697",
+  "title": "Compute Decimal Representation",
+  "titleSlug": "compute-decimal-representation",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "9.8 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "33.26%",
+  "submittedAt": "2025-09-28T02:33:07.000Z",
+  "submissionId": "1784766642"
+}
