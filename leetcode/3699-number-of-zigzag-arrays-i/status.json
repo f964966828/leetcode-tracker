@@ -1,0 +1,18 @@
+{
+  "id": "3699",
+  "title": "Number of ZigZag Arrays I",
+  "titleSlug": "number-of-zigzag-arrays-i",
+  "difficulty": "Hard",
+  "topics": [
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "407 ms",
+  "memory": "11.7 MB",
+  "runtimePercentile": "76.79%",
+  "memoryPercentile": "94.59%",
+  "submittedAt": "2025-09-28T03:01:45.000Z",
+  "submissionId": "1784816821"
+}
