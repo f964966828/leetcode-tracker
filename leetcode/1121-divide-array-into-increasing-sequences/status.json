@@ -1,0 +1,18 @@
+{
+  "id": "1121",
+  "title": "Divide Array Into Increasing Sequences",
+  "titleSlug": "divide-array-into-increasing-sequences",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "95 ms",
+  "memory": "107.6 MB",
+  "runtimePercentile": "41.67%",
+  "memoryPercentile": "33.33%",
+  "submittedAt": "2025-09-29T07:49:04.000Z",
+  "submissionId": "1786044617"
+}
