@@ -1,0 +1,20 @@
+{
+  "id": "1039",
+  "title": "Minimum Score Triangulation of Polygon",
+  "titleSlug": "minimum-score-triangulation-of-polygon",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Triangulation",
+    "Polygons"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "5 ms",
+  "memory": "11.4 MB",
+  "runtimePercentile": "10.47%",
+  "memoryPercentile": "15.89%",
+  "submittedAt": "2025-09-29T07:41:33.000Z",
+  "submissionId": "1786040046"
+}
