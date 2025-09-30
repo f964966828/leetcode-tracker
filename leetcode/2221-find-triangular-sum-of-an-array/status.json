@@ -1,0 +1,21 @@
+{
+  "id": "2221",
+  "title": "Find Triangular Sum of an Array",
+  "titleSlug": "find-triangular-sum-of-an-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Simulation",
+    "Combinatorics",
+    "Number Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "431 ms",
+  "memory": "384.5 MB",
+  "runtimePercentile": "5.07%",
+  "memoryPercentile": "5.28%",
+  "submittedAt": "2025-09-30T01:02:28.000Z",
+  "submissionId": "1786758944"
+}
