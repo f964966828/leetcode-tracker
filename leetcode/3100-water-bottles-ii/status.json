@@ -1,0 +1,18 @@
+{
+  "id": "3100",
+  "title": "Water Bottles II",
+  "titleSlug": "water-bottles-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "2 ms",
+  "memory": "8.7 MB",
+  "runtimePercentile": "38.80%",
+  "memoryPercentile": "15.89%",
+  "submittedAt": "2025-10-02T17:01:01.000Z",
+  "submissionId": "1789418914"
+}
