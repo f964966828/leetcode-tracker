@@ -1,0 +1,20 @@
+{
+  "id": "407",
+  "title": "Trapping Rain Water II",
+  "titleSlug": "trapping-rain-water-ii",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Heap (Priority Queue)",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "34 ms",
+  "memory": "22.7 MB",
+  "runtimePercentile": "43.03%",
+  "memoryPercentile": "32.34%",
+  "submittedAt": "2025-10-03T08:12:00.000Z",
+  "submissionId": "1789960525"
+}
