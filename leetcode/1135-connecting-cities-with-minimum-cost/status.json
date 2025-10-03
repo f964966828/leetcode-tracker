@@ -1,0 +1,20 @@
+{
+  "id": "1135",
+  "title": "Connecting Cities With Minimum Cost",
+  "titleSlug": "connecting-cities-with-minimum-cost",
+  "difficulty": "Medium",
+  "topics": [
+    "Union-Find",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Minimum Spanning Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "45 ms",
+  "memory": "58.5 MB",
+  "runtimePercentile": "32.04%",
+  "memoryPercentile": "26.21%",
+  "submittedAt": "2025-10-03T10:32:45.000Z",
+  "submissionId": "1790055607"
+}
