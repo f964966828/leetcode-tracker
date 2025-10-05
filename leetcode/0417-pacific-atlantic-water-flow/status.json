@@ -1,0 +1,20 @@
+{
+  "id": "417",
+  "title": "Pacific Atlantic Water Flow",
+  "titleSlug": "pacific-atlantic-water-flow",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "22.2 MB",
+  "runtimePercentile": "76.47%",
+  "memoryPercentile": "76.03%",
+  "submittedAt": "2025-10-05T12:09:43.000Z",
+  "submissionId": "1792121203"
+}
