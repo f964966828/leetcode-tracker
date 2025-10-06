@@ -1,0 +1,25 @@
+{
+  "id": "778",
+  "title": "Swim in Rising Water",
+  "titleSlug": "swim-in-rising-water",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Minimax",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Dijkstra's Algorithm"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "34 ms",
+  "memory": "17.1 MB",
+  "runtimePercentile": "7.85%",
+  "memoryPercentile": "10.48%",
+  "submittedAt": "2025-10-06T12:22:25.000Z",
+  "submissionId": "1793098845"
+}
