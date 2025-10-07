@@ -1,0 +1,21 @@
+{
+  "id": "1488",
+  "title": "Avoid Flood in The City",
+  "titleSlug": "avoid-flood-in-the-city",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "216 ms",
+  "memory": "121.2 MB",
+  "runtimePercentile": "21.79%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-10-07T04:07:36.000Z",
+  "submissionId": "1793772000"
+}
