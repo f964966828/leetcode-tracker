@@ -1,0 +1,18 @@
+{
+  "id": "774",
+  "title": "Minimize Max Distance to Gas Station",
+  "titleSlug": "minimize-max-distance-to-gas-station",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "9 ms",
+  "memory": "18 MB",
+  "runtimePercentile": "66.90%",
+  "memoryPercentile": "8.45%",
+  "submittedAt": "2025-10-08T02:10:10.000Z",
+  "submissionId": "1794798068"
+}
