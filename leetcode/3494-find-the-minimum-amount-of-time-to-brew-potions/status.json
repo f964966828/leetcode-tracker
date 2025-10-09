@@ -1,0 +1,19 @@
+{
+  "id": "3494",
+  "title": "Find the Minimum Amount of Time to Brew Potions",
+  "titleSlug": "find-the-minimum-amount-of-time-to-brew-potions",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Simulation",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "575 ms",
+  "memory": "407.4 MB",
+  "runtimePercentile": "18.46%",
+  "memoryPercentile": "15.38%",
+  "submittedAt": "2025-10-09T02:39:22.000Z",
+  "submissionId": "1795911248"
+}
