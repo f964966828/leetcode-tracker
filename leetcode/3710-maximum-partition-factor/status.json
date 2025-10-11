@@ -1,0 +1,22 @@
+{
+  "id": "3710",
+  "title": "Maximum Partition Factor",
+  "titleSlug": "maximum-partition-factor",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "1245 ms",
+  "memory": "336.4 MB",
+  "runtimePercentile": "35.15%",
+  "memoryPercentile": "37.63%",
+  "submittedAt": "2025-10-11T15:05:41.000Z",
+  "submissionId": "1798397874"
+}
