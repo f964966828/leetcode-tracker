@@ -1,0 +1,19 @@
+{
+  "id": "3147",
+  "title": "Taking Maximum Energy From the Mystic Dungeon",
+  "titleSlug": "taking-maximum-energy-from-the-mystic-dungeon",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "141 ms",
+  "memory": "151.8 MB",
+  "runtimePercentile": "82.37%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2025-10-11T16:17:33.000Z",
+  "submissionId": "1798504146"
+}
