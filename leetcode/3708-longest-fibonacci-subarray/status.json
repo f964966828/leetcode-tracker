@@ -1,0 +1,17 @@
+{
+  "id": "3708",
+  "title": "Longest Fibonacci Subarray",
+  "titleSlug": "longest-fibonacci-subarray",
+  "difficulty": "Medium",
+  "topics": [
+    "Array"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "102.8 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "45.05%",
+  "submittedAt": "2025-10-11T14:40:36.000Z",
+  "submissionId": "1798340127"
+}
