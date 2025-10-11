@@ -1,0 +1,18 @@
+{
+  "id": "3707",
+  "title": "Equal Score Substrings",
+  "titleSlug": "equal-score-substrings",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "8.6 MB",
+  "runtimePercentile": "23.55%",
+  "memoryPercentile": "44.95%",
+  "submittedAt": "2025-10-11T14:31:47.000Z",
+  "submissionId": "1798315385"
+}
