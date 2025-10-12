@@ -1,0 +1,19 @@
+{
+  "id": "3712",
+  "title": "Sum of Elements With Frequency Divisible by K",
+  "titleSlug": "sum-of-elements-with-frequency-divisible-by-k",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "26.4 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "12.32%",
+  "submittedAt": "2025-10-12T02:34:39.000Z",
+  "submissionId": "1798862310"
+}
