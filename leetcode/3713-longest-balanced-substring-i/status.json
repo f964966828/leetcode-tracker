@@ -1,0 +1,20 @@
+{
+  "id": "3713",
+  "title": "Longest Balanced Substring I",
+  "titleSlug": "longest-balanced-substring-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Counting",
+    "Enumeration"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3030 ms",
+  "memory": "498.4 MB",
+  "runtimePercentile": "5.07%",
+  "memoryPercentile": "5.06%",
+  "submittedAt": "2025-10-12T02:43:13.000Z",
+  "submissionId": "1798875953"
+}
