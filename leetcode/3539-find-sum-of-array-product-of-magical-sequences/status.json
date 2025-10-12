@@ -1,0 +1,22 @@
+{
+  "id": "3539",
+  "title": "Find Sum of Array Product of Magical Sequences",
+  "titleSlug": "find-sum-of-array-product-of-magical-sequences",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Combinatorics",
+    "Bitmask"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "411 ms",
+  "memory": "33.9 MB",
+  "runtimePercentile": "97.50%",
+  "memoryPercentile": "70.00%",
+  "submittedAt": "2025-10-12T06:11:04.000Z",
+  "submissionId": "1799067480"
+}
