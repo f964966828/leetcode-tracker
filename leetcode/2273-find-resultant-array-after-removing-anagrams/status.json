@@ -1,0 +1,20 @@
+{
+  "id": "2273",
+  "title": "Find Resultant Array After Removing Anagrams",
+  "titleSlug": "find-resultant-array-after-removing-anagrams",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "17.9 MB",
+  "runtimePercentile": "45.53%",
+  "memoryPercentile": "24.76%",
+  "submittedAt": "2025-10-13T02:34:45.000Z",
+  "submissionId": "1799875742"
+}
