@@ -1,0 +1,17 @@
+{
+  "id": "3349",
+  "title": "Adjacent Increasing Subarrays Detection I",
+  "titleSlug": "adjacent-increasing-subarrays-detection-i",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "13 ms",
+  "memory": "40.4 MB",
+  "runtimePercentile": "51.08%",
+  "memoryPercentile": "54.98%",
+  "submittedAt": "2025-10-14T13:44:53.000Z",
+  "submissionId": "1801413922"
+}
