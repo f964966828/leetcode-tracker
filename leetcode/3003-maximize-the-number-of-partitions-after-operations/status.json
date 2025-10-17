@@ -1,0 +1,20 @@
+{
+  "id": "3003",
+  "title": "Maximize the Number of Partitions After Operations",
+  "titleSlug": "maximize-the-number-of-partitions-after-operations",
+  "difficulty": "Hard",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Bitmask"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "12.3 MB",
+  "runtimePercentile": "96.26%",
+  "memoryPercentile": "97.20%",
+  "submittedAt": "2025-10-17T14:32:43.000Z",
+  "submissionId": "1804279382"
+}
