@@ -1,0 +1,18 @@
+{
+  "id": "3379",
+  "title": "Transformed Array",
+  "titleSlug": "transformed-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "25.8 MB",
+  "runtimePercentile": "78.48%",
+  "memoryPercentile": "9.70%",
+  "submittedAt": "2026-02-05T05:53:19.000Z",
+  "submissionId": "1908743803"
+}
