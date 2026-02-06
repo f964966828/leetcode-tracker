@@ -1,0 +1,20 @@
+{
+  "id": "3634",
+  "title": "Minimum Removals to Balance Array",
+  "titleSlug": "minimum-removals-to-balance-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "31 ms",
+  "memory": "105 MB",
+  "runtimePercentile": "62.90%",
+  "memoryPercentile": "86.33%",
+  "submittedAt": "2026-02-06T08:28:43.000Z",
+  "submissionId": "1910034587"
+}
