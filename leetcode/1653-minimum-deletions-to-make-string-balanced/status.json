@@ -1,0 +1,19 @@
+{
+  "id": "1653",
+  "title": "Minimum Deletions to Make String Balanced",
+  "titleSlug": "minimum-deletions-to-make-string-balanced",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Stack"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "51 ms",
+  "memory": "55.1 MB",
+  "runtimePercentile": "18.43%",
+  "memoryPercentile": "19.34%",
+  "submittedAt": "2026-02-08T09:39:05.000Z",
+  "submissionId": "1912278335"
+}
