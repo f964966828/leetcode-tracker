@@ -1,0 +1,22 @@
+{
+  "id": "1382",
+  "title": "Balance a Binary Search Tree",
+  "titleSlug": "balance-a-binary-search-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Divide and Conquer",
+    "Greedy",
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "22 ms",
+  "memory": "65.6 MB",
+  "runtimePercentile": "20.32%",
+  "memoryPercentile": "66.43%",
+  "submittedAt": "2026-02-09T13:21:19.000Z",
+  "submissionId": "1913497765"
+}
