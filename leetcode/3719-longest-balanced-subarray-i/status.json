@@ -1,0 +1,21 @@
+{
+  "id": "3719",
+  "title": "Longest Balanced Subarray I",
+  "titleSlug": "longest-balanced-subarray-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Segment Tree",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "151 ms",
+  "memory": "35.7 MB",
+  "runtimePercentile": "89.04%",
+  "memoryPercentile": "94.90%",
+  "submittedAt": "2026-02-10T13:13:56.000Z",
+  "submissionId": "1914658233"
+}
