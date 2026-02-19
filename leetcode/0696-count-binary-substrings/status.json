@@ -1,0 +1,18 @@
+{
+  "id": "696",
+  "title": "Count Binary Substrings",
+  "titleSlug": "count-binary-substrings",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "13.1 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "56.88%",
+  "submittedAt": "2026-02-19T06:26:27.000Z",
+  "submissionId": "1924048979"
+}
