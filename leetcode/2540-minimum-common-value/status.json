@@ -1,0 +1,20 @@
+{
+  "id": "2540",
+  "title": "Minimum Common Value",
+  "titleSlug": "minimum-common-value",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "54.6 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "26.20%",
+  "submittedAt": "2026-05-19T14:24:37.000Z",
+  "submissionId": "2007365909"
+}
