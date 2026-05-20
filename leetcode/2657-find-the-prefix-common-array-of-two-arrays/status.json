@@ -1,0 +1,19 @@
+{
+  "id": "2657",
+  "title": "Find the Prefix Common Array of Two Arrays",
+  "titleSlug": "find-the-prefix-common-array-of-two-arrays",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "85.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "74.63%",
+  "submittedAt": "2026-05-20T04:19:03.000Z",
+  "submissionId": "2007783328"
+}
