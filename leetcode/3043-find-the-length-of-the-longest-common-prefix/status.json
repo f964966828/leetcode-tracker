@@ -1,0 +1,20 @@
+{
+  "id": "3043",
+  "title": "Find the Length of the Longest Common Prefix",
+  "titleSlug": "find-the-length-of-the-longest-common-prefix",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Trie"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "374 ms",
+  "memory": "156.5 MB",
+  "runtimePercentile": "18.26%",
+  "memoryPercentile": "52.60%",
+  "submittedAt": "2026-05-21T02:51:41.000Z",
+  "submissionId": "2008622025"
+}
