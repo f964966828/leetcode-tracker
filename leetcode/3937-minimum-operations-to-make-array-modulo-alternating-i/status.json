@@ -1,0 +1,18 @@
+{
+  "id": "3937",
+  "title": "Minimum Operations to Make Array Modulo Alternating I",
+  "titleSlug": "minimum-operations-to-make-array-modulo-alternating-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Enumeration"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "25.4 MB",
+  "runtimePercentile": "79.04%",
+  "memoryPercentile": "15.30%",
+  "submittedAt": "2026-05-23T15:02:39.000Z",
+  "submissionId": "2010860830"
+}
