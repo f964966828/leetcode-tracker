@@ -1,0 +1,20 @@
+{
+  "id": "3938",
+  "title": "Maximum Path Intersection Sum in a Grid",
+  "titleSlug": "maximum-path-intersection-sum-in-a-grid",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "72 ms",
+  "memory": "185.7 MB",
+  "runtimePercentile": "9.23%",
+  "memoryPercentile": "5.00%",
+  "submittedAt": "2026-05-23T15:43:20.000Z",
+  "submissionId": "2010925988"
+}
