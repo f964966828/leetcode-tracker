@@ -1,0 +1,18 @@
+{
+  "id": "3936",
+  "title": "Minimum Swaps to Move Zeros to End",
+  "titleSlug": "minimum-swaps-to-move-zeros-to-end",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "0 ms",
+  "memory": "19.2 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "57.55%",
+  "submittedAt": "2026-05-23T14:39:17.000Z",
+  "submissionId": "2010829481"
+}
