@@ -1,0 +1,20 @@
+{
+  "id": "2744",
+  "title": "Find Maximum Number of String Pairs",
+  "titleSlug": "find-maximum-number-of-string-pairs",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "15 ms",
+  "memory": "19.3 MB",
+  "runtimePercentile": "8.76%",
+  "memoryPercentile": "18.79%",
+  "submittedAt": "2026-05-23T14:25:27.000Z",
+  "submissionId": "2010820662"
+}
