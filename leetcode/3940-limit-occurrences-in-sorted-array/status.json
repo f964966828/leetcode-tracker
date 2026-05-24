@@ -1,0 +1,18 @@
+{
+  "id": "3940",
+  "title": "Limit Occurrences in Sorted Array",
+  "titleSlug": "limit-occurrences-in-sorted-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "34.2 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "8.37%",
+  "submittedAt": "2026-05-24T06:43:03.000Z",
+  "submissionId": "2011481689"
+}
