@@ -1,0 +1,17 @@
+{
+  "id": "3942",
+  "title": "Minimum Operations to Sort a Permutation",
+  "titleSlug": "minimum-operations-to-sort-a-permutation",
+  "difficulty": "Medium",
+  "topics": [
+    "Array"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "15 ms",
+  "memory": "156.1 MB",
+  "runtimePercentile": "10.97%",
+  "memoryPercentile": "8.67%",
+  "submittedAt": "2026-05-24T07:05:48.000Z",
+  "submissionId": "2011498331"
+}
