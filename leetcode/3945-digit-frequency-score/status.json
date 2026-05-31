@@ -1,0 +1,18 @@
+{
+  "id": "3945",
+  "title": "Digit Frequency Score",
+  "titleSlug": "digit-frequency-score",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.7 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "54.46%",
+  "submittedAt": "2026-05-31T08:59:29.000Z",
+  "submissionId": "2018003259"
+}
