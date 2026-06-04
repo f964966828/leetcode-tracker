@@ -1,0 +1,18 @@
+{
+  "id": "369",
+  "title": "Plus One Linked List",
+  "titleSlug": "plus-one-linked-list",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "12.2 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "56.32%",
+  "submittedAt": "2026-06-04T07:17:51.000Z",
+  "submissionId": "2022017559"
+}
