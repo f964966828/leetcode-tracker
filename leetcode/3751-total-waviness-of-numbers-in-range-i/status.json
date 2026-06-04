@@ -1,0 +1,19 @@
+{
+  "id": "3751",
+  "title": "Total Waviness of Numbers in Range I",
+  "titleSlug": "total-waviness-of-numbers-in-range-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Enumeration"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "50 ms",
+  "memory": "9.3 MB",
+  "runtimePercentile": "45.88%",
+  "memoryPercentile": "72.51%",
+  "submittedAt": "2026-06-04T06:49:20.000Z",
+  "submissionId": "2021988558"
+}
