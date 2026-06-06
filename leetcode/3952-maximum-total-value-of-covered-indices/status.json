@@ -1,0 +1,20 @@
+{
+  "id": "3952",
+  "title": "Maximum Total Value of Covered Indices",
+  "titleSlug": "maximum-total-value-of-covered-indices",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "127 ms",
+  "memory": "236.8 MB",
+  "runtimePercentile": "33.96%",
+  "memoryPercentile": "31.46%",
+  "submittedAt": "2026-06-06T15:04:34.000Z",
+  "submissionId": "2024402159"
+}
