@@ -1,0 +1,17 @@
+{
+  "id": "3950",
+  "title": "Exactly One Consecutive Set Bits Pair",
+  "titleSlug": "exactly-one-consecutive-set-bits-pair",
+  "difficulty": "Easy",
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.5 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "7.25%",
+  "submittedAt": "2026-06-06T14:34:04.000Z",
+  "submissionId": "2024317367"
+}
