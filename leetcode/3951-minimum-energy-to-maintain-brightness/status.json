@@ -1,0 +1,18 @@
+{
+  "id": "3951",
+  "title": "Minimum Energy to Maintain Brightness",
+  "titleSlug": "minimum-energy-to-maintain-brightness",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "74 ms",
+  "memory": "203.6 MB",
+  "runtimePercentile": "83.55%",
+  "memoryPercentile": "61.06%",
+  "submittedAt": "2026-06-06T14:48:19.000Z",
+  "submissionId": "2024361309"
+}
