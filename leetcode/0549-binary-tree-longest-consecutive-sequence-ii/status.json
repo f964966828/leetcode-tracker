@@ -1,0 +1,20 @@
+{
+  "id": "549",
+  "title": "Binary Tree Longest Consecutive Sequence II",
+  "titleSlug": "binary-tree-longest-consecutive-sequence-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "DP on Trees"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "22.7 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "78.57%",
+  "submittedAt": "2026-08-13T03:39:16.000Z",
+  "submissionId": "2104899960"
+}
