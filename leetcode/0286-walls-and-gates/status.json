@@ -1,0 +1,19 @@
+{
+  "id": "286",
+  "title": "Walls and Gates",
+  "titleSlug": "walls-and-gates",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "19 MB",
+  "runtimePercentile": "44.44%",
+  "memoryPercentile": "83.33%",
+  "submittedAt": "2026-08-13T05:43:57.000Z",
+  "submissionId": "2105017348"
+}
