@@ -1,0 +1,21 @@
+{
+  "id": "270",
+  "title": "Closest Binary Search Tree Value",
+  "titleSlug": "closest-binary-search-tree-value",
+  "difficulty": "Easy",
+  "topics": [
+    "Binary Search",
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "21.2 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "48.40%",
+  "submittedAt": "2026-08-13T03:53:15.000Z",
+  "submissionId": "2104909982"
+}
