@@ -1,0 +1,20 @@
+{
+  "id": "250",
+  "title": "Count Univalue Subtrees",
+  "titleSlug": "count-univalue-subtrees",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "DP on Trees"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "18.5 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "75.93%",
+  "submittedAt": "2026-08-13T03:45:20.000Z",
+  "submissionId": "2104904040"
+}
