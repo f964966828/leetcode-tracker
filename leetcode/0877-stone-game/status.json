@@ -1,0 +1,22 @@
+{
+  "id": "877",
+  "title": "Stone Game",
+  "titleSlug": "stone-game",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "12 ms",
+  "memory": "19.8 MB",
+  "runtimePercentile": "17.70%",
+  "memoryPercentile": "7.31%",
+  "submittedAt": "2026-08-17T23:45:54.000Z",
+  "submissionId": "2110726676"
+}
