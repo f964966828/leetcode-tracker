@@ -1,0 +1,20 @@
+{
+  "id": "1563",
+  "title": "Stone Game V",
+  "titleSlug": "stone-game-v",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Game Theory"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "407 ms",
+  "memory": "27.6 MB",
+  "runtimePercentile": "57.19%",
+  "memoryPercentile": "46.96%",
+  "submittedAt": "2026-08-17T23:35:37.000Z",
+  "submissionId": "2110723815"
+}
