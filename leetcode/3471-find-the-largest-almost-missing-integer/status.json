@@ -1,0 +1,18 @@
+{
+  "id": "3471",
+  "title": "Find the Largest Almost Missing Integer",
+  "titleSlug": "find-the-largest-almost-missing-integer",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "28.9 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "92.57%",
+  "submittedAt": "2026-08-18T00:28:06.000Z",
+  "submissionId": "2110739776"
+}
