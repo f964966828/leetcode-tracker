@@ -1,0 +1,20 @@
+{
+  "id": "1386",
+  "title": "Cinema Seat Allocation",
+  "titleSlug": "cinema-seat-allocation",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Bit Manipulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "125 ms",
+  "memory": "84.2 MB",
+  "runtimePercentile": "9.88%",
+  "memoryPercentile": "20.70%",
+  "submittedAt": "2026-08-19T07:41:54.000Z",
+  "submissionId": "2112401533"
+}
