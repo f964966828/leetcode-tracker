@@ -1,0 +1,18 @@
+{
+  "id": "3069",
+  "title": "Distribute Elements Into Two Arrays I",
+  "titleSlug": "distribute-elements-into-two-arrays-i",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "24 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "32.91%",
+  "submittedAt": "2026-08-20T05:05:46.000Z",
+  "submissionId": "2113476092"
+}
