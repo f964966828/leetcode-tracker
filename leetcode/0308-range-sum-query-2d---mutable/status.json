@@ -1,0 +1,22 @@
+{
+  "id": "308",
+  "title": "Range Sum Query 2D - Mutable",
+  "titleSlug": "range-sum-query-2d-mutable",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Design",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Matrix",
+    "Sqrt Decomposition"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "19 ms",
+  "memory": "44.6 MB",
+  "runtimePercentile": "58.17%",
+  "memoryPercentile": "11.30%",
+  "submittedAt": "2026-08-20T05:30:18.000Z",
+  "submissionId": "2113502945"
+}
