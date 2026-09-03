@@ -1,0 +1,18 @@
+{
+  "id": "3876",
+  "title": "Construct Uniform Parity Array II",
+  "titleSlug": "construct-uniform-parity-array-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "165.7 MB",
+  "runtimePercentile": "42.89%",
+  "memoryPercentile": "84.39%",
+  "submittedAt": "2026-09-03T01:00:23.000Z",
+  "submissionId": "2129040224"
+}
