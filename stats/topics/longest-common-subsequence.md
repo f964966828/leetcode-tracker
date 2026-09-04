@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**2** problems · updated `2026-09-04 19:32 UTC`
+**2** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -66,5 +66,5 @@ Latest **2** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2025&#8209;04&#8209;23 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | C++ | 24 ms<br>`72.81%` | 27.4 MB<br>`55.87%` |
+| 2025&#8209;04&#8209;24 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | C++ | 24 ms<br>`72.81%` | 27.4 MB<br>`55.87%` |
 | 2023&#8209;10&#8209;08 | [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Hard | C++ | 24 ms<br>`48.36%` | 9.8 MB<br>`100.00%` |

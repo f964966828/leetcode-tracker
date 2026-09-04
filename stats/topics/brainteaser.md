@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**4** problems · updated `2026-09-04 19:32 UTC`
+**4** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -68,5 +68,5 @@ Latest **4** accepted submissions.
 | :--- | :--- | :---: | :---: | ---: | ---: |
 | 2025&#8209;09&#8209;12 | [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) | Medium | Python | 0 ms<br>`100.00%` | 18.2 MB<br>`100.00%` |
 | 2025&#8209;09&#8209;05 | [2749. Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | Medium | C++ | 0 ms<br>`100.00%` | 8.2 MB<br>`42.26%` |
-| 2023&#8209;03&#8209;05 | [292. Nim Game](https://leetcode.com/problems/nim-game/) | Easy | C++ | 0 ms<br>`100.00%` | 6 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;06 | [292. Nim Game](https://leetcode.com/problems/nim-game/) | Easy | C++ | 0 ms<br>`100.00%` | 6 MB<br>`100.00%` |
 | 2023&#8209;02&#8209;18 | [2568. Minimum Impossible OR](https://leetcode.com/problems/minimum-impossible-or/) | Medium | C++ | 105 ms<br>`9.84%` | 47.7 MB<br>`100.00%` |

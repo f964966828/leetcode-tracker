@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**4** problems · updated `2026-09-04 19:32 UTC`
+**4** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -69,4 +69,4 @@ Latest **4** accepted submissions.
 | 2025&#8209;05&#8209;04 | [616. Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | Medium | C++ | 7 ms<br>`65.58%` | 13.9 MB<br>`59.74%` |
 | 2025&#8209;04&#8209;27 | [3529. Count Cells in Overlapping Horizontal and Vertical Substrings](https://leetcode.com/problems/count-cells-in-overlapping-horizontal-and-vertical-substrings/) | Medium | C++ | 2256 ms<br>`5.71%` | 63.1 MB<br>`95.71%` |
 | 2024&#8209;11&#8209;03 | [796. Rotate String](https://leetcode.com/problems/rotate-string/) | Easy | C++ | 2 ms<br>`8.59%` | 8.6 MB<br>`6.12%` |
-| 2023&#8209;03&#8209;13 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | C++ | 0 ms<br>`100.00%` | 6.3 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;14 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | C++ | 0 ms<br>`100.00%` | 6.3 MB<br>`100.00%` |

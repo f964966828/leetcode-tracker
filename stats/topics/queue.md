@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**16** problems · updated `2026-09-04 19:32 UTC`
+**16** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -66,7 +66,7 @@ Latest **16** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2025&#8209;09&#8209;20 | [3508. Implement Router](https://leetcode.com/problems/implement-router/) | Medium | C++ | 190 ms<br>`82.01%` | 415.1 MB<br>`99.28%` |
+| 2025&#8209;09&#8209;21 | [3508. Implement Router](https://leetcode.com/problems/implement-router/) | Medium | C++ | 190 ms<br>`82.01%` | 415.1 MB<br>`99.28%` |
 | 2025&#8209;09&#8209;09 | [2327. Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | Medium | C++ | 34 ms<br>`9.11%` | 9.1 MB<br>`92.86%` |
 | 2025&#8209;05&#8209;12 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | Easy | C++ | 3 ms<br>`46.36%` | 20.8 MB<br>`80.04%` |
 | 2025&#8209;05&#8209;12 | [1429. First Unique Number](https://leetcode.com/problems/first-unique-number/) | Medium | C++ | 195 ms<br>`84.46%` | 128.1 MB<br>`99.72%` |
@@ -74,11 +74,11 @@ Latest **16** accepted submissions.
 | 2025&#8209;05&#8209;01 | [2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | Hard | C++ | 714 ms<br>`60.06%` | 286.3 MB<br>`39.93%` |
 | 2025&#8209;04&#8209;26 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Hard | C++ | 0 ms<br>`100.00%` | 94 MB<br>`36.87%` |
 | 2025&#8209;04&#8209;20 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | C++ | 7 ms<br>`17.56%` | 12.6 MB<br>`7.47%` |
-| 2025&#8209;04&#8209;19 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | C++ | 20 ms<br>`40.20%` | 64.1 MB<br>`69.17%` |
+| 2025&#8209;04&#8209;20 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | C++ | 20 ms<br>`40.20%` | 64.1 MB<br>`69.17%` |
 | 2024&#8209;11&#8209;17 | [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | Hard | C++ | 50 ms<br>`9.43%` | 112.6 MB<br>`5.17%` |
 | 2024&#8209;04&#8209;11 | [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | Medium | C++ | 0 ms<br>`100.00%` | 11.5 MB<br>`100.00%` |
 | 2024&#8209;04&#8209;09 | [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Easy | C++ | 2 ms<br>`24.65%` | 9.4 MB<br>`100.00%` |
 | 2024&#8209;04&#8209;08 | [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | C++ | 0 ms<br>`100.00%` | 10.8 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;22 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | C++ | 0 ms<br>`100.00%` | 7.1 MB<br>`100.00%` |
-| 2023&#8209;03&#8209;19 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | C++ | 27 ms<br>`8.49%` | 10.6 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;20 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | C++ | 27 ms<br>`8.49%` | 10.6 MB<br>`100.00%` |
 | 2023&#8209;02&#8209;23 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | C++ | 998 ms<br>`5.17%` | 191.6 MB<br>`5.71%` |

@@ -35,8 +35,8 @@ jobs:
 
       - name: Commit generated stats
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "f964966828"
+          git config user.email "f964966828@gmail.com"
           git add README.md assets stats
           if git diff --staged --quiet; then
             echo "No README changes"

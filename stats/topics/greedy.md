@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**79** problems · updated `2026-09-04 19:32 UTC`
+**79** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -101,8 +101,8 @@ Latest **79** accepted submissions.
 | 2025&#8209;05&#8209;04 | [1055. Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/) | Medium | C++ | 0 ms<br>`100.00%` | 8.7 MB<br>`96.94%` |
 | 2025&#8209;05&#8209;03 | [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | Medium | Python | 91 ms<br>`9.86%` | 18.4 MB<br>`100.00%` |
 | 2025&#8209;05&#8209;01 | [2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | Hard | C++ | 714 ms<br>`60.06%` | 286.3 MB<br>`39.93%` |
-| 2025&#8209;04&#8209;25 | [280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | Medium | C++ | 0 ms<br>`100.00%` | 17.7 MB<br>`79.14%` |
-| 2025&#8209;04&#8209;25 | [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) | Medium | C++ | 0 ms<br>`100.00%` | 108.2 MB<br>`18.53%` |
+| 2025&#8209;04&#8209;26 | [280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | Medium | C++ | 0 ms<br>`100.00%` | 17.7 MB<br>`79.14%` |
+| 2025&#8209;04&#8209;26 | [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) | Medium | C++ | 0 ms<br>`100.00%` | 108.2 MB<br>`18.53%` |
 | 2025&#8209;04&#8209;24 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | C++ | 3 ms<br>`34.61%` | 112.5 MB<br>`61.27%` |
 | 2025&#8209;04&#8209;24 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | C++ | 0 ms<br>`100.00%` | 20.6 MB<br>`78.55%` |
 | 2025&#8209;04&#8209;24 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | Medium | C++ | 0 ms<br>`100.00%` | 52.3 MB<br>`83.21%` |
@@ -110,19 +110,19 @@ Latest **79** accepted submissions.
 | 2025&#8209;04&#8209;24 | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | C++ | 44 ms<br>`72.58%` | 93.7 MB<br>`99.85%` |
 | 2025&#8209;04&#8209;24 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | C++ | 47 ms<br>`52.82%` | 93.8 MB<br>`90.88%` |
 | 2025&#8209;04&#8209;24 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium | C++ | 0 ms<br>`100.00%` | 58.9 MB<br>`100.00%` |
-| 2025&#8209;04&#8209;23 | [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | Medium | C++ | 75 ms<br>`30.92%` | 99.3 MB<br>`27.05%` |
+| 2025&#8209;04&#8209;24 | [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | Medium | C++ | 75 ms<br>`30.92%` | 99.3 MB<br>`27.05%` |
 | 2025&#8209;04&#8209;20 | [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/) | Medium | C++ | 4 ms<br>`7.15%` | 12.3 MB<br>`37.72%` |
 | 2025&#8209;04&#8209;20 | [3523. Make Array Non-decreasing](https://leetcode.com/problems/make-array-non-decreasing/) | Medium | C++ | 0 ms<br>`100.00%` | 206.4 MB<br>`51.04%` |
 | 2025&#8209;04&#8209;20 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | C++ | 7 ms<br>`17.56%` | 12.6 MB<br>`7.47%` |
-| 2025&#8209;04&#8209;19 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | C++ | 0 ms<br>`100.00%` | 115.7 MB<br>`67.97%` |
-| 2025&#8209;04&#8209;19 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | C++ | 0 ms<br>`100.00%` | 24.1 MB<br>`43.87%` |
+| 2025&#8209;04&#8209;20 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | C++ | 0 ms<br>`100.00%` | 115.7 MB<br>`67.97%` |
+| 2025&#8209;04&#8209;20 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | C++ | 0 ms<br>`100.00%` | 24.1 MB<br>`43.87%` |
 | 2024&#8209;11&#8209;14 | [2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | Medium | C++ | 34 ms<br>`46.39%` | 87.4 MB<br>`100.00%` |
 | 2024&#8209;11&#8209;11 | [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | Medium | C++ | 25 ms<br>`34.60%` | 28.7 MB<br>`41.64%` |
-| 2024&#8209;10&#8209;30 | [1671. Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | Hard | C++ | 5 ms<br>`89.20%` | 15.1 MB<br>`99.67%` |
+| 2024&#8209;10&#8209;31 | [1671. Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | Hard | C++ | 5 ms<br>`89.20%` | 15.1 MB<br>`99.67%` |
 | 2024&#8209;10&#8209;20 | [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | C++ | 57 ms<br>`7.27%` | 32.2 MB<br>`63.49%` |
 | 2024&#8209;10&#8209;20 | [2486. Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | Medium | C++ | 4 ms<br>`21.75%` | 12.2 MB<br>`99.78%` |
 | 2024&#8209;04&#8209;11 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | Python | 63 ms<br>`5.34%` | 18.1 MB<br>`100.00%` |
-| 2024&#8209;04&#8209;07 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | C++ | 3 ms<br>`9.38%` | 7.2 MB<br>`100.00%` |
+| 2024&#8209;04&#8209;08 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | C++ | 3 ms<br>`9.38%` | 7.2 MB<br>`100.00%` |
 | 2024&#8209;03&#8209;30 | [3091. Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium | C++ | 0 ms<br>`100.00%` | 7.3 MB<br>`100.00%` |
 | 2023&#8209;10&#8209;02 | [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium | Python | 205 ms<br>`9.43%` | 19.9 MB<br>`85.28%` |
 | 2023&#8209;04&#8209;05 | [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | Medium | C++ | 143 ms<br>`5.03%` | 71.3 MB<br>`100.00%` |
@@ -134,7 +134,7 @@ Latest **79** accepted submissions.
 | 2023&#8209;03&#8209;26 | [2600. K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | Easy | C++ | 0 ms<br>`100.00%` | 6 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;18 | [2592. Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/) | Medium | C++ | 244 ms<br>`5.29%` | 96.7 MB<br>`16.04%` |
 | 2023&#8209;03&#8209;18 | [2591. Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/) | Easy | C++ | 4 ms<br>`7.48%` | 6 MB<br>`100.00%` |
-| 2023&#8209;03&#8209;13 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | C++ | 7 ms<br>`2.03%` | 6.7 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;14 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | C++ | 7 ms<br>`2.03%` | 6.7 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;12 | [2587. Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/) | Medium | C++ | 158 ms<br>`5.18%` | 90.1 MB<br>`47.79%` |
 | 2023&#8209;03&#8209;08 | [2429. Minimize XOR](https://leetcode.com/problems/minimize-xor/) | Medium | C++ | 0 ms<br>`100.00%` | 6.3 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;06 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium | C++ | 29 ms<br>`7.02%` | 13.6 MB<br>`100.00%` |

@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**87** problems · updated `2026-09-04 19:32 UTC`
+**87** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -66,11 +66,11 @@ Latest **87** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2026&#8209;09&#8209;04 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`5.69%` |
+| 2026&#8209;09&#8209;05 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`5.69%` |
 | 2026&#8209;06&#8209;06 | [3951. Minimum Energy to Maintain Brightness](https://leetcode.com/problems/minimum-energy-to-maintain-brightness/) | Medium | C++ | 74 ms<br>`83.55%` | 203.6 MB<br>`61.06%` |
 | 2026&#8209;02&#8209;06 | [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/) | Medium | C++ | 31 ms<br>`62.90%` | 105 MB<br>`86.33%` |
 | 2025&#8209;10&#8209;13 | [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | Easy | C++ | 3 ms<br>`45.53%` | 17.9 MB<br>`24.76%` |
-| 2025&#8209;10&#8209;11 | [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | Medium | C++ | 111 ms<br>`86.08%` | 162.8 MB<br>`90.83%` |
+| 2025&#8209;10&#8209;12 | [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | Medium | C++ | 111 ms<br>`86.08%` | 162.8 MB<br>`90.83%` |
 | 2025&#8209;10&#8209;08 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Medium | C++ | 47 ms<br>`42.48%` | 138.4 MB<br>`8.28%` |
 | 2025&#8209;09&#8209;28 | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | Easy | C++ | 12 ms<br>`25.68%` | 25.6 MB<br>`79.00%` |
 | 2025&#8209;09&#8209;27 | [3695. Maximize Alternating Sum Using Swaps](https://leetcode.com/problems/maximize-alternating-sum-using-swaps/) | Hard | C++ | 294 ms<br>`56.92%` | 341.9 MB<br>`32.45%` |
@@ -97,17 +97,17 @@ Latest **87** accepted submissions.
 | 2025&#8209;05&#8209;04 | [3536. Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | C++ | 3 ms<br>`10.81%` | 8.9 MB<br>`31.83%` |
 | 2025&#8209;05&#8209;01 | [2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | Hard | C++ | 714 ms<br>`60.06%` | 286.3 MB<br>`39.93%` |
 | 2025&#8209;04&#8209;27 | [3531. Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/) | Medium | C++ | 894 ms<br>`10.51%` | 451.1 MB<br>`10.05%` |
-| 2025&#8209;04&#8209;25 | [280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | Medium | C++ | 0 ms<br>`100.00%` | 17.7 MB<br>`79.14%` |
+| 2025&#8209;04&#8209;26 | [280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | Medium | C++ | 0 ms<br>`100.00%` | 17.7 MB<br>`79.14%` |
 | 2025&#8209;04&#8209;24 | [274. H-Index](https://leetcode.com/problems/h-index/) | Medium | C++ | 0 ms<br>`100.00%` | 12.3 MB<br>`35.12%` |
 | 2025&#8209;04&#8209;24 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | C++ | 0 ms<br>`100.00%` | 28.1 MB<br>`95.18%` |
 | 2025&#8209;04&#8209;24 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | C++ | 0 ms<br>`100.00%` | 12.4 MB<br>`82.77%` |
 | 2025&#8209;04&#8209;24 | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | C++ | 44 ms<br>`72.58%` | 93.7 MB<br>`99.85%` |
 | 2025&#8209;04&#8209;24 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | C++ | 47 ms<br>`52.82%` | 93.8 MB<br>`90.88%` |
 | 2025&#8209;04&#8209;24 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | Medium | C++ | 31 ms<br>`64.68%` | 44 MB<br>`62.90%` |
-| 2025&#8209;04&#8209;23 | [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | Medium | C++ | 75 ms<br>`30.92%` | 99.3 MB<br>`27.05%` |
+| 2025&#8209;04&#8209;24 | [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | Medium | C++ | 75 ms<br>`30.92%` | 99.3 MB<br>`27.05%` |
 | 2025&#8209;04&#8209;21 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | C++ | 38 ms<br>`47.95%` | 64.7 MB<br>`100.00%` |
-| 2025&#8209;04&#8209;19 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | C++ | 27 ms<br>`35.74%` | 23.6 MB<br>`49.60%` |
-| 2025&#8209;04&#8209;19 | [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | C++ | 106 ms<br>`31.48%` | 72 MB<br>`23.30%` |
+| 2025&#8209;04&#8209;20 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | C++ | 27 ms<br>`35.74%` | 23.6 MB<br>`49.60%` |
+| 2025&#8209;04&#8209;20 | [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | C++ | 106 ms<br>`31.48%` | 72 MB<br>`23.30%` |
 | 2025&#8209;04&#8209;19 | [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | Medium | C++ | 61 ms<br>`59.74%` | 60.3 MB<br>`100.00%` |
 | 2024&#8209;11&#8209;12 | [2070. Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | Medium | C++ | 35 ms<br>`96.42%` | 92.3 MB<br>`86.68%` |
 | 2024&#8209;11&#8209;06 | [3011. Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/) | Medium | C++ | 0 ms<br>`100.00%` | 31.4 MB<br>`100.00%` |
@@ -117,10 +117,10 @@ Latest **87** accepted submissions.
 | 2024&#8209;04&#8209;11 | [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | Medium | C++ | 0 ms<br>`100.00%` | 11.5 MB<br>`100.00%` |
 | 2024&#8209;03&#8209;25 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | C++ | 33 ms<br>`32.10%` | 36 MB<br>`100.00%` |
 | 2024&#8209;03&#8209;24 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | C++ | 69 ms<br>`8.82%` | 35.3 MB<br>`6.03%` |
-| 2024&#8209;03&#8209;23 | [148. Sort List](https://leetcode.com/problems/sort-list/) | Medium | C++ | 124 ms<br>`5.01%` | 58.8 MB<br>`49.20%` |
+| 2024&#8209;03&#8209;24 | [148. Sort List](https://leetcode.com/problems/sort-list/) | Medium | C++ | 124 ms<br>`5.01%` | 58.8 MB<br>`49.20%` |
 | 2024&#8209;03&#8209;23 | [18. 4Sum](https://leetcode.com/problems/4sum/) | Medium | C++ | 336 ms<br>`5.01%` | 81.5 MB<br>`5.13%` |
 | 2024&#8209;03&#8209;23 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | C++ | 18 ms<br>`14.57%` | 12.9 MB<br>`100.00%` |
-| 2023&#8209;10&#8209;05 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | C++ | 8 ms<br>`29.21%` | 16.3 MB<br>`100.00%` |
+| 2023&#8209;10&#8209;06 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | C++ | 8 ms<br>`29.21%` | 16.3 MB<br>`100.00%` |
 | 2023&#8209;04&#8209;03 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | C++ | 246 ms<br>`5.78%` | 70.4 MB<br>`5.29%` |
 | 2023&#8209;04&#8209;02 | [2611. Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/) | Medium | C++ | 217 ms<br>`5.13%` | 110.2 MB<br>`81.62%` |
 | 2023&#8209;04&#8209;01 | [2607. Make K-Subarray Sums Equal](https://leetcode.com/problems/make-k-subarray-sums-equal/) | Medium | C++ | 203 ms<br>`5.81%` | 112.6 MB<br>`90.70%` |
@@ -130,18 +130,18 @@ Latest **87** accepted submissions.
 | 2023&#8209;03&#8209;25 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Python | 110 ms<br>`5.00%` | 19.1 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;21 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | C++ | 3 ms<br>`38.14%` | 11.2 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;21 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | C++ | 15 ms<br>`5.21%` | 11.2 MB<br>`100.00%` |
-| 2023&#8209;03&#8209;19 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | C++ | 4 ms<br>`33.94%` | 7.4 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;20 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | C++ | 4 ms<br>`33.94%` | 7.4 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;19 | [2597. The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/) | Medium | C++ | 801 ms<br>`28.10%` | 34 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;18 | [2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | Medium | C++ | 379 ms<br>`7.82%` | 102.9 MB<br>`87.24%` |
 | 2023&#8209;03&#8209;18 | [2592. Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/) | Medium | C++ | 244 ms<br>`5.29%` | 96.7 MB<br>`16.04%` |
 | 2023&#8209;03&#8209;17 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | C++ | 13 ms<br>`5.43%` | 12.6 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;15 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | C++ | 201 ms<br>`5.30%` | 70.8 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;12 | [2587. Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/) | Medium | C++ | 158 ms<br>`5.18%` | 90.1 MB<br>`47.79%` |
-| 2023&#8209;03&#8209;10 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | C++ | 44 ms<br>`6.33%` | 26.8 MB<br>`99.97%` |
+| 2023&#8209;03&#8209;11 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | C++ | 44 ms<br>`6.33%` | 26.8 MB<br>`99.97%` |
 | 2023&#8209;03&#8209;10 | [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Easy | C++ | 10 ms<br>`10.81%` | 10 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;10 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | C++ | 4 ms<br>`3.98%` | 6.7 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;10 | [1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy | C++ | 6 ms<br>`1.83%` | 9.1 MB<br>`100.00%` |
-| 2023&#8209;03&#8209;09 | [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy | C++ | 0 ms<br>`100.00%` | 7.1 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;10 | [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy | C++ | 0 ms<br>`100.00%` | 7.1 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;04 | [2580. Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | Medium | C++ | 339 ms<br>`5.32%` | 72.7 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;04 | [2578. Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | Easy | C++ | 0 ms<br>`100.00%` | 5.9 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;03 | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | C++ | 3 ms<br>`9.91%` | 11.5 MB<br>`100.00%` |

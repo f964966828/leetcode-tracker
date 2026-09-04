@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**50** problems · updated `2026-09-04 19:32 UTC`
+**50** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -74,27 +74,27 @@ Latest **50** accepted submissions.
 | 2026&#8209;02&#8209;08 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | C++ | 0 ms<br>`100.00%` | 23 MB<br>`83.72%` |
 | 2025&#8209;04&#8209;26 | [1214. Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts/) | Medium | C++ | 0 ms<br>`100.00%` | 29.5 MB<br>`42.11%` |
 | 2025&#8209;04&#8209;20 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | C++ | 0 ms<br>`100.00%` | 34.3 MB<br>`87.09%` |
-| 2025&#8209;04&#8209;19 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | C++ | 0 ms<br>`100.00%` | 35.5 MB<br>`31.70%` |
-| 2025&#8209;04&#8209;19 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | C++ | 8 ms<br>`21.91%` | 115.7 MB<br>`5.42%` |
-| 2025&#8209;04&#8209;19 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | C++ | 0 ms<br>`100.00%` | 14.9 MB<br>`63.75%` |
-| 2025&#8209;04&#8209;19 | [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium | C++ | 0 ms<br>`100.00%` | 94.3 MB<br>`99.04%` |
-| 2025&#8209;04&#8209;19 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | C++ | 11 ms<br>`100.00%` | 18.7 MB<br>`100.00%` |
-| 2025&#8209;04&#8209;19 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | C++ | 104 ms<br>`32.00%` | 88.1 MB<br>`97.77%` |
-| 2025&#8209;04&#8209;19 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | C++ | 12 ms<br>`30.68%` | 21.5 MB<br>`25.06%` |
-| 2025&#8209;04&#8209;19 | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | C++ | 0 ms<br>`100.00%` | 15.1 MB<br>`99.71%` |
-| 2025&#8209;04&#8209;19 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | C++ | 0 ms<br>`100.00%` | 19.1 MB<br>`99.94%` |
-| 2024&#8209;10&#8209;26 | [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | Hard | C++ | 339 ms<br>`28.83%` | 312.8 MB<br>`34.69%` |
+| 2025&#8209;04&#8209;20 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | C++ | 0 ms<br>`100.00%` | 35.5 MB<br>`31.70%` |
+| 2025&#8209;04&#8209;20 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | C++ | 8 ms<br>`21.91%` | 115.7 MB<br>`5.42%` |
+| 2025&#8209;04&#8209;20 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | C++ | 0 ms<br>`100.00%` | 14.9 MB<br>`63.75%` |
+| 2025&#8209;04&#8209;20 | [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium | C++ | 0 ms<br>`100.00%` | 94.3 MB<br>`99.04%` |
+| 2025&#8209;04&#8209;20 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | C++ | 11 ms<br>`100.00%` | 18.7 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;20 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | C++ | 104 ms<br>`32.00%` | 88.1 MB<br>`97.77%` |
+| 2025&#8209;04&#8209;20 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | C++ | 12 ms<br>`30.68%` | 21.5 MB<br>`25.06%` |
+| 2025&#8209;04&#8209;20 | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | C++ | 0 ms<br>`100.00%` | 15.1 MB<br>`99.71%` |
+| 2025&#8209;04&#8209;20 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | C++ | 0 ms<br>`100.00%` | 19.1 MB<br>`99.94%` |
+| 2024&#8209;10&#8209;27 | [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | Hard | C++ | 339 ms<br>`28.83%` | 312.8 MB<br>`34.69%` |
 | 2024&#8209;10&#8209;24 | [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | Medium | C++ | 0 ms<br>`100.00%` | 14.5 MB<br>`100.00%` |
 | 2024&#8209;10&#8209;23 | [2641. Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | Medium | C++ | 157 ms<br>`16.02%` | 392.9 MB<br>`8.35%` |
 | 2024&#8209;10&#8209;22 | [2583. Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | Medium | C++ | 34 ms<br>`58.53%` | 167 MB<br>`100.00%` |
-| 2024&#8209;04&#8209;17 | [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | Medium | C++ | 10 ms<br>`6.63%` | 20.4 MB<br>`100.00%` |
-| 2024&#8209;04&#8209;17 | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | Medium | C++ | 8 ms<br>`0.27%` | 24.3 MB<br>`99.93%` |
+| 2024&#8209;04&#8209;18 | [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | Medium | C++ | 10 ms<br>`6.63%` | 20.4 MB<br>`100.00%` |
+| 2024&#8209;04&#8209;18 | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | Medium | C++ | 8 ms<br>`0.27%` | 24.3 MB<br>`99.93%` |
 | 2024&#8209;04&#8209;15 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | C++ | 0 ms<br>`100.00%` | 11.4 MB<br>`99.98%` |
 | 2024&#8209;04&#8209;15 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | C++ | 0 ms<br>`100.00%` | 14.8 MB<br>`99.89%` |
 | 2024&#8209;03&#8209;24 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Medium | C++ | 8 ms<br>`27.27%` | 18.8 MB<br>`99.98%` |
-| 2024&#8209;03&#8209;23 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | C++ | 187 ms<br>`5.21%` | 145 MB<br>`99.96%` |
-| 2024&#8209;03&#8209;23 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Medium | C++ | 4 ms<br>`6.61%` | 13.8 MB<br>`99.96%` |
-| 2024&#8209;03&#8209;23 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | C++ | 12 ms<br>`1.76%` | 20.9 MB<br>`99.88%` |
+| 2024&#8209;03&#8209;24 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | C++ | 187 ms<br>`5.21%` | 145 MB<br>`99.96%` |
+| 2024&#8209;03&#8209;24 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Medium | C++ | 4 ms<br>`6.61%` | 13.8 MB<br>`99.96%` |
+| 2024&#8209;03&#8209;24 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | C++ | 12 ms<br>`1.76%` | 20.9 MB<br>`99.88%` |
 | 2023&#8209;03&#8209;27 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | C++ | 117 ms<br>`0.20%` | 57 MB<br>`99.77%` |
 | 2023&#8209;03&#8209;27 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | C++ | 7 ms<br>`1.76%` | 21.7 MB<br>`95.02%` |
 | 2023&#8209;03&#8209;27 | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | C++ | 48 ms<br>`5.08%` | 39 MB<br>`20.06%` |
@@ -109,8 +109,8 @@ Latest **50** accepted submissions.
 | 2023&#8209;03&#8209;16 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | C++ | 38 ms<br>`5.14%` | 26 MB<br>`99.95%` |
 | 2023&#8209;03&#8209;15 | [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium | C++ | 11 ms<br>`0.47%` | 10.5 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;11 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Medium | C++ | 435 ms<br>`5.92%` | 345.2 MB<br>`5.43%` |
-| 2023&#8209;03&#8209;10 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium | C++ | 24 ms<br>`7.89%` | 17.7 MB<br>`99.99%` |
-| 2023&#8209;03&#8209;10 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | C++ | 45 ms<br>`5.21%` | 34.2 MB<br>`11.43%` |
+| 2023&#8209;03&#8209;11 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium | C++ | 24 ms<br>`7.89%` | 17.7 MB<br>`99.99%` |
+| 2023&#8209;03&#8209;11 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | C++ | 45 ms<br>`5.21%` | 34.2 MB<br>`11.43%` |
 | 2023&#8209;02&#8209;28 | [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | Medium | C++ | 40 ms<br>`5.04%` | 56 MB<br>`22.85%` |
 | 2023&#8209;02&#8209;19 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | C++ | 3 ms<br>`8.01%` | 12 MB<br>`99.95%` |
 | 2023&#8209;02&#8209;17 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | Easy | C++ | 0 ms<br>`100.00%` | 10 MB<br>`100.00%` |

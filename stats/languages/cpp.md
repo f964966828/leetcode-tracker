@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**627** problems · updated `2026-09-04 19:32 UTC`
+**627** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -38,9 +38,9 @@ Latest **100** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2026&#8209;09&#8209;04 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`5.69%` |
-| 2026&#8209;09&#8209;04 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | C++ | 3 ms<br>`67.25%` | 14.8 MB<br>`58.55%` |
-| 2026&#8209;09&#8209;04 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | C++ | 0 ms<br>`100.00%` | 31.3 MB<br>`81.38%` |
+| 2026&#8209;09&#8209;05 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`5.69%` |
+| 2026&#8209;09&#8209;05 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | C++ | 3 ms<br>`67.25%` | 14.8 MB<br>`58.55%` |
+| 2026&#8209;09&#8209;05 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | C++ | 0 ms<br>`100.00%` | 31.3 MB<br>`81.38%` |
 | 2026&#8209;09&#8209;04 | [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | C++ | 0 ms<br>`100.00%` | 31.5 MB<br>`20.68%` |
 | 2026&#8209;09&#8209;03 | [3876. Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | C++ | 7 ms<br>`42.89%` | 165.7 MB<br>`84.39%` |
 | 2026&#8209;09&#8209;02 | [3875. Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | C++ | 0 ms<br>`100.00%` | 30.3 MB<br>`27.31%` |
@@ -48,14 +48,14 @@ Latest **100** accepted submissions.
 | 2026&#8209;08&#8209;20 | [3069. Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | C++ | 0 ms<br>`100.00%` | 24 MB<br>`32.91%` |
 | 2026&#8209;08&#8209;19 | [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium | C++ | 125 ms<br>`9.88%` | 84.2 MB<br>`20.70%` |
 | 2026&#8209;08&#8209;18 | [3471. Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Easy | C++ | 0 ms<br>`100.00%` | 28.9 MB<br>`92.57%` |
-| 2026&#8209;08&#8209;17 | [877. Stone Game](https://leetcode.com/problems/stone-game/) | Medium | C++ | 12 ms<br>`17.70%` | 19.8 MB<br>`7.31%` |
-| 2026&#8209;08&#8209;17 | [1563. Stone Game V](https://leetcode.com/problems/stone-game-v/) | Hard | C++ | 407 ms<br>`57.19%` | 27.6 MB<br>`46.96%` |
+| 2026&#8209;08&#8209;18 | [877. Stone Game](https://leetcode.com/problems/stone-game/) | Medium | C++ | 12 ms<br>`17.70%` | 19.8 MB<br>`7.31%` |
+| 2026&#8209;08&#8209;18 | [1563. Stone Game V](https://leetcode.com/problems/stone-game-v/) | Hard | C++ | 407 ms<br>`57.19%` | 27.6 MB<br>`46.96%` |
 | 2026&#8209;08&#8209;13 | [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | Medium | C++ | 7 ms<br>`44.44%` | 19 MB<br>`83.33%` |
 | 2026&#8209;08&#8209;13 | [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | Easy | C++ | 0 ms<br>`100.00%` | 21.2 MB<br>`48.40%` |
 | 2026&#8209;08&#8209;13 | [250. Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | Medium | C++ | 0 ms<br>`100.00%` | 18.5 MB<br>`75.93%` |
 | 2026&#8209;08&#8209;13 | [549. Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) | Medium | C++ | 0 ms<br>`100.00%` | 22.7 MB<br>`78.57%` |
 | 2026&#8209;06&#8209;11 | [3558. Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | Medium | C++ | 303 ms<br>`53.85%` | 346.5 MB<br>`44.39%` |
-| 2026&#8209;06&#8209;08 | [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | C++ | 7 ms<br>`58.96%` | 139.4 MB<br>`16.25%` |
+| 2026&#8209;06&#8209;09 | [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | C++ | 7 ms<br>`58.96%` | 139.4 MB<br>`16.25%` |
 | 2026&#8209;06&#8209;06 | [3952. Maximum Total Value of Covered Indices](https://leetcode.com/problems/maximum-total-value-of-covered-indices/) | Medium | C++ | 127 ms<br>`33.96%` | 236.8 MB<br>`31.46%` |
 | 2026&#8209;06&#8209;06 | [3951. Minimum Energy to Maintain Brightness](https://leetcode.com/problems/minimum-energy-to-maintain-brightness/) | Medium | C++ | 74 ms<br>`83.55%` | 203.6 MB<br>`61.06%` |
 | 2026&#8209;06&#8209;06 | [3950. Exactly One Consecutive Set Bits Pair](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | Easy | C++ | 0 ms<br>`100.00%` | 8.5 MB<br>`7.25%` |
@@ -94,8 +94,8 @@ Latest **100** accepted submissions.
 | 2025&#8209;10&#8209;12 | [3714. Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | Medium | C++ | 1603 ms<br>`59.24%` | 403.9 MB<br>`18.22%` |
 | 2025&#8209;10&#8209;12 | [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | C++ | 3030 ms<br>`5.07%` | 498.4 MB<br>`5.06%` |
 | 2025&#8209;10&#8209;12 | [3712. Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/) | Easy | C++ | 0 ms<br>`100.00%` | 26.4 MB<br>`12.32%` |
-| 2025&#8209;10&#8209;11 | [3147. Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | Medium | C++ | 141 ms<br>`82.37%` | 151.8 MB<br>`100.00%` |
-| 2025&#8209;10&#8209;11 | [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | Medium | C++ | 111 ms<br>`86.08%` | 162.8 MB<br>`90.83%` |
+| 2025&#8209;10&#8209;12 | [3147. Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | Medium | C++ | 141 ms<br>`82.37%` | 151.8 MB<br>`100.00%` |
+| 2025&#8209;10&#8209;12 | [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | Medium | C++ | 111 ms<br>`86.08%` | 162.8 MB<br>`90.83%` |
 | 2025&#8209;10&#8209;11 | [3710. Maximum Partition Factor](https://leetcode.com/problems/maximum-partition-factor/) | Hard | C++ | 1245 ms<br>`35.15%` | 336.4 MB<br>`37.63%` |
 | 2025&#8209;10&#8209;11 | [3708. Longest Fibonacci Subarray](https://leetcode.com/problems/longest-fibonacci-subarray/) | Medium | C++ | 0 ms<br>`100.00%` | 102.8 MB<br>`45.05%` |
 | 2025&#8209;10&#8209;11 | [3707. Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings/) | Easy | C++ | 3 ms<br>`23.55%` | 8.6 MB<br>`44.95%` |
@@ -108,7 +108,7 @@ Latest **100** accepted submissions.
 | 2025&#8209;10&#8209;04 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | C++ | 0 ms<br>`100.00%` | 62.8 MB<br>`79.30%` |
 | 2025&#8209;10&#8209;03 | [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | Medium | C++ | 45 ms<br>`32.04%` | 58.5 MB<br>`26.21%` |
 | 2025&#8209;10&#8209;03 | [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard | C++ | 34 ms<br>`43.03%` | 22.7 MB<br>`32.34%` |
-| 2025&#8209;10&#8209;02 | [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/) | Medium | C++ | 2 ms<br>`38.80%` | 8.7 MB<br>`15.89%` |
+| 2025&#8209;10&#8209;03 | [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/) | Medium | C++ | 2 ms<br>`38.80%` | 8.7 MB<br>`15.89%` |
 | 2025&#8209;10&#8209;01 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy | C++ | 0 ms<br>`100.00%` | 7.8 MB<br>`46.26%` |
 | 2025&#8209;09&#8209;30 | [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | Medium | C++ | 431 ms<br>`5.07%` | 384.5 MB<br>`5.28%` |
 | 2025&#8209;09&#8209;29 | [1121. Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) | Hard | C++ | 95 ms<br>`41.67%` | 107.6 MB<br>`33.33%` |
@@ -131,8 +131,8 @@ Latest **100** accepted submissions.
 | 2025&#8209;09&#8209;25 | [120. Triangle](https://leetcode.com/problems/triangle/) | Medium | C++ | 0 ms<br>`100.00%` | 13.9 MB<br>`5.01%` |
 | 2025&#8209;09&#8209;22 | [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Easy | C++ | 0 ms<br>`100.00%` | 23.6 MB<br>`8.88%` |
 | 2025&#8209;09&#8209;21 | [1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | Hard | C++ | 333 ms<br>`34.71%` | 444.6 MB<br>`8.94%` |
-| 2025&#8209;09&#8209;20 | [3508. Implement Router](https://leetcode.com/problems/implement-router/) | Medium | C++ | 190 ms<br>`82.01%` | 415.1 MB<br>`99.28%` |
-| 2025&#8209;09&#8209;18 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/) | Medium | C++ | 209 ms<br>`78.45%` | 347.5 MB<br>`98.90%` |
+| 2025&#8209;09&#8209;21 | [3508. Implement Router](https://leetcode.com/problems/implement-router/) | Medium | C++ | 190 ms<br>`82.01%` | 415.1 MB<br>`99.28%` |
+| 2025&#8209;09&#8209;19 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/) | Medium | C++ | 209 ms<br>`78.45%` | 347.5 MB<br>`98.90%` |
 | 2025&#8209;09&#8209;17 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium | C++ | 164 ms<br>`34.81%` | 162.7 MB<br>`91.36%` |
 | 2025&#8209;09&#8209;16 | [2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) | Hard | C++ | 2138 ms<br>`5.26%` | 306.9 MB<br>`5.26%` |
 | 2025&#8209;09&#8209;14 | [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | Medium | C++ | 37 ms<br>`68.34%` | 41.6 MB<br>`55.21%` |

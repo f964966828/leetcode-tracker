@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**11** problems · updated `2026-09-04 19:32 UTC`
+**11** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -70,7 +70,7 @@ Latest **11** accepted submissions.
 | 2026&#8209;02&#8209;09 | [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium | C++ | 22 ms<br>`20.32%` | 65.6 MB<br>`66.43%` |
 | 2025&#8209;04&#8209;26 | [1214. Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts/) | Medium | C++ | 0 ms<br>`100.00%` | 29.5 MB<br>`42.11%` |
 | 2025&#8209;04&#8209;20 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | C++ | 0 ms<br>`100.00%` | 34.3 MB<br>`87.09%` |
-| 2025&#8209;04&#8209;19 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | C++ | 0 ms<br>`100.00%` | 35.5 MB<br>`31.70%` |
+| 2025&#8209;04&#8209;20 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | C++ | 0 ms<br>`100.00%` | 35.5 MB<br>`31.70%` |
 | 2023&#8209;03&#8209;27 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | C++ | 117 ms<br>`0.20%` | 57 MB<br>`99.77%` |
 | 2023&#8209;03&#8209;27 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | C++ | 7 ms<br>`1.76%` | 21.7 MB<br>`95.02%` |
 | 2023&#8209;03&#8209;27 | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | C++ | 48 ms<br>`5.08%` | 39 MB<br>`20.06%` |

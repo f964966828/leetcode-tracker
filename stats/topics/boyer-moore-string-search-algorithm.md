@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**1** problems · updated `2026-09-04 19:32 UTC`
+**1** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -66,4 +66,4 @@ Latest **1** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2023&#8209;03&#8209;13 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | C++ | 0 ms<br>`100.00%` | 6.3 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;14 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | C++ | 0 ms<br>`100.00%` | 6.3 MB<br>`100.00%` |

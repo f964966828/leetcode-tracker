@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**1** problems · updated `2026-09-04 19:32 UTC`
+**1** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -66,4 +66,4 @@ Latest **1** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2023&#8209;02&#8209;15 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | C++ | 37 ms<br>`39.20%` | 7 MB<br>`100.00%` |
+| 2023&#8209;02&#8209;16 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | C++ | 37 ms<br>`39.20%` | 7 MB<br>`100.00%` |

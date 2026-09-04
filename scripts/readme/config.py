@@ -1,4 +1,7 @@
+from datetime import timedelta, timezone
 from pathlib import Path
+
+TAIPEI_TZ = timezone(timedelta(hours=8))
 
 ROOT = Path(__file__).resolve().parents[2]
 LEETCODE_DIR = ROOT / "leetcode"

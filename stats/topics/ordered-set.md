@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**8** problems · updated `2026-09-04 19:32 UTC`
+**8** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -67,8 +67,8 @@ Latest **8** accepted submissions.
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
 | 2025&#8209;09&#8209;21 | [1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | Hard | C++ | 333 ms<br>`34.71%` | 444.6 MB<br>`8.94%` |
-| 2025&#8209;09&#8209;20 | [3508. Implement Router](https://leetcode.com/problems/implement-router/) | Medium | C++ | 190 ms<br>`82.01%` | 415.1 MB<br>`99.28%` |
-| 2025&#8209;09&#8209;18 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/) | Medium | C++ | 209 ms<br>`78.45%` | 347.5 MB<br>`98.90%` |
+| 2025&#8209;09&#8209;21 | [3508. Implement Router](https://leetcode.com/problems/implement-router/) | Medium | C++ | 190 ms<br>`82.01%` | 415.1 MB<br>`99.28%` |
+| 2025&#8209;09&#8209;19 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/) | Medium | C++ | 209 ms<br>`78.45%` | 347.5 MB<br>`98.90%` |
 | 2025&#8209;09&#8209;17 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium | C++ | 164 ms<br>`34.81%` | 162.7 MB<br>`91.36%` |
 | 2025&#8209;04&#8209;21 | [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Medium | C++ | 33 ms<br>`14.17%` | 54.3 MB<br>`9.29%` |
 | 2024&#8209;03&#8209;30 | [3092. Most Frequent IDs](https://leetcode.com/problems/most-frequent-ids/) | Medium | C++ | 474 ms<br>`7.78%` | 157 MB<br>`100.00%` |

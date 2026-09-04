@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**2** problems · updated `2026-09-04 19:32 UTC`
+**2** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -66,5 +66,5 @@ Latest **2** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2025&#8209;05&#8209;26 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | C++ | 401 ms<br>`39.45%` | 188.9 MB<br>`30.53%` |
-| 2024&#8209;03&#8209;23 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | C++ | 18 ms<br>`7.53%` | 17.5 MB<br>`99.95%` |
+| 2025&#8209;05&#8209;27 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | C++ | 401 ms<br>`39.45%` | 188.9 MB<br>`30.53%` |
+| 2024&#8209;03&#8209;24 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | C++ | 18 ms<br>`7.53%` | 17.5 MB<br>`99.95%` |

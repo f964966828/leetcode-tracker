@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**167** problems · updated `2026-09-04 19:32 UTC`
+**167** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -82,7 +82,7 @@ Latest **100** accepted submissions.
 | 2025&#8209;09&#8209;26 | [1152. Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) | Medium | C++ | 55 ms<br>`19.05%` | 26.6 MB<br>`42.86%` |
 | 2025&#8209;09&#8209;24 | [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | Medium | Python | 0 ms<br>`100.00%` | 17.9 MB<br>`100.00%` |
 | 2025&#8209;09&#8209;23 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | Python | 0 ms<br>`100.00%` | 17.7 MB<br>`100.00%` |
-| 2025&#8209;09&#8209;19 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | Medium | Python | 57 ms<br>`96.77%` | 23.5 MB<br>`100.00%` |
+| 2025&#8209;09&#8209;20 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | Medium | Python | 57 ms<br>`96.77%` | 23.5 MB<br>`100.00%` |
 | 2025&#8209;09&#8209;17 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium | C++ | 164 ms<br>`34.81%` | 162.7 MB<br>`91.36%` |
 | 2025&#8209;09&#8209;15 | [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Easy | Python | 3 ms<br>`33.08%` | 17.9 MB<br>`100.00%` |
 | 2025&#8209;09&#8209;14 | [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | Medium | C++ | 37 ms<br>`68.34%` | 41.6 MB<br>`55.21%` |
@@ -93,10 +93,10 @@ Latest **100** accepted submissions.
 | 2025&#8209;06&#8209;10 | [3442. Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | Easy | C++ | 3 ms<br>`36.10%` | 9.9 MB<br>`27.80%` |
 | 2025&#8209;06&#8209;07 | [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | Medium | C++ | 54 ms<br>`80.71%` | 27.2 MB<br>`42.51%` |
 | 2025&#8209;06&#8209;06 | [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium | C++ | 67 ms<br>`26.26%` | 51.4 MB<br>`5.20%` |
-| 2025&#8209;06&#8209;05 | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | Medium | C++ | 2 ms<br>`46.62%` | 9 MB<br>`53.92%` |
-| 2025&#8209;06&#8209;04 | [3406. Find the Lexicographically Largest String From the Box II](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/) | Hard | C++ | 510 ms<br>`0.00%` | 278 MB<br>`0.00%` |
-| 2025&#8209;06&#8209;04 | [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | Medium | C++ | 9 ms<br>`91.91%` | 12.9 MB<br>`76.28%` |
-| 2025&#8209;05&#8209;26 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | C++ | 401 ms<br>`39.45%` | 188.9 MB<br>`30.53%` |
+| 2025&#8209;06&#8209;06 | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | Medium | C++ | 2 ms<br>`46.62%` | 9 MB<br>`53.92%` |
+| 2025&#8209;06&#8209;05 | [3406. Find the Lexicographically Largest String From the Box II](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/) | Hard | C++ | 510 ms<br>`0.00%` | 278 MB<br>`0.00%` |
+| 2025&#8209;06&#8209;05 | [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | Medium | C++ | 9 ms<br>`91.91%` | 12.9 MB<br>`76.28%` |
+| 2025&#8209;05&#8209;27 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | C++ | 401 ms<br>`39.45%` | 188.9 MB<br>`30.53%` |
 | 2025&#8209;05&#8209;25 | [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | C++ | 27 ms<br>`88.02%` | 171.9 MB<br>`78.72%` |
 | 2025&#8209;05&#8209;25 | [3561. Resulting String After Adjacent Removals](https://leetcode.com/problems/resulting-string-after-adjacent-removals/) | Medium | C++ | 106 ms<br>`36.98%` | 78.6 MB<br>`7.40%` |
 | 2025&#8209;05&#8209;24 | [3557. Find Maximum Number of Non Intersecting Substrings](https://leetcode.com/problems/find-maximum-number-of-non-intersecting-substrings/) | Medium | C++ | 3 ms<br>`98.31%` | 20.2 MB<br>`90.40%` |
@@ -108,9 +108,9 @@ Latest **100** accepted submissions.
 | 2025&#8209;05&#8209;13 | [3335. Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | Medium | C++ | 14 ms<br>`98.77%` | 19.2 MB<br>`88.62%` |
 | 2025&#8209;05&#8209;12 | [1180. Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/) | Easy | C++ | 0 ms<br>`100.00%` | 8.5 MB<br>`29.73%` |
 | 2025&#8209;05&#8209;12 | [770. Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/) | Hard | C++ | 4 ms<br>`85.71%` | 21.8 MB<br>`99.51%` |
-| 2025&#8209;05&#8209;11 | [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | Hard | C++ | 0 ms<br>`100.00%` | 11.5 MB<br>`56.44%` |
-| 2025&#8209;05&#8209;11 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | C++ | 38 ms<br>`5.53%` | 38.6 MB<br>`5.00%` |
-| 2025&#8209;05&#8209;11 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | C++ | 19 ms<br>`7.01%` | 23.2 MB<br>`5.06%` |
+| 2025&#8209;05&#8209;12 | [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | Hard | C++ | 0 ms<br>`100.00%` | 11.5 MB<br>`56.44%` |
+| 2025&#8209;05&#8209;12 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | C++ | 38 ms<br>`5.53%` | 38.6 MB<br>`5.00%` |
+| 2025&#8209;05&#8209;12 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | C++ | 19 ms<br>`7.01%` | 23.2 MB<br>`5.06%` |
 | 2025&#8209;05&#8209;11 | [484. Find Permutation](https://leetcode.com/problems/find-permutation/) | Medium | C++ | 3 ms<br>`29.79%` | 14.4 MB<br>`14.89%` |
 | 2025&#8209;05&#8209;11 | [439. Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) | Medium | C++ | 0 ms<br>`100.00%` | 8.9 MB<br>`79.45%` |
 | 2025&#8209;05&#8209;11 | [3545. Minimum Deletions for At Most K Distinct Characters](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/) | Easy | C++ | 3 ms<br>`41.64%` | 9 MB<br>`89.15%` |
@@ -125,33 +125,33 @@ Latest **100** accepted submissions.
 | 2025&#8209;05&#8209;04 | [186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | Medium | C++ | 0 ms<br>`100.00%` | 20.1 MB<br>`59.42%` |
 | 2025&#8209;05&#8209;03 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium | C++ | 38 ms<br>`86.73%` | 136.5 MB<br>`84.35%` |
 | 2025&#8209;05&#8209;02 | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium | C++ | 27 ms<br>`32.11%` | 27.2 MB<br>`30.96%` |
-| 2025&#8209;04&#8209;28 | [734. Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) | Easy | C++ | 2 ms<br>`52.34%` | 15.7 MB<br>`70.09%` |
+| 2025&#8209;04&#8209;29 | [734. Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) | Easy | C++ | 2 ms<br>`52.34%` | 15.7 MB<br>`70.09%` |
 | 2025&#8209;04&#8209;27 | [3529. Count Cells in Overlapping Horizontal and Vertical Substrings](https://leetcode.com/problems/count-cells-in-overlapping-horizontal-and-vertical-substrings/) | Medium | C++ | 2256 ms<br>`5.71%` | 63.1 MB<br>`95.71%` |
 | 2025&#8209;04&#8209;26 | [3527. Find the Most Common Response](https://leetcode.com/problems/find-the-most-common-response/) | Medium | C++ | 1472 ms<br>`24.07%` | 479.3 MB<br>`51.50%` |
 | 2025&#8209;04&#8209;26 | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | Easy | C++ | 0 ms<br>`100.00%` | 8.2 MB<br>`88.46%` |
 | 2025&#8209;04&#8209;26 | [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) | Hard | C++ | 17 ms<br>`6.78%` | 20.2 MB<br>`5.08%` |
-| 2025&#8209;04&#8209;25 | [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | Medium | Python | 3 ms<br>`26.80%` | 17.7 MB<br>`100.00%` |
-| 2025&#8209;04&#8209;25 | [1427. Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | Easy | Python | 0 ms<br>`100.00%` | 17.9 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;26 | [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | Medium | Python | 3 ms<br>`26.80%` | 17.7 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;26 | [1427. Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | Easy | Python | 0 ms<br>`100.00%` | 17.9 MB<br>`100.00%` |
 | 2025&#8209;04&#8209;24 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | C++ | 15 ms<br>`86.33%` | 29.9 MB<br>`99.66%` |
 | 2025&#8209;04&#8209;24 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | Medium | C++ | 31 ms<br>`64.68%` | 44 MB<br>`62.90%` |
-| 2025&#8209;04&#8209;23 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | C++ | 24 ms<br>`72.81%` | 27.4 MB<br>`55.87%` |
-| 2025&#8209;04&#8209;23 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Medium | C++ | 11 ms<br>`28.88%` | 13.1 MB<br>`74.14%` |
-| 2025&#8209;04&#8209;23 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Python | 0 ms<br>`100.00%` | 17.7 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;24 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | C++ | 24 ms<br>`72.81%` | 27.4 MB<br>`55.87%` |
+| 2025&#8209;04&#8209;24 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Medium | C++ | 11 ms<br>`28.88%` | 13.1 MB<br>`74.14%` |
+| 2025&#8209;04&#8209;24 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Python | 0 ms<br>`100.00%` | 17.7 MB<br>`100.00%` |
 | 2025&#8209;04&#8209;20 | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | C++ | 2 ms<br>`22.06%` | 12 MB<br>`60.01%` |
 | 2025&#8209;04&#8209;20 | [3522. Calculate Score After Performing Instructions](https://leetcode.com/problems/calculate-score-after-performing-instructions/) | Medium | C++ | 4 ms<br>`64.29%` | 167.2 MB<br>`74.06%` |
 | 2025&#8209;04&#8209;20 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | C++ | 7 ms<br>`17.56%` | 12.6 MB<br>`7.47%` |
-| 2025&#8209;04&#8209;19 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | C++ | 1 ms<br>`29.13%` | 9.7 MB<br>`10.91%` |
-| 2025&#8209;04&#8209;19 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | C++ | 7 ms<br>`96.62%` | 29.8 MB<br>`36.41%` |
-| 2025&#8209;04&#8209;19 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | C++ | 27 ms<br>`35.74%` | 23.6 MB<br>`49.60%` |
-| 2025&#8209;04&#8209;19 | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | C++ | 3 ms<br>`87.94%` | 13 MB<br>`89.77%` |
-| 2025&#8209;04&#8209;19 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | C++ | 0 ms<br>`100.00%` | 8.5 MB<br>`91.47%` |
-| 2025&#8209;04&#8209;19 | [443. String Compression](https://leetcode.com/problems/string-compression/) | Medium | C++ | 0 ms<br>`100.00%` | 13.6 MB<br>`92.00%` |
-| 2025&#8209;04&#8209;19 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Python | 3 ms<br>`30.78%` | 17.8 MB<br>`100.00%` |
-| 2025&#8209;04&#8209;19 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | C++ | 0 ms<br>`100.00%` | 11.6 MB<br>`5.33%` |
+| 2025&#8209;04&#8209;20 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | C++ | 1 ms<br>`29.13%` | 9.7 MB<br>`10.91%` |
+| 2025&#8209;04&#8209;20 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | C++ | 7 ms<br>`96.62%` | 29.8 MB<br>`36.41%` |
+| 2025&#8209;04&#8209;20 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | C++ | 27 ms<br>`35.74%` | 23.6 MB<br>`49.60%` |
+| 2025&#8209;04&#8209;20 | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | C++ | 3 ms<br>`87.94%` | 13 MB<br>`89.77%` |
+| 2025&#8209;04&#8209;20 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | C++ | 0 ms<br>`100.00%` | 8.5 MB<br>`91.47%` |
+| 2025&#8209;04&#8209;20 | [443. String Compression](https://leetcode.com/problems/string-compression/) | Medium | C++ | 0 ms<br>`100.00%` | 13.6 MB<br>`92.00%` |
+| 2025&#8209;04&#8209;20 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Python | 3 ms<br>`30.78%` | 17.8 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;20 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | C++ | 0 ms<br>`100.00%` | 11.6 MB<br>`5.33%` |
 | 2025&#8209;04&#8209;18 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | Medium | C++ | 3 ms<br>`81.25%` | 10.3 MB<br>`21.90%` |
 | 2025&#8209;04&#8209;11 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | C++ | 19 ms<br>`5.25%` | 46.6 MB<br>`5.11%` |
 | 2025&#8209;04&#8209;11 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | C++ | 3 ms<br>`40.70%` | 8.6 MB<br>`13.54%` |
-| 2024&#8209;11&#8209;20 | [2516. Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | Medium | C++ | 21 ms<br>`29.47%` | 11.9 MB<br>`100.00%` |
+| 2024&#8209;11&#8209;21 | [2516. Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | Medium | C++ | 21 ms<br>`29.47%` | 11.9 MB<br>`100.00%` |
 | 2024&#8209;11&#8209;05 | [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium | C++ | 9 ms<br>`5.33%` | 16.9 MB<br>`11.93%` |
 | 2024&#8209;11&#8209;04 | [2955. Number of Same-End Substrings](https://leetcode.com/problems/number-of-same-end-substrings/) | Medium | C++ | 238 ms<br>`15.38%` | 230.3 MB<br>`7.69%` |
 | 2024&#8209;11&#8209;04 | [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/) | Medium | C++ | 26 ms<br>`65.21%` | 35.5 MB<br>`5.36%` |

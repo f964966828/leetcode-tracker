@@ -19,6 +19,7 @@ from .config import (
     RUNTIME_DIR,
     SITE_TITLE,
     STATS_CARD_URL,
+    TAIPEI_TZ,
     TOPICS_DIR,
     TOPICS_LINK_COLUMNS,
 )
@@ -35,7 +36,7 @@ from .text import md_escape
 def write_readme(problems: list[dict]) -> None:
     difficulties = Counter(p.get("difficulty") or "Unknown" for p in problems)
     languages = Counter(lang_label(p.get("lang")) for p in problems)
-    generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    generated_at = datetime.now(TAIPEI_TZ).strftime("%Y-%m-%d %H:%M UTC+8")
 
     difficulty_pages = [
         (name, page_slug(name), count)
@@ -368,7 +369,9 @@ def format_date(raw: str | None) -> str:
         return "-"
     try:
         parsed = datetime.fromisoformat(raw.replace("Z", "+00:00"))
-        text = parsed.strftime("%Y-%m-%d")
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        text = parsed.astimezone(TAIPEI_TZ).strftime("%Y-%m-%d")
     except ValueError:
         text = raw[:10]
     # Keep YYYY-MM-DD on one line; GitHub tables wrap at ASCII hyphens.

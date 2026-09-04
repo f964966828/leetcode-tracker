@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**25** problems · updated `2026-09-04 19:32 UTC`
+**25** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -68,9 +68,9 @@ Latest **25** accepted submissions.
 | :--- | :--- | :---: | :---: | ---: | ---: |
 | 2026&#8209;08&#8209;20 | [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | Medium | C++ | 19 ms<br>`58.17%` | 44.6 MB<br>`11.30%` |
 | 2025&#8209;09&#8209;21 | [1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | Hard | C++ | 333 ms<br>`34.71%` | 444.6 MB<br>`8.94%` |
-| 2025&#8209;09&#8209;20 | [3508. Implement Router](https://leetcode.com/problems/implement-router/) | Medium | C++ | 190 ms<br>`82.01%` | 415.1 MB<br>`99.28%` |
-| 2025&#8209;09&#8209;19 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | Medium | Python | 57 ms<br>`96.77%` | 23.5 MB<br>`100.00%` |
-| 2025&#8209;09&#8209;18 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/) | Medium | C++ | 209 ms<br>`78.45%` | 347.5 MB<br>`98.90%` |
+| 2025&#8209;09&#8209;21 | [3508. Implement Router](https://leetcode.com/problems/implement-router/) | Medium | C++ | 190 ms<br>`82.01%` | 415.1 MB<br>`99.28%` |
+| 2025&#8209;09&#8209;20 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | Medium | Python | 57 ms<br>`96.77%` | 23.5 MB<br>`100.00%` |
+| 2025&#8209;09&#8209;19 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/) | Medium | C++ | 209 ms<br>`78.45%` | 347.5 MB<br>`98.90%` |
 | 2025&#8209;09&#8209;17 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium | C++ | 164 ms<br>`34.81%` | 162.7 MB<br>`91.36%` |
 | 2025&#8209;05&#8209;12 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | Easy | C++ | 3 ms<br>`46.36%` | 20.8 MB<br>`80.04%` |
 | 2025&#8209;05&#8209;12 | [1429. First Unique Number](https://leetcode.com/problems/first-unique-number/) | Medium | C++ | 195 ms<br>`84.46%` | 128.1 MB<br>`99.72%` |
@@ -81,7 +81,7 @@ Latest **25** accepted submissions.
 | 2025&#8209;04&#8209;24 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | C++ | 43 ms<br>`21.61%` | 95.1 MB<br>`28.25%` |
 | 2025&#8209;04&#8209;24 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | C++ | 15 ms<br>`86.33%` | 29.9 MB<br>`99.66%` |
 | 2025&#8209;04&#8209;21 | [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Medium | C++ | 33 ms<br>`14.17%` | 54.3 MB<br>`9.29%` |
-| 2025&#8209;04&#8209;19 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | C++ | 20 ms<br>`40.20%` | 64.1 MB<br>`69.17%` |
+| 2025&#8209;04&#8209;20 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | C++ | 20 ms<br>`40.20%` | 64.1 MB<br>`69.17%` |
 | 2024&#8209;03&#8209;24 | [1570. Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | Medium | C++ | 162 ms<br>`9.76%` | 175.2 MB<br>`21.95%` |
 | 2023&#8209;10&#8209;04 | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | C++ | 113 ms<br>`7.27%` | 53.5 MB<br>`100.00%` |
 | 2023&#8209;10&#8209;01 | [1804. Implement Trie II (Prefix Tree)](https://leetcode.com/problems/implement-trie-ii-prefix-tree/) | Medium | C++ | 158 ms<br>`5.26%` | 60.6 MB<br>`100.00%` |

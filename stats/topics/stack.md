@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**47** problems · updated `2026-09-04 19:32 UTC`
+**47** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -73,9 +73,9 @@ Latest **47** accepted submissions.
 | 2025&#8209;06&#8209;06 | [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium | C++ | 67 ms<br>`26.26%` | 51.4 MB<br>`5.20%` |
 | 2025&#8209;05&#8209;25 | [3561. Resulting String After Adjacent Removals](https://leetcode.com/problems/resulting-string-after-adjacent-removals/) | Medium | C++ | 106 ms<br>`36.98%` | 78.6 MB<br>`7.40%` |
 | 2025&#8209;05&#8209;12 | [770. Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/) | Hard | C++ | 4 ms<br>`85.71%` | 21.8 MB<br>`99.51%` |
-| 2025&#8209;05&#8209;11 | [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | Hard | C++ | 0 ms<br>`100.00%` | 11.5 MB<br>`56.44%` |
-| 2025&#8209;05&#8209;11 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | C++ | 38 ms<br>`5.53%` | 38.6 MB<br>`5.00%` |
-| 2025&#8209;05&#8209;11 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | C++ | 19 ms<br>`7.01%` | 23.2 MB<br>`5.06%` |
+| 2025&#8209;05&#8209;12 | [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | Hard | C++ | 0 ms<br>`100.00%` | 11.5 MB<br>`56.44%` |
+| 2025&#8209;05&#8209;12 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | C++ | 38 ms<br>`5.53%` | 38.6 MB<br>`5.00%` |
+| 2025&#8209;05&#8209;12 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | C++ | 19 ms<br>`7.01%` | 23.2 MB<br>`5.06%` |
 | 2025&#8209;05&#8209;11 | [484. Find Permutation](https://leetcode.com/problems/find-permutation/) | Medium | C++ | 3 ms<br>`29.79%` | 14.4 MB<br>`14.89%` |
 | 2025&#8209;05&#8209;11 | [439. Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) | Medium | C++ | 0 ms<br>`100.00%` | 8.9 MB<br>`79.45%` |
 | 2025&#8209;05&#8209;10 | [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | Medium | C++ | 1960 ms<br>`5.13%` | 484.1 MB<br>`5.40%` |
@@ -83,22 +83,22 @@ Latest **47** accepted submissions.
 | 2025&#8209;04&#8209;24 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | C++ | 43 ms<br>`21.61%` | 95.1 MB<br>`28.25%` |
 | 2025&#8209;04&#8209;24 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | C++ | 27 ms<br>`34.20%` | 107.4 MB<br>`34.92%` |
 | 2025&#8209;04&#8209;20 | [3523. Make Array Non-decreasing](https://leetcode.com/problems/make-array-non-decreasing/) | Medium | C++ | 0 ms<br>`100.00%` | 206.4 MB<br>`51.04%` |
-| 2025&#8209;04&#8209;19 | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Medium | C++ | 5 ms<br>`36.76%` | 138.4 MB<br>`17.32%` |
-| 2025&#8209;04&#8209;19 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | C++ | 0 ms<br>`100.00%` | 21.6 MB<br>`89.55%` |
-| 2025&#8209;04&#8209;19 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | C++ | 1 ms<br>`29.13%` | 9.7 MB<br>`10.91%` |
-| 2025&#8209;04&#8209;19 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | C++ | 7 ms<br>`96.62%` | 29.8 MB<br>`36.41%` |
+| 2025&#8209;04&#8209;20 | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Medium | C++ | 5 ms<br>`36.76%` | 138.4 MB<br>`17.32%` |
+| 2025&#8209;04&#8209;20 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | C++ | 0 ms<br>`100.00%` | 21.6 MB<br>`89.55%` |
+| 2025&#8209;04&#8209;20 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | C++ | 1 ms<br>`29.13%` | 9.7 MB<br>`10.91%` |
+| 2025&#8209;04&#8209;20 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | C++ | 7 ms<br>`96.62%` | 29.8 MB<br>`36.41%` |
 | 2024&#8209;11&#8209;15 | [1574. Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium | C++ | 0 ms<br>`100.00%` | 69.4 MB<br>`100.00%` |
 | 2024&#8209;10&#8209;20 | [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | Hard | C++ | 9 ms<br>`21.74%` | 13.3 MB<br>`9.84%` |
-| 2024&#8209;04&#8209;13 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Python | 1343 ms<br>`6.67%` | 24.6 MB<br>`50.77%` |
+| 2024&#8209;04&#8209;14 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Python | 1343 ms<br>`6.67%` | 24.6 MB<br>`50.77%` |
 | 2024&#8209;04&#8209;12 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | C++ | 13 ms<br>`4.64%` | 22.2 MB<br>`100.00%` |
 | 2024&#8209;04&#8209;11 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | Python | 63 ms<br>`5.34%` | 18.1 MB<br>`100.00%` |
 | 2024&#8209;04&#8209;08 | [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | C++ | 0 ms<br>`100.00%` | 10.8 MB<br>`100.00%` |
-| 2024&#8209;04&#8209;07 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | C++ | 3 ms<br>`9.38%` | 7.2 MB<br>`100.00%` |
+| 2024&#8209;04&#8209;08 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | C++ | 3 ms<br>`9.38%` | 7.2 MB<br>`100.00%` |
 | 2024&#8209;04&#8209;06 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | C++ | 17 ms<br>`9.28%` | 15.1 MB<br>`17.08%` |
 | 2024&#8209;04&#8209;05 | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Easy | C++ | 8 ms<br>`1.08%` | 11.4 MB<br>`6.07%` |
-| 2024&#8209;04&#8209;04 | [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | C++ | 4 ms<br>`0.11%` | 8.1 MB<br>`99.14%` |
+| 2024&#8209;04&#8209;05 | [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | C++ | 4 ms<br>`0.11%` | 8.1 MB<br>`99.14%` |
 | 2024&#8209;03&#8209;23 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | C++ | 31 ms<br>`5.08%` | 22.4 MB<br>`99.97%` |
-| 2024&#8209;03&#8209;22 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | C++ | 173 ms<br>`5.13%` | 130.7 MB<br>`18.01%` |
+| 2024&#8209;03&#8209;23 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | C++ | 173 ms<br>`5.13%` | 130.7 MB<br>`18.01%` |
 | 2023&#8209;09&#8209;30 | [456. 132 Pattern](https://leetcode.com/problems/132-pattern/) | Medium | C++ | 71 ms<br>`6.97%` | 49.1 MB<br>`100.00%` |
 | 2023&#8209;04&#8209;13 | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | C++ | 14 ms<br>`1.96%` | 15.5 MB<br>`100.00%` |
 | 2023&#8209;04&#8209;12 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | Python | 37 ms<br>`5.67%` | 13.7 MB<br>`100.00%` |

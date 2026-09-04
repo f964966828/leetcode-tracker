@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**55** problems · updated `2026-09-04 19:32 UTC`
+**55** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -43,7 +43,7 @@ Latest **55** accepted submissions.
 | 2025&#8209;10&#8209;12 | [3539. Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | Hard | Python | 411 ms<br>`97.50%` | 33.9 MB<br>`70.00%` |
 | 2025&#8209;09&#8209;24 | [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | Medium | Python | 0 ms<br>`100.00%` | 17.9 MB<br>`100.00%` |
 | 2025&#8209;09&#8209;23 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | Python | 0 ms<br>`100.00%` | 17.7 MB<br>`100.00%` |
-| 2025&#8209;09&#8209;19 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | Medium | Python | 57 ms<br>`96.77%` | 23.5 MB<br>`100.00%` |
+| 2025&#8209;09&#8209;20 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | Medium | Python | 57 ms<br>`96.77%` | 23.5 MB<br>`100.00%` |
 | 2025&#8209;09&#8209;16 | [1150. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) | Easy | Python | 0 ms<br>`100.00%` | 18 MB<br>`100.00%` |
 | 2025&#8209;09&#8209;15 | [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Easy | Python | 3 ms<br>`33.08%` | 17.9 MB<br>`100.00%` |
 | 2025&#8209;09&#8209;12 | [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) | Medium | Python | 0 ms<br>`100.00%` | 18.2 MB<br>`100.00%` |
@@ -53,7 +53,7 @@ Latest **55** accepted submissions.
 | 2025&#8209;06&#8209;16 | [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Easy | Python | 0 ms<br>`100.00%` | 17.9 MB<br>`100.00%` |
 | 2025&#8209;06&#8209;15 | [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | Medium | Python | 0 ms<br>`100.00%` | 17.6 MB<br>`100.00%` |
 | 2025&#8209;06&#8209;14 | [2566. Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | Easy | Python | 0 ms<br>`100.00%` | 17.9 MB<br>`100.00%` |
-| 2025&#8209;06&#8209;12 | [3423. Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy | Python | 3 ms<br>`42.01%` | 17.8 MB<br>`100.00%` |
+| 2025&#8209;06&#8209;13 | [3423. Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy | Python | 3 ms<br>`42.01%` | 17.8 MB<br>`100.00%` |
 | 2025&#8209;05&#8209;24 | [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | Easy | Python | 0 ms<br>`100.00%` | 17.7 MB<br>`100.00%` |
 | 2025&#8209;05&#8209;06 | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | Easy | Python | 0 ms<br>`100.00%` | 18 MB<br>`100.00%` |
 | 2025&#8209;05&#8209;04 | [531. Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) | Medium | Python | 32 ms<br>`5.66%` | 22.9 MB<br>`100.00%` |
@@ -61,19 +61,19 @@ Latest **55** accepted submissions.
 | 2025&#8209;05&#8209;03 | [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | Medium | Python | 91 ms<br>`9.86%` | 18.4 MB<br>`100.00%` |
 | 2025&#8209;04&#8209;30 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | Python | 4 ms<br>`32.34%` | 12.5 MB<br>`4.41%` |
 | 2025&#8209;04&#8209;26 | [760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | Easy | Python | 0 ms<br>`100.00%` | 17.7 MB<br>`100.00%` |
-| 2025&#8209;04&#8209;25 | [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | Medium | Python | 3 ms<br>`26.80%` | 17.7 MB<br>`100.00%` |
-| 2025&#8209;04&#8209;25 | [1427. Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | Easy | Python | 0 ms<br>`100.00%` | 17.9 MB<br>`100.00%` |
-| 2025&#8209;04&#8209;25 | [1056. Confusing Number](https://leetcode.com/problems/confusing-number/) | Easy | Python | 0 ms<br>`100.00%` | 18 MB<br>`100.00%` |
-| 2025&#8209;04&#8209;23 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | Python | 3 ms<br>`19.31%` | 18 MB<br>`100.00%` |
-| 2025&#8209;04&#8209;23 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Python | 0 ms<br>`100.00%` | 17.7 MB<br>`100.00%` |
-| 2025&#8209;04&#8209;19 | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | Python | 5 ms<br>`77.75%` | 18 MB<br>`100.00%` |
-| 2025&#8209;04&#8209;19 | [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | Python | 51 ms<br>`32.70%` | 22.1 MB<br>`99.98%` |
-| 2025&#8209;04&#8209;19 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Python | 3 ms<br>`30.78%` | 17.8 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;26 | [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | Medium | Python | 3 ms<br>`26.80%` | 17.7 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;26 | [1427. Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | Easy | Python | 0 ms<br>`100.00%` | 17.9 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;26 | [1056. Confusing Number](https://leetcode.com/problems/confusing-number/) | Easy | Python | 0 ms<br>`100.00%` | 18 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;24 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | Python | 3 ms<br>`19.31%` | 18 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;24 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Python | 0 ms<br>`100.00%` | 17.7 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;20 | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | Python | 5 ms<br>`77.75%` | 18 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;20 | [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | Python | 51 ms<br>`32.70%` | 22.1 MB<br>`99.98%` |
+| 2025&#8209;04&#8209;20 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Python | 3 ms<br>`30.78%` | 17.8 MB<br>`100.00%` |
 | 2024&#8209;11&#8209;14 | [1213. Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/) | Easy | Python | 4 ms<br>`41.61%` | 16.9 MB<br>`100.00%` |
 | 2024&#8209;11&#8209;02 | [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/) | Easy | Python | 0 ms<br>`100.00%` | 16.6 MB<br>`100.00%` |
 | 2024&#8209;10&#8209;21 | [1593. Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | Medium | Python | 1706 ms<br>`5.01%` | 29.9 MB<br>`8.46%` |
 | 2024&#8209;10&#8209;20 | [648. Replace Words](https://leetcode.com/problems/replace-words/) | Medium | Python | 136 ms<br>`24.51%` | 26.7 MB<br>`100.00%` |
-| 2024&#8209;04&#8209;13 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Python | 1343 ms<br>`6.67%` | 24.6 MB<br>`50.77%` |
+| 2024&#8209;04&#8209;14 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Python | 1343 ms<br>`6.67%` | 24.6 MB<br>`50.77%` |
 | 2024&#8209;04&#8209;11 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | Python | 63 ms<br>`5.34%` | 18.1 MB<br>`100.00%` |
 | 2024&#8209;04&#8209;01 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | Python | 37 ms<br>`0.22%` | 16.7 MB<br>`100.00%` |
 | 2023&#8209;10&#8209;02 | [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium | Python | 205 ms<br>`9.43%` | 19.9 MB<br>`85.28%` |

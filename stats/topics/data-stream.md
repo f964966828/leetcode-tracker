@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**6** problems · updated `2026-09-04 19:32 UTC`
+**6** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -70,5 +70,5 @@ Latest **6** accepted submissions.
 | 2025&#8209;05&#8209;12 | [1429. First Unique Number](https://leetcode.com/problems/first-unique-number/) | Medium | C++ | 195 ms<br>`84.46%` | 128.1 MB<br>`99.72%` |
 | 2025&#8209;05&#8209;12 | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | Easy | C++ | 4 ms<br>`86.98%` | 39.2 MB<br>`89.46%` |
 | 2025&#8209;04&#8209;24 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | C++ | 43 ms<br>`21.61%` | 95.1 MB<br>`28.25%` |
-| 2025&#8209;04&#8209;19 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | C++ | 20 ms<br>`40.20%` | 64.1 MB<br>`69.17%` |
+| 2025&#8209;04&#8209;20 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | C++ | 20 ms<br>`40.20%` | 64.1 MB<br>`69.17%` |
 | 2023&#8209;03&#8209;18 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) | Medium | C++ | 140 ms<br>`5.05%` | 57.6 MB<br>`100.00%` |

@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**27** problems · updated `2026-09-04 19:32 UTC`
+**27** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -69,8 +69,8 @@ Latest **27** accepted submissions.
 | 2025&#8209;10&#8209;11 | [3710. Maximum Partition Factor](https://leetcode.com/problems/maximum-partition-factor/) | Hard | C++ | 1245 ms<br>`35.15%` | 336.4 MB<br>`37.63%` |
 | 2025&#8209;10&#8209;03 | [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | Medium | C++ | 45 ms<br>`32.04%` | 58.5 MB<br>`26.21%` |
 | 2025&#8209;06&#8209;03 | [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | Hard | C++ | 8 ms<br>`43.38%` | 44.5 MB<br>`100.00%` |
-| 2025&#8209;05&#8209;30 | [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | Medium | C++ | 162 ms<br>`13.13%` | 162.6 MB<br>`10.77%` |
-| 2025&#8209;05&#8209;26 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | C++ | 401 ms<br>`39.45%` | 188.9 MB<br>`30.53%` |
+| 2025&#8209;05&#8209;31 | [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | Medium | C++ | 162 ms<br>`13.13%` | 162.6 MB<br>`10.77%` |
+| 2025&#8209;05&#8209;27 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | C++ | 401 ms<br>`39.45%` | 188.9 MB<br>`30.53%` |
 | 2025&#8209;05&#8209;11 | [3547. Maximum Sum of Edge Values in a Graph](https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/) | Hard | C++ | 195 ms<br>`41.78%` | 191.3 MB<br>`100.00%` |
 | 2025&#8209;05&#8209;08 | [3342. Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | Medium | C++ | 777 ms<br>`30.12%` | 116.8 MB<br>`49.84%` |
 | 2025&#8209;05&#8209;07 | [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | Medium | C++ | 26 ms<br>`37.76%` | 31.1 MB<br>`25.92%` |
@@ -78,14 +78,14 @@ Latest **27** accepted submissions.
 | 2025&#8209;04&#8209;26 | [3528. Unit Conversion I](https://leetcode.com/problems/unit-conversion-i/) | Medium | C++ | 92 ms<br>`82.47%` | 232.5 MB<br>`94.82%` |
 | 2025&#8209;04&#8209;26 | [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) | Hard | C++ | 17 ms<br>`6.78%` | 20.2 MB<br>`5.08%` |
 | 2025&#8209;04&#8209;26 | [505. The Maze II](https://leetcode.com/problems/the-maze-ii/) | Medium | C++ | 3 ms<br>`85.22%` | 24.3 MB<br>`63.05%` |
-| 2025&#8209;04&#8209;20 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Medium | C++ | 3 ms<br>`14.63%` | 14.7 MB<br>`37.21%` |
+| 2025&#8209;04&#8209;21 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Medium | C++ | 3 ms<br>`14.63%` | 14.7 MB<br>`37.21%` |
 | 2025&#8209;04&#8209;20 | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | C++ | 2 ms<br>`22.06%` | 12 MB<br>`60.01%` |
 | 2025&#8209;04&#8209;20 | [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium | C++ | 141 ms<br>`31.08%` | 117.5 MB<br>`32.39%` |
 | 2025&#8209;04&#8209;20 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | C++ | 2 ms<br>`41.04%` | 19.3 MB<br>`92.38%` |
 | 2025&#8209;04&#8209;11 | [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | C++ | 3 ms<br>`63.11%` | 18.7 MB<br>`22.04%` |
 | 2024&#8209;04&#8209;23 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | C++ | 1508 ms<br>`5.02%` | 436.1 MB<br>`5.04%` |
 | 2024&#8209;04&#8209;21 | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | C++ | 469 ms<br>`17.31%` | 202.6 MB<br>`99.88%` |
-| 2024&#8209;03&#8209;23 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | C++ | 18 ms<br>`7.53%` | 17.5 MB<br>`99.95%` |
+| 2024&#8209;03&#8209;24 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | C++ | 18 ms<br>`7.53%` | 17.5 MB<br>`99.95%` |
 | 2023&#8209;04&#8209;15 | [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Hard | C++ | 220 ms<br>`11.24%` | 78.1 MB<br>`73.94%` |
 | 2023&#8209;04&#8209;08 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | C++ | 3 ms<br>`68.22%` | 8.9 MB<br>`100.00%` |
 | 2023&#8209;04&#8209;01 | [2608. Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | Hard | C++ | 510 ms<br>`5.11%` | 107.9 MB<br>`90.12%` |

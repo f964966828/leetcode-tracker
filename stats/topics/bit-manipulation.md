@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**41** problems · updated `2026-09-04 19:32 UTC`
+**41** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -76,9 +76,9 @@ Latest **41** accepted submissions.
 | 2025&#8209;09&#8209;05 | [2749. Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | Medium | C++ | 0 ms<br>`100.00%` | 8.2 MB<br>`42.26%` |
 | 2025&#8209;05&#8209;29 | [3068. Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/) | Hard | C++ | 111 ms<br>`11.83%` | 158 MB<br>`11.26%` |
 | 2025&#8209;04&#8209;26 | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | Easy | C++ | 0 ms<br>`100.00%` | 8.2 MB<br>`88.46%` |
-| 2025&#8209;04&#8209;23 | [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium | C++ | 0 ms<br>`100.00%` | 7.9 MB<br>`4.95%` |
-| 2025&#8209;04&#8209;23 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | C++ | 0 ms<br>`100.00%` | 11.4 MB<br>`8.16%` |
-| 2025&#8209;04&#8209;23 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | C++ | 0 ms<br>`100.00%` | 20.5 MB<br>`98.78%` |
+| 2025&#8209;04&#8209;24 | [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium | C++ | 0 ms<br>`100.00%` | 7.9 MB<br>`4.95%` |
+| 2025&#8209;04&#8209;24 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | C++ | 0 ms<br>`100.00%` | 11.4 MB<br>`8.16%` |
+| 2025&#8209;04&#8209;24 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | C++ | 0 ms<br>`100.00%` | 20.5 MB<br>`98.78%` |
 | 2024&#8209;11&#8209;10 | [3097. Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | Medium | C++ | 51 ms<br>`30.41%` | 88.3 MB<br>`100.00%` |
 | 2024&#8209;11&#8209;09 | [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/) | Medium | C++ | 0 ms<br>`100.00%` | 8.5 MB<br>`100.00%` |
 | 2024&#8209;11&#8209;08 | [1829. Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | Medium | C++ | 12 ms<br>`20.47%` | 99.6 MB<br>`58.04%` |

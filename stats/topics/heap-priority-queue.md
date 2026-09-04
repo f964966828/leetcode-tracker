@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**34** problems · updated `2026-09-04 19:32 UTC`
+**34** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -66,13 +66,13 @@ Latest **34** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2026&#8209;09&#8209;04 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`5.69%` |
+| 2026&#8209;09&#8209;05 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`5.69%` |
 | 2025&#8209;10&#8209;07 | [1488. Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | Medium | C++ | 216 ms<br>`21.79%` | 121.2 MB<br>`100.00%` |
 | 2025&#8209;10&#8209;06 | [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | C++ | 34 ms<br>`7.85%` | 17.1 MB<br>`10.48%` |
 | 2025&#8209;10&#8209;03 | [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | Medium | C++ | 45 ms<br>`32.04%` | 58.5 MB<br>`26.21%` |
 | 2025&#8209;10&#8209;03 | [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard | C++ | 34 ms<br>`43.03%` | 22.7 MB<br>`32.34%` |
 | 2025&#8209;09&#8209;21 | [1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | Hard | C++ | 333 ms<br>`34.71%` | 444.6 MB<br>`8.94%` |
-| 2025&#8209;09&#8209;18 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/) | Medium | C++ | 209 ms<br>`78.45%` | 347.5 MB<br>`98.90%` |
+| 2025&#8209;09&#8209;19 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/) | Medium | C++ | 209 ms<br>`78.45%` | 347.5 MB<br>`98.90%` |
 | 2025&#8209;09&#8209;17 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium | C++ | 164 ms<br>`34.81%` | 162.7 MB<br>`91.36%` |
 | 2025&#8209;09&#8209;01 | [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | Medium | C++ | 273 ms<br>`89.50%` | 97.9 MB<br>`69.41%` |
 | 2025&#8209;06&#8209;07 | [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | Medium | C++ | 54 ms<br>`80.71%` | 27.2 MB<br>`42.51%` |
@@ -83,8 +83,8 @@ Latest **34** accepted submissions.
 | 2025&#8209;04&#8209;26 | [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) | Hard | C++ | 17 ms<br>`6.78%` | 20.2 MB<br>`5.08%` |
 | 2025&#8209;04&#8209;26 | [505. The Maze II](https://leetcode.com/problems/the-maze-ii/) | Medium | C++ | 3 ms<br>`85.22%` | 24.3 MB<br>`63.05%` |
 | 2025&#8209;04&#8209;24 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | Medium | C++ | 31 ms<br>`64.68%` | 44 MB<br>`62.90%` |
-| 2025&#8209;04&#8209;23 | [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | Medium | C++ | 56 ms<br>`23.98%` | 79.8 MB<br>`18.79%` |
-| 2025&#8209;04&#8209;23 | [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | Medium | C++ | 75 ms<br>`30.92%` | 99.3 MB<br>`27.05%` |
+| 2025&#8209;04&#8209;24 | [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | Medium | C++ | 56 ms<br>`23.98%` | 79.8 MB<br>`18.79%` |
+| 2025&#8209;04&#8209;24 | [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | Medium | C++ | 75 ms<br>`30.92%` | 99.3 MB<br>`27.05%` |
 | 2025&#8209;04&#8209;21 | [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Medium | C++ | 33 ms<br>`14.17%` | 54.3 MB<br>`9.29%` |
 | 2025&#8209;04&#8209;21 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | C++ | 38 ms<br>`47.95%` | 64.7 MB<br>`100.00%` |
 | 2024&#8209;11&#8209;17 | [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | Hard | C++ | 50 ms<br>`9.43%` | 112.6 MB<br>`5.17%` |

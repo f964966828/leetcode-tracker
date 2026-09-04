@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**10** problems · updated `2026-09-04 19:32 UTC`
+**10** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -71,7 +71,7 @@ Latest **10** accepted submissions.
 | 2025&#8209;04&#8209;24 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | C++ | 27 ms<br>`34.20%` | 107.4 MB<br>`34.92%` |
 | 2025&#8209;04&#8209;20 | [3523. Make Array Non-decreasing](https://leetcode.com/problems/make-array-non-decreasing/) | Medium | C++ | 0 ms<br>`100.00%` | 206.4 MB<br>`51.04%` |
 | 2024&#8209;11&#8209;15 | [1574. Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium | C++ | 0 ms<br>`100.00%` | 69.4 MB<br>`100.00%` |
-| 2024&#8209;04&#8209;13 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Python | 1343 ms<br>`6.67%` | 24.6 MB<br>`50.77%` |
+| 2024&#8209;04&#8209;14 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Python | 1343 ms<br>`6.67%` | 24.6 MB<br>`50.77%` |
 | 2024&#8209;04&#8209;12 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | C++ | 13 ms<br>`4.64%` | 22.2 MB<br>`100.00%` |
 | 2024&#8209;04&#8209;11 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | Python | 63 ms<br>`5.34%` | 18.1 MB<br>`100.00%` |
 | 2023&#8209;09&#8209;30 | [456. 132 Pattern](https://leetcode.com/problems/132-pattern/) | Medium | C++ | 71 ms<br>`6.97%` | 49.1 MB<br>`100.00%` |

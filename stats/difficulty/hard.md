@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**70** problems · updated `2026-09-04 19:32 UTC`
+**70** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -38,7 +38,7 @@ Latest **70** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2026&#8209;08&#8209;17 | [1563. Stone Game V](https://leetcode.com/problems/stone-game-v/) | Hard | C++ | 407 ms<br>`57.19%` | 27.6 MB<br>`46.96%` |
+| 2026&#8209;08&#8209;18 | [1563. Stone Game V](https://leetcode.com/problems/stone-game-v/) | Hard | C++ | 407 ms<br>`57.19%` | 27.6 MB<br>`46.96%` |
 | 2025&#8209;10&#8209;17 | [3003. Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | Hard | C++ | 4 ms<br>`96.26%` | 12.3 MB<br>`97.20%` |
 | 2025&#8209;10&#8209;12 | [3539. Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | Hard | Python | 411 ms<br>`97.50%` | 33.9 MB<br>`70.00%` |
 | 2025&#8209;10&#8209;12 | [3715. Sum of Perfect Square Ancestors](https://leetcode.com/problems/sum-of-perfect-square-ancestors/) | Hard | C++ | 1461 ms<br>`21.09%` | 383.2 MB<br>`25.85%` |
@@ -57,32 +57,32 @@ Latest **70** accepted submissions.
 | 2025&#8209;08&#8209;31 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | C++ | 46 ms<br>`97.76%` | 8.7 MB<br>`97.42%` |
 | 2025&#8209;08&#8209;27 | [3459. Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | Hard | C++ | 231 ms<br>`91.38%` | 111.8 MB<br>`52.16%` |
 | 2025&#8209;06&#8209;09 | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | Hard | C++ | 0 ms<br>`100.00%` | 8.1 MB<br>`2.40%` |
-| 2025&#8209;06&#8209;04 | [3406. Find the Lexicographically Largest String From the Box II](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/) | Hard | C++ | 510 ms<br>`0.00%` | 278 MB<br>`0.00%` |
+| 2025&#8209;06&#8209;05 | [3406. Find the Lexicographically Largest String From the Box II](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/) | Hard | C++ | 510 ms<br>`0.00%` | 278 MB<br>`0.00%` |
 | 2025&#8209;06&#8209;03 | [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | Hard | C++ | 8 ms<br>`43.38%` | 44.5 MB<br>`100.00%` |
 | 2025&#8209;06&#8209;02 | [135. Candy](https://leetcode.com/problems/candy/) | Hard | C++ | 4 ms<br>`28.57%` | 22.9 MB<br>`69.10%` |
 | 2025&#8209;05&#8209;29 | [3068. Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/) | Hard | C++ | 111 ms<br>`11.83%` | 158 MB<br>`11.26%` |
 | 2025&#8209;05&#8209;29 | [3373. Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard | C++ | 457 ms<br>`27.98%` | 387.2 MB<br>`21.76%` |
-| 2025&#8209;05&#8209;26 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | C++ | 401 ms<br>`39.45%` | 188.9 MB<br>`30.53%` |
+| 2025&#8209;05&#8209;27 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | C++ | 401 ms<br>`39.45%` | 188.9 MB<br>`30.53%` |
 | 2025&#8209;05&#8209;14 | [3337. Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/) | Hard | C++ | 543 ms<br>`9.64%` | 70.7 MB<br>`42.17%` |
 | 2025&#8209;05&#8209;12 | [770. Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/) | Hard | C++ | 4 ms<br>`85.71%` | 21.8 MB<br>`99.51%` |
-| 2025&#8209;05&#8209;11 | [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | Hard | C++ | 0 ms<br>`100.00%` | 11.5 MB<br>`56.44%` |
-| 2025&#8209;05&#8209;11 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | C++ | 19 ms<br>`7.01%` | 23.2 MB<br>`5.06%` |
+| 2025&#8209;05&#8209;12 | [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | Hard | C++ | 0 ms<br>`100.00%` | 11.5 MB<br>`56.44%` |
+| 2025&#8209;05&#8209;12 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | C++ | 19 ms<br>`7.01%` | 23.2 MB<br>`5.06%` |
 | 2025&#8209;05&#8209;11 | [3547. Maximum Sum of Edge Values in a Graph](https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/) | Hard | C++ | 195 ms<br>`41.78%` | 191.3 MB<br>`100.00%` |
 | 2025&#8209;05&#8209;11 | [3548. Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | Hard | C++ | 826 ms<br>`55.46%` | 400.9 MB<br>`37.86%` |
 | 2025&#8209;05&#8209;09 | [3343. Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations/) | Hard | C++ | 150 ms<br>`50.60%` | 19.4 MB<br>`65.06%` |
 | 2025&#8209;05&#8209;01 | [2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | Hard | C++ | 714 ms<br>`60.06%` | 286.3 MB<br>`39.93%` |
-| 2025&#8209;04&#8209;28 | [2302. Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Hard | C++ | 0 ms<br>`100.00%` | 99.1 MB<br>`45.78%` |
+| 2025&#8209;04&#8209;29 | [2302. Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Hard | C++ | 0 ms<br>`100.00%` | 99.1 MB<br>`45.78%` |
 | 2025&#8209;04&#8209;26 | [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) | Hard | C++ | 17 ms<br>`6.78%` | 20.2 MB<br>`5.08%` |
 | 2025&#8209;04&#8209;26 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Hard | C++ | 0 ms<br>`100.00%` | 94 MB<br>`36.87%` |
-| 2025&#8209;04&#8209;23 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | Hard | C++ | 8 ms<br>`13.11%` | 23.9 MB<br>`13.11%` |
+| 2025&#8209;04&#8209;24 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | Hard | C++ | 8 ms<br>`13.11%` | 23.9 MB<br>`13.11%` |
 | 2025&#8209;04&#8209;22 | [2338. Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | Hard | C++ | 10 ms<br>`75.00%` | 10.3 MB<br>`76.47%` |
 | 2025&#8209;04&#8209;07 | [317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/) | Hard | C++ | 470 ms<br>`46.48%` | 197.7 MB<br>`39.44%` |
 | 2024&#8209;11&#8209;17 | [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | Hard | C++ | 50 ms<br>`9.43%` | 112.6 MB<br>`5.17%` |
-| 2024&#8209;10&#8209;30 | [1671. Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | Hard | C++ | 5 ms<br>`89.20%` | 15.1 MB<br>`99.67%` |
+| 2024&#8209;10&#8209;31 | [1671. Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | Hard | C++ | 5 ms<br>`89.20%` | 15.1 MB<br>`99.67%` |
 | 2024&#8209;10&#8209;29 | [265. Paint House II](https://leetcode.com/problems/paint-house-ii/) | Hard | C++ | 0 ms<br>`100.00%` | 15.4 MB<br>`52.47%` |
-| 2024&#8209;10&#8209;26 | [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | Hard | C++ | 339 ms<br>`28.83%` | 312.8 MB<br>`34.69%` |
+| 2024&#8209;10&#8209;27 | [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | Hard | C++ | 339 ms<br>`28.83%` | 312.8 MB<br>`34.69%` |
 | 2024&#8209;10&#8209;20 | [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | Hard | C++ | 9 ms<br>`21.74%` | 13.3 MB<br>`9.84%` |
-| 2024&#8209;04&#8209;13 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Python | 1343 ms<br>`6.67%` | 24.6 MB<br>`50.77%` |
+| 2024&#8209;04&#8209;14 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Python | 1343 ms<br>`6.67%` | 24.6 MB<br>`50.77%` |
 | 2024&#8209;04&#8209;12 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | C++ | 13 ms<br>`4.64%` | 22.2 MB<br>`100.00%` |
 | 2024&#8209;03&#8209;30 | [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Hard | C++ | 1061 ms<br>`5.69%` | 46.9 MB<br>`95.70%` |
 | 2024&#8209;03&#8209;26 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | C++ | 39 ms<br>`10.93%` | 23.9 MB<br>`5.07%` |
@@ -90,7 +90,7 @@ Latest **70** accepted submissions.
 | 2023&#8209;10&#8209;08 | [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Hard | C++ | 24 ms<br>`48.36%` | 9.8 MB<br>`100.00%` |
 | 2023&#8209;10&#8209;07 | [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard | C++ | 4 ms<br>`99.37%` | 8.7 MB<br>`99.69%` |
 | 2023&#8209;10&#8209;01 | [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Hard | Python | 745 ms<br>`5.52%` | 62.8 MB<br>`100.00%` |
-| 2023&#8209;04&#8209;15 | [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | Hard | C++ | 615 ms<br>`5.04%` | 18 MB<br>`93.82%` |
+| 2023&#8209;04&#8209;16 | [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | Hard | C++ | 615 ms<br>`5.04%` | 18 MB<br>`93.82%` |
 | 2023&#8209;04&#8209;15 | [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Hard | C++ | 220 ms<br>`11.24%` | 78.1 MB<br>`73.94%` |
 | 2023&#8209;04&#8209;01 | [2608. Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | Hard | C++ | 510 ms<br>`5.11%` | 107.9 MB<br>`90.12%` |
 | 2023&#8209;03&#8209;31 | [1444. Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | Hard | C++ | 23 ms<br>`8.59%` | 8.2 MB<br>`100.00%` |

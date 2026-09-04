@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**40** problems · updated `2026-09-04 19:32 UTC`
+**40** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -69,13 +69,13 @@ Latest **40** accepted submissions.
 | 2025&#8209;10&#8209;12 | [3715. Sum of Perfect Square Ancestors](https://leetcode.com/problems/sum-of-perfect-square-ancestors/) | Hard | C++ | 1461 ms<br>`21.09%` | 383.2 MB<br>`25.85%` |
 | 2025&#8209;10&#8209;12 | [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | C++ | 3030 ms<br>`5.07%` | 498.4 MB<br>`5.06%` |
 | 2025&#8209;10&#8209;12 | [3712. Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/) | Easy | C++ | 0 ms<br>`100.00%` | 26.4 MB<br>`12.32%` |
-| 2025&#8209;10&#8209;11 | [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | Medium | C++ | 111 ms<br>`86.08%` | 162.8 MB<br>`90.83%` |
+| 2025&#8209;10&#8209;12 | [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | Medium | C++ | 111 ms<br>`86.08%` | 162.8 MB<br>`90.83%` |
 | 2025&#8209;09&#8209;29 | [1121. Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) | Hard | C++ | 95 ms<br>`41.67%` | 107.6 MB<br>`33.33%` |
 | 2025&#8209;09&#8209;27 | [3692. Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters/) | Easy | C++ | 5 ms<br>`31.61%` | 9.2 MB<br>`86.77%` |
 | 2025&#8209;09&#8209;22 | [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Easy | C++ | 0 ms<br>`100.00%` | 23.6 MB<br>`8.88%` |
 | 2025&#8209;09&#8209;13 | [3541. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | Easy | C++ | 2 ms<br>`39.99%` | 10 MB<br>`24.45%` |
 | 2025&#8209;06&#8209;10 | [3442. Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | Easy | C++ | 3 ms<br>`36.10%` | 9.9 MB<br>`27.80%` |
-| 2025&#8209;05&#8209;26 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | C++ | 401 ms<br>`39.45%` | 188.9 MB<br>`30.53%` |
+| 2025&#8209;05&#8209;27 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | C++ | 401 ms<br>`39.45%` | 188.9 MB<br>`30.53%` |
 | 2025&#8209;05&#8209;25 | [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | C++ | 27 ms<br>`88.02%` | 171.9 MB<br>`78.72%` |
 | 2025&#8209;05&#8209;14 | [3337. Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/) | Hard | C++ | 543 ms<br>`9.64%` | 70.7 MB<br>`42.17%` |
 | 2025&#8209;05&#8209;13 | [3335. Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | Medium | C++ | 14 ms<br>`98.77%` | 19.2 MB<br>`88.62%` |
@@ -85,16 +85,16 @@ Latest **40** accepted submissions.
 | 2025&#8209;04&#8209;26 | [3527. Find the Most Common Response](https://leetcode.com/problems/find-the-most-common-response/) | Medium | C++ | 1472 ms<br>`24.07%` | 479.3 MB<br>`51.50%` |
 | 2025&#8209;04&#8209;24 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | C++ | 0 ms<br>`100.00%` | 28.1 MB<br>`95.18%` |
 | 2025&#8209;04&#8209;23 | [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/) | Easy | C++ | 0 ms<br>`100.00%` | 7.9 MB<br>`77.49%` |
-| 2025&#8209;04&#8209;19 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | C++ | 27 ms<br>`35.74%` | 23.6 MB<br>`49.60%` |
+| 2025&#8209;04&#8209;20 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | C++ | 27 ms<br>`35.74%` | 23.6 MB<br>`49.60%` |
 | 2024&#8209;11&#8209;14 | [1213. Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/) | Easy | Python | 4 ms<br>`41.61%` | 16.9 MB<br>`100.00%` |
 | 2024&#8209;11&#8209;07 | [2275. Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Medium | C++ | 43 ms<br>`19.26%` | 60.2 MB<br>`100.00%` |
 | 2024&#8209;11&#8209;04 | [2955. Number of Same-End Substrings](https://leetcode.com/problems/number-of-same-end-substrings/) | Medium | C++ | 238 ms<br>`15.38%` | 230.3 MB<br>`7.69%` |
 | 2024&#8209;10&#8209;23 | [3084. Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character/) | Medium | C++ | 0 ms<br>`100.00%` | 11.8 MB<br>`99.87%` |
 | 2024&#8209;03&#8209;30 | [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Hard | C++ | 1061 ms<br>`5.69%` | 46.9 MB<br>`95.70%` |
-| 2023&#8209;10&#8209;05 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | C++ | 8 ms<br>`29.21%` | 16.3 MB<br>`100.00%` |
+| 2023&#8209;10&#8209;06 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | C++ | 8 ms<br>`29.21%` | 16.3 MB<br>`100.00%` |
 | 2023&#8209;10&#8209;03 | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy | C++ | 3 ms<br>`2.39%` | 7.5 MB<br>`100.00%` |
-| 2023&#8209;03&#8209;19 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | C++ | 27 ms<br>`8.49%` | 10.6 MB<br>`100.00%` |
-| 2023&#8209;03&#8209;19 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | C++ | 16 ms<br>`5.24%` | 8.8 MB<br>`99.99%` |
+| 2023&#8209;03&#8209;20 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | C++ | 27 ms<br>`8.49%` | 10.6 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;20 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | C++ | 16 ms<br>`5.24%` | 8.8 MB<br>`99.99%` |
 | 2023&#8209;03&#8209;17 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | C++ | 13 ms<br>`5.43%` | 12.6 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;15 | [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | Medium | C++ | 6 ms<br>`4.66%` | 6.5 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;12 | [2586. Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | Easy | C++ | 18 ms<br>`4.36%` | 31.6 MB<br>`100.00%` |

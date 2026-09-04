@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**268** problems · updated `2026-09-04 19:32 UTC`
+**268** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -38,9 +38,9 @@ Latest **100** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2026&#8209;09&#8209;04 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`5.69%` |
-| 2026&#8209;09&#8209;04 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | C++ | 3 ms<br>`67.25%` | 14.8 MB<br>`58.55%` |
-| 2026&#8209;09&#8209;04 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | C++ | 0 ms<br>`100.00%` | 31.3 MB<br>`81.38%` |
+| 2026&#8209;09&#8209;05 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`5.69%` |
+| 2026&#8209;09&#8209;05 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | C++ | 3 ms<br>`67.25%` | 14.8 MB<br>`58.55%` |
+| 2026&#8209;09&#8209;05 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | C++ | 0 ms<br>`100.00%` | 31.3 MB<br>`81.38%` |
 | 2026&#8209;09&#8209;04 | [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | C++ | 0 ms<br>`100.00%` | 31.5 MB<br>`20.68%` |
 | 2026&#8209;09&#8209;02 | [3875. Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | C++ | 0 ms<br>`100.00%` | 30.3 MB<br>`27.31%` |
 | 2026&#8209;08&#8209;20 | [3069. Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | C++ | 0 ms<br>`100.00%` | 24 MB<br>`32.91%` |
@@ -79,7 +79,7 @@ Latest **100** accepted submissions.
 | 2025&#8209;08&#8209;16 | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Easy | Python | 0 ms<br>`100.00%` | 17.9 MB<br>`100.00%` |
 | 2025&#8209;06&#8209;16 | [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Easy | Python | 0 ms<br>`100.00%` | 17.9 MB<br>`100.00%` |
 | 2025&#8209;06&#8209;14 | [2566. Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | Easy | Python | 0 ms<br>`100.00%` | 17.9 MB<br>`100.00%` |
-| 2025&#8209;06&#8209;12 | [3423. Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy | Python | 3 ms<br>`42.01%` | 17.8 MB<br>`100.00%` |
+| 2025&#8209;06&#8209;13 | [3423. Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy | Python | 3 ms<br>`42.01%` | 17.8 MB<br>`100.00%` |
 | 2025&#8209;06&#8209;10 | [3442. Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | Easy | C++ | 3 ms<br>`36.10%` | 9.9 MB<br>`27.80%` |
 | 2025&#8209;05&#8209;27 | [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | Easy | C++ | 0 ms<br>`100.00%` | 8.3 MB<br>`66.09%` |
 | 2025&#8209;05&#8209;25 | [3560. Find Minimum Log Transportation Cost](https://leetcode.com/problems/find-minimum-log-transportation-cost/) | Easy | C++ | 0 ms<br>`100.00%` | 8.9 MB<br>`19.00%` |
@@ -103,38 +103,38 @@ Latest **100** accepted submissions.
 | 2025&#8209;05&#8209;04 | [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | Easy | C++ | 0 ms<br>`100.00%` | 26.1 MB<br>`92.76%` |
 | 2025&#8209;05&#8209;04 | [3536. Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | C++ | 3 ms<br>`10.81%` | 8.9 MB<br>`31.83%` |
 | 2025&#8209;04&#8209;30 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | Python | 4 ms<br>`32.34%` | 12.5 MB<br>`4.41%` |
-| 2025&#8209;04&#8209;28 | [734. Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) | Easy | C++ | 2 ms<br>`52.34%` | 15.7 MB<br>`70.09%` |
+| 2025&#8209;04&#8209;29 | [734. Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) | Easy | C++ | 2 ms<br>`52.34%` | 15.7 MB<br>`70.09%` |
 | 2025&#8209;04&#8209;27 | [3392. Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | Easy | C++ | 0 ms<br>`100.00%` | 48.5 MB<br>`9.55%` |
 | 2025&#8209;04&#8209;26 | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | Easy | C++ | 0 ms<br>`100.00%` | 8.2 MB<br>`88.46%` |
 | 2025&#8209;04&#8209;26 | [760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | Easy | Python | 0 ms<br>`100.00%` | 17.7 MB<br>`100.00%` |
 | 2025&#8209;04&#8209;26 | [1474. Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) | Easy | C++ | 0 ms<br>`100.00%` | 21 MB<br>`10.00%` |
-| 2025&#8209;04&#8209;25 | [1427. Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | Easy | Python | 0 ms<br>`100.00%` | 17.9 MB<br>`100.00%` |
-| 2025&#8209;04&#8209;25 | [1056. Confusing Number](https://leetcode.com/problems/confusing-number/) | Easy | Python | 0 ms<br>`100.00%` | 18 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;26 | [1427. Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | Easy | Python | 0 ms<br>`100.00%` | 17.9 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;26 | [1056. Confusing Number](https://leetcode.com/problems/confusing-number/) | Easy | Python | 0 ms<br>`100.00%` | 18 MB<br>`100.00%` |
 | 2025&#8209;04&#8209;24 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | C++ | 0 ms<br>`100.00%` | 97.2 MB<br>`99.49%` |
 | 2025&#8209;04&#8209;24 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | C++ | 0 ms<br>`100.00%` | 28.1 MB<br>`95.18%` |
 | 2025&#8209;04&#8209;24 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | C++ | 0 ms<br>`100.00%` | 22.6 MB<br>`52.70%` |
 | 2025&#8209;04&#8209;24 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | C++ | 0 ms<br>`100.00%` | 11.8 MB<br>`48.98%` |
 | 2025&#8209;04&#8209;24 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | C++ | 0 ms<br>`100.00%` | 12.4 MB<br>`82.77%` |
-| 2025&#8209;04&#8209;23 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | C++ | 0 ms<br>`100.00%` | 11.4 MB<br>`8.16%` |
-| 2025&#8209;04&#8209;23 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | C++ | 0 ms<br>`100.00%` | 20.5 MB<br>`98.78%` |
-| 2025&#8209;04&#8209;23 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | C++ | 0 ms<br>`100.00%` | 7.7 MB<br>`98.51%` |
-| 2025&#8209;04&#8209;23 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | C++ | 0 ms<br>`100.00%` | 17.5 MB<br>`75.70%` |
-| 2025&#8209;04&#8209;23 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | C++ | 2 ms<br>`56.17%` | 8.1 MB<br>`6.63%` |
+| 2025&#8209;04&#8209;24 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | C++ | 0 ms<br>`100.00%` | 11.4 MB<br>`8.16%` |
+| 2025&#8209;04&#8209;24 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | C++ | 0 ms<br>`100.00%` | 20.5 MB<br>`98.78%` |
+| 2025&#8209;04&#8209;24 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | C++ | 0 ms<br>`100.00%` | 7.7 MB<br>`98.51%` |
+| 2025&#8209;04&#8209;24 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | C++ | 0 ms<br>`100.00%` | 17.5 MB<br>`75.70%` |
+| 2025&#8209;04&#8209;24 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | C++ | 2 ms<br>`56.17%` | 8.1 MB<br>`6.63%` |
 | 2025&#8209;04&#8209;23 | [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/) | Easy | C++ | 0 ms<br>`100.00%` | 7.9 MB<br>`77.49%` |
-| 2025&#8209;04&#8209;19 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | C++ | 0 ms<br>`100.00%` | 35.5 MB<br>`31.70%` |
-| 2025&#8209;04&#8209;19 | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | C++ | 0 ms<br>`100.00%` | 15.1 MB<br>`99.71%` |
-| 2025&#8209;04&#8209;19 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | C++ | 0 ms<br>`100.00%` | 19.1 MB<br>`99.94%` |
-| 2025&#8209;04&#8209;19 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | C++ | 0 ms<br>`100.00%` | 13.4 MB<br>`72.41%` |
-| 2025&#8209;04&#8209;19 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | C++ | 20 ms<br>`40.20%` | 64.1 MB<br>`69.17%` |
-| 2025&#8209;04&#8209;19 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | C++ | 0 ms<br>`100.00%` | 11.8 MB<br>`88.68%` |
-| 2025&#8209;04&#8209;19 | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | Python | 5 ms<br>`77.75%` | 18 MB<br>`100.00%` |
-| 2025&#8209;04&#8209;19 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | C++ | 0 ms<br>`100.00%` | 10.8 MB<br>`44.88%` |
-| 2025&#8209;04&#8209;19 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | C++ | 0 ms<br>`100.00%` | 37.1 MB<br>`10.61%` |
-| 2025&#8209;04&#8209;19 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | C++ | 0 ms<br>`100.00%` | 113.7 MB<br>`86.94%` |
-| 2025&#8209;04&#8209;19 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | C++ | 0 ms<br>`100.00%` | 8.5 MB<br>`91.47%` |
-| 2025&#8209;04&#8209;19 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | C++ | 0 ms<br>`100.00%` | 23.9 MB<br>`19.59%` |
-| 2025&#8209;04&#8209;19 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | C++ | 0 ms<br>`100.00%` | 11.6 MB<br>`5.33%` |
-| 2025&#8209;04&#8209;19 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | C++ | 0 ms<br>`100.00%` | 24.1 MB<br>`43.87%` |
+| 2025&#8209;04&#8209;20 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | C++ | 0 ms<br>`100.00%` | 35.5 MB<br>`31.70%` |
+| 2025&#8209;04&#8209;20 | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | C++ | 0 ms<br>`100.00%` | 15.1 MB<br>`99.71%` |
+| 2025&#8209;04&#8209;20 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | C++ | 0 ms<br>`100.00%` | 19.1 MB<br>`99.94%` |
+| 2025&#8209;04&#8209;20 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | C++ | 0 ms<br>`100.00%` | 13.4 MB<br>`72.41%` |
+| 2025&#8209;04&#8209;20 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | C++ | 20 ms<br>`40.20%` | 64.1 MB<br>`69.17%` |
+| 2025&#8209;04&#8209;20 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | C++ | 0 ms<br>`100.00%` | 11.8 MB<br>`88.68%` |
+| 2025&#8209;04&#8209;20 | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | Python | 5 ms<br>`77.75%` | 18 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;20 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | C++ | 0 ms<br>`100.00%` | 10.8 MB<br>`44.88%` |
+| 2025&#8209;04&#8209;20 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | C++ | 0 ms<br>`100.00%` | 37.1 MB<br>`10.61%` |
+| 2025&#8209;04&#8209;20 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | C++ | 0 ms<br>`100.00%` | 113.7 MB<br>`86.94%` |
+| 2025&#8209;04&#8209;20 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | C++ | 0 ms<br>`100.00%` | 8.5 MB<br>`91.47%` |
+| 2025&#8209;04&#8209;20 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | C++ | 0 ms<br>`100.00%` | 23.9 MB<br>`19.59%` |
+| 2025&#8209;04&#8209;20 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | C++ | 0 ms<br>`100.00%` | 11.6 MB<br>`5.33%` |
+| 2025&#8209;04&#8209;20 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | C++ | 0 ms<br>`100.00%` | 24.1 MB<br>`43.87%` |
 | 2025&#8209;04&#8209;17 | [2176. Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | Easy | C++ | 0 ms<br>`100.00%` | 15.4 MB<br>`93.57%` |
 | 2025&#8209;04&#8209;14 | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Easy | C++ | 0 ms<br>`100.00%` | 11.2 MB<br>`7.75%` |
 | 2025&#8209;04&#8209;11 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | C++ | 1 ms<br>`3.25%` | 12.5 MB<br>`60.06%` |

@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**39** problems · updated `2026-09-04 19:32 UTC`
+**39** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -90,17 +90,17 @@ Latest **39** accepted submissions.
 | 2023&#8209;03&#8209;09 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | SQL | 448 ms<br>`8.16%` | 0.0B<br>`100.00%` |
 | 2023&#8209;03&#8209;09 | [608. Tree Node](https://leetcode.com/problems/tree-node/) | Medium | SQL | 983 ms<br>`5.01%` | 0.0B<br>`100.00%` |
 | 2023&#8209;03&#8209;09 | [1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | Easy | SQL | 1320 ms<br>`5.02%` | 0.0B<br>`100.00%` |
-| 2023&#8209;03&#8209;08 | [1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | Easy | SQL | 1081 ms<br>`5.00%` | 0.0B<br>`100.00%` |
-| 2023&#8209;03&#8209;08 | [1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | Easy | SQL | 797 ms<br>`5.00%` | 0.0B<br>`100.00%` |
-| 2023&#8209;03&#8209;08 | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | Easy | SQL | 801 ms<br>`5.42%` | 0.0B<br>`100.00%` |
-| 2023&#8209;03&#8209;08 | [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | Easy | SQL | 1712 ms<br>`5.00%` | 0.0B<br>`100.00%` |
-| 2023&#8209;03&#8209;08 | [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | SQL | 1709 ms<br>`5.01%` | 0.0B<br>`100.00%` |
-| 2023&#8209;03&#8209;08 | [627. Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | Easy | SQL | 418 ms<br>`7.48%` | 0.0B<br>`100.00%` |
-| 2023&#8209;03&#8209;08 | [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | Easy | SQL | 1043 ms<br>`5.65%` | 0.0B<br>`100.00%` |
-| 2023&#8209;03&#8209;08 | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | SQL | 926 ms<br>`5.00%` | 0.0B<br>`100.00%` |
-| 2023&#8209;03&#8209;08 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | SQL | 1020 ms<br>`5.01%` | 0.0B<br>`100.00%` |
-| 2023&#8209;03&#8209;08 | [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | SQL | 1211 ms<br>`5.01%` | 0.0B<br>`100.00%` |
-| 2023&#8209;03&#8209;05 | [595. Big Countries](https://leetcode.com/problems/big-countries/) | Easy | SQL | 557 ms<br>`5.02%` | 0.0B<br>`100.00%` |
+| 2023&#8209;03&#8209;09 | [1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | Easy | SQL | 1081 ms<br>`5.00%` | 0.0B<br>`100.00%` |
+| 2023&#8209;03&#8209;09 | [1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | Easy | SQL | 797 ms<br>`5.00%` | 0.0B<br>`100.00%` |
+| 2023&#8209;03&#8209;09 | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | Easy | SQL | 801 ms<br>`5.42%` | 0.0B<br>`100.00%` |
+| 2023&#8209;03&#8209;09 | [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | Easy | SQL | 1712 ms<br>`5.00%` | 0.0B<br>`100.00%` |
+| 2023&#8209;03&#8209;09 | [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | SQL | 1709 ms<br>`5.01%` | 0.0B<br>`100.00%` |
+| 2023&#8209;03&#8209;09 | [627. Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | Easy | SQL | 418 ms<br>`7.48%` | 0.0B<br>`100.00%` |
+| 2023&#8209;03&#8209;09 | [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | Easy | SQL | 1043 ms<br>`5.65%` | 0.0B<br>`100.00%` |
+| 2023&#8209;03&#8209;09 | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | SQL | 926 ms<br>`5.00%` | 0.0B<br>`100.00%` |
+| 2023&#8209;03&#8209;09 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | SQL | 1020 ms<br>`5.01%` | 0.0B<br>`100.00%` |
+| 2023&#8209;03&#8209;09 | [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | SQL | 1211 ms<br>`5.01%` | 0.0B<br>`100.00%` |
+| 2023&#8209;03&#8209;06 | [595. Big Countries](https://leetcode.com/problems/big-countries/) | Easy | SQL | 557 ms<br>`5.02%` | 0.0B<br>`100.00%` |
 | 2023&#8209;02&#8209;16 | [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | SQL | 1233 ms<br>`12.08%` | 0.0B<br>`100.00%` |
 | 2023&#8209;02&#8209;16 | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | SQL | 682 ms<br>`11.60%` | 0.0B<br>`100.00%` |
 | 2023&#8209;02&#8209;16 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | SQL | 551 ms<br>`13.85%` | 0.0B<br>`100.00%` |

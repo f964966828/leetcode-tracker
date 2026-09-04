@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**16** problems · updated `2026-09-04 19:32 UTC`
+**16** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -71,7 +71,7 @@ Latest **16** accepted submissions.
 | 2025&#8209;05&#8209;04 | [3537. Fill a Special Grid](https://leetcode.com/problems/fill-a-special-grid/) | Medium | C++ | 8 ms<br>`75.76%` | 69.1 MB<br>`22.22%` |
 | 2025&#8209;04&#8209;24 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | C++ | 0 ms<br>`100.00%` | 28.1 MB<br>`95.18%` |
 | 2025&#8209;04&#8209;21 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | C++ | 38 ms<br>`47.95%` | 64.7 MB<br>`100.00%` |
-| 2024&#8209;03&#8209;23 | [148. Sort List](https://leetcode.com/problems/sort-list/) | Medium | C++ | 124 ms<br>`5.01%` | 58.8 MB<br>`49.20%` |
+| 2024&#8209;03&#8209;24 | [148. Sort List](https://leetcode.com/problems/sort-list/) | Medium | C++ | 124 ms<br>`5.01%` | 58.8 MB<br>`49.20%` |
 | 2023&#8209;03&#8209;16 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | C++ | 38 ms<br>`5.14%` | 26 MB<br>`99.95%` |
 | 2023&#8209;03&#8209;15 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | C++ | 144 ms<br>`4.53%` | 73.1 MB<br>`14.90%` |
 | 2023&#8209;03&#8209;13 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | C++ | 6 ms<br>`5.20%` | 6 MB<br>`100.00%` |

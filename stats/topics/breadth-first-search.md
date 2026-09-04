@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**69** problems · updated `2026-09-04 19:32 UTC`
+**69** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -73,41 +73,41 @@ Latest **69** accepted submissions.
 | 2025&#8209;10&#8209;03 | [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard | C++ | 34 ms<br>`43.03%` | 22.7 MB<br>`32.34%` |
 | 2025&#8209;09&#8209;27 | [3690. Split and Merge Array Transformation](https://leetcode.com/problems/split-and-merge-array-transformation/) | Medium | C++ | 1672 ms<br>`7.57%` | 432.5 MB<br>`21.01%` |
 | 2025&#8209;06&#8209;03 | [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | Hard | C++ | 8 ms<br>`43.38%` | 44.5 MB<br>`100.00%` |
-| 2025&#8209;05&#8209;31 | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | Medium | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`67.49%` |
+| 2025&#8209;06&#8209;01 | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | Medium | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`67.49%` |
 | 2025&#8209;05&#8209;29 | [3373. Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard | C++ | 457 ms<br>`27.98%` | 387.2 MB<br>`21.76%` |
 | 2025&#8209;05&#8209;28 | [3372. Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium | C++ | 181 ms<br>`69.37%` | 62.9 MB<br>`70.27%` |
 | 2025&#8209;04&#8209;26 | [3528. Unit Conversion I](https://leetcode.com/problems/unit-conversion-i/) | Medium | C++ | 92 ms<br>`82.47%` | 232.5 MB<br>`94.82%` |
 | 2025&#8209;04&#8209;26 | [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) | Hard | C++ | 17 ms<br>`6.78%` | 20.2 MB<br>`5.08%` |
 | 2025&#8209;04&#8209;26 | [505. The Maze II](https://leetcode.com/problems/the-maze-ii/) | Medium | C++ | 3 ms<br>`85.22%` | 24.3 MB<br>`63.05%` |
 | 2025&#8209;04&#8209;26 | [490. The Maze](https://leetcode.com/problems/the-maze/) | Medium | C++ | 0 ms<br>`100.00%` | 22.9 MB<br>`79.49%` |
-| 2025&#8209;04&#8209;23 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | Hard | C++ | 8 ms<br>`13.11%` | 23.9 MB<br>`13.11%` |
-| 2025&#8209;04&#8209;20 | [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Medium | C++ | 139 ms<br>`5.55%` | 69.5 MB<br>`5.01%` |
-| 2025&#8209;04&#8209;20 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Medium | C++ | 3 ms<br>`14.63%` | 14.7 MB<br>`37.21%` |
+| 2025&#8209;04&#8209;24 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | Hard | C++ | 8 ms<br>`13.11%` | 23.9 MB<br>`13.11%` |
+| 2025&#8209;04&#8209;21 | [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Medium | C++ | 139 ms<br>`5.55%` | 69.5 MB<br>`5.01%` |
+| 2025&#8209;04&#8209;21 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Medium | C++ | 3 ms<br>`14.63%` | 14.7 MB<br>`37.21%` |
 | 2025&#8209;04&#8209;20 | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | C++ | 2 ms<br>`22.06%` | 12 MB<br>`60.01%` |
 | 2025&#8209;04&#8209;20 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | C++ | 1 ms<br>`36.04%` | 17.2 MB<br>`28.15%` |
 | 2025&#8209;04&#8209;20 | [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium | C++ | 141 ms<br>`31.08%` | 117.5 MB<br>`32.39%` |
 | 2025&#8209;04&#8209;20 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | C++ | 2 ms<br>`41.04%` | 19.3 MB<br>`92.38%` |
-| 2025&#8209;04&#8209;19 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | C++ | 8 ms<br>`21.91%` | 115.7 MB<br>`5.42%` |
-| 2025&#8209;04&#8209;19 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | C++ | 0 ms<br>`100.00%` | 14.9 MB<br>`63.75%` |
-| 2025&#8209;04&#8209;19 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | C++ | 104 ms<br>`32.00%` | 88.1 MB<br>`97.77%` |
-| 2025&#8209;04&#8209;19 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | C++ | 0 ms<br>`100.00%` | 19.1 MB<br>`99.94%` |
+| 2025&#8209;04&#8209;20 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | C++ | 8 ms<br>`21.91%` | 115.7 MB<br>`5.42%` |
+| 2025&#8209;04&#8209;20 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | C++ | 0 ms<br>`100.00%` | 14.9 MB<br>`63.75%` |
+| 2025&#8209;04&#8209;20 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | C++ | 104 ms<br>`32.00%` | 88.1 MB<br>`97.77%` |
+| 2025&#8209;04&#8209;20 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | C++ | 0 ms<br>`100.00%` | 19.1 MB<br>`99.94%` |
 | 2025&#8209;04&#8209;11 | [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | C++ | 3 ms<br>`63.11%` | 18.7 MB<br>`22.04%` |
 | 2025&#8209;04&#8209;07 | [317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/) | Hard | C++ | 470 ms<br>`46.48%` | 197.7 MB<br>`39.44%` |
-| 2024&#8209;10&#8209;26 | [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | Hard | C++ | 339 ms<br>`28.83%` | 312.8 MB<br>`34.69%` |
+| 2024&#8209;10&#8209;27 | [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | Hard | C++ | 339 ms<br>`28.83%` | 312.8 MB<br>`34.69%` |
 | 2024&#8209;10&#8209;23 | [2641. Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | Medium | C++ | 157 ms<br>`16.02%` | 392.9 MB<br>`8.35%` |
 | 2024&#8209;10&#8209;22 | [2583. Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | Medium | C++ | 34 ms<br>`58.53%` | 167 MB<br>`100.00%` |
 | 2024&#8209;04&#8209;23 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | C++ | 1508 ms<br>`5.02%` | 436.1 MB<br>`5.04%` |
 | 2024&#8209;04&#8209;22 | [752. Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium | C++ | 837 ms<br>`5.02%` | 38.2 MB<br>`86.83%` |
 | 2024&#8209;04&#8209;21 | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | C++ | 469 ms<br>`17.31%` | 202.6 MB<br>`99.88%` |
-| 2024&#8209;04&#8209;20 | [1992. Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | Medium | C++ | 510 ms<br>`7.61%` | 106.4 MB<br>`31.99%` |
+| 2024&#8209;04&#8209;21 | [1992. Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | Medium | C++ | 510 ms<br>`7.61%` | 106.4 MB<br>`31.99%` |
 | 2024&#8209;04&#8209;19 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | C++ | 28 ms<br>`47.94%` | 16.8 MB<br>`60.84%` |
 | 2024&#8209;04&#8209;18 | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | C++ | 78 ms<br>`5.13%` | 104.4 MB<br>`25.27%` |
-| 2024&#8209;04&#8209;17 | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | Medium | C++ | 8 ms<br>`0.27%` | 24.3 MB<br>`99.93%` |
+| 2024&#8209;04&#8209;18 | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | Medium | C++ | 8 ms<br>`0.27%` | 24.3 MB<br>`99.93%` |
 | 2024&#8209;04&#8209;15 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | C++ | 0 ms<br>`100.00%` | 14.8 MB<br>`99.89%` |
-| 2024&#8209;03&#8209;23 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | C++ | 187 ms<br>`5.21%` | 145 MB<br>`99.96%` |
-| 2024&#8209;03&#8209;23 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Medium | C++ | 4 ms<br>`6.61%` | 13.8 MB<br>`99.96%` |
-| 2024&#8209;03&#8209;23 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | C++ | 12 ms<br>`1.76%` | 20.9 MB<br>`99.88%` |
-| 2024&#8209;03&#8209;23 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | C++ | 18 ms<br>`7.53%` | 17.5 MB<br>`99.95%` |
+| 2024&#8209;03&#8209;24 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | C++ | 187 ms<br>`5.21%` | 145 MB<br>`99.96%` |
+| 2024&#8209;03&#8209;24 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Medium | C++ | 4 ms<br>`6.61%` | 13.8 MB<br>`99.96%` |
+| 2024&#8209;03&#8209;24 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | C++ | 12 ms<br>`1.76%` | 20.9 MB<br>`99.88%` |
+| 2024&#8209;03&#8209;24 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | C++ | 18 ms<br>`7.53%` | 17.5 MB<br>`99.95%` |
 | 2023&#8209;04&#8209;08 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | C++ | 3 ms<br>`68.22%` | 8.9 MB<br>`100.00%` |
 | 2023&#8209;04&#8209;07 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | C++ | 152 ms<br>`5.01%` | 10 MB<br>`100.00%` |
 | 2023&#8209;04&#8209;07 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | C++ | 87 ms<br>`6.98%` | 27.7 MB<br>`99.98%` |
@@ -124,11 +124,11 @@ Latest **69** accepted submissions.
 | 2023&#8209;03&#8209;21 | [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | Medium | C++ | 27 ms<br>`13.57%` | 12.2 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;19 | [2596. Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/) | Medium | C++ | 15 ms<br>`2.96%` | 28.1 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;15 | [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium | C++ | 11 ms<br>`0.47%` | 10.5 MB<br>`100.00%` |
-| 2023&#8209;03&#8209;13 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | C++ | 10 ms<br>`1.87%` | 14 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;14 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | C++ | 10 ms<br>`1.87%` | 14 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;13 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | C++ | 69 ms<br>`7.79%` | 31.2 MB<br>`99.98%` |
-| 2023&#8209;03&#8209;10 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium | C++ | 24 ms<br>`7.89%` | 17.7 MB<br>`99.99%` |
-| 2023&#8209;03&#8209;10 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | C++ | 45 ms<br>`5.21%` | 34.2 MB<br>`11.43%` |
-| 2023&#8209;03&#8209;09 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | C++ | 25 ms<br>`5.15%` | 24.1 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;11 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium | C++ | 24 ms<br>`7.89%` | 17.7 MB<br>`99.99%` |
+| 2023&#8209;03&#8209;11 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | C++ | 45 ms<br>`5.21%` | 34.2 MB<br>`11.43%` |
+| 2023&#8209;03&#8209;10 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | C++ | 25 ms<br>`5.15%` | 24.1 MB<br>`100.00%` |
 | 2023&#8209;03&#8209;05 | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard | C++ | 467 ms<br>`5.02%` | 137.8 MB<br>`19.25%` |
 | 2023&#8209;02&#8209;19 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | C++ | 3 ms<br>`8.01%` | 12 MB<br>`99.95%` |
 | 2023&#8209;02&#8209;17 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | Easy | C++ | 0 ms<br>`100.00%` | 10 MB<br>`100.00%` |

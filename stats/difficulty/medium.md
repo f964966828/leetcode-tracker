@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**393** problems · updated `2026-09-04 19:32 UTC`
+**393** problems · updated `2026-09-05 03:36 UTC+8`
 
 ## Stats
 
@@ -41,12 +41,12 @@ Latest **100** accepted submissions.
 | 2026&#8209;09&#8209;03 | [3876. Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | C++ | 7 ms<br>`42.89%` | 165.7 MB<br>`84.39%` |
 | 2026&#8209;08&#8209;20 | [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | Medium | C++ | 19 ms<br>`58.17%` | 44.6 MB<br>`11.30%` |
 | 2026&#8209;08&#8209;19 | [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium | C++ | 125 ms<br>`9.88%` | 84.2 MB<br>`20.70%` |
-| 2026&#8209;08&#8209;17 | [877. Stone Game](https://leetcode.com/problems/stone-game/) | Medium | C++ | 12 ms<br>`17.70%` | 19.8 MB<br>`7.31%` |
+| 2026&#8209;08&#8209;18 | [877. Stone Game](https://leetcode.com/problems/stone-game/) | Medium | C++ | 12 ms<br>`17.70%` | 19.8 MB<br>`7.31%` |
 | 2026&#8209;08&#8209;13 | [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | Medium | C++ | 7 ms<br>`44.44%` | 19 MB<br>`83.33%` |
 | 2026&#8209;08&#8209;13 | [250. Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | Medium | C++ | 0 ms<br>`100.00%` | 18.5 MB<br>`75.93%` |
 | 2026&#8209;08&#8209;13 | [549. Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) | Medium | C++ | 0 ms<br>`100.00%` | 22.7 MB<br>`78.57%` |
 | 2026&#8209;06&#8209;11 | [3558. Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | Medium | C++ | 303 ms<br>`53.85%` | 346.5 MB<br>`44.39%` |
-| 2026&#8209;06&#8209;08 | [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | C++ | 7 ms<br>`58.96%` | 139.4 MB<br>`16.25%` |
+| 2026&#8209;06&#8209;09 | [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | C++ | 7 ms<br>`58.96%` | 139.4 MB<br>`16.25%` |
 | 2026&#8209;06&#8209;06 | [3952. Maximum Total Value of Covered Indices](https://leetcode.com/problems/maximum-total-value-of-covered-indices/) | Medium | C++ | 127 ms<br>`33.96%` | 236.8 MB<br>`31.46%` |
 | 2026&#8209;06&#8209;06 | [3951. Minimum Energy to Maintain Brightness](https://leetcode.com/problems/minimum-energy-to-maintain-brightness/) | Medium | C++ | 74 ms<br>`83.55%` | 203.6 MB<br>`61.06%` |
 | 2026&#8209;06&#8209;04 | [723. Candy Crush](https://leetcode.com/problems/candy-crush/) | Medium | C++ | 4 ms<br>`61.92%` | 14.4 MB<br>`20.92%` |
@@ -71,8 +71,8 @@ Latest **100** accepted submissions.
 | 2025&#8209;10&#8209;15 | [3350. Adjacent Increasing Subarrays Detection II](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/) | Medium | C++ | 282 ms<br>`8.37%` | 219.4 MB<br>`6.08%` |
 | 2025&#8209;10&#8209;12 | [3714. Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | Medium | C++ | 1603 ms<br>`59.24%` | 403.9 MB<br>`18.22%` |
 | 2025&#8209;10&#8209;12 | [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | C++ | 3030 ms<br>`5.07%` | 498.4 MB<br>`5.06%` |
-| 2025&#8209;10&#8209;11 | [3147. Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | Medium | C++ | 141 ms<br>`82.37%` | 151.8 MB<br>`100.00%` |
-| 2025&#8209;10&#8209;11 | [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | Medium | C++ | 111 ms<br>`86.08%` | 162.8 MB<br>`90.83%` |
+| 2025&#8209;10&#8209;12 | [3147. Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | Medium | C++ | 141 ms<br>`82.37%` | 151.8 MB<br>`100.00%` |
+| 2025&#8209;10&#8209;12 | [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | Medium | C++ | 111 ms<br>`86.08%` | 162.8 MB<br>`90.83%` |
 | 2025&#8209;10&#8209;11 | [3708. Longest Fibonacci Subarray](https://leetcode.com/problems/longest-fibonacci-subarray/) | Medium | C++ | 0 ms<br>`100.00%` | 102.8 MB<br>`45.05%` |
 | 2025&#8209;10&#8209;09 | [3494. Find the Minimum Amount of Time to Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) | Medium | C++ | 575 ms<br>`18.46%` | 407.4 MB<br>`15.38%` |
 | 2025&#8209;10&#8209;08 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Medium | C++ | 47 ms<br>`42.48%` | 138.4 MB<br>`8.28%` |
@@ -80,7 +80,7 @@ Latest **100** accepted submissions.
 | 2025&#8209;10&#8209;05 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | C++ | 4 ms<br>`76.47%` | 22.2 MB<br>`76.03%` |
 | 2025&#8209;10&#8209;04 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | C++ | 0 ms<br>`100.00%` | 62.8 MB<br>`79.30%` |
 | 2025&#8209;10&#8209;03 | [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | Medium | C++ | 45 ms<br>`32.04%` | 58.5 MB<br>`26.21%` |
-| 2025&#8209;10&#8209;02 | [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/) | Medium | C++ | 2 ms<br>`38.80%` | 8.7 MB<br>`15.89%` |
+| 2025&#8209;10&#8209;03 | [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/) | Medium | C++ | 2 ms<br>`38.80%` | 8.7 MB<br>`15.89%` |
 | 2025&#8209;09&#8209;30 | [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | Medium | C++ | 431 ms<br>`5.07%` | 384.5 MB<br>`5.28%` |
 | 2025&#8209;09&#8209;29 | [1039. Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | Medium | C++ | 5 ms<br>`10.47%` | 11.4 MB<br>`15.89%` |
 | 2025&#8209;09&#8209;28 | [3698. Split Array With Minimum Difference](https://leetcode.com/problems/split-array-with-minimum-difference/) | Medium | C++ | 0 ms<br>`100.00%` | 169.6 MB<br>`94.85%` |
@@ -93,9 +93,9 @@ Latest **100** accepted submissions.
 | 2025&#8209;09&#8209;25 | [120. Triangle](https://leetcode.com/problems/triangle/) | Medium | C++ | 0 ms<br>`100.00%` | 13.9 MB<br>`5.01%` |
 | 2025&#8209;09&#8209;24 | [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | Medium | Python | 0 ms<br>`100.00%` | 17.9 MB<br>`100.00%` |
 | 2025&#8209;09&#8209;23 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | Python | 0 ms<br>`100.00%` | 17.7 MB<br>`100.00%` |
-| 2025&#8209;09&#8209;20 | [3508. Implement Router](https://leetcode.com/problems/implement-router/) | Medium | C++ | 190 ms<br>`82.01%` | 415.1 MB<br>`99.28%` |
-| 2025&#8209;09&#8209;19 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | Medium | Python | 57 ms<br>`96.77%` | 23.5 MB<br>`100.00%` |
-| 2025&#8209;09&#8209;18 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/) | Medium | C++ | 209 ms<br>`78.45%` | 347.5 MB<br>`98.90%` |
+| 2025&#8209;09&#8209;21 | [3508. Implement Router](https://leetcode.com/problems/implement-router/) | Medium | C++ | 190 ms<br>`82.01%` | 415.1 MB<br>`99.28%` |
+| 2025&#8209;09&#8209;20 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | Medium | Python | 57 ms<br>`96.77%` | 23.5 MB<br>`100.00%` |
+| 2025&#8209;09&#8209;19 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/) | Medium | C++ | 209 ms<br>`78.45%` | 347.5 MB<br>`98.90%` |
 | 2025&#8209;09&#8209;17 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium | C++ | 164 ms<br>`34.81%` | 162.7 MB<br>`91.36%` |
 | 2025&#8209;09&#8209;14 | [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | Medium | C++ | 37 ms<br>`68.34%` | 41.6 MB<br>`55.21%` |
 | 2025&#8209;09&#8209;12 | [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) | Medium | Python | 0 ms<br>`100.00%` | 18.2 MB<br>`100.00%` |
@@ -106,7 +106,7 @@ Latest **100** accepted submissions.
 | 2025&#8209;09&#8209;02 | [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | Medium | C++ | 19 ms<br>`25.00%` | 32.7 MB<br>`28.24%` |
 | 2025&#8209;09&#8209;01 | [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | Medium | C++ | 273 ms<br>`89.50%` | 97.9 MB<br>`69.41%` |
 | 2025&#8209;08&#8209;30 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | C++ | 0 ms<br>`100.00%` | 22.7 MB<br>`57.13%` |
-| 2025&#8209;08&#8209;29 | [3021. Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | Medium | C++ | 0 ms<br>`100.00%` | 8.4 MB<br>`89.39%` |
+| 2025&#8209;08&#8209;30 | [3021. Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | Medium | C++ | 0 ms<br>`100.00%` | 8.4 MB<br>`89.39%` |
 | 2025&#8209;08&#8209;28 | [3446. Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | Medium | C++ | 4 ms<br>`84.97%` | 43.3 MB<br>`86.76%` |
 | 2025&#8209;08&#8209;27 | [1181. Before and After Puzzle](https://leetcode.com/problems/before-and-after-puzzle/) | Medium | Python | 15 ms<br>`5.56%` | 18.2 MB<br>`100.00%` |
 | 2025&#8209;08&#8209;25 | [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | Medium | C++ | 0 ms<br>`100.00%` | 22.8 MB<br>`70.10%` |
@@ -114,14 +114,14 @@ Latest **100** accepted submissions.
 | 2025&#8209;06&#8209;18 | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Medium | C++ | 115 ms<br>`13.42%` | 126.1 MB<br>`18.08%` |
 | 2025&#8209;06&#8209;15 | [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | Medium | Python | 0 ms<br>`100.00%` | 17.6 MB<br>`100.00%` |
 | 2025&#8209;06&#8209;13 | [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | Medium | C++ | 30 ms<br>`30.34%` | 86.8 MB<br>`50.70%` |
-| 2025&#8209;06&#8209;08 | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | Medium | C++ | 0 ms<br>`100.00%` | 14.2 MB<br>`46.29%` |
+| 2025&#8209;06&#8209;09 | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | Medium | C++ | 0 ms<br>`100.00%` | 14.2 MB<br>`46.29%` |
 | 2025&#8209;06&#8209;07 | [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | Medium | C++ | 54 ms<br>`80.71%` | 27.2 MB<br>`42.51%` |
 | 2025&#8209;06&#8209;06 | [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium | C++ | 67 ms<br>`26.26%` | 51.4 MB<br>`5.20%` |
-| 2025&#8209;06&#8209;05 | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | Medium | C++ | 2 ms<br>`46.62%` | 9 MB<br>`53.92%` |
-| 2025&#8209;06&#8209;04 | [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | Medium | C++ | 9 ms<br>`91.91%` | 12.9 MB<br>`76.28%` |
-| 2025&#8209;06&#8209;01 | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/) | Medium | C++ | 14 ms<br>`49.47%` | 8.9 MB<br>`83.04%` |
-| 2025&#8209;05&#8209;31 | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | Medium | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`67.49%` |
-| 2025&#8209;05&#8209;30 | [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | Medium | C++ | 162 ms<br>`13.13%` | 162.6 MB<br>`10.77%` |
+| 2025&#8209;06&#8209;06 | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | Medium | C++ | 2 ms<br>`46.62%` | 9 MB<br>`53.92%` |
+| 2025&#8209;06&#8209;05 | [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | Medium | C++ | 9 ms<br>`91.91%` | 12.9 MB<br>`76.28%` |
+| 2025&#8209;06&#8209;02 | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/) | Medium | C++ | 14 ms<br>`49.47%` | 8.9 MB<br>`83.04%` |
+| 2025&#8209;06&#8209;01 | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | Medium | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`67.49%` |
+| 2025&#8209;05&#8209;31 | [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | Medium | C++ | 162 ms<br>`13.13%` | 162.6 MB<br>`10.77%` |
 | 2025&#8209;05&#8209;28 | [3372. Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium | C++ | 181 ms<br>`69.37%` | 62.9 MB<br>`70.27%` |
 | 2025&#8209;05&#8209;25 | [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | C++ | 27 ms<br>`88.02%` | 171.9 MB<br>`78.72%` |
 | 2025&#8209;05&#8209;25 | [3561. Resulting String After Adjacent Removals](https://leetcode.com/problems/resulting-string-after-adjacent-removals/) | Medium | C++ | 106 ms<br>`36.98%` | 78.6 MB<br>`7.40%` |
@@ -135,6 +135,6 @@ Latest **100** accepted submissions.
 | 2025&#8209;05&#8209;13 | [3335. Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | Medium | C++ | 14 ms<br>`98.77%` | 19.2 MB<br>`88.62%` |
 | 2025&#8209;05&#8209;12 | [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | Medium | C++ | 11 ms<br>`8.16%` | 13.1 MB<br>`96.60%` |
 | 2025&#8209;05&#8209;12 | [1429. First Unique Number](https://leetcode.com/problems/first-unique-number/) | Medium | C++ | 195 ms<br>`84.46%` | 128.1 MB<br>`99.72%` |
-| 2025&#8209;05&#8209;11 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | C++ | 38 ms<br>`5.53%` | 38.6 MB<br>`5.00%` |
+| 2025&#8209;05&#8209;12 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | C++ | 38 ms<br>`5.53%` | 38.6 MB<br>`5.00%` |
 | 2025&#8209;05&#8209;11 | [484. Find Permutation](https://leetcode.com/problems/find-permutation/) | Medium | C++ | 3 ms<br>`29.79%` | 14.4 MB<br>`14.89%` |
 | 2025&#8209;05&#8209;11 | [439. Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) | Medium | C++ | 0 ms<br>`100.00%` | 8.9 MB<br>`79.45%` |
