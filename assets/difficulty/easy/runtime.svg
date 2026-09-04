@@ -6,7 +6,7 @@
 <rect width="100%" height="100%" rx="18" fill="#1e1e2e" stroke="#313244" stroke-width="1"/>
 <rect x="20" y="18" width="4" height="22" rx="2" fill="url(#titleBar)"/>
 <text x="34" y="36" fill="#cdd6f4" font-size="18" font-weight="700" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif">Runtime Percentile</text>
-<text x="816" y="36" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="end">267 submissions</text>
+<text x="816" y="36" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="end">268 submissions</text>
 <line x1="48" y1="272" x2="812" y2="272" stroke="#313244" stroke-width="1"/>
 <rect x="58.0" y="72.0" width="65.4" height="200.0" rx="8" fill="#fab387"/>
 <text x="90.7" y="64.0" fill="#cdd6f4" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">42%</text>
@@ -35,7 +35,7 @@
 <rect x="661.2" y="268.5" width="65.4" height="3.5" rx="8" fill="#fab387"/>
 <text x="693.9" y="260.5" fill="#cdd6f4" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">1%</text>
 <text x="693.9" y="290" fill="#a6adc8" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">80-90</text>
-<rect x="736.6" y="84.4" width="65.4" height="187.6" rx="8" fill="#a6e3a1"/>
-<text x="769.3" y="76.4" fill="#cdd6f4" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">40%</text>
+<rect x="736.6" y="82.6" width="65.4" height="189.4" rx="8" fill="#a6e3a1"/>
+<text x="769.3" y="74.6" fill="#cdd6f4" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">40%</text>
 <text x="769.3" y="290" fill="#a6adc8" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">90-100</text>
 </svg>

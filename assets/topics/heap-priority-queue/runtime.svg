@@ -6,10 +6,10 @@
 <rect width="100%" height="100%" rx="18" fill="#1e1e2e" stroke="#313244" stroke-width="1"/>
 <rect x="20" y="18" width="4" height="22" rx="2" fill="url(#titleBar)"/>
 <text x="34" y="36" fill="#cdd6f4" font-size="18" font-weight="700" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif">Runtime Percentile</text>
-<text x="816" y="36" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="end">33 submissions</text>
+<text x="816" y="36" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="end">34 submissions</text>
 <line x1="48" y1="272" x2="812" y2="272" stroke="#313244" stroke-width="1"/>
 <rect x="58.0" y="72.0" width="65.4" height="200.0" rx="8" fill="#fab387"/>
-<text x="90.7" y="64.0" fill="#cdd6f4" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">36%</text>
+<text x="90.7" y="64.0" fill="#cdd6f4" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">35%</text>
 <text x="90.7" y="290" fill="#a6adc8" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">0-10</text>
 <rect x="133.4" y="222.0" width="65.4" height="50.0" rx="8" fill="#a6e3a1"/>
 <text x="166.1" y="214.0" fill="#cdd6f4" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">9%</text>
@@ -35,7 +35,7 @@
 <rect x="661.2" y="222.0" width="65.4" height="50.0" rx="8" fill="#fab387"/>
 <text x="693.9" y="214.0" fill="#cdd6f4" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">9%</text>
 <text x="693.9" y="290" fill="#a6adc8" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">80-90</text>
-<rect x="736.6" y="255.3" width="65.4" height="16.7" rx="8" fill="#a6e3a1"/>
-<text x="769.3" y="247.3" fill="#cdd6f4" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">3%</text>
+<rect x="736.6" y="238.7" width="65.4" height="33.3" rx="8" fill="#a6e3a1"/>
+<text x="769.3" y="230.7" fill="#cdd6f4" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">6%</text>
 <text x="769.3" y="290" fill="#a6adc8" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">90-100</text>
 </svg>

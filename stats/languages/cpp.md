@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**626** problems · updated `2026-09-04 19:23 UTC`
+**627** problems · updated `2026-09-04 19:32 UTC`
 
 ## Stats
 
@@ -16,7 +16,7 @@
 
 | **C++** | [Python](python.md) | [SQL](sql.md) | [JavaScript](javascript.md) |
 | :---: | :---: | :---: | :---: |
-| **626** | 55 | 37 | 12 |
+| **627** | 55 | 37 | 12 |
 
 ### Runtime Percentile
 
@@ -38,6 +38,7 @@ Latest **100** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
+| 2026&#8209;09&#8209;04 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`5.69%` |
 | 2026&#8209;09&#8209;04 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | C++ | 3 ms<br>`67.25%` | 14.8 MB<br>`58.55%` |
 | 2026&#8209;09&#8209;04 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | C++ | 0 ms<br>`100.00%` | 31.3 MB<br>`81.38%` |
 | 2026&#8209;09&#8209;04 | [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | C++ | 0 ms<br>`100.00%` | 31.5 MB<br>`20.68%` |
@@ -137,4 +138,3 @@ Latest **100** accepted submissions.
 | 2025&#8209;09&#8209;14 | [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | Medium | C++ | 37 ms<br>`68.34%` | 41.6 MB<br>`55.21%` |
 | 2025&#8209;09&#8209;13 | [3541. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | Easy | C++ | 2 ms<br>`39.99%` | 10 MB<br>`24.45%` |
 | 2025&#8209;09&#8209;11 | [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | Medium | C++ | 19 ms<br>`35.89%` | 20.6 MB<br>`5.76%` |
-| 2025&#8209;09&#8209;10 | [1133. Largest Unique Number](https://leetcode.com/problems/largest-unique-number/) | Easy | C++ | 0 ms<br>`100.00%` | 12.2 MB<br>`95.53%` |

@@ -6,17 +6,17 @@
 <rect width="100%" height="100%" rx="18" fill="#1e1e2e" stroke="#313244" stroke-width="1"/>
 <rect x="20" y="18" width="4" height="22" rx="2" fill="url(#titleBar)"/>
 <text x="34" y="36" fill="#cdd6f4" font-size="18" font-weight="700" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif">Language</text>
-<text x="536" y="36" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="end">198 solved</text>
-<path d="M 152.74 68.04 A 98 98 0 1 1 89.71 88.74 L 111.86 117.12 A 62 62 0 1 0 151.73 104.02 Z" fill="#fab387" filter="url(#glow)"/>
-<path d="M 94.12 85.49 A 98 98 0 0 1 144.16 68.17 L 146.30 104.11 A 62 62 0 0 0 114.65 115.07 Z" fill="#a6e3a1" filter="url(#glow)"/>
-<path d="M 149.63 68.00 A 98 98 0 0 1 150.31 68.00 L 150.20 104.00 A 62 62 0 0 0 149.76 104.00 Z" fill="#89b4fa" filter="url(#glow)"/>
+<text x="536" y="36" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="end">199 solved</text>
+<path d="M 152.74 68.04 A 98 98 0 1 1 89.96 88.54 L 112.02 117.00 A 62 62 0 1 0 151.73 104.02 Z" fill="#fab387" filter="url(#glow)"/>
+<path d="M 94.38 85.31 A 98 98 0 0 1 144.17 68.17 L 146.31 104.11 A 62 62 0 0 0 114.81 114.95 Z" fill="#a6e3a1" filter="url(#glow)"/>
+<path d="M 149.64 68.00 A 98 98 0 0 1 150.33 68.00 L 150.21 104.00 A 62 62 0 0 0 149.77 104.00 Z" fill="#89b4fa" filter="url(#glow)"/>
 <circle cx="150" cy="166" r="60" fill="#1e1e2e"/>
-<text x="150" y="162" fill="#cdd6f4" font-size="28" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">198</text>
+<text x="150" y="162" fill="#cdd6f4" font-size="28" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">199</text>
 <text x="150" y="184" fill="#a6adc8" font-size="11" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" text-anchor="middle">solved</text>
 <rect x="292" y="78" width="236" height="44" rx="12" fill="#181825" stroke="#313244"/>
 <rect x="306" y="94" width="12" height="12" rx="4" fill="#fab387"/>
 <text x="328" y="98" fill="#cdd6f4" font-size="14" font-weight="600" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif">C++</text>
-<text x="328" y="113" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">178  ·  90%</text>
+<text x="328" y="113" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">179  ·  90%</text>
 <rect x="292" y="130" width="236" height="44" rx="12" fill="#181825" stroke="#313244"/>
 <rect x="306" y="146" width="12" height="12" rx="4" fill="#a6e3a1"/>
 <text x="328" y="150" fill="#cdd6f4" font-size="14" font-weight="600" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif">Python</text>

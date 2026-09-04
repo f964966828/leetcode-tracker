@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**70** problems · updated `2026-09-04 19:23 UTC`
+**70** problems · updated `2026-09-04 19:32 UTC`
 
 ## Stats
 
@@ -12,7 +12,7 @@
 
 | [Easy](easy.md) | [Medium](medium.md) | **Hard** |
 | :---: | :---: | :---: |
-| 267 | 393 | **70** |
+| 268 | 393 | **70** |
 
 ### Language
 

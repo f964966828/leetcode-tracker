@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**267** problems · updated `2026-09-04 19:23 UTC`
+**268** problems · updated `2026-09-04 19:32 UTC`
 
 ## Stats
 
@@ -12,7 +12,7 @@
 
 | **Easy** | [Medium](medium.md) | [Hard](hard.md) |
 | :---: | :---: | :---: |
-| **267** | 393 | 70 |
+| **268** | 393 | 70 |
 
 ### Language
 
@@ -38,6 +38,7 @@ Latest **100** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
+| 2026&#8209;09&#8209;04 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`5.69%` |
 | 2026&#8209;09&#8209;04 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | C++ | 3 ms<br>`67.25%` | 14.8 MB<br>`58.55%` |
 | 2026&#8209;09&#8209;04 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | C++ | 0 ms<br>`100.00%` | 31.3 MB<br>`81.38%` |
 | 2026&#8209;09&#8209;04 | [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | C++ | 0 ms<br>`100.00%` | 31.5 MB<br>`20.68%` |
@@ -137,4 +138,3 @@ Latest **100** accepted submissions.
 | 2025&#8209;04&#8209;17 | [2176. Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | Easy | C++ | 0 ms<br>`100.00%` | 15.4 MB<br>`93.57%` |
 | 2025&#8209;04&#8209;14 | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Easy | C++ | 0 ms<br>`100.00%` | 11.2 MB<br>`7.75%` |
 | 2025&#8209;04&#8209;11 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | C++ | 1 ms<br>`3.25%` | 12.5 MB<br>`60.06%` |
-| 2025&#8209;04&#8209;11 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | C++ | 19 ms<br>`5.25%` | 46.6 MB<br>`5.11%` |

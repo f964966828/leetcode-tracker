@@ -4,7 +4,7 @@
 
 Accepted solutions synced from LeetCode.
 
-**730** problems · updated `2026-09-04 19:23 UTC`
+**731** problems · updated `2026-09-04 19:32 UTC`
 
 ## Stats
 
@@ -14,7 +14,7 @@ Accepted solutions synced from LeetCode.
 
 | [Easy](stats/difficulty/easy.md) | [Medium](stats/difficulty/medium.md) | [Hard](stats/difficulty/hard.md) |
 | :---: | :---: | :---: |
-| 267 | 393 | 70 |
+| 268 | 393 | 70 |
 
 ### Language
 
@@ -22,7 +22,7 @@ Accepted solutions synced from LeetCode.
 
 | [C++](stats/languages/cpp.md) | [Python](stats/languages/python.md) | [SQL](stats/languages/sql.md) | [JavaScript](stats/languages/javascript.md) |
 | :---: | :---: | :---: | :---: |
-| 626 | 55 | 37 | 12 |
+| 627 | 55 | 37 | 12 |
 
 ### Runtime Percentile
 
@@ -30,7 +30,7 @@ Accepted solutions synced from LeetCode.
 
 | [0-10](stats/runtime/0-10.md) | [10-20](stats/runtime/10-20.md) | [20-30](stats/runtime/20-30.md) | [30-40](stats/runtime/30-40.md) | [40-50](stats/runtime/40-50.md) | [50-60](stats/runtime/50-60.md) | [60-70](stats/runtime/60-70.md) | [70-80](stats/runtime/70-80.md) | [80-90](stats/runtime/80-90.md) | [90-100](stats/runtime/90-100.md) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 281 | 51 | 36 | 45 | 31 | 22 | 21 | 19 | 26 | 198 |
+| 281 | 51 | 36 | 45 | 31 | 22 | 21 | 19 | 26 | 199 |
 
 ### Memory Percentile
 
@@ -38,7 +38,7 @@ Accepted solutions synced from LeetCode.
 
 | [0-10](stats/memory/0-10.md) | [10-20](stats/memory/10-20.md) | [20-30](stats/memory/20-30.md) | [30-40](stats/memory/30-40.md) | [40-50](stats/memory/40-50.md) | [50-60](stats/memory/50-60.md) | [60-70](stats/memory/60-70.md) | [70-80](stats/memory/70-80.md) | [80-90](stats/memory/80-90.md) | [90-100](stats/memory/90-100.md) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 74 | 53 | 36 | 31 | 29 | 27 | 25 | 39 | 35 | 381 |
+| 75 | 53 | 36 | 31 | 29 | 27 | 25 | 39 | 35 | 381 |
 
 ### Topics
 
@@ -46,11 +46,11 @@ Accepted solutions synced from LeetCode.
 
 | Topic | # | Topic | # | Topic | # | Topic | # |
 | :--- | ---: | :--- | ---: | :--- | ---: | :--- | ---: |
-| [Array](stats/topics/array.md) | 386 | [Divide and Conquer](stats/topics/divide-and-conquer.md) | 16 | [Directed Acyclic Graph](stats/topics/directed-acyclic-graph.md) | 2 | [Range Minimum/Maximum Query](stats/topics/range-minimum-maximum-query.md) | 1 |
+| [Array](stats/topics/array.md) | 387 | [Divide and Conquer](stats/topics/divide-and-conquer.md) | 16 | [Directed Acyclic Graph](stats/topics/directed-acyclic-graph.md) | 2 | [Range Minimum/Maximum Query](stats/topics/range-minimum-maximum-query.md) | 1 |
 | [Hash Table](stats/topics/hash-table.md) | 168 | [Queue](stats/topics/queue.md) | 16 | [Quickselect](stats/topics/quickselect.md) | 2 | [Nim Game](stats/topics/nim-game.md) | 1 |
 | [String](stats/topics/string.md) | 167 | [Trie](stats/topics/trie.md) | 11 | [Binary Lifting](stats/topics/binary-lifting.md) | 2 | [Impartial Game](stats/topics/impartial-game.md) | 1 |
 | [Math](stats/topics/math.md) | 114 | [Binary Search Tree](stats/topics/binary-search-tree.md) | 11 | [Lowest Common Ancestor](stats/topics/lowest-common-ancestor.md) | 2 | [Binary Indexed Tree](stats/topics/binary-indexed-tree.md) | 1 |
-| [Sorting](stats/topics/sorting.md) | 86 | [Monotonic Stack](stats/topics/monotonic-stack.md) | 10 | [Counting Sort](stats/topics/counting-sort.md) | 2 | [Sqrt Decomposition](stats/topics/sqrt-decomposition.md) | 1 |
+| [Sorting](stats/topics/sorting.md) | 87 | [Monotonic Stack](stats/topics/monotonic-stack.md) | 10 | [Counting Sort](stats/topics/counting-sort.md) | 2 | [Sqrt Decomposition](stats/topics/sqrt-decomposition.md) | 1 |
 | [Dynamic Programming](stats/topics/dynamic-programming.md) | 83 | [Number Theory](stats/topics/number-theory.md) | 10 | [Interactive](stats/topics/interactive.md) | 2 | [Complete Knapsack](stats/topics/complete-knapsack.md) | 1 |
 | [Depth-First Search](stats/topics/depth-first-search.md) | 80 | [Ordered Set](stats/topics/ordered-set.md) | 8 | [Pigeonhole Principle](stats/topics/pigeonhole-principle.md) | 2 | [Reservoir Sampling](stats/topics/reservoir-sampling.md) | 1 |
 | [Greedy](stats/topics/greedy.md) | 79 | [Combinatorics](stats/topics/combinatorics.md) | 7 | [Longest Increasing Subsequence](stats/topics/longest-increasing-subsequence.md) | 2 | [Bellman–Ford Algorithm](stats/topics/bellman-ford-algorithm.md) | 1 |
@@ -66,7 +66,7 @@ Accepted solutions synced from LeetCode.
 | [Simulation](stats/topics/simulation.md) | 40 | [Monotonic Queue](stats/topics/monotonic-queue.md) | 4 | [Bitmask](stats/topics/bitmask.md) | 2 | [Euclidean Algorithm](stats/topics/euclidean-algorithm.md) | 1 |
 | [Counting](stats/topics/counting.md) | 40 | [DP on Trees](stats/topics/dp-on-trees.md) | 4 | [Manacher](stats/topics/manacher.md) | 1 | [Minimum Spanning Tree](stats/topics/minimum-spanning-tree.md) | 1 |
 | [Database](stats/topics/database.md) | 39 | [Brainteaser](stats/topics/brainteaser.md) | 4 | [Tournament Sort](stats/topics/tournament-sort.md) | 1 | [Doubly-Linked List](stats/topics/doubly-linked-list.md) | 1 |
-| [Heap (Priority Queue)](stats/topics/heap-priority-queue.md) | 33 | [Polygons](stats/topics/polygons.md) | 4 | [Z Algorithm](stats/topics/z-algorithm.md) | 1 | [Least Common Multiple](stats/topics/least-common-multiple.md) | 1 |
+| [Heap (Priority Queue)](stats/topics/heap-priority-queue.md) | 34 | [Polygons](stats/topics/polygons.md) | 4 | [Z Algorithm](stats/topics/z-algorithm.md) | 1 | [Least Common Multiple](stats/topics/least-common-multiple.md) | 1 |
 | [Sliding Window](stats/topics/sliding-window.md) | 30 | [Merge Sort](stats/topics/merge-sort.md) | 3 | [Knuth–Morris–Pratt Algorithm](stats/topics/knuth-morris-pratt-algorithm.md) | 1 | [Fermat's Little Theorem](stats/topics/fermat-s-little-theorem.md) | 1 |
 | [Linked List](stats/topics/linked-list.md) | 28 | [Algorithm X](stats/topics/algorithm-x.md) | 3 | [Boyer–Moore String-Search Algorithm](stats/topics/boyer-moore-string-search-algorithm.md) | 1 | [Kosaraju's Algorithm](stats/topics/kosaraju-s-algorithm.md) | 1 |
 | [Graph Theory](stats/topics/graph-theory.md) | 27 | [Quicksort](stats/topics/quicksort.md) | 3 | [Dancing Links](stats/topics/dancing-links.md) | 1 | [Tarjan's SCC Algorithm](stats/topics/tarjan-s-scc-algorithm.md) | 1 |
@@ -84,6 +84,7 @@ Latest **100** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
+| 2026&#8209;09&#8209;04 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`5.69%` |
 | 2026&#8209;09&#8209;04 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | C++ | 3 ms<br>`67.25%` | 14.8 MB<br>`58.55%` |
 | 2026&#8209;09&#8209;04 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | C++ | 0 ms<br>`100.00%` | 31.3 MB<br>`81.38%` |
 | 2026&#8209;09&#8209;04 | [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | C++ | 0 ms<br>`100.00%` | 31.5 MB<br>`20.68%` |
@@ -183,4 +184,3 @@ Latest **100** accepted submissions.
 | 2025&#8209;09&#8209;21 | [1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | Hard | C++ | 333 ms<br>`34.71%` | 444.6 MB<br>`8.94%` |
 | 2025&#8209;09&#8209;20 | [3508. Implement Router](https://leetcode.com/problems/implement-router/) | Medium | C++ | 190 ms<br>`82.01%` | 415.1 MB<br>`99.28%` |
 | 2025&#8209;09&#8209;19 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | Medium | Python | 57 ms<br>`96.77%` | 23.5 MB<br>`100.00%` |
-| 2025&#8209;09&#8209;18 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/) | Medium | C++ | 209 ms<br>`78.45%` | 347.5 MB<br>`98.90%` |

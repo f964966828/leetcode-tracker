@@ -6,23 +6,23 @@
 <rect width="100%" height="100%" rx="18" fill="#1e1e2e" stroke="#313244" stroke-width="1"/>
 <rect x="20" y="18" width="4" height="22" rx="2" fill="url(#titleBar)"/>
 <text x="34" y="36" fill="#cdd6f4" font-size="18" font-weight="700" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif">Difficulty</text>
-<text x="536" y="36" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="end">74 solved</text>
-<path d="M 152.74 68.04 A 98 98 0 0 1 246.34 183.96 L 210.95 177.36 A 62 62 0 0 0 151.73 104.02 Z" fill="#a6e3a1" filter="url(#glow)"/>
-<path d="M 245.19 189.31 A 98 98 0 1 1 61.30 124.34 L 93.88 139.64 A 62 62 0 1 0 210.22 180.75 Z" fill="#f9e2af" filter="url(#glow)"/>
-<path d="M 63.76 119.45 A 98 98 0 0 1 147.26 68.04 L 148.27 104.02 A 62 62 0 0 0 95.44 136.55 Z" fill="#f38ba8" filter="url(#glow)"/>
+<text x="536" y="36" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="end">75 solved</text>
+<path d="M 152.74 68.04 A 98 98 0 0 1 245.09 189.71 L 210.16 181.00 A 62 62 0 0 0 151.73 104.02 Z" fill="#a6e3a1" filter="url(#glow)"/>
+<path d="M 243.62 194.98 A 98 98 0 1 1 61.92 123.04 L 94.27 138.82 A 62 62 0 1 0 209.23 184.33 Z" fill="#f9e2af" filter="url(#glow)"/>
+<path d="M 64.45 118.19 A 98 98 0 0 1 147.26 68.04 L 148.27 104.02 A 62 62 0 0 0 95.88 135.75 Z" fill="#f38ba8" filter="url(#glow)"/>
 <circle cx="150" cy="166" r="60" fill="#1e1e2e"/>
-<text x="150" y="162" fill="#cdd6f4" font-size="28" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">74</text>
+<text x="150" y="162" fill="#cdd6f4" font-size="28" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">75</text>
 <text x="150" y="184" fill="#a6adc8" font-size="11" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" text-anchor="middle">solved</text>
 <rect x="292" y="78" width="236" height="44" rx="12" fill="#181825" stroke="#313244"/>
 <rect x="306" y="94" width="12" height="12" rx="4" fill="#a6e3a1"/>
 <text x="328" y="98" fill="#cdd6f4" font-size="14" font-weight="600" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif">Easy</text>
-<text x="328" y="113" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">21  ·  28%</text>
+<text x="328" y="113" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">22  ·  29%</text>
 <rect x="292" y="130" width="236" height="44" rx="12" fill="#181825" stroke="#313244"/>
 <rect x="306" y="146" width="12" height="12" rx="4" fill="#f9e2af"/>
 <text x="328" y="150" fill="#cdd6f4" font-size="14" font-weight="600" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif">Medium</text>
-<text x="328" y="165" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">40  ·  54%</text>
+<text x="328" y="165" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">40  ·  53%</text>
 <rect x="292" y="182" width="236" height="44" rx="12" fill="#181825" stroke="#313244"/>
 <rect x="306" y="198" width="12" height="12" rx="4" fill="#f38ba8"/>
 <text x="328" y="202" fill="#cdd6f4" font-size="14" font-weight="600" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif">Hard</text>
-<text x="328" y="217" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">13  ·  18%</text>
+<text x="328" y="217" fill="#a6adc8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">13  ·  17%</text>
 </svg>
