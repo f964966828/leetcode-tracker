@@ -17,7 +17,6 @@ public:
                 if(nums[i] != target / 2 || (nums[i] == target / 2 && mid != 1)){
                     ans[0] = i;
                 }
-                //cout << nums[ans[0]] << endl;
             }
         }
         for(int i=0; i<nums.size(); i++){
