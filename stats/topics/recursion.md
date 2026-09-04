@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**21** problems · updated `2026-09-04 19:12 UTC`
+**21** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,24 +66,24 @@ Latest **21** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2026-06-04 | [1265. Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/) | Medium | C++ | 0 ms<br>`100.00%` | 9.9 MB<br>`5.81%` |
-| 2025-05-12 | [770. Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/) | Hard | C++ | 4 ms<br>`85.71%` | 21.8 MB<br>`99.51%` |
-| 2025-05-12 | [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | C++ | 0 ms<br>`100.00%` | 12.5 MB<br>`82.00%` |
-| 2025-05-11 | [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | Hard | C++ | 0 ms<br>`100.00%` | 11.5 MB<br>`56.44%` |
-| 2025-05-11 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | C++ | 19 ms<br>`7.01%` | 23.2 MB<br>`5.06%` |
-| 2025-05-11 | [439. Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) | Medium | C++ | 0 ms<br>`100.00%` | 8.9 MB<br>`79.45%` |
-| 2025-04-19 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | C++ | 0 ms<br>`100.00%` | 13.4 MB<br>`72.41%` |
-| 2025-04-19 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | C++ | 1 ms<br>`29.13%` | 9.7 MB<br>`10.91%` |
-| 2025-04-13 | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium | C++ | 2 ms<br>`2.20%` | 7.8 MB<br>`97.14%` |
-| 2024-10-20 | [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | Hard | C++ | 9 ms<br>`21.74%` | 13.3 MB<br>`9.84%` |
-| 2024-10-19 | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | Medium | C++ | 86 ms<br>`11.17%` | 46.1 MB<br>`31.53%` |
-| 2024-03-26 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | C++ | 39 ms<br>`10.93%` | 23.9 MB<br>`5.07%` |
-| 2024-03-23 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | C++ | 3 ms<br>`0.42%` | 9.4 MB<br>`100.00%` |
-| 2024-03-23 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | C++ | 31 ms<br>`5.08%` | 22.4 MB<br>`99.97%` |
-| 2024-03-22 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | C++ | 173 ms<br>`5.13%` | 130.7 MB<br>`18.01%` |
-| 2023-03-21 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | C++ | 11 ms<br>`1.56%` | 15.7 MB<br>`100.00%` |
-| 2023-03-21 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | C++ | 12 ms<br>`0.53%` | 23.1 MB<br>`8.45%` |
-| 2023-03-13 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | C++ | 0 ms<br>`100.00%` | 6.1 MB<br>`100.00%` |
-| 2023-03-13 | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | C++ | 0 ms<br>`100.00%` | 5.9 MB<br>`100.00%` |
-| 2023-02-16 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | Python | 26 ms<br>`0.77%` | 13.9 MB<br>`100.00%` |
-| 2023-02-15 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | C++ | 51 ms<br>`6.98%` | 71.5 MB<br>`99.95%` |
+| 2026&#8209;06&#8209;04 | [1265. Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/) | Medium | C++ | 0 ms<br>`100.00%` | 9.9 MB<br>`5.81%` |
+| 2025&#8209;05&#8209;12 | [770. Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/) | Hard | C++ | 4 ms<br>`85.71%` | 21.8 MB<br>`99.51%` |
+| 2025&#8209;05&#8209;12 | [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | C++ | 0 ms<br>`100.00%` | 12.5 MB<br>`82.00%` |
+| 2025&#8209;05&#8209;11 | [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | Hard | C++ | 0 ms<br>`100.00%` | 11.5 MB<br>`56.44%` |
+| 2025&#8209;05&#8209;11 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | C++ | 19 ms<br>`7.01%` | 23.2 MB<br>`5.06%` |
+| 2025&#8209;05&#8209;11 | [439. Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) | Medium | C++ | 0 ms<br>`100.00%` | 8.9 MB<br>`79.45%` |
+| 2025&#8209;04&#8209;19 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | C++ | 0 ms<br>`100.00%` | 13.4 MB<br>`72.41%` |
+| 2025&#8209;04&#8209;19 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | C++ | 1 ms<br>`29.13%` | 9.7 MB<br>`10.91%` |
+| 2025&#8209;04&#8209;13 | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium | C++ | 2 ms<br>`2.20%` | 7.8 MB<br>`97.14%` |
+| 2024&#8209;10&#8209;20 | [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | Hard | C++ | 9 ms<br>`21.74%` | 13.3 MB<br>`9.84%` |
+| 2024&#8209;10&#8209;19 | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | Medium | C++ | 86 ms<br>`11.17%` | 46.1 MB<br>`31.53%` |
+| 2024&#8209;03&#8209;26 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | C++ | 39 ms<br>`10.93%` | 23.9 MB<br>`5.07%` |
+| 2024&#8209;03&#8209;23 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | C++ | 3 ms<br>`0.42%` | 9.4 MB<br>`100.00%` |
+| 2024&#8209;03&#8209;23 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | C++ | 31 ms<br>`5.08%` | 22.4 MB<br>`99.97%` |
+| 2024&#8209;03&#8209;22 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | C++ | 173 ms<br>`5.13%` | 130.7 MB<br>`18.01%` |
+| 2023&#8209;03&#8209;21 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | C++ | 11 ms<br>`1.56%` | 15.7 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;21 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | C++ | 12 ms<br>`0.53%` | 23.1 MB<br>`8.45%` |
+| 2023&#8209;03&#8209;13 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | C++ | 0 ms<br>`100.00%` | 6.1 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;13 | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | C++ | 0 ms<br>`100.00%` | 5.9 MB<br>`100.00%` |
+| 2023&#8209;02&#8209;16 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | Python | 26 ms<br>`0.77%` | 13.9 MB<br>`100.00%` |
+| 2023&#8209;02&#8209;15 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | C++ | 51 ms<br>`6.98%` | 71.5 MB<br>`99.95%` |

@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**2** problems · updated `2026-09-04 19:12 UTC`
+**2** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,5 +66,5 @@ Latest **2** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2026-08-20 | [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | Medium | C++ | 19 ms<br>`58.17%` | 44.6 MB<br>`11.30%` |
-| 2026-02-10 | [3719. Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | Medium | C++ | 151 ms<br>`89.04%` | 35.7 MB<br>`94.90%` |
+| 2026&#8209;08&#8209;20 | [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | Medium | C++ | 19 ms<br>`58.17%` | 44.6 MB<br>`11.30%` |
+| 2026&#8209;02&#8209;10 | [3719. Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | Medium | C++ | 151 ms<br>`89.04%` | 35.7 MB<br>`94.90%` |

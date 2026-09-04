@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**2** problems · updated `2026-09-04 19:12 UTC`
+**2** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,5 +66,5 @@ Latest **2** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2025-04-27 | [3529. Count Cells in Overlapping Horizontal and Vertical Substrings](https://leetcode.com/problems/count-cells-in-overlapping-horizontal-and-vertical-substrings/) | Medium | C++ | 2256 ms<br>`5.71%` | 63.1 MB<br>`95.71%` |
-| 2023-10-04 | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | C++ | 113 ms<br>`7.27%` | 53.5 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;27 | [3529. Count Cells in Overlapping Horizontal and Vertical Substrings](https://leetcode.com/problems/count-cells-in-overlapping-horizontal-and-vertical-substrings/) | Medium | C++ | 2256 ms<br>`5.71%` | 63.1 MB<br>`95.71%` |
+| 2023&#8209;10&#8209;04 | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | C++ | 113 ms<br>`7.27%` | 53.5 MB<br>`100.00%` |

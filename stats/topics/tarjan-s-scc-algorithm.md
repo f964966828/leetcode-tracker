@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**1** problems · updated `2026-09-04 19:12 UTC`
+**1** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,4 +66,4 @@ Latest **1** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2023-03-26 | [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | Hard | C++ | 164 ms<br>`35.56%` | 90.2 MB<br>`99.93%` |
+| 2023&#8209;03&#8209;26 | [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | Hard | C++ | 164 ms<br>`35.56%` | 90.2 MB<br>`99.93%` |

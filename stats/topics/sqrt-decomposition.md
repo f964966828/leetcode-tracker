@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**1** problems · updated `2026-09-04 19:12 UTC`
+**1** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,4 +66,4 @@ Latest **1** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2026-08-20 | [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | Medium | C++ | 19 ms<br>`58.17%` | 44.6 MB<br>`11.30%` |
+| 2026&#8209;08&#8209;20 | [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | Medium | C++ | 19 ms<br>`58.17%` | 44.6 MB<br>`11.30%` |

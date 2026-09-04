@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**1** problems · updated `2026-09-04 19:12 UTC`
+**1** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,4 +66,4 @@ Latest **1** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2025-04-22 | [2338. Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | Hard | C++ | 10 ms<br>`75.00%` | 10.3 MB<br>`76.47%` |
+| 2025&#8209;04&#8209;22 | [2338. Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | Hard | C++ | 10 ms<br>`75.00%` | 10.3 MB<br>`76.47%` |

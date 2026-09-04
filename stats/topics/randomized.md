@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**2** problems · updated `2026-09-04 19:12 UTC`
+**2** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,5 +66,5 @@ Latest **2** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2025-04-24 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | C++ | 31 ms<br>`93.33%` | 113.3 MB<br>`28.69%` |
-| 2023-03-10 | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | Medium | C++ | 28 ms<br>`5.25%` | 16.7 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;24 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | C++ | 31 ms<br>`93.33%` | 113.3 MB<br>`28.69%` |
+| 2023&#8209;03&#8209;10 | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | Medium | C++ | 28 ms<br>`5.25%` | 16.7 MB<br>`100.00%` |

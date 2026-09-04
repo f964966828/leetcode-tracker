@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**17** problems · updated `2026-09-04 19:12 UTC`
+**17** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,20 +66,20 @@ Latest **17** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2025-10-11 | [3710. Maximum Partition Factor](https://leetcode.com/problems/maximum-partition-factor/) | Hard | C++ | 1245 ms<br>`35.15%` | 336.4 MB<br>`37.63%` |
-| 2025-10-06 | [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | C++ | 34 ms<br>`7.85%` | 17.1 MB<br>`10.48%` |
-| 2025-10-03 | [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | Medium | C++ | 45 ms<br>`32.04%` | 58.5 MB<br>`26.21%` |
-| 2025-09-27 | [3695. Maximize Alternating Sum Using Swaps](https://leetcode.com/problems/maximize-alternating-sum-using-swaps/) | Hard | C++ | 294 ms<br>`56.92%` | 341.9 MB<br>`32.45%` |
-| 2025-06-05 | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | Medium | C++ | 2 ms<br>`46.62%` | 9 MB<br>`53.92%` |
-| 2025-04-27 | [3532. Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | Medium | C++ | 482 ms<br>`5.06%` | 327.8 MB<br>`5.23%` |
-| 2025-04-20 | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | C++ | 2 ms<br>`22.06%` | 12 MB<br>`60.01%` |
-| 2025-04-20 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | C++ | 2 ms<br>`41.04%` | 19.3 MB<br>`92.38%` |
-| 2025-04-11 | [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | C++ | 3 ms<br>`63.11%` | 18.7 MB<br>`22.04%` |
-| 2024-04-21 | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | C++ | 469 ms<br>`17.31%` | 202.6 MB<br>`99.88%` |
-| 2024-04-19 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | C++ | 28 ms<br>`47.94%` | 16.8 MB<br>`60.84%` |
-| 2023-04-07 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | C++ | 152 ms<br>`5.01%` | 10 MB<br>`100.00%` |
-| 2023-04-07 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | C++ | 87 ms<br>`6.98%` | 27.7 MB<br>`99.98%` |
-| 2023-03-25 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | C++ | 647 ms<br>`5.00%` | 207.1 MB<br>`14.30%` |
-| 2023-03-23 | [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium | C++ | 166 ms<br>`5.53%` | 56.3 MB<br>`12.39%` |
-| 2023-03-22 | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | C++ | 578 ms<br>`5.00%` | 146.9 MB<br>`45.12%` |
-| 2023-03-09 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | C++ | 25 ms<br>`5.15%` | 24.1 MB<br>`100.00%` |
+| 2025&#8209;10&#8209;11 | [3710. Maximum Partition Factor](https://leetcode.com/problems/maximum-partition-factor/) | Hard | C++ | 1245 ms<br>`35.15%` | 336.4 MB<br>`37.63%` |
+| 2025&#8209;10&#8209;06 | [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | C++ | 34 ms<br>`7.85%` | 17.1 MB<br>`10.48%` |
+| 2025&#8209;10&#8209;03 | [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | Medium | C++ | 45 ms<br>`32.04%` | 58.5 MB<br>`26.21%` |
+| 2025&#8209;09&#8209;27 | [3695. Maximize Alternating Sum Using Swaps](https://leetcode.com/problems/maximize-alternating-sum-using-swaps/) | Hard | C++ | 294 ms<br>`56.92%` | 341.9 MB<br>`32.45%` |
+| 2025&#8209;06&#8209;05 | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | Medium | C++ | 2 ms<br>`46.62%` | 9 MB<br>`53.92%` |
+| 2025&#8209;04&#8209;27 | [3532. Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | Medium | C++ | 482 ms<br>`5.06%` | 327.8 MB<br>`5.23%` |
+| 2025&#8209;04&#8209;20 | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | C++ | 2 ms<br>`22.06%` | 12 MB<br>`60.01%` |
+| 2025&#8209;04&#8209;20 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | C++ | 2 ms<br>`41.04%` | 19.3 MB<br>`92.38%` |
+| 2025&#8209;04&#8209;11 | [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | C++ | 3 ms<br>`63.11%` | 18.7 MB<br>`22.04%` |
+| 2024&#8209;04&#8209;21 | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | C++ | 469 ms<br>`17.31%` | 202.6 MB<br>`99.88%` |
+| 2024&#8209;04&#8209;19 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | C++ | 28 ms<br>`47.94%` | 16.8 MB<br>`60.84%` |
+| 2023&#8209;04&#8209;07 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | C++ | 152 ms<br>`5.01%` | 10 MB<br>`100.00%` |
+| 2023&#8209;04&#8209;07 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | C++ | 87 ms<br>`6.98%` | 27.7 MB<br>`99.98%` |
+| 2023&#8209;03&#8209;25 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | C++ | 647 ms<br>`5.00%` | 207.1 MB<br>`14.30%` |
+| 2023&#8209;03&#8209;23 | [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium | C++ | 166 ms<br>`5.53%` | 56.3 MB<br>`12.39%` |
+| 2023&#8209;03&#8209;22 | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | C++ | 578 ms<br>`5.00%` | 146.9 MB<br>`45.12%` |
+| 2023&#8209;03&#8209;09 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | C++ | 25 ms<br>`5.15%` | 24.1 MB<br>`100.00%` |

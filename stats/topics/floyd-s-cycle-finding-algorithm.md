@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**4** problems · updated `2026-09-04 19:12 UTC`
+**4** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,7 +66,7 @@ Latest **4** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2024-03-24 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | C++ | 216 ms<br>`5.28%` | 88.1 MB<br>`9.66%` |
-| 2023-03-21 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | C++ | 11 ms<br>`42.93%` | 8.2 MB<br>`100.00%` |
-| 2023-03-10 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Easy | C++ | 0 ms<br>`100.00%` | 5.9 MB<br>`100.00%` |
-| 2023-03-09 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | C++ | 8 ms<br>`48.92%` | 7.6 MB<br>`100.00%` |
+| 2024&#8209;03&#8209;24 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | C++ | 216 ms<br>`5.28%` | 88.1 MB<br>`9.66%` |
+| 2023&#8209;03&#8209;21 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | C++ | 11 ms<br>`42.93%` | 8.2 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;10 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Easy | C++ | 0 ms<br>`100.00%` | 5.9 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;09 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | C++ | 8 ms<br>`48.92%` | 7.6 MB<br>`100.00%` |

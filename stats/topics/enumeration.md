@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**17** problems · updated `2026-09-04 19:12 UTC`
+**17** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,20 +66,20 @@ Latest **17** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2026-06-04 | [3751. Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | Medium | C++ | 50 ms<br>`45.88%` | 9.3 MB<br>`72.51%` |
-| 2026-05-23 | [3937. Minimum Operations to Make Array Modulo Alternating I](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/) | Medium | C++ | 7 ms<br>`79.04%` | 25.4 MB<br>`15.30%` |
-| 2026-03-25 | [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | Medium | C++ | 12 ms<br>`34.01%` | 130.2 MB<br>`100.00%` |
-| 2025-10-12 | [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | C++ | 3030 ms<br>`5.07%` | 498.4 MB<br>`5.06%` |
-| 2025-09-05 | [2749. Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | Medium | C++ | 0 ms<br>`100.00%` | 8.2 MB<br>`42.26%` |
-| 2025-09-03 | [3027. Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | Hard | C++ | 221 ms<br>`15.38%` | 47.6 MB<br>`5.77%` |
-| 2025-09-02 | [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | Medium | C++ | 19 ms<br>`25.00%` | 32.7 MB<br>`28.24%` |
-| 2025-06-04 | [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | Medium | C++ | 9 ms<br>`91.91%` | 12.9 MB<br>`76.28%` |
-| 2025-06-01 | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/) | Medium | C++ | 14 ms<br>`49.47%` | 8.9 MB<br>`83.04%` |
-| 2025-05-12 | [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | C++ | 0 ms<br>`100.00%` | 12.5 MB<br>`82.00%` |
-| 2025-05-11 | [3548. Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | Hard | C++ | 826 ms<br>`55.46%` | 400.9 MB<br>`37.86%` |
-| 2025-04-14 | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Easy | C++ | 0 ms<br>`100.00%` | 11.2 MB<br>`7.75%` |
-| 2025-04-11 | [2843.   Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | Easy | C++ | 77 ms<br>`18.11%` | 10.5 MB<br>`8.76%` |
-| 2024-10-18 | [2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | Medium | C++ | 7 ms<br>`87.67%` | 10.1 MB<br>`100.00%` |
-| 2024-03-30 | [3091. Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium | C++ | 0 ms<br>`100.00%` | 7.3 MB<br>`100.00%` |
-| 2024-03-23 | [204. Count Primes](https://leetcode.com/problems/count-primes/) | Medium | C++ | 658 ms<br>`12.86%` | 11.5 MB<br>`99.23%` |
-| 2023-04-01 | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | Easy | C++ | 9 ms<br>`0.00%` | 21.8 MB<br>`100.00%` |
+| 2026&#8209;06&#8209;04 | [3751. Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | Medium | C++ | 50 ms<br>`45.88%` | 9.3 MB<br>`72.51%` |
+| 2026&#8209;05&#8209;23 | [3937. Minimum Operations to Make Array Modulo Alternating I](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/) | Medium | C++ | 7 ms<br>`79.04%` | 25.4 MB<br>`15.30%` |
+| 2026&#8209;03&#8209;25 | [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | Medium | C++ | 12 ms<br>`34.01%` | 130.2 MB<br>`100.00%` |
+| 2025&#8209;10&#8209;12 | [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | C++ | 3030 ms<br>`5.07%` | 498.4 MB<br>`5.06%` |
+| 2025&#8209;09&#8209;05 | [2749. Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | Medium | C++ | 0 ms<br>`100.00%` | 8.2 MB<br>`42.26%` |
+| 2025&#8209;09&#8209;03 | [3027. Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | Hard | C++ | 221 ms<br>`15.38%` | 47.6 MB<br>`5.77%` |
+| 2025&#8209;09&#8209;02 | [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | Medium | C++ | 19 ms<br>`25.00%` | 32.7 MB<br>`28.24%` |
+| 2025&#8209;06&#8209;04 | [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | Medium | C++ | 9 ms<br>`91.91%` | 12.9 MB<br>`76.28%` |
+| 2025&#8209;06&#8209;01 | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/) | Medium | C++ | 14 ms<br>`49.47%` | 8.9 MB<br>`83.04%` |
+| 2025&#8209;05&#8209;12 | [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | C++ | 0 ms<br>`100.00%` | 12.5 MB<br>`82.00%` |
+| 2025&#8209;05&#8209;11 | [3548. Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | Hard | C++ | 826 ms<br>`55.46%` | 400.9 MB<br>`37.86%` |
+| 2025&#8209;04&#8209;14 | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Easy | C++ | 0 ms<br>`100.00%` | 11.2 MB<br>`7.75%` |
+| 2025&#8209;04&#8209;11 | [2843.   Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | Easy | C++ | 77 ms<br>`18.11%` | 10.5 MB<br>`8.76%` |
+| 2024&#8209;10&#8209;18 | [2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | Medium | C++ | 7 ms<br>`87.67%` | 10.1 MB<br>`100.00%` |
+| 2024&#8209;03&#8209;30 | [3091. Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium | C++ | 0 ms<br>`100.00%` | 7.3 MB<br>`100.00%` |
+| 2024&#8209;03&#8209;23 | [204. Count Primes](https://leetcode.com/problems/count-primes/) | Medium | C++ | 658 ms<br>`12.86%` | 11.5 MB<br>`99.23%` |
+| 2023&#8209;04&#8209;01 | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | Easy | C++ | 9 ms<br>`0.00%` | 21.8 MB<br>`100.00%` |

@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**18** problems · updated `2026-09-04 19:12 UTC`
+**18** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,21 +66,21 @@ Latest **18** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2025-08-31 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | C++ | 46 ms<br>`97.76%` | 8.7 MB<br>`97.42%` |
-| 2025-04-23 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | Python | 3 ms<br>`19.31%` | 18 MB<br>`100.00%` |
-| 2025-04-23 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Python | 0 ms<br>`100.00%` | 17.7 MB<br>`100.00%` |
-| 2024-10-22 | [2664. The Knight’s Tour](https://leetcode.com/problems/the-knights-tour/) | Medium | C++ | 71 ms<br>`85.71%` | 7.7 MB<br>`100.00%` |
-| 2024-10-21 | [1593. Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | Medium | Python | 1706 ms<br>`5.01%` | 29.9 MB<br>`8.46%` |
-| 2024-10-18 | [2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | Medium | C++ | 7 ms<br>`87.67%` | 10.1 MB<br>`100.00%` |
-| 2024-04-17 | [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | Medium | C++ | 10 ms<br>`6.63%` | 20.4 MB<br>`100.00%` |
-| 2024-04-03 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | C++ | 375 ms<br>`39.57%` | 10.8 MB<br>`49.28%` |
-| 2024-03-24 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Medium | C++ | 8 ms<br>`27.27%` | 18.8 MB<br>`99.98%` |
-| 2023-03-19 | [2597. The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/) | Medium | C++ | 801 ms<br>`28.10%` | 34 MB<br>`100.00%` |
-| 2023-03-13 | [77. Combinations](https://leetcode.com/problems/combinations/) | Medium | C++ | 7 ms<br>`100.00%` | 9.9 MB<br>`100.00%` |
-| 2023-03-13 | [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | Medium | C++ | 9 ms<br>`5.58%` | 10.5 MB<br>`100.00%` |
-| 2023-03-13 | [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | C++ | 0 ms<br>`100.00%` | 7.7 MB<br>`100.00%` |
-| 2023-02-28 | [89. Gray Code](https://leetcode.com/problems/gray-code/) | Medium | C++ | 15 ms<br>`5.23%` | 13.6 MB<br>`99.98%` |
-| 2023-02-22 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | C++ | 37 ms<br>`12.78%` | 15.4 MB<br>`30.14%` |
-| 2023-02-17 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | C++ | 0 ms<br>`100.00%` | 6.1 MB<br>`100.00%` |
-| 2023-02-17 | [51. N-Queens](https://leetcode.com/problems/n-queens/) | Hard | C++ | 7 ms<br>`16.31%` | 8.4 MB<br>`100.00%` |
-| 2023-02-16 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | C++ | 14 ms<br>`6.05%` | 13 MB<br>`82.22%` |
+| 2025&#8209;08&#8209;31 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | C++ | 46 ms<br>`97.76%` | 8.7 MB<br>`97.42%` |
+| 2025&#8209;04&#8209;23 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | Python | 3 ms<br>`19.31%` | 18 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;23 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Python | 0 ms<br>`100.00%` | 17.7 MB<br>`100.00%` |
+| 2024&#8209;10&#8209;22 | [2664. The Knight’s Tour](https://leetcode.com/problems/the-knights-tour/) | Medium | C++ | 71 ms<br>`85.71%` | 7.7 MB<br>`100.00%` |
+| 2024&#8209;10&#8209;21 | [1593. Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | Medium | Python | 1706 ms<br>`5.01%` | 29.9 MB<br>`8.46%` |
+| 2024&#8209;10&#8209;18 | [2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | Medium | C++ | 7 ms<br>`87.67%` | 10.1 MB<br>`100.00%` |
+| 2024&#8209;04&#8209;17 | [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | Medium | C++ | 10 ms<br>`6.63%` | 20.4 MB<br>`100.00%` |
+| 2024&#8209;04&#8209;03 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | C++ | 375 ms<br>`39.57%` | 10.8 MB<br>`49.28%` |
+| 2024&#8209;03&#8209;24 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Medium | C++ | 8 ms<br>`27.27%` | 18.8 MB<br>`99.98%` |
+| 2023&#8209;03&#8209;19 | [2597. The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/) | Medium | C++ | 801 ms<br>`28.10%` | 34 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;13 | [77. Combinations](https://leetcode.com/problems/combinations/) | Medium | C++ | 7 ms<br>`100.00%` | 9.9 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;13 | [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | Medium | C++ | 9 ms<br>`5.58%` | 10.5 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;13 | [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | C++ | 0 ms<br>`100.00%` | 7.7 MB<br>`100.00%` |
+| 2023&#8209;02&#8209;28 | [89. Gray Code](https://leetcode.com/problems/gray-code/) | Medium | C++ | 15 ms<br>`5.23%` | 13.6 MB<br>`99.98%` |
+| 2023&#8209;02&#8209;22 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | C++ | 37 ms<br>`12.78%` | 15.4 MB<br>`30.14%` |
+| 2023&#8209;02&#8209;17 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | C++ | 0 ms<br>`100.00%` | 6.1 MB<br>`100.00%` |
+| 2023&#8209;02&#8209;17 | [51. N-Queens](https://leetcode.com/problems/n-queens/) | Hard | C++ | 7 ms<br>`16.31%` | 8.4 MB<br>`100.00%` |
+| 2023&#8209;02&#8209;16 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | C++ | 14 ms<br>`6.05%` | 13 MB<br>`82.22%` |

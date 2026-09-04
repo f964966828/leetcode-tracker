@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**2** problems · updated `2026-09-04 19:12 UTC`
+**2** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,5 +66,5 @@ Latest **2** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2025-04-19 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | C++ | 11 ms<br>`100.00%` | 18.7 MB<br>`100.00%` |
-| 2023-03-27 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | C++ | 38 ms<br>`7.26%` | 23.2 MB<br>`99.46%` |
+| 2025&#8209;04&#8209;19 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | C++ | 11 ms<br>`100.00%` | 18.7 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;27 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | C++ | 38 ms<br>`7.26%` | 23.2 MB<br>`99.46%` |

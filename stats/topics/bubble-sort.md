@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**1** problems · updated `2026-09-04 19:12 UTC`
+**1** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,4 +66,4 @@ Latest **1** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2025-05-17 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | C++ | 0 ms<br>`100.00%` | 11.7 MB<br>`11.44%` |
+| 2025&#8209;05&#8209;17 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | C++ | 0 ms<br>`100.00%` | 11.7 MB<br>`11.44%` |

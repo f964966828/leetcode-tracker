@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**4** problems · updated `2026-09-04 19:12 UTC`
+**4** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,7 +66,7 @@ Latest **4** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2024-04-07 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | C++ | 3 ms<br>`9.38%` | 7.2 MB<br>`100.00%` |
-| 2024-04-04 | [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | C++ | 4 ms<br>`0.11%` | 8.1 MB<br>`99.14%` |
-| 2023-04-10 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | C++ | 0 ms<br>`100.00%` | 6.3 MB<br>`100.00%` |
-| 2023-02-16 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | C++ | 14 ms<br>`6.05%` | 13 MB<br>`82.22%` |
+| 2024&#8209;04&#8209;07 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | C++ | 3 ms<br>`9.38%` | 7.2 MB<br>`100.00%` |
+| 2024&#8209;04&#8209;04 | [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | C++ | 4 ms<br>`0.11%` | 8.1 MB<br>`99.14%` |
+| 2023&#8209;04&#8209;10 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | C++ | 0 ms<br>`100.00%` | 6.3 MB<br>`100.00%` |
+| 2023&#8209;02&#8209;16 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | C++ | 14 ms<br>`6.05%` | 13 MB<br>`82.22%` |

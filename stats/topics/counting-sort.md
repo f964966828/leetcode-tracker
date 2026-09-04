@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**2** problems · updated `2026-09-04 19:12 UTC`
+**2** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,5 +66,5 @@ Latest **2** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2025-04-24 | [274. H-Index](https://leetcode.com/problems/h-index/) | Medium | C++ | 0 ms<br>`100.00%` | 12.3 MB<br>`35.12%` |
-| 2023-03-01 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | C++ | 123 ms<br>`68.89%` | 61.3 MB<br>`100.00%` |
+| 2025&#8209;04&#8209;24 | [274. H-Index](https://leetcode.com/problems/h-index/) | Medium | C++ | 0 ms<br>`100.00%` | 12.3 MB<br>`35.12%` |
+| 2023&#8209;03&#8209;01 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | C++ | 123 ms<br>`68.89%` | 61.3 MB<br>`100.00%` |

@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**1** problems · updated `2026-09-04 19:12 UTC`
+**1** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,4 +66,4 @@ Latest **1** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2023-02-23 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | C++ | 998 ms<br>`5.17%` | 191.6 MB<br>`5.71%` |
+| 2023&#8209;02&#8209;23 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | C++ | 998 ms<br>`5.17%` | 191.6 MB<br>`5.71%` |

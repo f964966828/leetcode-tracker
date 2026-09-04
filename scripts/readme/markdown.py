@@ -366,9 +366,12 @@ def format_date(raw: str | None) -> str:
     if not raw:
         return "-"
     try:
-        return datetime.fromisoformat(raw.replace("Z", "+00:00")).strftime("%Y-%m-%d")
+        parsed = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+        text = parsed.strftime("%Y-%m-%d")
     except ValueError:
-        return raw[:10]
+        text = raw[:10]
+    # Keep YYYY-MM-DD on one line; GitHub tables wrap at ASCII hyphens.
+    return text.replace("-", "&#8209;")
 
 
 def activity_row(problem: dict) -> str:

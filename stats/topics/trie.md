@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**11** problems · updated `2026-09-04 19:12 UTC`
+**11** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,14 +66,14 @@ Latest **11** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2026-05-21 | [3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Medium | C++ | 374 ms<br>`18.26%` | 156.5 MB<br>`52.60%` |
-| 2025-06-09 | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | Hard | C++ | 0 ms<br>`100.00%` | 8.1 MB<br>`2.40%` |
-| 2025-06-08 | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | Medium | C++ | 0 ms<br>`100.00%` | 14.2 MB<br>`46.29%` |
-| 2025-05-04 | [616. Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | Medium | C++ | 7 ms<br>`65.58%` | 13.9 MB<br>`59.74%` |
-| 2025-04-24 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | C++ | 15 ms<br>`86.33%` | 29.9 MB<br>`99.66%` |
-| 2025-04-24 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | Medium | C++ | 31 ms<br>`64.68%` | 44 MB<br>`62.90%` |
-| 2024-10-20 | [648. Replace Words](https://leetcode.com/problems/replace-words/) | Medium | Python | 136 ms<br>`24.51%` | 26.7 MB<br>`100.00%` |
-| 2023-10-01 | [1804. Implement Trie II (Prefix Tree)](https://leetcode.com/problems/implement-trie-ii-prefix-tree/) | Medium | C++ | 158 ms<br>`5.26%` | 60.6 MB<br>`100.00%` |
-| 2023-03-19 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium | C++ | 1831 ms<br>`5.01%` | 628.4 MB<br>`27.78%` |
-| 2023-03-17 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | C++ | 13 ms<br>`5.43%` | 12.6 MB<br>`100.00%` |
-| 2023-02-19 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | C++ | 10 ms<br>`3.73%` | 15.4 MB<br>`5.08%` |
+| 2026&#8209;05&#8209;21 | [3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Medium | C++ | 374 ms<br>`18.26%` | 156.5 MB<br>`52.60%` |
+| 2025&#8209;06&#8209;09 | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | Hard | C++ | 0 ms<br>`100.00%` | 8.1 MB<br>`2.40%` |
+| 2025&#8209;06&#8209;08 | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | Medium | C++ | 0 ms<br>`100.00%` | 14.2 MB<br>`46.29%` |
+| 2025&#8209;05&#8209;04 | [616. Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | Medium | C++ | 7 ms<br>`65.58%` | 13.9 MB<br>`59.74%` |
+| 2025&#8209;04&#8209;24 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | C++ | 15 ms<br>`86.33%` | 29.9 MB<br>`99.66%` |
+| 2025&#8209;04&#8209;24 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | Medium | C++ | 31 ms<br>`64.68%` | 44 MB<br>`62.90%` |
+| 2024&#8209;10&#8209;20 | [648. Replace Words](https://leetcode.com/problems/replace-words/) | Medium | Python | 136 ms<br>`24.51%` | 26.7 MB<br>`100.00%` |
+| 2023&#8209;10&#8209;01 | [1804. Implement Trie II (Prefix Tree)](https://leetcode.com/problems/implement-trie-ii-prefix-tree/) | Medium | C++ | 158 ms<br>`5.26%` | 60.6 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;19 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium | C++ | 1831 ms<br>`5.01%` | 628.4 MB<br>`27.78%` |
+| 2023&#8209;03&#8209;17 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | C++ | 13 ms<br>`5.43%` | 12.6 MB<br>`100.00%` |
+| 2023&#8209;02&#8209;19 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | C++ | 10 ms<br>`3.73%` | 15.4 MB<br>`5.08%` |

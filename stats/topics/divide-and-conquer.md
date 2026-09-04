@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**16** problems · updated `2026-09-04 19:12 UTC`
+**16** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,19 +66,19 @@ Latest **16** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2026-02-10 | [3719. Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | Medium | C++ | 151 ms<br>`89.04%` | 35.7 MB<br>`94.90%` |
-| 2026-02-09 | [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium | C++ | 22 ms<br>`20.32%` | 65.6 MB<br>`66.43%` |
-| 2025-05-04 | [3537. Fill a Special Grid](https://leetcode.com/problems/fill-a-special-grid/) | Medium | C++ | 8 ms<br>`75.76%` | 69.1 MB<br>`22.22%` |
-| 2025-04-24 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | C++ | 0 ms<br>`100.00%` | 28.1 MB<br>`95.18%` |
-| 2025-04-21 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | C++ | 38 ms<br>`47.95%` | 64.7 MB<br>`100.00%` |
-| 2024-03-23 | [148. Sort List](https://leetcode.com/problems/sort-list/) | Medium | C++ | 124 ms<br>`5.01%` | 58.8 MB<br>`49.20%` |
-| 2023-03-16 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | C++ | 38 ms<br>`5.14%` | 26 MB<br>`99.95%` |
-| 2023-03-15 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | C++ | 144 ms<br>`4.53%` | 73.1 MB<br>`14.90%` |
-| 2023-03-13 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | C++ | 6 ms<br>`5.20%` | 6 MB<br>`100.00%` |
-| 2023-03-13 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | C++ | 0 ms<br>`100.00%` | 5.9 MB<br>`100.00%` |
-| 2023-03-12 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | C++ | 30 ms<br>`15.41%` | 13.9 MB<br>`99.99%` |
-| 2023-03-11 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Medium | C++ | 435 ms<br>`5.92%` | 345.2 MB<br>`5.43%` |
-| 2023-03-01 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | C++ | 123 ms<br>`68.89%` | 61.3 MB<br>`100.00%` |
-| 2023-02-27 | [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | Medium | C++ | 31 ms<br>`5.31%` | 23.5 MB<br>`15.71%` |
-| 2023-02-17 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | C++ | 23 ms<br>`8.42%` | 14.2 MB<br>`100.00%` |
-| 2023-02-15 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | C++ | 66 ms<br>`5.81%` | 90.2 MB<br>`99.98%` |
+| 2026&#8209;02&#8209;10 | [3719. Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | Medium | C++ | 151 ms<br>`89.04%` | 35.7 MB<br>`94.90%` |
+| 2026&#8209;02&#8209;09 | [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium | C++ | 22 ms<br>`20.32%` | 65.6 MB<br>`66.43%` |
+| 2025&#8209;05&#8209;04 | [3537. Fill a Special Grid](https://leetcode.com/problems/fill-a-special-grid/) | Medium | C++ | 8 ms<br>`75.76%` | 69.1 MB<br>`22.22%` |
+| 2025&#8209;04&#8209;24 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | C++ | 0 ms<br>`100.00%` | 28.1 MB<br>`95.18%` |
+| 2025&#8209;04&#8209;21 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | C++ | 38 ms<br>`47.95%` | 64.7 MB<br>`100.00%` |
+| 2024&#8209;03&#8209;23 | [148. Sort List](https://leetcode.com/problems/sort-list/) | Medium | C++ | 124 ms<br>`5.01%` | 58.8 MB<br>`49.20%` |
+| 2023&#8209;03&#8209;16 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | C++ | 38 ms<br>`5.14%` | 26 MB<br>`99.95%` |
+| 2023&#8209;03&#8209;15 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | C++ | 144 ms<br>`4.53%` | 73.1 MB<br>`14.90%` |
+| 2023&#8209;03&#8209;13 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | C++ | 6 ms<br>`5.20%` | 6 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;13 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | C++ | 0 ms<br>`100.00%` | 5.9 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;12 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | C++ | 30 ms<br>`15.41%` | 13.9 MB<br>`99.99%` |
+| 2023&#8209;03&#8209;11 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Medium | C++ | 435 ms<br>`5.92%` | 345.2 MB<br>`5.43%` |
+| 2023&#8209;03&#8209;01 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | C++ | 123 ms<br>`68.89%` | 61.3 MB<br>`100.00%` |
+| 2023&#8209;02&#8209;27 | [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | Medium | C++ | 31 ms<br>`5.31%` | 23.5 MB<br>`15.71%` |
+| 2023&#8209;02&#8209;17 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | C++ | 23 ms<br>`8.42%` | 14.2 MB<br>`100.00%` |
+| 2023&#8209;02&#8209;15 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | C++ | 66 ms<br>`5.81%` | 90.2 MB<br>`99.98%` |

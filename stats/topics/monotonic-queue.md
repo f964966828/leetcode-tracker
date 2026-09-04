@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**4** problems · updated `2026-09-04 19:12 UTC`
+**4** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,7 +66,7 @@ Latest **4** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2025-05-01 | [2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | Hard | C++ | 714 ms<br>`60.06%` | 286.3 MB<br>`39.93%` |
-| 2025-04-26 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Hard | C++ | 0 ms<br>`100.00%` | 94 MB<br>`36.87%` |
-| 2024-11-17 | [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | Hard | C++ | 50 ms<br>`9.43%` | 112.6 MB<br>`5.17%` |
-| 2023-02-23 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | C++ | 998 ms<br>`5.17%` | 191.6 MB<br>`5.71%` |
+| 2025&#8209;05&#8209;01 | [2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | Hard | C++ | 714 ms<br>`60.06%` | 286.3 MB<br>`39.93%` |
+| 2025&#8209;04&#8209;26 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Hard | C++ | 0 ms<br>`100.00%` | 94 MB<br>`36.87%` |
+| 2024&#8209;11&#8209;17 | [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | Hard | C++ | 50 ms<br>`9.43%` | 112.6 MB<br>`5.17%` |
+| 2023&#8209;02&#8209;23 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | C++ | 998 ms<br>`5.17%` | 191.6 MB<br>`5.71%` |

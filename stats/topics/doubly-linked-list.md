@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**1** problems · updated `2026-09-04 19:12 UTC`
+**1** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,4 +66,4 @@ Latest **1** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2023-03-18 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) | Medium | C++ | 140 ms<br>`5.05%` | 57.6 MB<br>`100.00%` |
+| 2023&#8209;03&#8209;18 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) | Medium | C++ | 140 ms<br>`5.05%` | 57.6 MB<br>`100.00%` |

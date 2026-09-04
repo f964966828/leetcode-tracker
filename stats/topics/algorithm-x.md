@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**3** problems · updated `2026-09-04 19:12 UTC`
+**3** problems · updated `2026-09-04 19:14 UTC`
 
 ## Stats
 
@@ -66,6 +66,6 @@ Latest **3** accepted submissions.
 
 | Date | Title | Difficulty | Lang | Runtime | Memory |
 | :--- | :--- | :---: | :---: | ---: | ---: |
-| 2025-08-31 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | C++ | 46 ms<br>`97.76%` | 8.7 MB<br>`97.42%` |
-| 2023-02-17 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | C++ | 0 ms<br>`100.00%` | 6.1 MB<br>`100.00%` |
-| 2023-02-17 | [51. N-Queens](https://leetcode.com/problems/n-queens/) | Hard | C++ | 7 ms<br>`16.31%` | 8.4 MB<br>`100.00%` |
+| 2025&#8209;08&#8209;31 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | C++ | 46 ms<br>`97.76%` | 8.7 MB<br>`97.42%` |
+| 2023&#8209;02&#8209;17 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | C++ | 0 ms<br>`100.00%` | 6.1 MB<br>`100.00%` |
+| 2023&#8209;02&#8209;17 | [51. N-Queens](https://leetcode.com/problems/n-queens/) | Hard | C++ | 7 ms<br>`16.31%` | 8.4 MB<br>`100.00%` |
