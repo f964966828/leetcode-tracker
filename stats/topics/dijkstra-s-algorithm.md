@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**3** problems · updated `2026-09-04 19:10 UTC`
+**3** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,8 +64,8 @@
 
 Latest **3** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2025-10-06 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | C++ | 34 ms<br>`7.85%` | 17.1 MB<br>`10.48%` |
-| 2025-04-26 | 499 | [The Maze III](https://leetcode.com/problems/the-maze-iii/) | Hard | C++ | 17 ms<br>`6.78%` | 20.2 MB<br>`5.08%` |
-| 2025-04-26 | 505 | [The Maze II](https://leetcode.com/problems/the-maze-ii/) | Medium | C++ | 3 ms<br>`85.22%` | 24.3 MB<br>`63.05%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2025-10-06 | [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | C++ | 34 ms<br>`7.85%` | 17.1 MB<br>`10.48%` |
+| 2025-04-26 | [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) | Hard | C++ | 17 ms<br>`6.78%` | 20.2 MB<br>`5.08%` |
+| 2025-04-26 | [505. The Maze II](https://leetcode.com/problems/the-maze-ii/) | Medium | C++ | 3 ms<br>`85.22%` | 24.3 MB<br>`63.05%` |

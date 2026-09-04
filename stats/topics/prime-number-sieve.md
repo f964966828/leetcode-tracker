@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**1** problems · updated `2026-09-04 19:10 UTC`
+**1** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,6 +64,6 @@
 
 Latest **1** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2024-03-23 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | C++ | 658 ms<br>`12.86%` | 11.5 MB<br>`99.23%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2024-03-23 | [204. Count Primes](https://leetcode.com/problems/count-primes/) | Medium | C++ | 658 ms<br>`12.86%` | 11.5 MB<br>`99.23%` |

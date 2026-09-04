@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**5** problems · updated `2026-09-04 19:10 UTC`
+**5** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,10 +64,10 @@
 
 Latest **5** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2026-08-17 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Medium | C++ | 12 ms<br>`17.70%` | 19.8 MB<br>`7.31%` |
-| 2026-08-17 | 1563 | [Stone Game V](https://leetcode.com/problems/stone-game-v/) | Hard | C++ | 407 ms<br>`57.19%` | 27.6 MB<br>`46.96%` |
-| 2025-09-12 | 3227 | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) | Medium | Python | 0 ms<br>`100.00%` | 18.2 MB<br>`100.00%` |
-| 2023-10-02 | 2038 | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium | Python | 205 ms<br>`9.43%` | 19.9 MB<br>`85.28%` |
-| 2023-03-05 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Easy | C++ | 0 ms<br>`100.00%` | 6 MB<br>`100.00%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2026-08-17 | [877. Stone Game](https://leetcode.com/problems/stone-game/) | Medium | C++ | 12 ms<br>`17.70%` | 19.8 MB<br>`7.31%` |
+| 2026-08-17 | [1563. Stone Game V](https://leetcode.com/problems/stone-game-v/) | Hard | C++ | 407 ms<br>`57.19%` | 27.6 MB<br>`46.96%` |
+| 2025-09-12 | [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) | Medium | Python | 0 ms<br>`100.00%` | 18.2 MB<br>`100.00%` |
+| 2023-10-02 | [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium | Python | 205 ms<br>`9.43%` | 19.9 MB<br>`85.28%` |
+| 2023-03-05 | [292. Nim Game](https://leetcode.com/problems/nim-game/) | Easy | C++ | 0 ms<br>`100.00%` | 6 MB<br>`100.00%` |

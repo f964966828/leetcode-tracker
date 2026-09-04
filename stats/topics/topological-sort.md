@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**4** problems · updated `2026-09-04 19:10 UTC`
+**4** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,9 +64,9 @@
 
 Latest **4** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2025-05-26 | 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | C++ | 401 ms<br>`39.45%` | 188.9 MB<br>`30.53%` |
-| 2024-04-23 | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | C++ | 1508 ms<br>`5.02%` | 436.1 MB<br>`5.04%` |
-| 2024-03-23 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | C++ | 18 ms<br>`7.53%` | 17.5 MB<br>`99.95%` |
-| 2023-03-26 | 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | Hard | C++ | 164 ms<br>`35.56%` | 90.2 MB<br>`99.93%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2025-05-26 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | C++ | 401 ms<br>`39.45%` | 188.9 MB<br>`30.53%` |
+| 2024-04-23 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | C++ | 1508 ms<br>`5.02%` | 436.1 MB<br>`5.04%` |
+| 2024-03-23 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | C++ | 18 ms<br>`7.53%` | 17.5 MB<br>`99.95%` |
+| 2023-03-26 | [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | Hard | C++ | 164 ms<br>`35.56%` | 90.2 MB<br>`99.93%` |

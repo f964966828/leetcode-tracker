@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**3** problems · updated `2026-09-04 19:10 UTC`
+**3** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,8 +64,8 @@
 
 Latest **3** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2025-09-28 | 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | Easy | C++ | 12 ms<br>`25.68%` | 25.6 MB<br>`79.00%` |
-| 2025-05-17 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | C++ | 0 ms<br>`100.00%` | 11.7 MB<br>`11.44%` |
-| 2025-05-04 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | Easy | C++ | 3 ms<br>`39.58%` | 15.9 MB<br>`79.28%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2025-09-28 | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | Easy | C++ | 12 ms<br>`25.68%` | 25.6 MB<br>`79.00%` |
+| 2025-05-17 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | C++ | 0 ms<br>`100.00%` | 11.7 MB<br>`11.44%` |
+| 2025-05-04 | [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | Easy | C++ | 3 ms<br>`39.58%` | 15.9 MB<br>`79.28%` |

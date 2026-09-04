@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**2** problems · updated `2026-09-04 19:10 UTC`
+**2** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,7 +64,7 @@
 
 Latest **2** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2025-04-22 | 2338 | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | Hard | C++ | 10 ms<br>`75.00%` | 10.3 MB<br>`76.47%` |
-| 2023-03-05 | 2584 | [Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/) | Hard | C++ | 512 ms<br>`26.86%` | 21.6 MB<br>`100.00%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2025-04-22 | [2338. Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | Hard | C++ | 10 ms<br>`75.00%` | 10.3 MB<br>`76.47%` |
+| 2023-03-05 | [2584. Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/) | Hard | C++ | 512 ms<br>`26.86%` | 21.6 MB<br>`100.00%` |

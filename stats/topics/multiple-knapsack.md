@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**1** problems · updated `2026-09-04 19:10 UTC`
+**1** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,6 +64,6 @@
 
 Latest **1** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2023-03-05 | 2585 | [Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/) | Hard | C++ | 280 ms<br>`5.27%` | 17 MB<br>`63.85%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2023-03-05 | [2585. Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/) | Hard | C++ | 280 ms<br>`5.27%` | 17 MB<br>`63.85%` |

@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**8** problems · updated `2026-09-04 19:10 UTC`
+**8** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,13 +64,13 @@
 
 Latest **8** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2025-09-21 | 1912 | [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | Hard | C++ | 333 ms<br>`34.71%` | 444.6 MB<br>`8.94%` |
-| 2025-09-20 | 3508 | [Implement Router](https://leetcode.com/problems/implement-router/) | Medium | C++ | 190 ms<br>`82.01%` | 415.1 MB<br>`99.28%` |
-| 2025-09-18 | 3408 | [Design Task Manager](https://leetcode.com/problems/design-task-manager/) | Medium | C++ | 209 ms<br>`78.45%` | 347.5 MB<br>`98.90%` |
-| 2025-09-17 | 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium | C++ | 164 ms<br>`34.81%` | 162.7 MB<br>`91.36%` |
-| 2025-04-21 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Medium | C++ | 33 ms<br>`14.17%` | 54.3 MB<br>`9.29%` |
-| 2024-03-30 | 3092 | [Most Frequent IDs](https://leetcode.com/problems/most-frequent-ids/) | Medium | C++ | 474 ms<br>`7.78%` | 157 MB<br>`100.00%` |
-| 2023-09-30 | 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | Medium | C++ | 71 ms<br>`6.97%` | 49.1 MB<br>`100.00%` |
-| 2023-02-24 | 1675 | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | Hard | C++ | 561 ms<br>`5.36%` | 56.8 MB<br>`99.49%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2025-09-21 | [1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | Hard | C++ | 333 ms<br>`34.71%` | 444.6 MB<br>`8.94%` |
+| 2025-09-20 | [3508. Implement Router](https://leetcode.com/problems/implement-router/) | Medium | C++ | 190 ms<br>`82.01%` | 415.1 MB<br>`99.28%` |
+| 2025-09-18 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/) | Medium | C++ | 209 ms<br>`78.45%` | 347.5 MB<br>`98.90%` |
+| 2025-09-17 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium | C++ | 164 ms<br>`34.81%` | 162.7 MB<br>`91.36%` |
+| 2025-04-21 | [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Medium | C++ | 33 ms<br>`14.17%` | 54.3 MB<br>`9.29%` |
+| 2024-03-30 | [3092. Most Frequent IDs](https://leetcode.com/problems/most-frequent-ids/) | Medium | C++ | 474 ms<br>`7.78%` | 157 MB<br>`100.00%` |
+| 2023-09-30 | [456. 132 Pattern](https://leetcode.com/problems/132-pattern/) | Medium | C++ | 71 ms<br>`6.97%` | 49.1 MB<br>`100.00%` |
+| 2023-02-24 | [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | Hard | C++ | 561 ms<br>`5.36%` | 56.8 MB<br>`99.49%` |

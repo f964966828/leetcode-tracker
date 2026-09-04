@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**1** problems · updated `2026-09-04 19:10 UTC`
+**1** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,6 +64,6 @@
 
 Latest **1** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2023-02-15 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | C++ | 3 ms<br>`20.09%` | 6.1 MB<br>`100.00%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2023-02-15 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | C++ | 3 ms<br>`20.09%` | 6.1 MB<br>`100.00%` |

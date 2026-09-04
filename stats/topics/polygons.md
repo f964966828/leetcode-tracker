@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**4** problems · updated `2026-09-04 19:10 UTC`
+**4** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,9 +64,9 @@
 
 Latest **4** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2025-09-29 | 1039 | [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | Medium | C++ | 5 ms<br>`10.47%` | 11.4 MB<br>`15.89%` |
-| 2025-09-28 | 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | Easy | C++ | 12 ms<br>`25.68%` | 25.6 MB<br>`79.00%` |
-| 2025-09-27 | 812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | Easy | C++ | 0 ms<br>`100.00%` | 10.6 MB<br>`7.20%` |
-| 2025-05-19 | 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | Easy | C++ | 0 ms<br>`100.00%` | 22.8 MB<br>`92.33%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2025-09-29 | [1039. Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | Medium | C++ | 5 ms<br>`10.47%` | 11.4 MB<br>`15.89%` |
+| 2025-09-28 | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | Easy | C++ | 12 ms<br>`25.68%` | 25.6 MB<br>`79.00%` |
+| 2025-09-27 | [812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | Easy | C++ | 0 ms<br>`100.00%` | 10.6 MB<br>`7.20%` |
+| 2025-05-19 | [3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | Easy | C++ | 0 ms<br>`100.00%` | 22.8 MB<br>`92.33%` |

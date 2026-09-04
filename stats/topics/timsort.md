@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**1** problems · updated `2026-09-04 19:10 UTC`
+**1** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,6 +64,6 @@
 
 Latest **1** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2023-04-03 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | C++ | 246 ms<br>`5.78%` | 70.4 MB<br>`5.29%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2023-04-03 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | C++ | 246 ms<br>`5.78%` | 70.4 MB<br>`5.29%` |

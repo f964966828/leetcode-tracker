@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**2** problems · updated `2026-09-04 19:10 UTC`
+**2** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,7 +64,7 @@
 
 Latest **2** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2025-04-19 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | C++ | 0 ms<br>`100.00%` | 115.7 MB<br>`67.97%` |
-| 2023-02-17 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | C++ | 7 ms<br>`74.79%` | 10.4 MB<br>`100.00%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2025-04-19 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | C++ | 0 ms<br>`100.00%` | 115.7 MB<br>`67.97%` |
+| 2023-02-17 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | C++ | 7 ms<br>`74.79%` | 10.4 MB<br>`100.00%` |

@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**64** problems · updated `2026-09-04 19:10 UTC`
+**64** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,69 +64,69 @@
 
 Latest **64** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2026-08-20 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | Medium | C++ | 19 ms<br>`58.17%` | 44.6 MB<br>`11.30%` |
-| 2026-08-13 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | Medium | C++ | 7 ms<br>`44.44%` | 19 MB<br>`83.33%` |
-| 2026-06-04 | 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/) | Medium | C++ | 4 ms<br>`61.92%` | 14.4 MB<br>`20.92%` |
-| 2026-05-23 | 3938 | [Maximum Path Intersection Sum in a Grid](https://leetcode.com/problems/maximum-path-intersection-sum-in-a-grid/) | Medium | C++ | 72 ms<br>`9.23%` | 185.7 MB<br>`5.00%` |
-| 2026-05-20 | 2061 | [Number of Spaces Cleaning Robot Cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/) | Medium | C++ | 65 ms<br>`26.67%` | 54 MB<br>`26.67%` |
-| 2026-03-25 | 3546 | [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | Medium | C++ | 12 ms<br>`34.01%` | 130.2 MB<br>`100.00%` |
-| 2025-10-06 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | C++ | 34 ms<br>`7.85%` | 17.1 MB<br>`10.48%` |
-| 2025-10-05 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | C++ | 4 ms<br>`76.47%` | 22.2 MB<br>`76.03%` |
-| 2025-10-03 | 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard | C++ | 34 ms<br>`43.03%` | 22.7 MB<br>`32.34%` |
-| 2025-09-19 | 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | Medium | Python | 57 ms<br>`96.77%` | 23.5 MB<br>`100.00%` |
-| 2025-08-31 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | C++ | 46 ms<br>`97.76%` | 8.7 MB<br>`97.42%` |
-| 2025-08-30 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | C++ | 0 ms<br>`100.00%` | 22.7 MB<br>`57.13%` |
-| 2025-08-28 | 3446 | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | Medium | C++ | 4 ms<br>`84.97%` | 43.3 MB<br>`86.76%` |
-| 2025-08-27 | 3459 | [Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | Hard | C++ | 231 ms<br>`91.38%` | 111.8 MB<br>`52.16%` |
-| 2025-08-25 | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | Medium | C++ | 0 ms<br>`100.00%` | 22.8 MB<br>`70.10%` |
-| 2025-05-31 | 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | Medium | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`67.49%` |
-| 2025-05-21 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | C++ | 0 ms<br>`100.00%` | 18.7 MB<br>`99.98%` |
-| 2025-05-11 | 3548 | [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | Hard | C++ | 826 ms<br>`55.46%` | 400.9 MB<br>`37.86%` |
-| 2025-05-08 | 3342 | [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | Medium | C++ | 777 ms<br>`30.12%` | 116.8 MB<br>`49.84%` |
-| 2025-05-07 | 3341 | [Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | Medium | C++ | 26 ms<br>`37.76%` | 31.1 MB<br>`25.92%` |
-| 2025-05-04 | 311 | [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | Medium | C++ | 0 ms<br>`100.00%` | 12.5 MB<br>`11.29%` |
-| 2025-05-04 | 531 | [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) | Medium | Python | 32 ms<br>`5.66%` | 22.9 MB<br>`100.00%` |
-| 2025-05-04 | 422 | [Valid Word Square](https://leetcode.com/problems/valid-word-square/) | Easy | Python | 18 ms<br>`65.88%` | 18.4 MB<br>`100.00%` |
-| 2025-05-04 | 1198 | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | Medium | C++ | 12 ms<br>`33.33%` | 31.3 MB<br>`25.56%` |
-| 2025-05-04 | 3537 | [Fill a Special Grid](https://leetcode.com/problems/fill-a-special-grid/) | Medium | C++ | 8 ms<br>`75.76%` | 69.1 MB<br>`22.22%` |
-| 2025-04-27 | 3529 | [Count Cells in Overlapping Horizontal and Vertical Substrings](https://leetcode.com/problems/count-cells-in-overlapping-horizontal-and-vertical-substrings/) | Medium | C++ | 2256 ms<br>`5.71%` | 63.1 MB<br>`95.71%` |
-| 2025-04-26 | 499 | [The Maze III](https://leetcode.com/problems/the-maze-iii/) | Hard | C++ | 17 ms<br>`6.78%` | 20.2 MB<br>`5.08%` |
-| 2025-04-26 | 505 | [The Maze II](https://leetcode.com/problems/the-maze-ii/) | Medium | C++ | 3 ms<br>`85.22%` | 24.3 MB<br>`63.05%` |
-| 2025-04-26 | 490 | [The Maze](https://leetcode.com/problems/the-maze/) | Medium | C++ | 0 ms<br>`100.00%` | 22.9 MB<br>`79.49%` |
-| 2025-04-23 | 302 | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | Hard | C++ | 8 ms<br>`13.11%` | 23.9 MB<br>`13.11%` |
-| 2025-04-20 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Medium | C++ | 139 ms<br>`5.55%` | 69.5 MB<br>`5.01%` |
-| 2025-04-20 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | C++ | 1 ms<br>`36.04%` | 17.2 MB<br>`28.15%` |
-| 2025-04-19 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | Python | 51 ms<br>`32.70%` | 22.1 MB<br>`99.98%` |
-| 2025-04-07 | 317 | [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/) | Hard | C++ | 470 ms<br>`46.48%` | 197.7 MB<br>`39.44%` |
-| 2024-10-29 | 2684 | [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | Medium | C++ | 15 ms<br>`58.58%` | 74.4 MB<br>`74.18%` |
-| 2024-10-27 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium | C++ | 1039 ms<br>`5.05%` | 26.5 MB<br>`100.00%` |
-| 2024-10-22 | 2664 | [The Knight’s Tour](https://leetcode.com/problems/the-knights-tour/) | Medium | C++ | 71 ms<br>`85.71%` | 7.7 MB<br>`100.00%` |
-| 2024-04-20 | 1992 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | Medium | C++ | 510 ms<br>`7.61%` | 106.4 MB<br>`31.99%` |
-| 2024-04-19 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | C++ | 28 ms<br>`47.94%` | 16.8 MB<br>`60.84%` |
-| 2024-04-18 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | C++ | 78 ms<br>`5.13%` | 104.4 MB<br>`25.27%` |
-| 2024-04-13 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Python | 1343 ms<br>`6.67%` | 24.6 MB<br>`50.77%` |
-| 2024-04-03 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | C++ | 375 ms<br>`39.57%` | 10.8 MB<br>`49.28%` |
-| 2023-04-15 | 2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | Easy | C++ | 28 ms<br>`6.07%` | 10.2 MB<br>`100.00%` |
-| 2023-04-09 | 2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | Easy | C++ | 129 ms<br>`5.06%` | 35.7 MB<br>`99.92%` |
-| 2023-04-07 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | C++ | 152 ms<br>`5.01%` | 10 MB<br>`100.00%` |
-| 2023-04-07 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | C++ | 87 ms<br>`6.98%` | 27.7 MB<br>`99.98%` |
-| 2023-03-31 | 1444 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | Hard | C++ | 23 ms<br>`8.59%` | 8.2 MB<br>`100.00%` |
-| 2023-03-27 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | C++ | 8 ms<br>`5.26%` | 10.2 MB<br>`100.00%` |
-| 2023-03-21 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | C++ | 0 ms<br>`100.00%` | 7 MB<br>`100.00%` |
-| 2023-03-19 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | C++ | 5 ms<br>`0.15%` | 9.3 MB<br>`100.00%` |
-| 2023-03-19 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | Easy | C++ | 17 ms<br>`1.93%` | 10.9 MB<br>`100.00%` |
-| 2023-03-19 | 2596 | [Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/) | Medium | C++ | 15 ms<br>`2.96%` | 28.1 MB<br>`100.00%` |
-| 2023-03-13 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | C++ | 10 ms<br>`1.87%` | 14 MB<br>`100.00%` |
-| 2023-03-13 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | C++ | 69 ms<br>`7.79%` | 31.2 MB<br>`99.98%` |
-| 2023-03-10 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | Easy | C++ | 26 ms<br>`0.43%` | 11.4 MB<br>`100.00%` |
-| 2023-03-10 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | C++ | 12 ms<br>`0.07%` | 8.1 MB<br>`100.00%` |
-| 2023-03-09 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | C++ | 25 ms<br>`5.15%` | 24.1 MB<br>`100.00%` |
-| 2023-03-08 | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | Medium | C++ | 42 ms<br>`5.12%` | 13.2 MB<br>`100.00%` |
-| 2023-03-03 | 1314 | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | Medium | C++ | 15 ms<br>`21.90%` | 9.6 MB<br>`100.00%` |
-| 2023-02-27 | 427 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | Medium | C++ | 31 ms<br>`5.31%` | 23.5 MB<br>`15.71%` |
-| 2023-02-23 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | C++ | 0 ms<br>`100.00%` | 6.5 MB<br>`100.00%` |
-| 2023-02-17 | 883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | Easy | C++ | 10 ms<br>`0.58%` | 9.4 MB<br>`100.00%` |
-| 2023-02-17 | 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | Medium | C++ | 80 ms<br>`5.17%` | 55.9 MB<br>`5.27%` |
-| 2023-02-16 | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | Medium | C++ | 29 ms<br>`3.20%` | 13.3 MB<br>`100.00%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2026-08-20 | [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | Medium | C++ | 19 ms<br>`58.17%` | 44.6 MB<br>`11.30%` |
+| 2026-08-13 | [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | Medium | C++ | 7 ms<br>`44.44%` | 19 MB<br>`83.33%` |
+| 2026-06-04 | [723. Candy Crush](https://leetcode.com/problems/candy-crush/) | Medium | C++ | 4 ms<br>`61.92%` | 14.4 MB<br>`20.92%` |
+| 2026-05-23 | [3938. Maximum Path Intersection Sum in a Grid](https://leetcode.com/problems/maximum-path-intersection-sum-in-a-grid/) | Medium | C++ | 72 ms<br>`9.23%` | 185.7 MB<br>`5.00%` |
+| 2026-05-20 | [2061. Number of Spaces Cleaning Robot Cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/) | Medium | C++ | 65 ms<br>`26.67%` | 54 MB<br>`26.67%` |
+| 2026-03-25 | [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | Medium | C++ | 12 ms<br>`34.01%` | 130.2 MB<br>`100.00%` |
+| 2025-10-06 | [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | C++ | 34 ms<br>`7.85%` | 17.1 MB<br>`10.48%` |
+| 2025-10-05 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | C++ | 4 ms<br>`76.47%` | 22.2 MB<br>`76.03%` |
+| 2025-10-03 | [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard | C++ | 34 ms<br>`43.03%` | 22.7 MB<br>`32.34%` |
+| 2025-09-19 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | Medium | Python | 57 ms<br>`96.77%` | 23.5 MB<br>`100.00%` |
+| 2025-08-31 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | C++ | 46 ms<br>`97.76%` | 8.7 MB<br>`97.42%` |
+| 2025-08-30 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | C++ | 0 ms<br>`100.00%` | 22.7 MB<br>`57.13%` |
+| 2025-08-28 | [3446. Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | Medium | C++ | 4 ms<br>`84.97%` | 43.3 MB<br>`86.76%` |
+| 2025-08-27 | [3459. Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | Hard | C++ | 231 ms<br>`91.38%` | 111.8 MB<br>`52.16%` |
+| 2025-08-25 | [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | Medium | C++ | 0 ms<br>`100.00%` | 22.8 MB<br>`70.10%` |
+| 2025-05-31 | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | Medium | C++ | 0 ms<br>`100.00%` | 16.9 MB<br>`67.49%` |
+| 2025-05-21 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | C++ | 0 ms<br>`100.00%` | 18.7 MB<br>`99.98%` |
+| 2025-05-11 | [3548. Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | Hard | C++ | 826 ms<br>`55.46%` | 400.9 MB<br>`37.86%` |
+| 2025-05-08 | [3342. Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | Medium | C++ | 777 ms<br>`30.12%` | 116.8 MB<br>`49.84%` |
+| 2025-05-07 | [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | Medium | C++ | 26 ms<br>`37.76%` | 31.1 MB<br>`25.92%` |
+| 2025-05-04 | [311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | Medium | C++ | 0 ms<br>`100.00%` | 12.5 MB<br>`11.29%` |
+| 2025-05-04 | [531. Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) | Medium | Python | 32 ms<br>`5.66%` | 22.9 MB<br>`100.00%` |
+| 2025-05-04 | [422. Valid Word Square](https://leetcode.com/problems/valid-word-square/) | Easy | Python | 18 ms<br>`65.88%` | 18.4 MB<br>`100.00%` |
+| 2025-05-04 | [1198. Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | Medium | C++ | 12 ms<br>`33.33%` | 31.3 MB<br>`25.56%` |
+| 2025-05-04 | [3537. Fill a Special Grid](https://leetcode.com/problems/fill-a-special-grid/) | Medium | C++ | 8 ms<br>`75.76%` | 69.1 MB<br>`22.22%` |
+| 2025-04-27 | [3529. Count Cells in Overlapping Horizontal and Vertical Substrings](https://leetcode.com/problems/count-cells-in-overlapping-horizontal-and-vertical-substrings/) | Medium | C++ | 2256 ms<br>`5.71%` | 63.1 MB<br>`95.71%` |
+| 2025-04-26 | [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) | Hard | C++ | 17 ms<br>`6.78%` | 20.2 MB<br>`5.08%` |
+| 2025-04-26 | [505. The Maze II](https://leetcode.com/problems/the-maze-ii/) | Medium | C++ | 3 ms<br>`85.22%` | 24.3 MB<br>`63.05%` |
+| 2025-04-26 | [490. The Maze](https://leetcode.com/problems/the-maze/) | Medium | C++ | 0 ms<br>`100.00%` | 22.9 MB<br>`79.49%` |
+| 2025-04-23 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | Hard | C++ | 8 ms<br>`13.11%` | 23.9 MB<br>`13.11%` |
+| 2025-04-20 | [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Medium | C++ | 139 ms<br>`5.55%` | 69.5 MB<br>`5.01%` |
+| 2025-04-20 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | C++ | 1 ms<br>`36.04%` | 17.2 MB<br>`28.15%` |
+| 2025-04-19 | [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | Python | 51 ms<br>`32.70%` | 22.1 MB<br>`99.98%` |
+| 2025-04-07 | [317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/) | Hard | C++ | 470 ms<br>`46.48%` | 197.7 MB<br>`39.44%` |
+| 2024-10-29 | [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | Medium | C++ | 15 ms<br>`58.58%` | 74.4 MB<br>`74.18%` |
+| 2024-10-27 | [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium | C++ | 1039 ms<br>`5.05%` | 26.5 MB<br>`100.00%` |
+| 2024-10-22 | [2664. The Knight’s Tour](https://leetcode.com/problems/the-knights-tour/) | Medium | C++ | 71 ms<br>`85.71%` | 7.7 MB<br>`100.00%` |
+| 2024-04-20 | [1992. Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | Medium | C++ | 510 ms<br>`7.61%` | 106.4 MB<br>`31.99%` |
+| 2024-04-19 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | C++ | 28 ms<br>`47.94%` | 16.8 MB<br>`60.84%` |
+| 2024-04-18 | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | C++ | 78 ms<br>`5.13%` | 104.4 MB<br>`25.27%` |
+| 2024-04-13 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Python | 1343 ms<br>`6.67%` | 24.6 MB<br>`50.77%` |
+| 2024-04-03 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | C++ | 375 ms<br>`39.57%` | 10.8 MB<br>`49.28%` |
+| 2023-04-15 | [2639. Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | Easy | C++ | 28 ms<br>`6.07%` | 10.2 MB<br>`100.00%` |
+| 2023-04-09 | [2614. Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | Easy | C++ | 129 ms<br>`5.06%` | 35.7 MB<br>`99.92%` |
+| 2023-04-07 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | C++ | 152 ms<br>`5.01%` | 10 MB<br>`100.00%` |
+| 2023-04-07 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | C++ | 87 ms<br>`6.98%` | 27.7 MB<br>`99.98%` |
+| 2023-03-31 | [1444. Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | Hard | C++ | 23 ms<br>`8.59%` | 8.2 MB<br>`100.00%` |
+| 2023-03-27 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | C++ | 8 ms<br>`5.26%` | 10.2 MB<br>`100.00%` |
+| 2023-03-21 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | C++ | 0 ms<br>`100.00%` | 7 MB<br>`100.00%` |
+| 2023-03-19 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | C++ | 5 ms<br>`0.15%` | 9.3 MB<br>`100.00%` |
+| 2023-03-19 | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | Easy | C++ | 17 ms<br>`1.93%` | 10.9 MB<br>`100.00%` |
+| 2023-03-19 | [2596. Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/) | Medium | C++ | 15 ms<br>`2.96%` | 28.1 MB<br>`100.00%` |
+| 2023-03-13 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | C++ | 10 ms<br>`1.87%` | 14 MB<br>`100.00%` |
+| 2023-03-13 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | C++ | 69 ms<br>`7.79%` | 31.2 MB<br>`99.98%` |
+| 2023-03-10 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | Easy | C++ | 26 ms<br>`0.43%` | 11.4 MB<br>`100.00%` |
+| 2023-03-10 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | C++ | 12 ms<br>`0.07%` | 8.1 MB<br>`100.00%` |
+| 2023-03-09 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | C++ | 25 ms<br>`5.15%` | 24.1 MB<br>`100.00%` |
+| 2023-03-08 | [2428. Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | Medium | C++ | 42 ms<br>`5.12%` | 13.2 MB<br>`100.00%` |
+| 2023-03-03 | [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | Medium | C++ | 15 ms<br>`21.90%` | 9.6 MB<br>`100.00%` |
+| 2023-02-27 | [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | Medium | C++ | 31 ms<br>`5.31%` | 23.5 MB<br>`15.71%` |
+| 2023-02-23 | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | C++ | 0 ms<br>`100.00%` | 6.5 MB<br>`100.00%` |
+| 2023-02-17 | [883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | Easy | C++ | 10 ms<br>`0.58%` | 9.4 MB<br>`100.00%` |
+| 2023-02-17 | [2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | Medium | C++ | 80 ms<br>`5.17%` | 55.9 MB<br>`5.27%` |
+| 2023-02-16 | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | Medium | C++ | 29 ms<br>`3.20%` | 13.3 MB<br>`100.00%` |

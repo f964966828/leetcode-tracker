@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**6** problems · updated `2026-09-04 19:10 UTC`
+**6** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,11 +64,11 @@
 
 Latest **6** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2025-05-08 | 3342 | [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | Medium | C++ | 777 ms<br>`30.12%` | 116.8 MB<br>`49.84%` |
-| 2025-05-07 | 3341 | [Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | Medium | C++ | 26 ms<br>`37.76%` | 31.1 MB<br>`25.92%` |
-| 2025-04-26 | 499 | [The Maze III](https://leetcode.com/problems/the-maze-iii/) | Hard | C++ | 17 ms<br>`6.78%` | 20.2 MB<br>`5.08%` |
-| 2025-04-26 | 505 | [The Maze II](https://leetcode.com/problems/the-maze-ii/) | Medium | C++ | 3 ms<br>`85.22%` | 24.3 MB<br>`63.05%` |
-| 2025-04-20 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | C++ | 2 ms<br>`22.06%` | 12 MB<br>`60.01%` |
-| 2023-04-15 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Hard | C++ | 220 ms<br>`11.24%` | 78.1 MB<br>`73.94%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2025-05-08 | [3342. Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | Medium | C++ | 777 ms<br>`30.12%` | 116.8 MB<br>`49.84%` |
+| 2025-05-07 | [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | Medium | C++ | 26 ms<br>`37.76%` | 31.1 MB<br>`25.92%` |
+| 2025-04-26 | [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) | Hard | C++ | 17 ms<br>`6.78%` | 20.2 MB<br>`5.08%` |
+| 2025-04-26 | [505. The Maze II](https://leetcode.com/problems/the-maze-ii/) | Medium | C++ | 3 ms<br>`85.22%` | 24.3 MB<br>`63.05%` |
+| 2025-04-20 | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | C++ | 2 ms<br>`22.06%` | 12 MB<br>`60.01%` |
+| 2023-04-15 | [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Hard | C++ | 220 ms<br>`11.24%` | 78.1 MB<br>`73.94%` |

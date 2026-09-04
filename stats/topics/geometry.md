@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**5** problems · updated `2026-09-04 19:10 UTC`
+**5** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,10 +64,10 @@
 
 Latest **5** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2025-09-27 | 812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | Easy | C++ | 0 ms<br>`100.00%` | 10.6 MB<br>`7.20%` |
-| 2025-09-03 | 3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | Hard | C++ | 221 ms<br>`15.38%` | 47.6 MB<br>`5.77%` |
-| 2025-09-02 | 3025 | [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | Medium | C++ | 19 ms<br>`25.00%` | 32.7 MB<br>`28.24%` |
-| 2023-03-10 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Easy | C++ | 17 ms<br>`1.31%` | 11.2 MB<br>`100.00%` |
-| 2023-02-17 | 883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | Easy | C++ | 10 ms<br>`0.58%` | 9.4 MB<br>`100.00%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2025-09-27 | [812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | Easy | C++ | 0 ms<br>`100.00%` | 10.6 MB<br>`7.20%` |
+| 2025-09-03 | [3027. Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | Hard | C++ | 221 ms<br>`15.38%` | 47.6 MB<br>`5.77%` |
+| 2025-09-02 | [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | Medium | C++ | 19 ms<br>`25.00%` | 32.7 MB<br>`28.24%` |
+| 2023-03-10 | [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Easy | C++ | 17 ms<br>`1.31%` | 11.2 MB<br>`100.00%` |
+| 2023-02-17 | [883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | Easy | C++ | 10 ms<br>`0.58%` | 9.4 MB<br>`100.00%` |

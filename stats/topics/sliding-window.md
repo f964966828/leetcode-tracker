@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**30** problems · updated `2026-09-04 19:10 UTC`
+**30** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,35 +64,35 @@
 
 Latest **30** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2026-02-06 | 3634 | [Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/) | Medium | C++ | 31 ms<br>`62.90%` | 105 MB<br>`86.33%` |
-| 2025-09-27 | 3694 | [Distinct Points Reachable After Substring Removal](https://leetcode.com/problems/distinct-points-reachable-after-substring-removal/) | Medium | C++ | 130 ms<br>`52.48%` | 53.5 MB<br>`42.98%` |
-| 2025-05-04 | 1100 | [Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) | Medium | C++ | 0 ms<br>`100.00%` | 9 MB<br>`73.74%` |
-| 2025-05-04 | 487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | Medium | C++ | 0 ms<br>`100.00%` | 39.8 MB<br>`87.01%` |
-| 2025-05-04 | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | Medium | C++ | 0 ms<br>`100.00%` | 9.7 MB<br>`78.62%` |
-| 2025-05-04 | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | Medium | C++ | 3 ms<br>`93.66%` | 12.1 MB<br>`88.81%` |
-| 2025-04-29 | 2962 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | Medium | C++ | 0 ms<br>`100.00%` | 121.5 MB<br>`100.00%` |
-| 2025-04-28 | 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Hard | C++ | 0 ms<br>`100.00%` | 99.1 MB<br>`45.78%` |
-| 2025-04-26 | 2444 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Hard | C++ | 0 ms<br>`100.00%` | 94 MB<br>`36.87%` |
-| 2025-04-24 | 2799 | [Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) | Medium | C++ | 19 ms<br>`70.43%` | 40.3 MB<br>`95.38%` |
-| 2025-04-19 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Medium | C++ | 4 ms<br>`15.22%` | 62.3 MB<br>`13.21%` |
-| 2025-04-19 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | C++ | 11 ms<br>`6.07%` | 65.6 MB<br>`100.00%` |
-| 2025-04-19 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | C++ | 3 ms<br>`87.94%` | 13 MB<br>`89.77%` |
-| 2025-04-19 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | C++ | 0 ms<br>`100.00%` | 113.7 MB<br>`86.94%` |
-| 2024-11-20 | 2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | Medium | C++ | 21 ms<br>`29.47%` | 11.9 MB<br>`100.00%` |
-| 2024-11-19 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium | C++ | 212 ms<br>`8.96%` | 100.9 MB<br>`13.48%` |
-| 2024-11-18 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | Easy | C++ | 0 ms<br>`100.00%` | 10.7 MB<br>`99.92%` |
-| 2024-11-17 | 862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | Hard | C++ | 50 ms<br>`9.43%` | 112.6 MB<br>`5.17%` |
-| 2024-11-16 | 3254 | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | Medium | C++ | 11 ms<br>`5.84%` | 33.7 MB<br>`100.00%` |
-| 2024-11-10 | 3097 | [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | Medium | C++ | 51 ms<br>`30.41%` | 88.3 MB<br>`100.00%` |
-| 2024-03-30 | 3095 | [Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | Easy | C++ | 4 ms<br>`6.28%` | 26 MB<br>`100.00%` |
-| 2024-03-30 | 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | Easy | C++ | 52 ms<br>`5.17%` | 8 MB<br>`100.00%` |
-| 2024-03-30 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Hard | C++ | 1061 ms<br>`5.69%` | 46.9 MB<br>`95.70%` |
-| 2024-03-28 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | C++ | 361 ms<br>`5.11%` | 148.6 MB<br>`99.25%` |
-| 2024-03-27 | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Medium | C++ | 62 ms<br>`9.64%` | 63.8 MB<br>`5.29%` |
-| 2023-03-25 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | C++ | 64 ms<br>`8.56%` | 37.9 MB<br>`5.00%` |
-| 2023-03-15 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | C++ | 13 ms<br>`20.45%` | 7.1 MB<br>`100.00%` |
-| 2023-03-13 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | C++ | 42 ms<br>`25.26%` | 30 MB<br>`10.40%` |
-| 2023-03-10 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | C++ | 21 ms<br>`51.68%` | 8.6 MB<br>`100.00%` |
-| 2023-02-23 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | C++ | 998 ms<br>`5.17%` | 191.6 MB<br>`5.71%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2026-02-06 | [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/) | Medium | C++ | 31 ms<br>`62.90%` | 105 MB<br>`86.33%` |
+| 2025-09-27 | [3694. Distinct Points Reachable After Substring Removal](https://leetcode.com/problems/distinct-points-reachable-after-substring-removal/) | Medium | C++ | 130 ms<br>`52.48%` | 53.5 MB<br>`42.98%` |
+| 2025-05-04 | [1100. Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) | Medium | C++ | 0 ms<br>`100.00%` | 9 MB<br>`73.74%` |
+| 2025-05-04 | [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | Medium | C++ | 0 ms<br>`100.00%` | 39.8 MB<br>`87.01%` |
+| 2025-05-04 | [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | Medium | C++ | 0 ms<br>`100.00%` | 9.7 MB<br>`78.62%` |
+| 2025-05-04 | [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | Medium | C++ | 3 ms<br>`93.66%` | 12.1 MB<br>`88.81%` |
+| 2025-04-29 | [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | Medium | C++ | 0 ms<br>`100.00%` | 121.5 MB<br>`100.00%` |
+| 2025-04-28 | [2302. Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Hard | C++ | 0 ms<br>`100.00%` | 99.1 MB<br>`45.78%` |
+| 2025-04-26 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Hard | C++ | 0 ms<br>`100.00%` | 94 MB<br>`36.87%` |
+| 2025-04-24 | [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) | Medium | C++ | 19 ms<br>`70.43%` | 40.3 MB<br>`95.38%` |
+| 2025-04-19 | [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Medium | C++ | 4 ms<br>`15.22%` | 62.3 MB<br>`13.21%` |
+| 2025-04-19 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | C++ | 11 ms<br>`6.07%` | 65.6 MB<br>`100.00%` |
+| 2025-04-19 | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | C++ | 3 ms<br>`87.94%` | 13 MB<br>`89.77%` |
+| 2025-04-19 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | C++ | 0 ms<br>`100.00%` | 113.7 MB<br>`86.94%` |
+| 2024-11-20 | [2516. Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | Medium | C++ | 21 ms<br>`29.47%` | 11.9 MB<br>`100.00%` |
+| 2024-11-19 | [2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium | C++ | 212 ms<br>`8.96%` | 100.9 MB<br>`13.48%` |
+| 2024-11-18 | [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | Easy | C++ | 0 ms<br>`100.00%` | 10.7 MB<br>`99.92%` |
+| 2024-11-17 | [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | Hard | C++ | 50 ms<br>`9.43%` | 112.6 MB<br>`5.17%` |
+| 2024-11-16 | [3254. Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | Medium | C++ | 11 ms<br>`5.84%` | 33.7 MB<br>`100.00%` |
+| 2024-11-10 | [3097. Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | Medium | C++ | 51 ms<br>`30.41%` | 88.3 MB<br>`100.00%` |
+| 2024-03-30 | [3095. Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | Easy | C++ | 4 ms<br>`6.28%` | 26 MB<br>`100.00%` |
+| 2024-03-30 | [3090. Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | Easy | C++ | 52 ms<br>`5.17%` | 8 MB<br>`100.00%` |
+| 2024-03-30 | [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Hard | C++ | 1061 ms<br>`5.69%` | 46.9 MB<br>`95.70%` |
+| 2024-03-28 | [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | C++ | 361 ms<br>`5.11%` | 148.6 MB<br>`99.25%` |
+| 2024-03-27 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Medium | C++ | 62 ms<br>`9.64%` | 63.8 MB<br>`5.29%` |
+| 2023-03-25 | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | C++ | 64 ms<br>`8.56%` | 37.9 MB<br>`5.00%` |
+| 2023-03-15 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | C++ | 13 ms<br>`20.45%` | 7.1 MB<br>`100.00%` |
+| 2023-03-13 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | C++ | 42 ms<br>`25.26%` | 30 MB<br>`10.40%` |
+| 2023-03-10 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | C++ | 21 ms<br>`51.68%` | 8.6 MB<br>`100.00%` |
+| 2023-02-23 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | C++ | 998 ms<br>`5.17%` | 191.6 MB<br>`5.71%` |

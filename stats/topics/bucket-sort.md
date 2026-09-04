@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**3** problems · updated `2026-09-04 19:10 UTC`
+**3** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,8 +64,8 @@
 
 Latest **3** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2023-03-17 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | C++ | 13 ms<br>`5.43%` | 12.6 MB<br>`100.00%` |
-| 2023-03-01 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | C++ | 123 ms<br>`68.89%` | 61.3 MB<br>`100.00%` |
-| 2023-02-17 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | C++ | 23 ms<br>`8.42%` | 14.2 MB<br>`100.00%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2023-03-17 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | C++ | 13 ms<br>`5.43%` | 12.6 MB<br>`100.00%` |
+| 2023-03-01 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | C++ | 123 ms<br>`68.89%` | 61.3 MB<br>`100.00%` |
+| 2023-02-17 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | C++ | 23 ms<br>`8.42%` | 14.2 MB<br>`100.00%` |

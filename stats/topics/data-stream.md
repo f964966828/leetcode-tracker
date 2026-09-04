@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**6** problems · updated `2026-09-04 19:10 UTC`
+**6** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,11 +64,11 @@
 
 Latest **6** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2025-05-12 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | Easy | C++ | 3 ms<br>`46.36%` | 20.8 MB<br>`80.04%` |
-| 2025-05-12 | 1429 | [First Unique Number](https://leetcode.com/problems/first-unique-number/) | Medium | C++ | 195 ms<br>`84.46%` | 128.1 MB<br>`99.72%` |
-| 2025-05-12 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | Easy | C++ | 4 ms<br>`86.98%` | 39.2 MB<br>`89.46%` |
-| 2025-04-24 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | C++ | 43 ms<br>`21.61%` | 95.1 MB<br>`28.25%` |
-| 2025-04-19 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | C++ | 20 ms<br>`40.20%` | 64.1 MB<br>`69.17%` |
-| 2023-03-18 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | Medium | C++ | 140 ms<br>`5.05%` | 57.6 MB<br>`100.00%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2025-05-12 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | Easy | C++ | 3 ms<br>`46.36%` | 20.8 MB<br>`80.04%` |
+| 2025-05-12 | [1429. First Unique Number](https://leetcode.com/problems/first-unique-number/) | Medium | C++ | 195 ms<br>`84.46%` | 128.1 MB<br>`99.72%` |
+| 2025-05-12 | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | Easy | C++ | 4 ms<br>`86.98%` | 39.2 MB<br>`89.46%` |
+| 2025-04-24 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | C++ | 43 ms<br>`21.61%` | 95.1 MB<br>`28.25%` |
+| 2025-04-19 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | C++ | 20 ms<br>`40.20%` | 64.1 MB<br>`69.17%` |
+| 2023-03-18 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) | Medium | C++ | 140 ms<br>`5.05%` | 57.6 MB<br>`100.00%` |

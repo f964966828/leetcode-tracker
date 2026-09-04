@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**3** problems · updated `2026-09-04 19:10 UTC`
+**3** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,8 +64,8 @@
 
 Latest **3** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2025-04-07 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | C++ | 71 ms<br>`85.52%` | 15.9 MB<br>`74.44%` |
-| 2023-03-05 | 2585 | [Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/) | Hard | C++ | 280 ms<br>`5.27%` | 17 MB<br>`63.85%` |
-| 2023-02-17 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | C++ | 27 ms<br>`63.28%` | 10.1 MB<br>`100.00%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2025-04-07 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | C++ | 71 ms<br>`85.52%` | 15.9 MB<br>`74.44%` |
+| 2023-03-05 | [2585. Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/) | Hard | C++ | 280 ms<br>`5.27%` | 17 MB<br>`63.85%` |
+| 2023-02-17 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | Medium | C++ | 27 ms<br>`63.28%` | 10.1 MB<br>`100.00%` |

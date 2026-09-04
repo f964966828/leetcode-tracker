@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**2** problems · updated `2026-09-04 19:10 UTC`
+**2** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,7 +64,7 @@
 
 Latest **2** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2024-03-24 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | C++ | 216 ms<br>`5.28%` | 88.1 MB<br>`9.66%` |
-| 2024-03-23 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | C++ | 268 ms<br>`5.32%` | 147.1 MB<br>`17.99%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2024-03-24 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | C++ | 216 ms<br>`5.28%` | 88.1 MB<br>`9.66%` |
+| 2024-03-23 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | C++ | 268 ms<br>`5.32%` | 147.1 MB<br>`17.99%` |

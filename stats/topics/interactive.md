@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**2** problems · updated `2026-09-04 19:10 UTC`
+**2** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,7 +64,7 @@
 
 Latest **2** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2025-04-23 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | C++ | 2 ms<br>`56.17%` | 8.1 MB<br>`6.63%` |
-| 2023-03-13 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | C++ | 0 ms<br>`100.00%` | 6 MB<br>`100.00%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2025-04-23 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | C++ | 2 ms<br>`56.17%` | 8.1 MB<br>`6.63%` |
+| 2023-03-13 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | C++ | 0 ms<br>`100.00%` | 6 MB<br>`100.00%` |

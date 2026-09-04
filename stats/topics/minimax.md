@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**3** problems · updated `2026-09-04 19:10 UTC`
+**3** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,8 +64,8 @@
 
 Latest **3** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2026-08-17 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Medium | C++ | 12 ms<br>`17.70%` | 19.8 MB<br>`7.31%` |
-| 2025-10-06 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | C++ | 34 ms<br>`7.85%` | 17.1 MB<br>`10.48%` |
-| 2023-03-05 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Easy | C++ | 0 ms<br>`100.00%` | 6 MB<br>`100.00%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2026-08-17 | [877. Stone Game](https://leetcode.com/problems/stone-game/) | Medium | C++ | 12 ms<br>`17.70%` | 19.8 MB<br>`7.31%` |
+| 2025-10-06 | [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | C++ | 34 ms<br>`7.85%` | 17.1 MB<br>`10.48%` |
+| 2023-03-05 | [292. Nim Game](https://leetcode.com/problems/nim-game/) | Easy | C++ | 0 ms<br>`100.00%` | 6 MB<br>`100.00%` |

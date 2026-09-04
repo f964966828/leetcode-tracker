@@ -269,8 +269,8 @@ def build_page(
             "",
             f"Latest **{len(recent)}** accepted submissions.",
             "",
-            "| Date | # | Title | Difficulty | Lang | Runtime | Memory |",
-            "| :--- | ---: | :--- | :---: | :---: | ---: | ---: |",
+            "| Date | Title | Difficulty | Lang | Runtime | Memory |",
+            "| :--- | :--- | :---: | :---: | ---: | ---: |",
         ]
         lines.extend(activity_row(problem) for problem in recent)
     lines.append("")
@@ -374,19 +374,20 @@ def format_date(raw: str | None) -> str:
 def activity_row(problem: dict) -> str:
     number = problem.get("id") or problem["_id"]
     title = md_escape(problem.get("title") or problem["_folder"])
+    label = f"{number}. {title}"
     slug = problem.get("titleSlug")
     folder = problem["_folder"]
     if slug:
-        title_link = f"[{title}](https://leetcode.com/problems/{slug}/)"
+        title_link = f"[{label}](https://leetcode.com/problems/{slug}/)"
     else:
-        title_link = f"[{title}](leetcode/{folder}/)"
+        title_link = f"[{label}](leetcode/{folder}/)"
     difficulty = md_escape(problem.get("difficulty") or "Unknown")
     language = lang_label(problem.get("lang"))
     runtime = format_metric(problem.get("runtime"), problem.get("runtimePercentile"))
     memory = format_metric(problem.get("memory"), problem.get("memoryPercentile"))
     date = format_date(problem.get("submittedAt"))
     return (
-        f"| {date} | {number} | {title_link} | {difficulty} "
+        f"| {date} | {title_link} | {difficulty} "
         f"| {language} | {runtime} | {memory} |"
     )
 

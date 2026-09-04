@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**7** problems · updated `2026-09-04 19:10 UTC`
+**7** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,12 +64,12 @@
 
 Latest **7** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2025-10-12 | 3539 | [Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | Hard | Python | 411 ms<br>`97.50%` | 33.9 MB<br>`70.00%` |
-| 2025-09-30 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | Medium | C++ | 431 ms<br>`5.07%` | 384.5 MB<br>`5.28%` |
-| 2025-06-01 | 2929 | [Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/) | Medium | C++ | 14 ms<br>`49.47%` | 8.9 MB<br>`83.04%` |
-| 2025-05-09 | 3343 | [Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations/) | Hard | C++ | 150 ms<br>`50.60%` | 19.4 MB<br>`65.06%` |
-| 2025-04-23 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | C++ | 0 ms<br>`100.00%` | 9 MB<br>`72.04%` |
-| 2025-04-22 | 2338 | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | Hard | C++ | 10 ms<br>`75.00%` | 10.3 MB<br>`76.47%` |
-| 2023-03-19 | 2597 | [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/) | Medium | C++ | 801 ms<br>`28.10%` | 34 MB<br>`100.00%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2025-10-12 | [3539. Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | Hard | Python | 411 ms<br>`97.50%` | 33.9 MB<br>`70.00%` |
+| 2025-09-30 | [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | Medium | C++ | 431 ms<br>`5.07%` | 384.5 MB<br>`5.28%` |
+| 2025-06-01 | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/) | Medium | C++ | 14 ms<br>`49.47%` | 8.9 MB<br>`83.04%` |
+| 2025-05-09 | [3343. Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations/) | Hard | C++ | 150 ms<br>`50.60%` | 19.4 MB<br>`65.06%` |
+| 2025-04-23 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | C++ | 0 ms<br>`100.00%` | 9 MB<br>`72.04%` |
+| 2025-04-22 | [2338. Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | Hard | C++ | 10 ms<br>`75.00%` | 10.3 MB<br>`76.47%` |
+| 2023-03-19 | [2597. The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/) | Medium | C++ | 801 ms<br>`28.10%` | 34 MB<br>`100.00%` |

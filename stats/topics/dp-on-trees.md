@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**4** problems · updated `2026-09-04 19:10 UTC`
+**4** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,9 +64,9 @@
 
 Latest **4** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2026-08-13 | 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | Medium | C++ | 0 ms<br>`100.00%` | 18.5 MB<br>`75.93%` |
-| 2026-08-13 | 549 | [Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) | Medium | C++ | 0 ms<br>`100.00%` | 22.7 MB<br>`78.57%` |
-| 2026-06-04 | 298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | Medium | C++ | 0 ms<br>`100.00%` | 32.9 MB<br>`74.42%` |
-| 2025-04-19 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium | C++ | 0 ms<br>`100.00%` | 94.3 MB<br>`99.04%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2026-08-13 | [250. Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | Medium | C++ | 0 ms<br>`100.00%` | 18.5 MB<br>`75.93%` |
+| 2026-08-13 | [549. Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) | Medium | C++ | 0 ms<br>`100.00%` | 22.7 MB<br>`78.57%` |
+| 2026-06-04 | [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | Medium | C++ | 0 ms<br>`100.00%` | 32.9 MB<br>`74.42%` |
+| 2025-04-19 | [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium | C++ | 0 ms<br>`100.00%` | 94.3 MB<br>`99.04%` |

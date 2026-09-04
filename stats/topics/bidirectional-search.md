@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**1** problems · updated `2026-09-04 19:10 UTC`
+**1** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,6 +64,6 @@
 
 Latest **1** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2024-04-22 | 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium | C++ | 837 ms<br>`5.02%` | 38.2 MB<br>`86.83%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2024-04-22 | [752. Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium | C++ | 837 ms<br>`5.02%` | 38.2 MB<br>`86.83%` |

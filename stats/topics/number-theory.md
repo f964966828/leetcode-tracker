@@ -2,7 +2,7 @@
 
 [All stats](../../README.md)
 
-**10** problems · updated `2026-09-04 19:10 UTC`
+**10** problems · updated `2026-09-04 19:12 UTC`
 
 ## Stats
 
@@ -64,15 +64,15 @@
 
 Latest **10** accepted submissions.
 
-| Date | # | Title | Difficulty | Lang | Runtime | Memory |
-| :--- | ---: | :--- | :---: | :---: | ---: | ---: |
-| 2025-10-12 | 3715 | [Sum of Perfect Square Ancestors](https://leetcode.com/problems/sum-of-perfect-square-ancestors/) | Hard | C++ | 1461 ms<br>`21.09%` | 383.2 MB<br>`25.85%` |
-| 2025-09-30 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | Medium | C++ | 431 ms<br>`5.07%` | 384.5 MB<br>`5.28%` |
-| 2025-09-16 | 2197 | [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) | Hard | C++ | 2138 ms<br>`5.26%` | 306.9 MB<br>`5.26%` |
-| 2025-05-24 | 3556 | [Sum of Largest Prime Substrings](https://leetcode.com/problems/sum-of-largest-prime-substrings/) | Medium | C++ | 15 ms<br>`51.49%` | 10.8 MB<br>`60.40%` |
-| 2025-04-22 | 2338 | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | Hard | C++ | 10 ms<br>`75.00%` | 10.3 MB<br>`76.47%` |
-| 2024-11-11 | 2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | Medium | C++ | 25 ms<br>`34.60%` | 28.7 MB<br>`41.64%` |
-| 2024-03-23 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | C++ | 658 ms<br>`12.86%` | 11.5 MB<br>`99.23%` |
-| 2023-04-09 | 2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | Easy | C++ | 129 ms<br>`5.06%` | 35.7 MB<br>`99.92%` |
-| 2023-04-01 | 2607 | [Make K-Subarray Sums Equal](https://leetcode.com/problems/make-k-subarray-sums-equal/) | Medium | C++ | 203 ms<br>`5.81%` | 112.6 MB<br>`90.70%` |
-| 2023-03-05 | 2584 | [Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/) | Hard | C++ | 512 ms<br>`26.86%` | 21.6 MB<br>`100.00%` |
+| Date | Title | Difficulty | Lang | Runtime | Memory |
+| :--- | :--- | :---: | :---: | ---: | ---: |
+| 2025-10-12 | [3715. Sum of Perfect Square Ancestors](https://leetcode.com/problems/sum-of-perfect-square-ancestors/) | Hard | C++ | 1461 ms<br>`21.09%` | 383.2 MB<br>`25.85%` |
+| 2025-09-30 | [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | Medium | C++ | 431 ms<br>`5.07%` | 384.5 MB<br>`5.28%` |
+| 2025-09-16 | [2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) | Hard | C++ | 2138 ms<br>`5.26%` | 306.9 MB<br>`5.26%` |
+| 2025-05-24 | [3556. Sum of Largest Prime Substrings](https://leetcode.com/problems/sum-of-largest-prime-substrings/) | Medium | C++ | 15 ms<br>`51.49%` | 10.8 MB<br>`60.40%` |
+| 2025-04-22 | [2338. Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | Hard | C++ | 10 ms<br>`75.00%` | 10.3 MB<br>`76.47%` |
+| 2024-11-11 | [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | Medium | C++ | 25 ms<br>`34.60%` | 28.7 MB<br>`41.64%` |
+| 2024-03-23 | [204. Count Primes](https://leetcode.com/problems/count-primes/) | Medium | C++ | 658 ms<br>`12.86%` | 11.5 MB<br>`99.23%` |
+| 2023-04-09 | [2614. Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | Easy | C++ | 129 ms<br>`5.06%` | 35.7 MB<br>`99.92%` |
+| 2023-04-01 | [2607. Make K-Subarray Sums Equal](https://leetcode.com/problems/make-k-subarray-sums-equal/) | Medium | C++ | 203 ms<br>`5.81%` | 112.6 MB<br>`90.70%` |
+| 2023-03-05 | [2584. Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/) | Hard | C++ | 512 ms<br>`26.86%` | 21.6 MB<br>`100.00%` |
