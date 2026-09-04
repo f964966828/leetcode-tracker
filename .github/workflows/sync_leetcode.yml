@@ -12,10 +12,12 @@ jobs:
 
     steps:
       - name: Sync
-        uses: joshcai/leetcode-sync@v1.7
+        uses: f964966828/leetcode-sync@master
         with:
           github-token: ${{ github.token }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           verbose: true
-          commit-header: "[LeetCode Sync]"
+          destination-folder: leetcode
+          filter-duplicate-secs: 86400
+          commit-header: "[LeetCode]"
