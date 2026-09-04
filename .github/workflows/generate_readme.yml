@@ -1,0 +1,35 @@
+name: Generate README
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 0 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Generate README
+        run: python3 scripts/generate_readme.py
+
+      - name: Commit generated stats
+        run: |
+          git config user.name "f964966828"
+          git config user.email "f964966828@gmail.com"
+          git add README.md assets stats
+          if git diff --staged --quiet; then
+            echo "No README changes"
+            exit 0
+          fi
+          git commit -m "Update generated README stats"
+          git push
