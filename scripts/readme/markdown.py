@@ -17,6 +17,7 @@ from .config import (
     RECENT_LIMIT,
     ROOT,
     RUNTIME_DIR,
+    SITE_TITLE,
     STATS_CARD_URL,
     TOPICS_DIR,
     TOPICS_LINK_COLUMNS,
@@ -58,7 +59,7 @@ def write_readme(problems: list[dict]) -> None:
 
     write_page(
         problems,
-        title="LeetCode Archive",
+        title=SITE_TITLE,
         dest=README_PATH,
         assets_dir=ASSETS_DIR,
         asset_rel="assets",
