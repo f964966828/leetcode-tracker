@@ -1,0 +1,18 @@
+{
+  "id": "3904",
+  "title": "Smallest Stable Index II",
+  "titleSlug": "smallest-stable-index-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "20 ms",
+  "memory": "210.8 MB",
+  "runtimePercentile": "17.22%",
+  "memoryPercentile": "46.65%",
+  "submittedAt": "2026-09-05T10:00:23.000Z",
+  "submissionId": "2131575011"
+}
