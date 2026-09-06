@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "title": "Count Good Cyclic Rotations",
+  "titleSlug": "count-good-cyclic-rotations",
+  "difficulty": null,
+  "topics": [],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "112.3 MB",
+  "runtimePercentile": "55.56%",
+  "memoryPercentile": "11.11%",
+  "submittedAt": "2026-09-06T03:00:15.000Z",
+  "submissionId": "2132306864"
+}
