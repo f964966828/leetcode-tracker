@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "title": "Count Rotations With Exactly K Equal Adjacent Pairs",
+  "titleSlug": "count-rotations-with-exactly-k-equal-adjacent-pairs",
+  "difficulty": null,
+  "topics": [],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "71 ms",
+  "memory": "19.2 MB",
+  "runtimePercentile": "0.00%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2026-09-06T02:33:54.000Z",
+  "submissionId": "2132258170"
+}
