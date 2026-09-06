@@ -1,0 +1,15 @@
+{
+  "id": "4046",
+  "title": "Minimum Cost Path With At Most K Turns",
+  "titleSlug": "minimum-cost-path-with-at-most-k-turns",
+  "difficulty": "Hard",
+  "topics": [],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "648 ms",
+  "memory": "50.7 MB",
+  "runtimePercentile": "87.50%",
+  "memoryPercentile": "100.00%",
+  "submittedAt": "2026-09-06T04:40:02.000Z",
+  "submissionId": "2132436084"
+}
