@@ -1,0 +1,18 @@
+{
+  "id": "940",
+  "title": "Distinct Subsequences II",
+  "titleSlug": "distinct-subsequences-ii",
+  "difficulty": "Hard",
+  "topics": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "4 ms",
+  "memory": "9 MB",
+  "runtimePercentile": "23.13%",
+  "memoryPercentile": "62.00%",
+  "submittedAt": "2026-09-07T00:37:49.000Z",
+  "submissionId": "2133356617"
+}
