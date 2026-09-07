@@ -1,0 +1,20 @@
+{
+  "id": "2355",
+  "title": "Maximum Number of Books You Can Take",
+  "titleSlug": "maximum-number-of-books-you-can-take",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "18 ms",
+  "memory": "74.6 MB",
+  "runtimePercentile": "45.15%",
+  "memoryPercentile": "54.85%",
+  "submittedAt": "2026-09-07T15:43:53.000Z",
+  "submissionId": "2134072775"
+}
