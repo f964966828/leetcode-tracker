@@ -1,0 +1,15 @@
+{
+  "id": "4045",
+  "title": "Count Robot Groups",
+  "titleSlug": "count-robot-groups",
+  "difficulty": "Medium",
+  "topics": [],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "207.8 MB",
+  "runtimePercentile": "54.29%",
+  "memoryPercentile": "52.25%",
+  "submittedAt": "2026-09-08T01:51:14.000Z",
+  "submissionId": "2134511030"
+}
