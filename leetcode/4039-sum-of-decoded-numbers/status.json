@@ -1,0 +1,15 @@
+{
+  "id": "4039",
+  "title": "Sum of Decoded Numbers",
+  "titleSlug": "sum-of-decoded-numbers",
+  "difficulty": "Medium",
+  "topics": [],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "93 ms",
+  "memory": "89.7 MB",
+  "runtimePercentile": "69.03%",
+  "memoryPercentile": "69.27%",
+  "submittedAt": "2026-09-08T18:24:41.000Z",
+  "submissionId": "2135520716"
+}
