@@ -1,0 +1,15 @@
+{
+  "id": "4038",
+  "title": "Count Integers Appearing in a Single Block",
+  "titleSlug": "count-integers-appearing-in-a-single-block",
+  "difficulty": "Easy",
+  "topics": [],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "0 ms",
+  "memory": "32.7 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "5.14%",
+  "submittedAt": "2026-09-08T18:08:48.000Z",
+  "submissionId": "2135499882"
+}
