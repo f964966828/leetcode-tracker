@@ -1,0 +1,20 @@
+{
+  "id": "1086",
+  "title": "High Five",
+  "titleSlug": "high-five",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "3 ms",
+  "memory": "17.3 MB",
+  "runtimePercentile": "33.94%",
+  "memoryPercentile": "5.50%",
+  "submittedAt": "2026-09-08T00:54:01.000Z",
+  "submissionId": "2134487964"
+}
