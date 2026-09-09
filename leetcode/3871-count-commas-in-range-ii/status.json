@@ -1,0 +1,17 @@
+{
+  "id": "3871",
+  "title": "Count Commas in Range II",
+  "titleSlug": "count-commas-in-range-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Math"
+  ],
+  "status": "Accepted",
+  "lang": "python3",
+  "runtime": "0 ms",
+  "memory": "19.2 MB",
+  "runtimePercentile": "100.00%",
+  "memoryPercentile": "87.75%",
+  "submittedAt": "2026-09-09T01:30:25.000Z",
+  "submissionId": "2135724724"
+}
