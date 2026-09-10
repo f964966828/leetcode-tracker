@@ -1,0 +1,19 @@
+{
+  "id": "2265",
+  "title": "Count Nodes Equal to Average of Subtree",
+  "titleSlug": "count-nodes-equal-to-average-of-subtree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "7 ms",
+  "memory": "15.8 MB",
+  "runtimePercentile": "54.96%",
+  "memoryPercentile": "64.72%",
+  "submittedAt": "2026-09-10T01:56:28.000Z",
+  "submissionId": "2136947184"
+}
