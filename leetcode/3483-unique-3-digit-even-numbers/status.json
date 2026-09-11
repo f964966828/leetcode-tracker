@@ -1,0 +1,20 @@
+{
+  "id": "3483",
+  "title": "Unique 3-Digit Even Numbers",
+  "titleSlug": "unique-3-digit-even-numbers",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Recursion",
+    "Enumeration"
+  ],
+  "status": "Accepted",
+  "lang": "cpp",
+  "runtime": "79 ms",
+  "memory": "61.5 MB",
+  "runtimePercentile": "9.95%",
+  "memoryPercentile": "10.58%",
+  "submittedAt": "2026-09-11T00:27:51.000Z",
+  "submissionId": "2138020292"
+}
